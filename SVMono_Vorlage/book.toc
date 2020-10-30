@@ -1,0 +1,10 @@
+\contentsline {part}{Teil\ I\hspace {\betweenumberspace }Part Title}{1}
+\contentsline {chapter}{\numberline {1}Chapter Heading}{3}
+\contentsline {section}{\numberline {1.1}Section Heading}{3}
+\contentsline {subsection}{\numberline {1.1.1}Subsection Heading}{3}
+\contentsline {subsubsection}{Subsubsection Heading}{3}
+\contentsline {paragraph}{Paragraph Heading}{3}
+\contentsline {subparagraph}{Subparagraph Heading.}{3}
+\contentsline {section}{Problems}{4}
+\contentsline {chapter}{Solutions}{5}
+\contentsline {chapter}{Literaturverzeichnis}{7}
