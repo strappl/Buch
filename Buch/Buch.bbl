@@ -1,0 +1,742 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{Aiginger2016}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AK}{%
+         family={Aiginger},
+         familyi={A\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AK1}
+    \strng{fullhash}{AK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Jenseits von Keynesianismus und Neoliberalismus}
+    \field{journaltitle}{WU Working Paper}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Barro1976}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BRJ}{%
+         family={Barro},
+         familyi={B\bibinitperiod},
+         given={Robert\bibnamedelima J},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRJ1}
+    \strng{fullhash}{BRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 32}
+    \field{title}{Rational Expectations and the Role of Monetary Policy}
+    \field{volume}{2}
+    \field{journaltitle}{Journal of Monetary economics}
+    \field{year}{1976}
+  \endentry
+
+  \entry{BBK2016}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BD}{%
+         family={Bundesbank},
+         familyi={B\bibinitperiod},
+         given={Deutsche},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=BD}{%
+         family={Bundesbank},
+         familyi={B\bibinitperiod},
+         given={Deutsche},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BD1}
+    \strng{fullhash}{BD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Notenbank für Deutschland}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Epstein1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EG}{%
+         family={Epstein},
+         familyi={E\bibinitperiod},
+         given={Gene},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EG1}
+    \strng{fullhash}{EG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{Mr. Market [Interview with Milton Friedman]}
+    \field{journaltitle}{Hoover Digest}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Fischer1977}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FS}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Stanley},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The University of Chicago Press}%
+    }
+    \strng{namehash}{FS1}
+    \strng{fullhash}{FS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{1}
+    \field{pages}{191\bibrangedash 205}
+    \field{title}{Long-term Contracts, Rational Expectations, and the Optimal
+  Money Supply Rule}
+    \field{volume}{85}
+    \field{journaltitle}{Journal of political economy}
+    \field{year}{1977}
+  \endentry
+
+  \entry{Friedman1962}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FAJMS}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         suffix={Milton;\bibnamedelima Schwartz},
+         suffixi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Anna\bibnamedelima Jacobson},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FMSAJ1}
+    \strng{fullhash}{FMSAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1963}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{A Monetary History of the United States, 1867–1960}
+    \field{year}{1963}
+  \endentry
+
+  \entry{Hegner2000}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HJ}{%
+         family={Hegner},
+         familyi={H\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ1}
+    \strng{fullhash}{HJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Alexander Rüstow -- Ordnungspolitische Konzeption und
+  Einfluss auf das wirtschaftspolitische Leitbild der Nachkriegszeit in der
+  Bundesrepublik Deutschland}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Horn2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HK}{%
+         family={Horn},
+         familyi={H\bibinitperiod},
+         given={Karen},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HK1}
+    \strng{fullhash}{HK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Der Neoliberalismus wird achtzig}
+    \field{journaltitle}{Frankfurter Allgemeine Zeitung}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Kirzner1967}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KI}{%
+         family={Kirzner},
+         familyi={K\bibinitperiod},
+         given={Israel},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KI1}
+    \strng{fullhash}{KI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1967}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Divergent Approaches in Libertarian Economic Thougth}
+    \field{journaltitle}{Intercollegiate Review}
+    \field{year}{1967}
+  \endentry
+
+  \entry{Klamer1984}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KA}{%
+         family={Klamer},
+         familyi={K\bibinitperiod},
+         given={Arjo},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=AR}{%
+         family={Allanheld},
+         familyi={A\bibinitperiod},
+         given={Rowman\bibnamedelima \&},
+         giveni={R\bibinitperiod\bibinitdelim \bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KA1}
+    \strng{fullhash}{KA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Conversations with Economists}
+    \field{year}{1984}
+  \endentry
+
+  \entry{Kolev2017}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KS}{%
+         family={Kolev},
+         familyi={K\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=DO}{%
+         family={DeGruyter},
+         familyi={D\bibinitperiod},
+         given={Oldenburg},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KS1}
+    \strng{fullhash}{KS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Neoliberale Staatsverständnisse im Vergleich}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Kydland1977}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KECFEP}{%
+         family={Kydland},
+         familyi={K\bibinitperiod},
+         suffix={Finn E;\bibnamedelima Prescott},
+         suffixi={F\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+         given={Edward\bibnamedelima C},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KFEPEC1}
+    \strng{fullhash}{KFEPEC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{3}
+    \field{pages}{473\bibrangedash 491}
+    \field{title}{Rules rather than Discretion: The Inconsistency of Optimal
+  Plans}
+    \field{volume}{85}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1977}
+  \endentry
+
+  \entry{Lippmann1937}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LW}{%
+         family={Lippmann},
+         familyi={L\bibinitperiod},
+         given={Walter},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LW1}
+    \strng{fullhash}{LW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1937}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{The Good Society}
+    \field{year}{1937}
+  \endentry
+
+  \entry{Lucas1972}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LRE}{%
+         family={Lucas},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima E},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRE1}
+    \strng{fullhash}{LRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1972}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{2}
+    \field{pages}{103\bibrangedash 124}
+    \field{title}{Expectations and the Neutrality of Money}
+    \field{volume}{4}
+    \field{journaltitle}{Journal of Economic Theory}
+    \field{year}{1972}
+  \endentry
+
+  \entry{Lucas1976}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=LRE}{%
+         family={Lucas},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima E},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRE1}
+    \strng{fullhash}{LRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{Carnegie-Rochester conference series on public policy}
+    \field{number}{1}
+    \field{pages}{19\bibrangedash 46}
+    \field{title}{Econometric Policy Evaluation: A Critique}
+    \field{volume}{1}
+    \field{year}{1976}
+  \endentry
+
+  \entry{Lucas1987}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LRE}{%
+         family={Lucas},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima E},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=BNYB}{%
+         family={Blackwell},
+         familyi={B\bibinitperiod},
+         given={New York:\bibnamedelima Basil},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRE1}
+    \strng{fullhash}{LRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Models of Business Cycles}
+    \field{year}{1987}
+  \endentry
+
+  \entry{Lucas2003}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LRE}{%
+         family={Lucas},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima E},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRE1}
+    \strng{fullhash}{LRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Macroeconomic Priorities}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Lucas1979}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LTJRES}{%
+         family={Lucas},
+         familyi={L\bibinitperiod},
+         suffix={Robert E;\bibnamedelima Sargent},
+         suffixi={R\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+         given={Thomas\bibnamedelima J},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRESTJ1}
+    \strng{fullhash}{LRESTJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{After Keynesian Macroeconomics}
+    \field{journaltitle}{Federal Reserve Bank of Minneapolis Quarterly Review}
+    \field{year}{1979}
+  \endentry
+
+  \entry{Mirowski2009}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MPPD}{%
+         family={Mirowski},
+         familyi={M\bibinitperiod},
+         given={Philip; Plehwe\bibnamedelima Dieter},
+         giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MPPD1}
+    \strng{fullhash}{MPPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The Road from Mont Pelerin}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Muth1961}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MJF}{%
+         family={Muth},
+         familyi={M\bibinitperiod},
+         given={John\bibnamedelima F},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJF1}
+    \strng{fullhash}{MJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1961}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{315\bibrangedash 335}
+    \field{title}{Rational expectations and the theory of price movements}
+    \field{volume}{29}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1961}
+  \endentry
+
+  \entry{Blanchard2003}{book}{}
+    \name{author}{1}{}{%
+      {{hash=OB}{%
+         family={Olivier},
+         familyi={O\bibinitperiod},
+         given={Blanchard},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=SP}{%
+         family={Studium},
+         familyi={S\bibinitperiod},
+         given={Pearson},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OB1}
+    \strng{fullhash}{OB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{Macroeconomics}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Samuelson1998}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SNWDP}{%
+         family={Samuelson},
+         familyi={S\bibinitperiod},
+         suffix={Paul},
+         suffixi={P\bibinitperiod},
+         given={Nordhaus William\bibnamedelima D.},
+         giveni={N\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SPNWD1}
+    \strng{fullhash}{SPNWD1}
+    \field{labelnamesource}{author}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+  \endentry
+
+  \entry{Sargent1975}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SNTJW}{%
+         family={Sargent},
+         familyi={S\bibinitperiod},
+         suffix={Thomas J;\bibnamedelima Wallace},
+         suffixi={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  W\bibinitperiod},
+         given={Neil},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The University of Chicago Press}%
+    }
+    \strng{namehash}{STJWN1}
+    \strng{fullhash}{STJWN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1975}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{241\bibrangedash 254}
+    \field{title}{Rational Expectations, the Optimal Monetary Instrument, and
+  the Optimal Money Supply Rule}
+    \field{volume}{83}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1975}
+  \endentry
+
+  \entry{Skousen2005}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SM}{%
+         family={Skousen},
+         familyi={S\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SM1}
+    \strng{fullhash}{SM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Vienna and Chicago, Friends or Foes? -- A Tale of Two Schools
+  of Free-Market Economics}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Stiglitz1987}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SBJEG}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         suffix={Joseph E;\bibnamedelima Greenwald},
+         suffixi={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+         given={B},
+         giveni={B},
+      }}%
+    }
+    \strng{namehash}{SJEGB1}
+    \strng{fullhash}{SJEGB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Keynesian, New Keynesian and New Classical Economics}
+    \field{journaltitle}{Oxford Economic Papers}
+    \field{year}{1987}
+  \endentry
+
+  \entry{Lucas2013}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=UH}{%
+         family={Uhlig},
+         familyi={U\bibinitperiod},
+         given={Harald},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ZFA}{%
+         family={Zeitung},
+         familyi={Z\bibinitperiod},
+         given={Frankfurter\bibnamedelima Allgemeine},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UH1}
+    \strng{fullhash}{UH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{title}{Interview mit Robert Lucas: Die Leute sind nicht verrückt}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Venugopal2015}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VR}{%
+         family={Venugopal},
+         familyi={V\bibinitperiod},
+         given={Rajesh},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VR1}
+    \strng{fullhash}{VR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Neoliberalism as Concept}
+    \field{journaltitle}{Economy and Society}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Widmann2020}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WA}{%
+         family={Widmann},
+         familyi={W\bibinitperiod},
+         given={Aloysius},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WA1}
+    \strng{fullhash}{WA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Neoliberalismus in Zeiten der Klimakrise: Ob er überlebt?,
+  Ausgabe 29.02.2020}
+    \field{journaltitle}{derStandard}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Woodford1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Revolution and Evolution in Twentieth-Century Macroeconomics}
+    \field{journaltitle}{Frontiers of the Mind in the Twenty-First Century}
+    \field{year}{1999}
+  \endentry
+\enddatalist
+\endinput
