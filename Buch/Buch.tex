@@ -1,0 +1,115 @@
+%%%%%%%%%%%%%%%%%%%% book.tex %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Ausgangsfile für das Buch
+%
+% Hier die Inputs einfügen
+%
+%%%%%%%%%%%%%%%% Springer-Verlag %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% RECOMMENDED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[envcountsame,envcountchap]{svmono}
+
+% choose options for [] as required from the list
+% in the Reference Guide, Sect. 2.2
+
+\usepackage{makeidx}         			% allows index generation
+\usepackage{graphicx}        			% standard LaTeX graphics tool
+                             			% when including figure files
+\usepackage{multicol}        			% used for the two-column index
+\usepackage[bottom]{footmisc}			% places footnotes at page bottom
+\usepackage[ngerman]{babel}				% Neue deutsche Rechtschreibung
+\usepackage[babel, german=guillemets]{csquotes}
+\usepackage[backend = bibtex8, , style = authoryear, citestyle=authoryear]{biblatex} 
+\usepackage[T1]{fontenc}
+
+\addbibresource{Literatur.bib}  
+
+
+
+% etc.
+% see the list of further useful packages
+% in the Reference Guide, Sects. 2.3, 3.1-3.3
+
+\makeindex             % used for the subject index
+                       % please use the style svind.ist with
+                       % your makeindex program
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\author{Stefan Trappl}
+\title{Insert your Booktitle\\
+{\small SPIN Springer's internal project number, if known}}
+\subtitle{-- Monograph --}
+\maketitle
+
+\frontmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\include{dedic}
+\include{pref}
+
+\tableofcontents
+
+
+\mainmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\include{Teil_I}		% Klassik (inkl. Marx)
+\include{Kapitel_1_1}
+\include{Kapitel_1_2}
+\include{Kapitel_1_3}
+
+
+\include{Teil_II}		% Neoklassik bis Pigou und Irving (inkl. Methodenstreit)
+\include{Kapitel_2_1}
+\include{Kapitel_2_2}
+\include{Kapitel_2_3}
+
+
+\include{Teil_III}		% Keynes - Synthese - Monetarismus - Neue Klassik
+\include{Kapitel_3_1}
+\include{Kapitel_3_2}
+\include{Kapitel_3_4}
+\include{Kapitel_3_6}
+\include{Kapitel_3_7}
+
+
+\include{Teil_IV}		% Neue Klassik - Neu Keynes - Neue Synthese
+\include{Kapitel_3_5}		% Neue Klassische Makroökonomie
+\include{Kapitel_4_1}		% Neu-Keynes
+\include{Kapitel_4_4}		% Neue Neoklassische Synthese
+\include{Kapitel_4_5}		% Das neue Jahrtausend
+
+
+\include{Teil_V}		% Österreichische Schule + Post-Keynesianismus + Institutionenökonomik + Behavioral Economics
+\include{Kapitel_5_1}
+\include{Kapitel_Neoliberal}
+\include{Kapitel_5_2}
+\include{Kapitel_5_3}
+\include{Kapitel_4_6}
+
+
+\include{Teil_VI}		% Zukunft
+\include{Kapitel_6_1}
+\include{Kapitel_6_2}
+\include{Kapitel_6_3}
+\include{Kapitel_6_4}
+\include{Kapitel_6_5}
+\include{Kapitel_6_6}
+\include{Kapitel_6_7}
+
+\backmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\printbibliography  
+\printindex
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
+
+
+
+
+
