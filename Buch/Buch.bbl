@@ -167,6 +167,33 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Hall1976}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HR}{%
+         family={Hall},
+         familyi={H\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PSUW}{%
+         family={Paper},
+         familyi={P\bibinitperiod},
+         given={Stanford University\bibnamedelima Working},
+         giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim
+  W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HR1}
+    \strng{fullhash}{HR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Notes on the Current State of Empirical Macroeconomics}
+  \endentry
+
   \entry{Hegner2000}{book}{}
     \name{author}{1}{}{%
       {{hash=HJ}{%
@@ -319,6 +346,33 @@
     \field{volume}{85}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1977}
+  \endentry
+
+  \entry{Kydland1982}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KECFEP}{%
+         family={Kydland},
+         familyi={K\bibinitperiod},
+         suffix={Finn E;\bibnamedelima Prescott},
+         suffixi={F\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+         given={Edward\bibnamedelima C},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KFEPEC1}
+    \strng{fullhash}{KFEPEC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{1345\bibrangedash 1371}
+    \field{title}{Time to Build and Aggregate Fluctuations}
+    \field{volume}{50}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1982}
   \endentry
 
   \entry{Lippmann1937}{book}{}
