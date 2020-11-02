@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.27)  31 OCT 2020 20:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.27)  2 NOV 2020 14:55
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -985,19 +985,15 @@ No file Buch.ind.
 (Kapitel_5_2.aux) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux)
 (Kapitel_6_1.aux) (Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux)
 (Kapitel_6_5.aux) (Kapitel_6_6.aux) (Kapitel_6_7.aux))
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11239 strings out of 481556
- 202262 string characters out of 2923631
- 760211 words of memory out of 3000000
- 26119 multiletter control sequences out of 15000+200000
+ 11309 strings out of 481556
+ 203046 string characters out of 2923631
+ 761401 words of memory out of 3000000
+ 26189 multiletter control sequences out of 15000+200000
  544236 words of font info for 44 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  42i,6n,50p,2501b,3360s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1018,9 +1014,9 @@ TeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Stefan\AppDat
 a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk> <C:\Users\St
 efan\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb>
-Output written on Buch.pdf (96 pages, 332491 bytes).
+Output written on Buch.pdf (96 pages, 332944 bytes).
 PDF statistics:
- 947 PDF objects out of 1000 (max. 8388607)
+ 946 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
