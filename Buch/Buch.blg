@@ -37,14 +37,19 @@ A level-1 auxiliary file: Kapitel_6_6.aux
 A level-1 auxiliary file: Kapitel_6_7.aux
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
-I was expecting a `,' or a `}'---line 288 of file Literatur.bib
+I was expecting a `,' or a `}'---line 287 of file Literatur.bib
  :  
- :  OPTeditor{https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/die-weltverbesserer/robert-lucas-die-leute-sind-nicht-verrueckt-12564374.html},
+ :  OPTeditor{https://www.nobelprize.org/uploads/2018/06/advanced-economicsciences2004.pdf}, 
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Illegal end of database file---line 342 of file Literatur.bib
+I was expecting a `,' or a `}'---line 296 of file Literatur.bib
+ :  
+ :  OPTeditor{https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/die-weltverbesserer/robert-lucas-die-leute-sind-nicht-verrueckt-12564374.html}, 
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Illegal end of database file---line 349 of file Literatur.bib
  : }
  :  
 I'm skipping whatever remains of this entry
 Biblatex version: 3.13
-(There were 2 error messages)
+(There were 3 error messages)
