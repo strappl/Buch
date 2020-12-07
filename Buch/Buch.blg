@@ -58,6 +58,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10699 items from 5000.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 I was expecting a `,' or a `}'---line 298 of file Literatur.bib
@@ -75,7 +76,7 @@ I was expecting a `,' or a `}'---line 341 of file Literatur.bib
  :  OPTeditor{https://www.minneapolisfed.org/article/2005/interview-with-robert-barro},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
- Illegal end of database file---line 391 of file Literatur.bib
+ Illegal end of database file---line 448 of file Literatur.bib
  : 
  : 
 (Error may have been on previous line)
@@ -85,10 +86,10 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 
 Here's how much of BibTeX's memory you used:
- Cites:                35 out of 750
- Fields:              555 out of 5000
- Hash table:         4285 out of 5000
- Strings:            1423 out of 4000
- Free string pool:  13071 out of 65000
+ Cites:                41 out of 750
+ Fields:              555 out of 10699
+ Hash table:         4270 out of 5000
+ Strings:            1458 out of 4000
+ Free string pool:  13811 out of 65000
  Wizard functions:   6365 out of 9000
 (There were 4 error messages)

@@ -39,6 +39,65 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Barro1983b}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BDBRJG}{%
+         family={Barro},
+         familyi={B\bibinitperiod},
+         suffix={Robert J.;\bibnamedelima Gordon},
+         suffixi={R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+         given={David\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRJGDB1}
+    \strng{fullhash}{BRJGDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{4}
+    \field{pages}{589\bibrangedash 610}
+    \field{title}{A Positive Theory of Monetary Policy in a Natural Rate Model}
+    \field{volume}{91}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1983}
+  \endentry
+
+  \entry{Barro1983a}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BDBRJG}{%
+         family={Barro},
+         familyi={B\bibinitperiod},
+         suffix={Robert J.;\bibnamedelima Gordon},
+         suffixi={R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+         given={David\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRJGDB1}
+    \strng{fullhash}{BRJGDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{101\bibrangedash 121}
+    \field{title}{Rules, Discretion and Reputation in a Model of Monetary
+  Policy}
+    \field{volume}{12}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{1983}
+  \endentry
+
   \entry{Barro1971}{article}{}
     \name{author}{1}{}{%
       {{hash=BHIRJG}{%
@@ -146,6 +205,35 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Barro2005}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Clement},
+         familyi={C\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=FM}{%
+         family={Fed},
+         familyi={F\bibinitperiod},
+         given={Minneapolis},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CD1}
+    \strng{fullhash}{CD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Interview with Robert Barro}
+    \field{year}{2005}
+  \endentry
+
   \entry{Epstein1999}{article}{}
     \name{author}{1}{}{%
       {{hash=EG}{%
@@ -166,6 +254,40 @@
     \field{title}{Mr. Market [Interview with Milton Friedman]}
     \field{journaltitle}{Hoover Digest}
     \field{year}{1999}
+  \endentry
+
+  \entry{Fischer1994}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FMAMZ}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         suffix={Andreas M.;\bibnamedelima Zurlinden},
+         suffixi={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  Z\bibinitperiod},
+         given={Mathias},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=tBB}{%
+         prefix={trimestriel},
+         prefixi={t\bibinitperiod},
+         family={BNS},
+         familyi={B\bibinitperiod},
+         given={Bulletin},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FAMZM1}
+    \strng{fullhash}{FAMZM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Geldpolitik mit formellen Inflationszielen: eine Übersicht}
+    \field{year}{1994}
   \endentry
 
   \entry{Fischer1977}{article}{}
@@ -676,6 +798,62 @@
     \field{sortinithash}{O}
     \field{title}{Macroeconomics}
     \field{year}{2003}
+  \endentry
+
+  \entry{Tabellini1993}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PGTET}{%
+         family={Persson},
+         familyi={P\bibinitperiod},
+         suffix={Torsten E.;\bibnamedelima Tabellini},
+         suffixi={T\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  T\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PTETG1}
+    \strng{fullhash}{PTETG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{pages}{35\bibrangedash 84}
+    \field{title}{Designing Institutions for Monetary Stability}
+    \field{volume}{39}
+    \field{journaltitle}{Carnegie-Rochester Conference Series on Public Policy}
+    \field{year}{1993}
+  \endentry
+
+  \entry{Taylor1977}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PJBEST}{%
+         family={Phelps},
+         familyi={P\bibinitperiod},
+         suffix={Edmund S.;\bibnamedelima Taylor},
+         suffixi={E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  T\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PESTJB1}
+    \strng{fullhash}{PESTJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1}
+    \field{pages}{163\bibrangedash 190}
+    \field{title}{Stabilizing Powers of Monetary Policy under Rational
+  Expectations}
+    \field{volume}{85}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1977}
   \endentry
 
   \entry{Samuelson1998}{book}{}
