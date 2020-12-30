@@ -856,6 +856,37 @@
     \field{year}{1977}
   \endentry
 
+  \entry{Romer2018}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RPM}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={Paul\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPL}{%
+         family={Nobel-Prize-Lecture},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RPM1}
+    \strng{fullhash}{RPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{On the Possibility of Progress}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/2018/romer/lectur
+    \verb e/
+    \endverb
+    \field{year}{2018}
+  \endentry
+
   \entry{Samuelson1998}{book}{}
     \name{author}{1}{}{%
       {{hash=SNWDP}{%
