@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.27)  30 DEC 2020 21:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.27)  2 JAN 2021 22:15
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -491,6 +491,23 @@ File: biblatex.cfg
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
+("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
 \@indexfile=\write4
 \openout4 = `Buch.idx'.
 
@@ -514,20 +531,20 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 (Kapitel_6_5.aux) (Kapitel_6_6.aux) (Kapitel_6_7.aux))
 \openout1 = `Buch.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -544,19 +561,8 @@ LaTeX Font Info:    ... okay on input line 41.
 \everyMPtoPDFconversion=\toks18
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 )
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
@@ -585,20 +591,25 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Buch.bbl' found.
- (Buch.bbl)
-Package biblatex Info: Reference section=0 on input line 41.
-Package biblatex Info: Reference segment=0 on input line 41.
+ (Buch.bbl
 
-[1
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Romer2015':
+(biblatex)                - Invalid format of field 'month'.
 
-{C:/Users/Stefan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+)
+Package biblatex Info: Reference section=0 on input line 42.
+Package biblatex Info: Reference segment=0 on input line 42.
+ [1
+
+{C:/Users/Stefan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2
 
 
 ]
 \openout2 = `dedic.aux'.
 
-
-(dedic.tex) [5
+ (dedic.tex) [5
 
 ]
 \openout2 = `pref.aux'.
@@ -700,7 +711,7 @@ Kapitel 5.
 ]
 Kapitel 6.
 )
-Overfull \hbox (4.62515pt too wide) in paragraph at lines 24--67
+Overfull \hbox (4.62515pt too wide) in paragraph at lines 24--68
 \T1/cmr/m/n/10 Arrow-Debreu: Das Arrow-Debreu Gleich-ge-wichts-mo-dell (auch: A
 rrow-Debreu-
  []
@@ -787,76 +798,76 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 20.
  [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47]
-[48] [49] [50]) [51]
+[48] [49] [50] [51] [52]) [53]
 \openout2 = `Kapitel_4_1.aux'.
 
- (Kapitel_4_1.tex [52
+ (Kapitel_4_1.tex [54
 
 
 
 
 ]
 Kapitel 13.
-) [53] [54]
+) [55] [56]
 \openout2 = `Kapitel_4_4.aux'.
 
  (Kapitel_4_4.tex
 Kapitel 14.
-[55
+[57
 
 
 
 
-]) [56]
+]) [58]
 \openout2 = `Kapitel_4_5.aux'.
 
  (Kapitel_4_5.tex
 Kapitel 15.
-) [57
+) [59
 
 
 
 
-] [58]
+] [60]
 \openout2 = `Teil_V.aux'.
 
- (Teil_V.tex [59
+ (Teil_V.tex [61
 
 
 
 
-] [60])
+] [62])
 \openout2 = `Kapitel_5_1.aux'.
 
  (Kapitel_5_1.tex
 Kapitel 16.
-[61
-
-
-
-
-]) [62]
-\openout2 = `Kapitel_Neoliberal.aux'.
-
- (Kapitel_Neoliberal.tex
-Kapitel 17.
 [63
 
 
 
 
-] [64]
+]) [64]
+\openout2 = `Kapitel_Neoliberal.aux'.
+
+ (Kapitel_Neoliberal.tex
+Kapitel 17.
+[65
+
+
+
+
+] [66]
 Overfull \hbox (57.0568pt too wide) in paragraph at lines 30--31
 \T1/cmr/m/n/10 ten-den-zi-ell ge-nau das Ge-gen-teil ver-wen-det (sie-he: https
 ://www.montpelerin.org/statement-
  []
 
-[65] [66] [67] [68] [69]) [70]
+[67] [68] [69] [70] [71]) [72]
 \openout2 = `Kapitel_5_2.aux'.
 
  (Kapitel_5_2.tex
 Kapitel 18.
-) [71
+) [73
 
 
 
@@ -864,37 +875,37 @@ Kapitel 18.
 ]
 \openout2 = `Kapitel_5_3.aux'.
 
- (Kapitel_5_3.tex [72
+ (Kapitel_5_3.tex [74
 
 
 
 
 ]
 Kapitel 19.
-) [73]
+) [75]
 \openout2 = `Kapitel_4_6.aux'.
 
- (Kapitel_4_6.tex [74
+ (Kapitel_4_6.tex [76
 
 
 
 
 ]
 Kapitel 20.
-) [75]
+) [77]
 \openout2 = `Teil_VI.aux'.
 
- (Teil_VI.tex [76
+ (Teil_VI.tex [78
 
 
 
 
-] [77] [78])
+] [79] [80])
 \openout2 = `Kapitel_6_1.aux'.
 
  (Kapitel_6_1.tex
 Kapitel 21.
-) [79
+) [81
 
 
 
@@ -902,86 +913,86 @@ Kapitel 21.
 ]
 \openout2 = `Kapitel_6_2.aux'.
 
- (Kapitel_6_2.tex [80
+ (Kapitel_6_2.tex [82
 
 
 
 
 ]
 Kapitel 22.
-) [81]
+) [83]
 \openout2 = `Kapitel_6_3.aux'.
 
- (Kapitel_6_3.tex [82
+ (Kapitel_6_3.tex [84
 
 
 
 
 ]
 Kapitel 23.
-) [83]
+) [85]
 \openout2 = `Kapitel_6_4.aux'.
 
- (Kapitel_6_4.tex [84
+ (Kapitel_6_4.tex [86
 
 
 
 
 ]
 Kapitel 24.
-) [85]
+) [87]
 \openout2 = `Kapitel_6_5.aux'.
 
- (Kapitel_6_5.tex [86
+ (Kapitel_6_5.tex [88
 
 
 
 
 ]
 Kapitel 25.
-) [87]
+) [89]
 \openout2 = `Kapitel_6_6.aux'.
 
- (Kapitel_6_6.tex [88
+ (Kapitel_6_6.tex [90
 
 
 
 
 ]
 Kapitel 26.
-) [89]
+) [91]
 \openout2 = `Kapitel_6_7.aux'.
 
- (Kapitel_6_7.tex [90
+ (Kapitel_6_7.tex [92
 
 
 
 
 ]
 Kapitel 27.
-) [91] [92
+) [93] [94
 
 
 
 ]
-Overfull \hbox (16.31282pt too wide) in paragraph at lines 105--105
+Overfull \hbox (16.31282pt too wide) in paragraph at lines 106--106
 [][]\T1/cmr/m/n/10 Kirzner, Is-rael (1967).   Di-ver-gent Ap-proa-ches in Li-b
 er-ta-ri-an Eco-no-mic Thougth.
  []
 
-[93]
-Overfull \hbox (9.4879pt too wide) in paragraph at lines 105--105
+[95]
+Overfull \hbox (9.4879pt too wide) in paragraph at lines 106--106
 [][][]\T1/cmr/m/n/10 (1976).   Eco-no-me-tric Po-li-cy Eva-lua-ti-on: A Cri-ti
 -que. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-04.
+05.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
+) [96]
 No file Buch.ind.
-[94] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[97] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
@@ -995,13 +1006,13 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11403 strings out of 481556
- 205540 string characters out of 2923631
- 762205 words of memory out of 3000000
- 26279 multiletter control sequences out of 15000+200000
+ 11862 strings out of 481556
+ 210743 string characters out of 2923631
+ 772224 words of memory out of 3000000
+ 26740 multiletter control sequences out of 15000+200000
  544549 words of font info for 45 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 42i,6n,50p,2607b,3360s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,7n,50p,2607b,3368s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Stefan\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
 \ectt1000.pk> <C:\Users\Stefan\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
 n/ec/dpi600\ecti0900.pk> <C:\Users\Stefan\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
@@ -1019,10 +1030,13 @@ TeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Stefan\AppDat
 a\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\St
 efan\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk> <
 C:\Users\Stefan\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecr
-m1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb>
-Output written on Buch.pdf (104 pages, 376229 bytes).
+m1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on Buch.pdf (107 pages, 410525 bytes).
 PDF statistics:
- 1022 PDF objects out of 1200 (max. 8388607)
+ 1051 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
