@@ -1013,8 +1013,8 @@
     \endverb
     \field{volume}{105}
     \field{journaltitle}{American Economic Review: Papers \& Proceedings}
+    \field{month}{05}
     \field{year}{2015}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Romer2018}{misc}{}
