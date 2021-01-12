@@ -17,6 +17,83 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{Aghion1992}{article}{}
+    \name{author}{1}{}{%
+      {{hash=APPH}{%
+         family={Aghion},
+         familyi={A\bibinitperiod},
+         suffix={Philippe;\bibnamedelima Howitt},
+         suffixi={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{APHP1}
+    \strng{fullhash}{APHP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{323\bibrangedash 351}
+    \field{title}{A Model of Growth Through Creative Destruction}
+    \field{volume}{60}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Aghion2005}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AP}{%
+         family={Aghion},
+         familyi={A\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HP}{%
+         family={Howitt},
+         familyi={H\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MFD}{%
+         family={Mayer-Foulkes},
+         familyi={M\bibinithyphendelim F\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{APHPMFD1}
+    \strng{fullhash}{APHPMFD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1162/0033553053327515
+    \endverb
+    \verb{eprint}
+    \verb https://academic.oup.com/qje/article-pdf/120/1/173/5442565/120-1-173.
+    \verb pdf
+    \endverb
+    \field{issn}{0033-5533}
+    \field{number}{1}
+    \field{pages}{173\bibrangedash 222}
+    \field{title}{The Effect of Financial Development on Convergence: Theory
+  and Evidence}
+    \verb{url}
+    \verb https://doi.org/10.1162/0033553053327515
+    \endverb
+    \field{volume}{120}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{month}{02}
+    \field{year}{2005}
+  \endentry
+
   \entry{Aiginger2016}{article}{}
     \name{author}{1}{}{%
       {{hash=AK}{%
@@ -373,6 +450,76 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Grossman1991a}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GEGMH}{%
+         family={Grossman},
+         familyi={G\bibinitperiod},
+         suffix={Gene M.;\bibnamedelima Helpman},
+         suffixi={G\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+         given={Elhanan},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{GGMHE1}
+    \strng{fullhash}{GGMHE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{issn}{00028282}
+    \field{number}{4}
+    \field{pages}{796\bibrangedash 815}
+    \field{title}{Comparative Advantage and Long-Run Growth}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2006708
+    \endverb
+    \field{volume}{80}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1990}
+  \endentry
+
+  \entry{Grossman1991b}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GG}{%
+         family={Grossman},
+         familyi={G\bibinitperiod},
+         given={Gene},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=HE}{%
+         family={Helpman},
+         familyi={H\bibinitperiod},
+         given={Elhanan},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GGHE1}
+    \strng{fullhash}{GGHE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{3}
+    \field{pages}{517\bibrangedash 526}
+    \field{title}{Trade, Knowledge Spillovers, and Growth}
+    \verb{url}
+    \verb https://EconPapers.repec.org/RePEc:eee:eecrev:v:35:y:1991:i:2-3:p:517
+    \verb -526
+    \endverb
+    \field{volume}{35}
+    \field{journaltitle}{European Economic Review}
+    \field{year}{1991}
+  \endentry
+
   \entry{Hall1976}{misc}{}
     \name{author}{1}{}{%
       {{hash=HR}{%
@@ -443,6 +590,34 @@
     \field{title}{Der Neoliberalismus wird achtzig}
     \field{journaltitle}{Frankfurter Allgemeine Zeitung}
     \field{year}{2018}
+  \endentry
+
+  \entry{Jones1995}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JCI}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Charles\bibnamedelima I.},
+         giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{JCI1}
+    \strng{fullhash}{JCI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{4}
+    \field{pages}{759\bibrangedash 784}
+    \field{title}{R \& D-Based Models of Economic Growth}
+    \field{volume}{103}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1995}
   \endentry
 
   \entry{Kirzner1967}{article}{}
@@ -707,6 +882,31 @@
     \field{year}{1988}
   \endentry
 
+  \entry{Lucas1990}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LRE}{%
+         family={Lucas},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRE2}
+    \strng{fullhash}{LRE2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{2}
+    \field{pages}{92\bibrangedash 96}
+    \field{title}{Why Doesn't Capital Flow from Rich to Poor Countries?}
+    \field{volume}{80}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1990}
+  \endentry
+
   \entry{Lucas2003}{article}{}
     \name{author}{1}{}{%
       {{hash=LRE}{%
@@ -809,14 +1009,52 @@
     \field{year}{1982}
   \endentry
 
+  \entry{Mankiw1992}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MNG}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         given={N\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WDN}{%
+         family={Weil},
+         familyi={W\bibinitperiod},
+         given={David\bibnamedelima N},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNGRDWDN1}
+    \strng{fullhash}{MNGRDWDN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{407\bibrangedash 437}
+    \field{title}{A Contribution to the Empirics of Economic Growth}
+    \field{volume}{107}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1992}
+  \endentry
+
   \entry{Mirowski2009}{book}{}
     \name{author}{1}{}{%
-      {{hash=MPPD}{%
+      {{hash=MDPP}{%
          family={Mirowski},
          familyi={M\bibinitperiod},
-         given={Philip; Plehwe\bibnamedelima Dieter},
-         giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
-  D\bibinitperiod},
+         suffix={Philip;\bibnamedelima Plehwe},
+         suffixi={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Dieter},
+         giveni={D\bibinitperiod},
       }}%
     }
     \strng{namehash}{MPPD1}
@@ -992,6 +1230,31 @@
     \field{volume}{94}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1986}
+  \endentry
+
+  \entry{Romer1990}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RPM}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={Paul\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RPM1}
+    \strng{fullhash}{RPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{5 (pt2)}
+    \field{pages}{71\bibrangedash 102}
+    \field{title}{Endogenous Technological Change}
+    \field{volume}{98}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1990}
   \endentry
 
   \entry{Romer1994}{article}{}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  12 JAN 2021 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  12 JAN 2021 21:44
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -794,80 +794,77 @@ Kapitel 12.
 
 
 ] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
-[50] [51] [52] [53] [54] [55] [56]
-
-LaTeX Warning: Reference `Neu Keynes' on page 57 undefined on input line 171.
-
-[57] [58]) [59]
+[50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60]) [61]
 \openout2 = `Kapitel_4_1.aux'.
 
- (Kapitel_4_1.tex [60
+ (Kapitel_4_1.tex
+[62
 
 
 
 
 ]
 Kapitel 13.
-) [61] [62]
+) [63] [64]
 \openout2 = `Kapitel_4_4.aux'.
 
  (Kapitel_4_4.tex
 Kapitel 14.
-[63
+[65
 
 
 
 
-]) [64]
+]) [66]
 \openout2 = `Kapitel_4_5.aux'.
 
  (Kapitel_4_5.tex
 Kapitel 15.
-) [65
+) [67
 
 
 
 
-] [66]
+] [68]
 \openout2 = `Teil_V.aux'.
 
- (Teil_V.tex [67
+ (Teil_V.tex [69
 
 
 
 
-] [68])
+] [70])
 \openout2 = `Kapitel_5_1.aux'.
 
  (Kapitel_5_1.tex
 Kapitel 16.
-[69
+[71
 
 
 
 
-] [70]) [71]
+] [72]) [73]
 \openout2 = `Kapitel_Neoliberal.aux'.
 
- (Kapitel_Neoliberal.tex [72
+ (Kapitel_Neoliberal.tex [74
 
 
 
 
 ]
 Kapitel 17.
-[73] [74]
+[75] [76]
 Overfull \hbox (57.0568pt too wide) in paragraph at lines 30--31
 \T1/cmr/m/n/10 ten-den-zi-ell ge-nau das Ge-gen-teil ver-wen-det (sie-he: https
 ://www.montpelerin.org/statement-
  []
 
-[75] [76] [77] [78] [79]) [80]
+[77] [78] [79] [80] [81]) [82]
 \openout2 = `Kapitel_5_2.aux'.
 
  (Kapitel_5_2.tex
 Kapitel 18.
-) [81
+) [83
 
 
 
@@ -875,37 +872,37 @@ Kapitel 18.
 ]
 \openout2 = `Kapitel_5_3.aux'.
 
- (Kapitel_5_3.tex [82
+ (Kapitel_5_3.tex [84
 
 
 
 
 ]
 Kapitel 19.
-) [83]
+) [85]
 \openout2 = `Kapitel_4_6.aux'.
 
- (Kapitel_4_6.tex [84
+ (Kapitel_4_6.tex [86
 
 
 
 
 ]
 Kapitel 20.
-) [85]
+) [87]
 \openout2 = `Teil_VI.aux'.
 
- (Teil_VI.tex [86
+ (Teil_VI.tex [88
 
 
 
 
-] [87] [88])
+] [89] [90])
 \openout2 = `Kapitel_6_1.aux'.
 
  (Kapitel_6_1.tex
 Kapitel 21.
-) [89
+) [91
 
 
 
@@ -913,64 +910,64 @@ Kapitel 21.
 ]
 \openout2 = `Kapitel_6_2.aux'.
 
- (Kapitel_6_2.tex [90
+ (Kapitel_6_2.tex [92
 
 
 
 
 ]
 Kapitel 22.
-) [91]
+) [93]
 \openout2 = `Kapitel_6_3.aux'.
 
- (Kapitel_6_3.tex [92
+ (Kapitel_6_3.tex [94
 
 
 
 
 ]
 Kapitel 23.
-) [93]
+) [95]
 \openout2 = `Kapitel_6_4.aux'.
 
- (Kapitel_6_4.tex [94
+ (Kapitel_6_4.tex [96
 
 
 
 
 ]
 Kapitel 24.
-) [95]
+) [97]
 \openout2 = `Kapitel_6_5.aux'.
 
- (Kapitel_6_5.tex [96
+ (Kapitel_6_5.tex [98
 
 
 
 
 ]
 Kapitel 25.
-) [97]
+) [99]
 \openout2 = `Kapitel_6_6.aux'.
 
- (Kapitel_6_6.tex [98
+ (Kapitel_6_6.tex [100
 
 
 
 
 ]
 Kapitel 26.
-) [99]
+) [101]
 \openout2 = `Kapitel_6_7.aux'.
 
- (Kapitel_6_7.tex [100
+ (Kapitel_6_7.tex [102
 
 
 
 
 ]
 Kapitel 27.
-) [101] [102
+) [103] [104
 
 
 
@@ -979,21 +976,21 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 105.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
+) [105]
 Overfull \hbox (16.31282pt too wide) in paragraph at lines 106--106
 [][]\T1/cmr/m/n/10 Kirzner, Is-rael (1967).   Di-ver-gent Ap-proa-ches in Li-b
 er-ta-ri-an Eco-no-mic Thougth.
  []
 
-[103]
+
 Overfull \hbox (9.4879pt too wide) in paragraph at lines 106--106
 [][][]\T1/cmr/m/n/10 (1976).   Eco-no-me-tric Po-li-cy Eva-lua-ti-on: A Cri-ti
 -que. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[104]
+[106]
 No file Buch.ind.
-[105] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[107] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
@@ -1002,21 +999,18 @@ No file Buch.ind.
 (Kapitel_5_2.aux) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux)
 (Kapitel_6_1.aux) (Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux)
 (Kapitel_6_5.aux) (Kapitel_6_6.aux) (Kapitel_6_7.aux))
-
-LaTeX Warning: There were undefined references.
-
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11560 strings out of 492970
- 203115 string characters out of 3135852
- 594081 words of memory out of 3000000
- 15055 multiletter control sequences out of 15000+200000
+ 11605 strings out of 492970
+ 204350 string characters out of 3135852
+ 598218 words of memory out of 3000000
+ 15100 multiletter control sequences out of 15000+200000
  15516 words of font info for 34 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 42i,7n,48p,3354b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,7n,53p,3354b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \ectt1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\ecti0900.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
@@ -1038,9 +1032,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Buch.pdf (115 pages, 447062 bytes).
+Output written on Buch.pdf (117 pages, 457086 bytes).
 PDF statistics:
- 1102 PDF objects out of 1200 (max. 8388607)
+ 1116 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
