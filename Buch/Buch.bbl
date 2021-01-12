@@ -39,6 +39,37 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Arrow1962}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AKJ}{%
+         family={Arrow},
+         familyi={A\bibinitperiod},
+         given={Kenneth\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {[Oxford University Press, Review of Economic Studies, Ltd.]}%
+    }
+    \strng{namehash}{AKJ1}
+    \strng{fullhash}{AKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{155\bibrangedash 173}
+    \field{title}{The Economic Implications of Learning by Doing}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2295952
+    \endverb
+    \field{volume}{29}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1962}
+  \endentry
+
   \entry{Barro1983b}{article}{}
     \name{author}{1}{}{%
       {{hash=BDBRJG}{%
@@ -910,6 +941,34 @@
     \field{year}{1977}
   \endentry
 
+  \entry{Rebelo1991}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RS}{%
+         family={Rebelo},
+         familyi={R\bibinitperiod},
+         given={Sergio},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RS1}
+    \strng{fullhash}{RS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.1086/261764
+    \endverb
+    \field{pages}{500\bibrangedash 521}
+    \field{title}{Long-Run Policy Analysis and Long-Run Growth}
+    \field{volume}{99}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{month}{06}
+    \field{year}{1991}
+  \endentry
+
   \entry{Romer1986}{article}{}
     \name{author}{1}{}{%
       {{hash=RPM}{%
@@ -933,31 +992,6 @@
     \field{volume}{94}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1986}
-  \endentry
-
-  \entry{Romer1990}{article}{}
-    \name{author}{1}{}{%
-      {{hash=RPM}{%
-         family={Romer},
-         familyi={R\bibinitperiod},
-         given={Paul\bibnamedelima M.},
-         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{RPM1}
-    \strng{fullhash}{RPM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1990}
-    \field{labeldatesource}{}
-    \field{sortinit}{R}
-    \field{sortinithash}{R}
-    \field{number}{5 (pt2)}
-    \field{pages}{71\bibrangedash 102}
-    \field{title}{Endogenous Technological Change}
-    \field{volume}{98}
-    \field{journaltitle}{Journal of Political Economy}
-    \field{year}{1990}
   \endentry
 
   \entry{Romer1994}{article}{}
@@ -1173,6 +1207,41 @@
     \field{sortinithash}{U}
     \field{title}{Interview mit Robert Lucas: Die Leute sind nicht verrückt}
     \field{year}{2013}
+  \endentry
+
+  \entry{Uzawa1965}{article}{}
+    \name{author}{1}{}{%
+      {{hash=UH}{%
+         family={Uzawa},
+         familyi={U\bibinitperiod},
+         given={Hirofumi},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {[Economics Department of the University of Pennsylvania, Wiley,
+  Institute of Social}%
+      {Economic Research, Osaka University]}%
+    }
+    \strng{namehash}{UH2}
+    \strng{fullhash}{UH2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1965}
+    \field{labeldatesource}{}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{issn}{00206598, 14682354}
+    \field{number}{1}
+    \field{pages}{18\bibrangedash 31}
+    \field{title}{Optimum Technical Change in An Aggregative Model of Economic
+  Growth}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2525621
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{International Economic Review}
+    \field{year}{1965}
   \endentry
 
   \entry{Venugopal2015}{article}{}

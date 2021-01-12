@@ -58,22 +58,10 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 11672 items from 5000.
+Reallocated field_info (elt_size=4) to 11950 items from 5000.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
-"{" immediately follows a field name---line 298 of file Literatur.bib
- :  OPTeditor
- :           {https://www.nobelprize.org/uploads/2018/06/advanced-economicsciences2004.pdf},
-I'm skipping whatever remains of this entry
-"{" immediately follows a field name---line 306 of file Literatur.bib
- :  OPTeditor
- :           {https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/die-weltverbesserer/robert-lucas-die-leute-sind-nicht-verrueckt-12564374.html},
-I'm skipping whatever remains of this entry
-"{" immediately follows a field name---line 341 of file Literatur.bib
- :  OPTeditor
- :           {https://www.minneapolisfed.org/article/2005/interview-with-robert-barro},
-I'm skipping whatever remains of this entry
- Illegal end of database file---line 536 of file Literatur.bib
+ Illegal end of database file---line 574 of file Literatur.bib
  : 
  : 
 (Error may have been on previous line)
@@ -83,10 +71,10 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 
 Here's how much of BibTeX's memory you used:
- Cites:                48 out of 750
- Fields:              555 out of 11672
- Hash table:         4258 out of 5000
- Strings:            1502 out of 4000
- Free string pool:  14561 out of 65000
+ Cites:                50 out of 750
+ Fields:              555 out of 11950
+ Hash table:         4253 out of 5000
+ Strings:            1521 out of 4000
+ Free string pool:  15127 out of 65000
  Wizard functions:   6365 out of 9000
-(There were 4 error messages)
+(There was 1 error message)
