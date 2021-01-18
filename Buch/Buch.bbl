@@ -284,6 +284,155 @@
     \field{year}{1976}
   \endentry
 
+  \entry{Becker1957}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BGS}{%
+         family={Becker},
+         familyi={B\bibinitperiod},
+         given={Gary\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=oCPCU}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Chicago\bibnamedelima Press},
+         familyi={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Chicago:\bibnamedelima University},
+         giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGS1}
+    \strng{fullhash}{BGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1957}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{The Economics of Discrimination}
+    \field{year}{1957}
+  \endentry
+
+  \entry{Becker1962}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BGS}{%
+         family={Becker},
+         familyi={B\bibinitperiod},
+         given={Gary\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGS1}
+    \strng{fullhash}{BGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{5}
+    \field{title}{Investment in Human Capital: A Theoretical Analysis}
+    \field{volume}{70}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1962}
+  \endentry
+
+  \entry{Becker1964}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BGS}{%
+         family={Becker},
+         familyi={B\bibinitperiod},
+         given={Gary\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ftNBoERNYCUP}{%
+         prefix={for the National Bureau\bibnamedelima of},
+         prefixi={f\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim
+  N\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim o\bibinitperiod},
+         family={Economic\bibnamedelima Research},
+         familyi={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+         given={New York: Columbia University\bibnamedelima Press},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGS1}
+    \strng{fullhash}{BGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1964}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Human Capital}
+    \field{year}{1964}
+  \endentry
+
+  \entry{Becker1981}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BGS}{%
+         family={Becker},
+         familyi={B\bibinitperiod},
+         given={Gary\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=CMHUP}{%
+         family={Cambridge},
+         familyi={C\bibinitperiod},
+         given={MA: Harvard University\bibnamedelima Press},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  U\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGS1}
+    \strng{fullhash}{BGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{A Treatise on the Family}
+    \field{year}{1981}
+  \endentry
+
+  \entry{Becker1992}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BGS}{%
+         family={Becker},
+         familyi={B\bibinitperiod},
+         given={Gary\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPB}{%
+         family={Nobel-Prize-Biographical},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BGS1}
+    \strng{fullhash}{BGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Gary Becker - Biographical}
+    \verb{url}
+    \verb hhttps://www.nobelprize.org/prizes/economic-sciences/1992/becker/biog
+    \verb raphical/
+    \endverb
+    \field{year}{1992}
+  \endentry
+
   \entry{BBK2016}{book}{}
     \name{author}{1}{}{%
       {{hash=BD}{%
@@ -1046,6 +1195,39 @@
     \field{year}{1992}
   \endentry
 
+  \entry{Mincer1974}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MJ}{%
+         family={Mincer},
+         familyi={M\bibinitperiod},
+         given={Jacob},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ftNBoERNYCUP}{%
+         prefix={for the National Bureau\bibnamedelima of},
+         prefixi={f\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim
+  N\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim o\bibinitperiod},
+         family={Economic\bibnamedelima Research},
+         familyi={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+         given={New York: Columbia University\bibnamedelima Press},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJ1}
+    \strng{fullhash}{MJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1974}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Schooling, Experience,and Earnings}
+    \field{year}{1974}
+  \endentry
+
   \entry{Mirowski2009}{book}{}
     \name{author}{1}{}{%
       {{hash=MDPP}{%
@@ -1092,6 +1274,39 @@
     \field{volume}{29}
     \field{journaltitle}{Econometrica}
     \field{year}{1961}
+  \endentry
+
+  \entry{VonNeumann1944}{book}{}
+    \name{author}{1}{}{%
+      {{hash=vNOJM}{%
+         prefix={von},
+         prefixi={v\bibinitperiod},
+         family={Neumann},
+         familyi={N\bibinitperiod},
+         suffix={John;\bibnamedelima Morgenstern},
+         suffixi={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Oskar},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PPU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Princeton\bibnamedelima University},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJMOv1}
+    \strng{fullhash}{NJMOv1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1944}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Theory of Games and Economic Behavior}
+    \field{year}{1944}
   \endentry
 
   \entry{Blanchard2003}{book}{}
@@ -1396,6 +1611,64 @@
     \field{year}{1975}
   \endentry
 
+  \entry{Schultz1961}{article}{}
+    \name{author}{1}{}{%
+      {{hash=STW}{%
+         family={Schultz},
+         familyi={S\bibinitperiod},
+         given={Theodore\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{STW1}
+    \strng{fullhash}{STW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1961}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 17}
+    \field{title}{Investment in Human Capital}
+    \field{volume}{51}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1961}
+  \endentry
+
+  \entry{Schultz1963}{book}{}
+    \name{author}{1}{}{%
+      {{hash=STW}{%
+         family={Schultz},
+         familyi={S\bibinitperiod},
+         given={Theodore\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PNYCU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={New York : Columbia\bibnamedelima University},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  \bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{STW1}
+    \strng{fullhash}{STW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1963}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{The Economic Value of Education.}
+    \field{year}{1963}
+  \endentry
+
   \entry{Skousen2005}{book}{}
     \name{author}{1}{}{%
       {{hash=SM}{%
@@ -1527,6 +1800,36 @@
     \field{title}{Neoliberalism as Concept}
     \field{journaltitle}{Economy and Society}
     \field{year}{2015}
+  \endentry
+
+  \entry{Warsh}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WD}{%
+         family={Warsh},
+         familyi={W\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PTF}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={The\bibnamedelima Free},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WD1}
+    \strng{fullhash}{WD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Economic Principles: Masters and Mavericks of Modern
+  Economics}
+    \field{year}{1993}
   \endentry
 
   \entry{Widmann2020}{article}{}
