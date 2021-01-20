@@ -116,6 +116,39 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Appelbaum2019}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AB}{%
+         family={Appelbaum},
+         familyi={A\bibinitperiod},
+         given={Binyamin},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=LB}{%
+         family={Little},
+         familyi={L\bibinitperiod},
+         given={Brown},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=C}{%
+         family={Company},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AB1}
+    \strng{fullhash}{AB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{The Economist's Hour}
+    \field{year}{2019}
+  \endentry
+
   \entry{Arrow1962}{article}{}
     \name{author}{1}{}{%
       {{hash=AKJ}{%
@@ -460,6 +493,31 @@
     \field{sortinithash}{B}
     \field{title}{Notenbank für Deutschland}
     \field{year}{2016}
+  \endentry
+
+  \entry{Mundell1998}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CL}{%
+         family={Chwialkowska},
+         familyi={C\bibinitperiod},
+         given={Luiza},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CL1}
+    \strng{fullhash}{CL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{issue}{3}
+    \field{pages}{1\bibrangedash 4}
+    \field{title}{The Global Economist at Home: From his Tuscan castle,
+  Canadian Robert Mundell is Changing World Economies}
+    \field{volume}{43}
+    \field{journaltitle}{The Ottawa Citizen}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
   \endentry
 
   \entry{Barro2005}{misc}{}
@@ -1251,6 +1309,110 @@
     \field{year}{2009}
   \endentry
 
+  \entry{Mundell1963}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRA}{%
+         family={Mundell},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRA2}
+    \strng{fullhash}{MRA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{issue}{4}
+    \field{title}{Capital Mobility and Stabilization Policy under Fixed and
+  Flexible Exchange Rates}
+    \field{volume}{29}
+    \field{journaltitle}{Canadian Journal of Economic and Political Science}
+  \endentry
+
+  \entry{Mundell1961}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRA}{%
+         family={Mundell},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRA2}
+    \strng{fullhash}{MRA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1961}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{issue}{4}
+    \field{pages}{657\bibrangedash 665}
+    \field{title}{A Theory of Optimum Currency Areas}
+    \field{volume}{51}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1961}
+  \endentry
+
+  \entry{Mundell1962}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRA}{%
+         family={Mundell},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRA2}
+    \strng{fullhash}{MRA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{issue}{1}
+    \field{pages}{70\bibrangedash 79}
+    \field{title}{The Appropriate Use of Monetary and Fiscal Policy for
+  Internal and External Stability}
+    \field{volume}{9}
+    \field{journaltitle}{Staff Papers (International Monetary Fund)}
+    \field{year}{1962}
+  \endentry
+
+  \entry{Mundell1999}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MRA}{%
+         family={Mundell},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima A},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPB}{%
+         family={Nobel-Prize-Biographical},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRA1}
+    \strng{fullhash}{MRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Robert Mundell - Biographical}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/1999/mundell/lect
+    \verb ure/
+    \endverb
+    \field{year}{1999}
+  \endentry
+
   \entry{Muth1961}{article}{}
     \name{author}{1}{}{%
       {{hash=MJF}{%
@@ -1572,11 +1734,22 @@
   D\bibinitperiod},
       }}%
     }
+    \name{editor}{1}{}{%
+      {{hash=MH}{%
+         family={MCGraw-Hill},
+         familyi={M\bibinithyphendelim H\bibinitperiod},
+      }}%
+    }
     \strng{namehash}{SPNWD1}
     \strng{fullhash}{SPNWD1}
     \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
+    \field{title}{Economics}
+    \field{year}{1998}
   \endentry
 
   \entry{Sargent1975}{article}{}
@@ -1800,6 +1973,32 @@
     \field{title}{Neoliberalism as Concept}
     \field{journaltitle}{Economy and Society}
     \field{year}{2015}
+  \endentry
+
+  \entry{Mundell2006}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WL}{%
+         family={Wallace},
+         familyi={W\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WL1}
+    \strng{fullhash}{WL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{issue}{3}
+    \field{pages}{327\bibrangedash 340}
+    \field{title}{Robert Mundell: Ahead of His Time}
+    \field{volume}{43}
+    \field{journaltitle}{Finance and Developement: A quarterly magazine of the
+  IMF}
+    \field{year}{2006}
   \endentry
 
   \entry{Warsh}{book}{}
