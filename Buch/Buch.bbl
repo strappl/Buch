@@ -963,6 +963,55 @@
     \field{year}{1982}
   \endentry
 
+  \entry{Laffer1981}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LAB}{%
+         family={Laffer},
+         familyi={L\bibinitperiod},
+         given={Arthur\bibnamedelima B},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LAB1}
+    \strng{fullhash}{LAB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{issue}{1}
+    \field{pages}{1\bibrangedash 21}
+    \field{title}{Government Exactions and Revenue Deficiencies}
+    \field{volume}{1}
+    \field{journaltitle}{Cato Journal}
+    \field{year}{1981}
+  \endentry
+
+  \entry{Laffer2004}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LAB}{%
+         family={Laffer},
+         familyi={L\bibinitperiod},
+         given={Arthur\bibnamedelima B},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LAB1}
+    \strng{fullhash}{LAB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{pages}{1\bibrangedash 16}
+    \field{title}{The Laffer Curve: Past, Present, and Future}
+    \field{volume}{1765}
+    \field{journaltitle}{The Heritage Foundation: Backgrounder}
+    \field{year}{2004}
+  \endentry
+
   \entry{Lippmann1937}{book}{}
     \name{author}{1}{}{%
       {{hash=LW}{%
@@ -1842,6 +1891,31 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Shiller2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SRJ}{%
+         family={Shiller},
+         familyi={S\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SRJ1}
+    \strng{fullhash}{SRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{issue}{4}
+    \field{pages}{967\bibrangedash –1004}
+    \field{title}{Narrative Economics}
+    \field{volume}{107}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2017}
+  \endentry
+
   \entry{Skousen2005}{book}{}
     \name{author}{1}{}{%
       {{hash=SM}{%
@@ -1999,6 +2073,30 @@
     \field{journaltitle}{Finance and Developement: A quarterly magazine of the
   IMF}
     \field{year}{2006}
+  \endentry
+
+  \entry{Wanniski1978}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WJ}{%
+         family={Wanniski},
+         familyi={W\bibinitperiod},
+         given={Jude},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJ1}
+    \strng{fullhash}{WJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{pages}{3–\bibrangedash 16}
+    \field{title}{Taxes, Revenues, and the "Laffer Curve"}
+    \field{volume}{50}
+    \field{journaltitle}{Public Interest}
+    \field{year}{1978}
   \endentry
 
   \entry{Warsh}{book}{}
