@@ -1358,28 +1358,6 @@
     \field{year}{2009}
   \endentry
 
-  \entry{Mundell1963}{article}{}
-    \name{author}{1}{}{%
-      {{hash=MRA}{%
-         family={Mundell},
-         familyi={M\bibinitperiod},
-         given={Robert\bibnamedelima A.},
-         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MRA2}
-    \strng{fullhash}{MRA2}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{issue}{4}
-    \field{title}{Capital Mobility and Stabilization Policy under Fixed and
-  Flexible Exchange Rates}
-    \field{volume}{29}
-    \field{journaltitle}{Canadian Journal of Economic and Political Science}
-  \endentry
-
   \entry{Mundell1961}{article}{}
     \name{author}{1}{}{%
       {{hash=MRA}{%
@@ -1429,6 +1407,32 @@
     \field{volume}{9}
     \field{journaltitle}{Staff Papers (International Monetary Fund)}
     \field{year}{1962}
+  \endentry
+
+  \entry{Mundell1963}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRA}{%
+         family={Mundell},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRA2}
+    \strng{fullhash}{MRA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1963}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{issue}{4}
+    \field{pages}{475\bibrangedash 485}
+    \field{title}{Capital Mobility and Stabilization Policy under Fixed and
+  Flexible Exchange Rates}
+    \field{volume}{29}
+    \field{journaltitle}{Canadian Journal of Economic and Political Science}
+    \field{year}{1963}
   \endentry
 
   \entry{Mundell1999}{misc}{}
