@@ -466,6 +466,22 @@
     \field{year}{1992}
   \endentry
 
+  \entry{Bernanke1984}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BBS}{%
+         family={Bernanke},
+         familyi={B\bibinitperiod},
+         given={Ben\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBS1}
+    \strng{fullhash}{BBS1}
+    \field{labelnamesource}{author}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+  \endentry
+
   \entry{BBK2016}{book}{}
     \name{author}{1}{}{%
       {{hash=BD}{%
@@ -508,6 +524,8 @@
     \strng{fullhash}{CL1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{issue}{3}
@@ -516,8 +534,9 @@
   Canadian Robert Mundell is Changing World Economies}
     \field{volume}{43}
     \field{journaltitle}{The Ottawa Citizen}
-    \warn{\item Invalid format of field 'date' \item Invalid format of field
-  'date'}
+    \field{day}{25}
+    \field{month}{07}
+    \field{year}{1998}
   \endentry
 
   \entry{Barro2005}{misc}{}
@@ -634,27 +653,95 @@
     \field{year}{1977}
   \endentry
 
-  \entry{Friedman1962}{book}{}
+  \entry{Friedman1957}{book}{}
     \name{author}{1}{}{%
-      {{hash=FAJMS}{%
+      {{hash=FM}{%
          family={Friedman},
          familyi={F\bibinitperiod},
-         suffix={Milton;\bibnamedelima Schwartz},
-         suffixi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
-         given={Anna\bibnamedelima Jacobson},
-         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+         given={Milton},
+         giveni={M\bibinitperiod},
       }}%
     }
-    \strng{namehash}{FMSAJ1}
-    \strng{fullhash}{FMSAJ1}
+    \name{editor}{1}{}{%
+      {{hash=PPU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Princeton\bibnamedelima University},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{1963}
+    \field{labelyear}{1957}
     \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
-    \field{title}{A Monetary History of the United States, 1867–1960}
-    \field{year}{1963}
+    \field{title}{A Theory of the Consumption Function}
+    \field{year}{1957}
+  \endentry
+
+  \entry{Friedman1962}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         given={Milton},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=oCPU}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Chicago\bibnamedelima Press},
+         familyi={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={University},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Capitalism and Freedom}
+    \field{year}{1962}
+  \endentry
+
+  \entry{Friedman1976b}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         given={Milton},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NP}{%
+         family={Nobel-Prize},
+         familyi={N\bibinithyphendelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Nobel-Prize-Banquet-Speech}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/1976/friedman/spe
+    \verb ech/
+    \endverb
+    \field{year}{1976}
   \endentry
 
   \entry{Grossman1991a}{article}{}
@@ -1265,6 +1352,25 @@
     \field{year}{1982}
   \endentry
 
+  \entry{Mankiw1985}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MMDNGS}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         suffix={N.\bibnamedelima Gregory;\bibnamedelima Shapiro},
+         suffixi={N\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+         given={Matthew\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNGSMD1}
+    \strng{fullhash}{MNGSMD1}
+    \field{labelnamesource}{author}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+  \endentry
+
   \entry{Mankiw1992}{article}{}
     \name{author}{3}{}{%
       {{hash=MNG}{%
@@ -1356,6 +1462,42 @@
     \field{sortinithash}{M}
     \field{title}{The Road from Mont Pelerin}
     \field{year}{2009}
+  \endentry
+
+  \entry{Modigliani1954}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=MFRHB}{%
+         family={Modigliani},
+         familyi={M\bibinitperiod},
+         given={Franco; Richard H.\bibnamedelima Brumberg},
+         giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  H\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=KKK}{%
+         family={Kurihara},
+         familyi={K\bibinitperiod},
+         given={Kenneth\bibnamedelima K.},
+         giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {New Brunswick: Rutgers University Press}%
+    }
+    \strng{namehash}{MFRHB1}
+    \strng{fullhash}{MFRHB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1954}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Post-Keynesian Economics}
+    \field{pages}{388–\bibrangedash 436}
+    \field{title}{Utility analysis and the Consumption Function: An
+  Interpretation of Cross-Section Data}
+    \field{year}{1954}
   \endentry
 
   \entry{Mundell1961}{article}{}
@@ -1878,9 +2020,9 @@
       {{hash=PNYCU}{%
          family={Press},
          familyi={P\bibinitperiod},
-         given={New York : Columbia\bibnamedelima University},
+         given={New York: Columbia\bibnamedelima University},
          giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
-  \bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim U\bibinitperiod},
+  C\bibinitperiod\bibinitdelim U\bibinitperiod},
       }}%
     }
     \strng{namehash}{STW1}

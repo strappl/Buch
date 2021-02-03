@@ -40,9 +40,15 @@ A level-1 auxiliary file: Kapitel_6_6.aux
 A level-1 auxiliary file: Kapitel_6_7.aux
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
-Repeated entry---line 749 of file Literatur.bib
- : @book{Friedman1962
- :                   ,
+I was expecting a `,' or a `}'---line 774 of file Literatur.bib
+ :  
+ :  journal = {Journal of Monetary Economics},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 785 of file Literatur.bib
+ :  
+ :  journal = {Quarterly Journal of Economics},
+(Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Biblatex version: 3.13
-(There was 1 error message)
+(There were 2 error messages)
