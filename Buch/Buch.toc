@@ -1,242 +1,242 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {ngerman}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Teil\ I\hspace {\betweenumberspace }1776 -- 1870\\Klassik: Geburt (k)einer Wissenschaft}{1}%
+\contentsline {part}{Teil\ I\hspace {\betweenumberspace }1776 -- 1870\\Klassik: Geburt (k)einer Wissenschaft}{1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Jeder ist seines eigenen Glückes Smith}{3}%
+\contentsline {chapter}{\numberline {1}Jeder ist seines eigenen Gl\IeC {\"u}ckes Smith}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Vorarbeiten}{3}%
+\contentsline {section}{\numberline {1.1}Vorarbeiten}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Adam Smith}{3}%
+\contentsline {section}{\numberline {1.2}Adam Smith}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Die Klassiker schlechthin}{5}%
+\contentsline {chapter}{\numberline {2}Die Klassiker schlechthin}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Ricardo}{5}%
+\contentsline {section}{\numberline {2.1}Ricardo}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Say und Malthus}{5}%
+\contentsline {section}{\numberline {2.2}Say und Malthus}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Mill}{5}%
+\contentsline {section}{\numberline {2.3}Mill}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Kollektives statt individuelles Glück}{7}%
+\contentsline {chapter}{\numberline {3}Kollektives statt individuelles Gl\IeC {\"u}ck}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Marx}{7}%
+\contentsline {section}{\numberline {3.1}Marx}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Die Revolution frisst ihre Eltern}{7}%
+\contentsline {section}{\numberline {3.2}Die Revolution frisst ihre Eltern}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Teil\ II\hspace {\betweenumberspace }1870 -- 1930\\Neoklassik: Revolutionen auf Ökonomisch}{9}%
+\contentsline {part}{Teil\ II\hspace {\betweenumberspace }1870 -- 1930\\Neoklassik: Revolutionen auf \IeC {\"O}konomisch}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Drei Orte, die gleiche Idee}{11}%
+\contentsline {chapter}{\numberline {4}Drei Orte, die gleiche Idee}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Unbelohnter, unbekannter Hochmütiger}{11}%
+\contentsline {section}{\numberline {4.1}Unbelohnter, unbekannter Hochm\IeC {\"u}tiger}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Jevons}{11}%
+\contentsline {section}{\numberline {4.2}Jevons}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Walras}{11}%
+\contentsline {section}{\numberline {4.3}Walras}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Menger}{11}%
+\contentsline {section}{\numberline {4.4}Menger}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Auf dem Historikerweg}{13}%
+\contentsline {chapter}{\numberline {5}Auf dem Historikerweg}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}List}{13}%
+\contentsline {section}{\numberline {5.1}List}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Schmoller \& Hildebrand}{13}%
+\contentsline {section}{\numberline {5.2}Schmoller \& Hildebrand}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Das Ende der Ökonomie?}{15}%
+\contentsline {chapter}{\numberline {6}Das Ende der \IeC {\"O}konomie?}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Edgeworth und Pareto}{15}%
+\contentsline {section}{\numberline {6.1}Edgeworth und Pareto}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Clark}{15}%
+\contentsline {section}{\numberline {6.2}Clark}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Marshall}{15}%
+\contentsline {section}{\numberline {6.3}Marshall}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Pigou}{15}%
+\contentsline {section}{\numberline {6.4}Pigou}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.5}Fisher}{15}%
+\contentsline {section}{\numberline {6.5}Fisher}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.6}Nach dem Zweiten Weltkrieg}{15}%
+\contentsline {section}{\numberline {6.6}Nach dem Zweiten Weltkrieg}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Teil\ III\hspace {\betweenumberspace }1936 -- 1975\\Keynesianismus - Synthese - Monetarismus}{17}%
+\contentsline {part}{Teil\ III\hspace {\betweenumberspace }1936 -- 1975\\Keynesianismus - Synthese - Monetarismus}{17}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Keynesianismus: Nachfrage statt Angebot?}{21}%
+\contentsline {chapter}{\numberline {7}Keynesianismus: Nachfrage statt Angebot?}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Synthese: Ein bisschen Neoklassik, ein bisschen Keynes}{23}%
+\contentsline {chapter}{\numberline {8}Synthese: Ein bisschen Neoklassik, ein bisschen Keynes}{23}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Hicks \& Samuelson}{23}%
+\contentsline {section}{\numberline {8.1}Hicks \& Samuelson}{23}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Cobb-Douglas-Produktionsfunktion}{23}%
+\contentsline {section}{\numberline {8.2}Cobb-Douglas-Produktionsfunktion}{23}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Solow-Wachstumsmodell}{23}%
+\contentsline {section}{\numberline {8.3}Solow-Wachstumsmodell}{23}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}Philipskurve}{25}%
+\contentsline {section}{\numberline {8.4}Philipskurve}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.5}Arrow-Debreu-Gleichgewicht}{25}%
+\contentsline {section}{\numberline {8.5}Arrow-Debreu-Gleichgewicht}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Der Monetarismus: Money Matters!}{27}%
+\contentsline {chapter}{\numberline {9}Der Monetarismus: Money Matters!}{27}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}Exkurs: Neoklassische Finance}{33}%
+\contentsline {chapter}{\numberline {10}Exkurs: Neoklassische Finance}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.1}Bawerk, Fisher und Knight als Vorläufer}{33}%
+\contentsline {section}{\numberline {10.1}Bawerk, Fisher und Knight als Vorl\IeC {\"a}ufer}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.2}Erwartungsnutzen und Arrow's Risikoaversion}{33}%
+\contentsline {section}{\numberline {10.2}Erwartungsnutzen und Arrow's Risikoaversion}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.3}Modigliani Miller}{33}%
+\contentsline {section}{\numberline {10.3}Modigliani Miller}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.4}Fama}{33}%
+\contentsline {section}{\numberline {10.4}Fama}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.5}Markowitz, Tobin, Sharpe, Mossin}{33}%
+\contentsline {section}{\numberline {10.5}Markowitz, Tobin, Sharpe, Mossin}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.6}Black-Scholes, Merton}{33}%
+\contentsline {section}{\numberline {10.6}Black-Scholes, Merton}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {11}Exkurs: Spieltheorie}{35}%
+\contentsline {chapter}{\numberline {11}Exkurs: Spieltheorie}{37}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.1}Von Neumann Morgenstern}{35}%
+\contentsline {section}{\numberline {11.1}Von Neumann Morgenstern}{37}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.2}Nash und Hurwicz}{35}%
+\contentsline {section}{\numberline {11.2}Nash und Hurwicz}{37}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.3}Aumann, Harshani, Selten}{35}%
+\contentsline {section}{\numberline {11.3}Aumann, Harshani, Selten}{37}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Teil\ IV\hspace {\betweenumberspace }Seit 1975\\Neue Klassische Makroökonomie -- Neu-Keynesianismus -- Neue Neoklassische Synthese}{37}%
+\contentsline {part}{Teil\ IV\hspace {\betweenumberspace }Seit 1975\\Neue Klassische Makro\IeC {\"o}konomie -- Neu-Keynesianismus -- Neue Neoklassische Synthese}{39}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {12}Neue Klassische Makroökonomie}{39}%
+\contentsline {chapter}{\numberline {12}Neue Klassische Makro\IeC {\"o}konomie}{41}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.1}Lucas' Kritik und Sargent's Beitrag}{41}%
+\contentsline {section}{\numberline {12.1}Lucas' Kritik und Sargent's Beitrag}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.2}Edward Prescott (Real Business Cycle Theorie)}{49}%
+\contentsline {section}{\numberline {12.2}Edward Prescott (Real Business Cycle Theorie)}{51}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.3}Barro: Ricardianische Äquivalenz}{52}%
+\contentsline {section}{\numberline {12.3}Barro: Ricardianische \IeC {\"A}quivalenz}{54}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.4}Lucas und Romer: Endogenes Wachstumsmodell}{56}%
+\contentsline {section}{\numberline {12.4}Lucas und Romer: Endogenes Wachstumsmodell}{58}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.5}Becker: Rational Choice Theory}{63}%
+\contentsline {section}{\numberline {12.5}Becker: Rational Choice Theory}{65}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.6}Wirkung und Bedeutung der Neuen Klassischen Makroökonomie}{66}%
+\contentsline {section}{\numberline {12.6}Wirkung und Bedeutung der Neuen Klassischen Makro\IeC {\"o}konomie}{68}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {13}Neu Keynesianismus}{69}%
+\contentsline {chapter}{\numberline {13}Neu Keynesianismus}{71}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.1}Phelps: Mikrofoundation der Makroökonomie}{69}%
+\contentsline {section}{\numberline {13.1}Phelps: Mikrofoundation der Makro\IeC {\"o}konomie}{71}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.2}Marktversagen als Teil der Ökonomie}{70}%
+\contentsline {section}{\numberline {13.2}Marktversagen als Teil der \IeC {\"O}konomie}{72}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.2.1}Informationsasymmetrie: Spence, Stiglitz und Akerlof}{70}%
+\contentsline {subsection}{\numberline {13.2.1}Informationsasymmetrie: Spence, Stiglitz und Akerlof}{72}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.2.2}Natürliche Monopole oder Baumol's angreifbare Märkte}{70}%
+\contentsline {subsection}{\numberline {13.2.2}Nat\IeC {\"u}rliche Monopole oder Baumol's angreifbare M\IeC {\"a}rkte}{72}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.3}Arbeitslosigkeit als Suchproblem}{70}%
+\contentsline {section}{\numberline {13.3}Arbeitslosigkeit als Suchproblem}{72}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.1}Diamond, Mortensen und Pisaridis}{70}%
+\contentsline {subsection}{\numberline {13.3.1}Diamond, Mortensen und Pisaridis}{72}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {14}Neue Neoklassische Synthese}{71}%
+\contentsline {chapter}{\numberline {14}Neue Neoklassische Synthese}{73}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.1}Taylor-Rule: Ein pragmatischer Zugang zur Geldpolitik}{71}%
+\contentsline {section}{\numberline {14.1}Taylor-Rule: Ein pragmatischer Zugang zur Geldpolitik}{73}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.2}Auf den Schultern von Giganten}{72}%
+\contentsline {section}{\numberline {14.2}Auf den Schultern von Giganten}{74}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.1}Krugman}{72}%
+\contentsline {subsection}{\numberline {14.2.1}Krugman}{74}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.2}Blanchard}{72}%
+\contentsline {subsection}{\numberline {14.2.2}Blanchard}{74}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.3}David Romer \& Mankiv}{72}%
+\contentsline {subsection}{\numberline {14.2.3}David Romer \& Mankiv}{74}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {15}Sisyphus-Ökonomie}{73}%
+\contentsline {chapter}{\numberline {15}Sisyphus-\IeC {\"O}konomie}{75}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.1}Die Great Recession}{74}%
+\contentsline {section}{\numberline {15.1}Die Great Recession}{76}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Teil\ V\hspace {\betweenumberspace }Gefährliche Außenseiter}{75}%
+\contentsline {part}{Teil\ V\hspace {\betweenumberspace }Gef\IeC {\"a}hrliche Au\IeC {\ss }enseiter}{77}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {16}Österreichische Schule}{77}%
+\contentsline {chapter}{\numberline {16}\IeC {\"O}sterreichische Schule}{79}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {16.1}Böhm-Bawerk \& Wieser als Schüler Mengers}{77}%
+\contentsline {section}{\numberline {16.1}B\IeC {\"o}hm-Bawerk \& Wieser als Sch\IeC {\"u}ler Mengers}{79}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {16.2}Mises: Der Hauptvertreter}{77}%
+\contentsline {section}{\numberline {16.2}Mises: Der Hauptvertreter}{79}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {16.3}Hayek: Weg vom Mainstream, aber rein in die Politik}{77}%
+\contentsline {section}{\numberline {16.3}Hayek: Weg vom Mainstream, aber rein in die Politik}{79}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {16.4}Rothbard, Kirzner \& die Tea Party}{77}%
+\contentsline {section}{\numberline {16.4}Rothbard, Kirzner \& die Tea Party}{79}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {16.5}Schumpeter: Der ganz eigene Weg}{77}%
+\contentsline {section}{\numberline {16.5}Schumpeter: Der ganz eigene Weg}{79}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {16.6}Die Stockholmer Schule}{78}%
+\contentsline {section}{\numberline {16.6}Die Stockholmer Schule}{80}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {17}Schumpeter: Der ganz eigene Weg}{79}%
+\contentsline {chapter}{\numberline {17}Schumpeter: Der ganz eigene Weg}{81}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {17.1}Vorläufer Zyklentheorie: Kondratieff}{79}%
+\contentsline {section}{\numberline {17.1}Vorl\IeC {\"a}ufer Zyklentheorie: Kondratieff}{81}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {17.2}Die schöpferische Zerstörung}{79}%
+\contentsline {section}{\numberline {17.2}Die sch\IeC {\"o}pferische Zerst\IeC {\"o}rung}{81}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {18}Supply-Side-Economics}{81}%
+\contentsline {chapter}{\numberline {18}Supply-Side-Economics}{83}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {19}Neoliberalismus}{89}%
+\contentsline {chapter}{\numberline {19}Neoliberalismus}{91}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {19.1}Den Neoliberalismus gibt es nicht!}{89}%
+\contentsline {section}{\numberline {19.1}Den Neoliberalismus gibt es nicht!}{91}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {19.2}Ordoliberalismus}{96}%
+\contentsline {section}{\numberline {19.2}Ordoliberalismus}{98}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {20}Institutionsökonomik}{97}%
+\contentsline {chapter}{\numberline {20}Institutions\IeC {\"o}konomik}{99}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {20.1}Der Zyniker: Veblen}{97}%
+\contentsline {section}{\numberline {20.1}Der Zyniker: Veblen}{99}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {20.2}Die Entdeckung der Empirie: Mitchell \& Kuznets}{97}%
+\contentsline {section}{\numberline {20.2}Die Entdeckung der Empirie: Mitchell \& Kuznets}{99}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {21}Neue Institutionsökonomik}{99}%
+\contentsline {chapter}{\numberline {21}Neue Institutions\IeC {\"o}konomik}{101}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {21.1}Die Ursprünge: Transaktionen sind nicht gratis}{99}%
+\contentsline {section}{\numberline {21.1}Die Urspr\IeC {\"u}nge: Transaktionen sind nicht gratis}{101}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {21.2}Buchanan: Neue Politischen Ökonomie}{99}%
+\contentsline {section}{\numberline {21.2}Buchanan: Neue Politischen \IeC {\"O}konomie}{101}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {21.3}Acemoglu}{99}%
+\contentsline {section}{\numberline {21.3}Acemoglu}{101}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {22}Post-Keynesianismus}{101}%
+\contentsline {chapter}{\numberline {22}Post-Keynesianismus}{103}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {22.1}Kalecki: Post-Keynesianer vor Keynes}{101}%
+\contentsline {section}{\numberline {22.1}Kalecki: Post-Keynesianer vor Keynes}{103}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {22.2}Kaldor: Der Begründer des Post-Keynesianismus}{101}%
+\contentsline {section}{\numberline {22.2}Kaldor: Der Begr\IeC {\"u}nder des Post-Keynesianismus}{103}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {22.3}Myrdal \& Sraffa}{101}%
+\contentsline {section}{\numberline {22.3}Myrdal \& Sraffa}{103}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {22.4}Linkskeynesianismus: Lernen \& Robinson}{101}%
+\contentsline {section}{\numberline {22.4}Linkskeynesianismus: Lernen \& Robinson}{103}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {22.5}Minsky: Die Absurdität des Finanzmarktgleichgewichts}{101}%
+\contentsline {section}{\numberline {22.5}Minsky: Die Absurdit\IeC {\"a}t des Finanzmarktgleichgewichts}{103}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {23}Exkurs: Behavioral Economics}{103}%
+\contentsline {chapter}{\numberline {23}Exkurs: Behavioral Economics}{105}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {23.1}Allais: Es begann mit einem Paradoxon}{103}%
+\contentsline {section}{\numberline {23.1}Allais: Es begann mit einem Paradoxon}{105}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {23.2}Kahneman und Tversky}{103}%
+\contentsline {section}{\numberline {23.2}Kahneman und Tversky}{105}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {23.3}Thaler}{103}%
+\contentsline {section}{\numberline {23.3}Thaler}{105}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Was bringt die Zukunft?}{105}%
+\contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Was bringt die Zukunft?}{107}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {24}Kritik am Finanzmarkt}{107}%
+\contentsline {chapter}{\numberline {24}Kritik am Finanzmarkt}{109}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {24.1}Shiller}{107}%
+\contentsline {section}{\numberline {24.1}Shiller}{109}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {25}Was lernen wir aus der Krise 2008?}{109}%
+\contentsline {chapter}{\numberline {25}Was lernen wir aus der Krise 2008?}{111}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {25.1}Rajan}{109}%
+\contentsline {section}{\numberline {25.1}Rajan}{111}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {26}Ungleichheit}{111}%
+\contentsline {chapter}{\numberline {26}Ungleichheit}{113}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {26.1}Atkinson}{111}%
+\contentsline {section}{\numberline {26.1}Atkinson}{113}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {26.2}Piketty}{111}%
+\contentsline {section}{\numberline {26.2}Piketty}{113}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {27}Armut als Herausforderung}{113}%
+\contentsline {chapter}{\numberline {27}Armut als Herausforderung}{115}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {27.1}Sen: Wohlfahrtsökonomik}{113}%
+\contentsline {section}{\numberline {27.1}Sen: Wohlfahrts\IeC {\"o}konomik}{115}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {27.2}Deaton}{113}%
+\contentsline {section}{\numberline {27.2}Deaton}{115}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {27.3}Experimente gegen die Armut: Banerjee, Duflo \& Kremer}{113}%
+\contentsline {section}{\numberline {27.3}Experimente gegen die Armut: Banerjee, Duflo \& Kremer}{115}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {28}Zukunft ohne Zins?}{115}%
+\contentsline {chapter}{\numberline {28}Zukunft ohne Zins?}{117}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {28.1}Die weltweite Liquiditätsfalle}{115}%
+\contentsline {section}{\numberline {28.1}Die weltweite Liquidit\IeC {\"a}tsfalle}{117}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {29}Ökonomie außerhalb der Demokratie?}{117}%
+\contentsline {chapter}{\numberline {29}\IeC {\"O}konomie au\IeC {\ss }erhalb der Demokratie?}{119}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {29.1}Weltmacht China: ökonomische Aufstieg ohne demokratische Grundregeln}{117}%
+\contentsline {section}{\numberline {29.1}Weltmacht China: \IeC {\"o}konomische Aufstieg ohne demokratische Grundregeln}{119}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {30}Umweltfragen als existenzielle Fragen}{119}%
+\contentsline {chapter}{\numberline {30}Umweltfragen als existenzielle Fragen}{121}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {30.1}Ostrom}{119}%
+\contentsline {section}{\numberline {30.1}Ostrom}{121}

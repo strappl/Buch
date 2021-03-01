@@ -478,8 +478,71 @@
     \strng{namehash}{BBS1}
     \strng{fullhash}{BBS1}
     \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
+    \field{number}{3}
+    \field{pages}{587\bibrangedash 614}
+    \field{title}{Permanent Income, Liquidity, and Expenditure on Automobiles:
+  Evidence From Panel Data}
+    \field{volume}{99}
+    \field{journaltitle}{Quarterly Journal of Economics}
+    \field{year}{1984}
+  \endentry
+
+  \entry{Meltzer1971}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BAHKM}{%
+         family={Brunner},
+         familyi={B\bibinitperiod},
+         suffix={Karl\bibnamedelima ;Meltzer},
+         suffixi={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Allan\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BKMAH1}
+    \strng{fullhash}{BKMAH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1971}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{5}
+    \field{pages}{784\bibrangedash 805}
+    \field{title}{The Uses of Money: Money in the Theory of an Exchange
+  Economy}
+    \field{volume}{61}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1971}
+  \endentry
+
+  \entry{Brunner1968}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BK}{%
+         family={Brunner},
+         familyi={B\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BK1}
+    \strng{fullhash}{BK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1968}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{7}
+    \field{pages}{8\bibrangedash 24}
+    \field{title}{{The Role of Money and Monetary Policy}}
+    \field{volume}{50}
+    \field{journaltitle}{Federal Reserve Bank of St. LouisReview}
+    \field{year}{1968}
   \endentry
 
   \entry{BBK2016}{book}{}
@@ -711,6 +774,31 @@
     \field{sortinithash}{F}
     \field{title}{Capitalism and Freedom}
     \field{year}{1962}
+  \endentry
+
+  \entry{Friedman1968}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         given={Milton},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1968}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{issue}{1}
+    \field{pages}{1\bibrangedash 17}
+    \field{title}{The Role of Monetary Policy}
+    \field{volume}{58}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1968}
   \endentry
 
   \entry{Friedman1976b}{misc}{}
@@ -1099,6 +1187,35 @@
     \field{year}{2004}
   \endentry
 
+  \entry{Linss2017}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LV}{%
+         family={Linss},
+         familyi={L\bibinitperiod},
+         given={Vera},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MA}{%
+         family={Marixverlag},
+         familyi={M\bibinitperiod},
+         given={6.\bibnamedelima Auflage},
+         giveni={\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LV1}
+    \strng{fullhash}{LV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Die wichtigsten Wirtschaftsdenker}
+    \field{year}{2017}
+  \endentry
+
   \entry{Lippmann1937}{book}{}
     \name{author}{1}{}{%
       {{hash=LW}{%
@@ -1367,8 +1484,18 @@
     \strng{namehash}{MNGSMD1}
     \strng{fullhash}{MNGSMD1}
     \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
+    \field{number}{5}
+    \field{pages}{165\bibrangedash 174}
+    \field{title}{Trends, Random Walks, and Tests of the Permanent Income
+  Hypothesis}
+    \field{volume}{89}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{1985}
   \endentry
 
   \entry{Mankiw1992}{article}{}
@@ -1406,6 +1533,35 @@
     \field{volume}{107}
     \field{journaltitle}{The Quarterly Journal of Economics}
     \field{year}{1992}
+  \endentry
+
+  \entry{Mankiw2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRNGR}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         suffix={N.\bibnamedelima Gregory;\bibnamedelima Reis},
+         suffixi={N\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+         given={Ricardo},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNGRR1}
+    \strng{fullhash}{MNGRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{81\bibrangedash 96}
+    \field{title}{Friedman's Presidential Address in the Evolution of
+  Macroeconomic Thought}
+    \field{volume}{32}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2018}
   \endentry
 
   \entry{Mincer1974}{book}{}
@@ -1749,6 +1905,33 @@
     \field{volume}{85}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1977}
+  \endentry
+
+  \entry{Pierenkemper2012}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PT}{%
+         family={Pierenkemper},
+         familyi={P\bibinitperiod},
+         given={Toni},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=U}{%
+         family={UTB},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PT1}
+    \strng{fullhash}{PT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Geschichte des modernen ökonomischen Denkens}
+    \field{year}{2012}
   \endentry
 
   \entry{Rebelo1991}{article}{}
