@@ -716,6 +716,35 @@
     \field{year}{1977}
   \endentry
 
+  \entry{Fisher1911}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FI}{%
+         family={Fisher},
+         familyi={F\bibinitperiod},
+         given={Irving},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=KAM}{%
+         family={Kelley},
+         familyi={K\bibinitperiod},
+         given={Augustus\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FI1}
+    \strng{fullhash}{FI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1911}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The Purchasing Power of Money}
+    \field{year}{1911}
+  \endentry
+
   \entry{Friedman1957}{book}{}
     \name{author}{1}{}{%
       {{hash=FM}{%
@@ -801,6 +830,33 @@
     \field{year}{1968}
   \endentry
 
+  \entry{Friedman1969}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         given={Milton},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=A}{%
+         family={Aldine},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1969}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The Optimum Quantity of Money and Other Essays}
+    \field{year}{1969}
+  \endentry
+
   \entry{Friedman1976b}{misc}{}
     \name{author}{1}{}{%
       {{hash=FM}{%
@@ -830,6 +886,35 @@
     \verb ech/
     \endverb
     \field{year}{1976}
+  \endentry
+
+  \entry{Friedman1980}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FRMF}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         suffix={Milton;\bibnamedelima Friedman},
+         suffixi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={Rose},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=H}{%
+         family={Harcourt},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FMFR1}
+    \strng{fullhash}{FMFR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Free To Choose: A Personal Statement}
+    \field{year}{1980}
   \endentry
 
   \entry{Grossman1991a}{article}{}
@@ -1080,6 +1165,35 @@
     \field{sortinithash}{K}
     \field{title}{Neoliberale Staatsverständnisse im Vergleich}
     \field{year}{2017}
+  \endentry
+
+  \entry{Kremer2018}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KD}{%
+         family={Kremer},
+         familyi={K\bibinitperiod},
+         given={Dennis},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ZFA}{%
+         family={Zeitung},
+         familyi={Z\bibinitperiod},
+         given={Frankfurter\bibnamedelima Allgemeine},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KD1}
+    \strng{fullhash}{KD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Paul Volckers Gespür fürs Geld}
+    \field{year}{2018}
   \endentry
 
   \entry{Kydland1977}{article}{}
