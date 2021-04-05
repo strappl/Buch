@@ -1,77 +1,43 @@
-This is 8-bit Big BibTeX version 0.99d
-Implementation:  Microsoft(R) C/C++ for Win32
-Release version: 3.71 (18 mar 2013)
-
-The 8-bit codepage and sorting file: 88591lat.csf
-The top-level auxiliary file: Buch.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Buch.aux
 The style file: biblatex.bst
-A level-1 auxilliary file: dedic.aux
-A level-1 auxilliary file: pref.aux
-A level-1 auxilliary file: Teil_I.aux
-A level-1 auxilliary file: Kapitel_1_1.aux
-A level-1 auxilliary file: Kapitel_1_2.aux
-A level-1 auxilliary file: Kapitel_1_3.aux
-A level-1 auxilliary file: Teil_II.aux
-A level-1 auxilliary file: Kapitel_2_1.aux
-A level-1 auxilliary file: Kapitel_2_2.aux
-A level-1 auxilliary file: Kapitel_2_3.aux
-A level-1 auxilliary file: Teil_III.aux
-A level-1 auxilliary file: Kapitel_3_1.aux
-A level-1 auxilliary file: Kapitel_3_2.aux
-A level-1 auxilliary file: Kapitel_3_4.aux
-A level-1 auxilliary file: Kapitel_3_6.aux
-A level-1 auxilliary file: Kapitel_3_7.aux
-A level-1 auxilliary file: Teil_IV.aux
-A level-1 auxilliary file: Kapitel_3_5.aux
-A level-1 auxilliary file: Kapitel_4_1.aux
-A level-1 auxilliary file: Kapitel_4_4.aux
-A level-1 auxilliary file: Kapitel_4_5.aux
-A level-1 auxilliary file: Teil_V.aux
-A level-1 auxilliary file: Kapitel_5_1.aux
-A level-1 auxilliary file: Kapitel_5_1a.aux
-A level-1 auxilliary file: Kapitel_5_1b.aux
-A level-1 auxilliary file: Kapitel_Neoliberal.aux
-A level-1 auxilliary file: Kapitel_5_2.aux
-A level-1 auxilliary file: Kapitel_5_2a.aux
-A level-1 auxilliary file: Kapitel_5_3.aux
-A level-1 auxilliary file: Kapitel_4_6.aux
-A level-1 auxilliary file: Teil_VI.aux
-A level-1 auxilliary file: Kapitel_6_1.aux
-A level-1 auxilliary file: Kapitel_6_2.aux
-A level-1 auxilliary file: Kapitel_6_3.aux
-A level-1 auxilliary file: Kapitel_6_4.aux
-A level-1 auxilliary file: Kapitel_6_5.aux
-A level-1 auxilliary file: Kapitel_6_6.aux
-A level-1 auxilliary file: Kapitel_6_7.aux
-Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
-Reallocated global_strs (elt_size=1001) to 10 items from 0.
-Reallocated glb_str_end (elt_size=4) to 10 items from 0.
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=1001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 18066 items from 5000.
+A level-1 auxiliary file: dedic.aux
+A level-1 auxiliary file: pref.aux
+A level-1 auxiliary file: Teil_I.aux
+A level-1 auxiliary file: Kapitel_1_1.aux
+A level-1 auxiliary file: Kapitel_1_2.aux
+A level-1 auxiliary file: Kapitel_1_3.aux
+A level-1 auxiliary file: Teil_II.aux
+A level-1 auxiliary file: Kapitel_2_1.aux
+A level-1 auxiliary file: Kapitel_2_2.aux
+A level-1 auxiliary file: Kapitel_2_3.aux
+A level-1 auxiliary file: Teil_III.aux
+A level-1 auxiliary file: Kapitel_3_1.aux
+A level-1 auxiliary file: Kapitel_3_2.aux
+A level-1 auxiliary file: Kapitel_3_4.aux
+A level-1 auxiliary file: Kapitel_3_6.aux
+A level-1 auxiliary file: Kapitel_3_7.aux
+A level-1 auxiliary file: Teil_IV.aux
+A level-1 auxiliary file: Kapitel_3_5.aux
+A level-1 auxiliary file: Kapitel_4_1.aux
+A level-1 auxiliary file: Kapitel_4_4.aux
+A level-1 auxiliary file: Kapitel_4_5.aux
+A level-1 auxiliary file: Teil_V.aux
+A level-1 auxiliary file: Kapitel_5_1.aux
+A level-1 auxiliary file: Kapitel_5_1a.aux
+A level-1 auxiliary file: Kapitel_5_1b.aux
+A level-1 auxiliary file: Kapitel_Neoliberal.aux
+A level-1 auxiliary file: Kapitel_5_2.aux
+A level-1 auxiliary file: Kapitel_5_2a.aux
+A level-1 auxiliary file: Kapitel_5_3.aux
+A level-1 auxiliary file: Kapitel_4_6.aux
+A level-1 auxiliary file: Teil_VI.aux
+A level-1 auxiliary file: Kapitel_6_1.aux
+A level-1 auxiliary file: Kapitel_6_2.aux
+A level-1 auxiliary file: Kapitel_6_3.aux
+A level-1 auxiliary file: Kapitel_6_4.aux
+A level-1 auxiliary file: Kapitel_6_5.aux
+A level-1 auxiliary file: Kapitel_6_6.aux
+A level-1 auxiliary file: Kapitel_6_7.aux
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Biblatex version: 3.13
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-
-Here's how much of BibTeX's memory you used:
- Cites:                94 out of 750
- Fields:             3474 out of 18066
- Hash table:         4144 out of 5000
- Strings:            1787 out of 4000
- Free string pool:  20434 out of 65000
- Wizard functions:   6365 out of 9000
