@@ -2089,6 +2089,37 @@
     \field{year}{1995}
   \endentry
 
+  \entry{Phelps2006}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PES}{%
+         family={Phelps},
+         familyi={P\bibinitperiod},
+         given={Edmund\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPB}{%
+         family={Nobel-Prize-Biographical},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PES1}
+    \strng{fullhash}{PES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Edmund Phelps - Biographical}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/2006/phelps/biogr
+    \verb aphical/
+    \endverb
+    \field{year}{2006}
+  \endentry
+
   \entry{Phelps1961}{article}{}
     \name{author}{1}{}{%
       {{hash=PE}{%
