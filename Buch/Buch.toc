@@ -107,7 +107,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.4}Lucas und Romer: Endogenes Wachstumsmodell}{58}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.5}Becker: Rational Choice Theory}{65}
+\contentsline {section}{\numberline {12.5}Becker: Rational Choice Theory}{66}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.6}Wirkung und Bedeutung der Neuen Klassischen Makro\IeC {\"o}konomie}{68}
 \defcounter {refsection}{0}\relax 
@@ -123,7 +123,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.3}Arbeitslosigkeit als Suchproblem}{77}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.1}Diamond, Mortensen und Pisaridis}{77}
+\contentsline {subsection}{\numberline {13.3.1}Diamond, Mortensen und Pisaridis}{78}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.4}Rigidit\IeC {\"a}ten auf M\IeC {\"a}rkten}{78}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {14}Neue Neoklassische Synthese}{79}
 \defcounter {refsection}{0}\relax 
