@@ -492,6 +492,35 @@
     \field{year}{1984}
   \endentry
 
+  \entry{Blanchard2003}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BO}{%
+         family={Blanchard},
+         familyi={B\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=SP}{%
+         family={Studium},
+         familyi={S\bibinitperiod},
+         given={Pearson},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BO1}
+    \strng{fullhash}{BO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Macroeconomics}
+    \field{year}{2003}
+  \endentry
+
   \entry{Meltzer1971}{article}{}
     \name{author}{1}{}{%
       {{hash=BAHKM}{%
@@ -696,9 +725,6 @@
          giveni={S\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {The University of Chicago Press}%
-    }
     \strng{namehash}{FS1}
     \strng{fullhash}{FS1}
     \field{labelnamesource}{author}
@@ -709,10 +735,10 @@
     \field{sortinithash}{F}
     \field{number}{1}
     \field{pages}{191\bibrangedash 205}
-    \field{title}{Long-term Contracts, Rational Expectations, and the Optimal
+    \field{title}{Long-Term Contracts, Rational Expectations, and the Optimal
   Money Supply Rule}
     \field{volume}{85}
-    \field{journaltitle}{Journal of political economy}
+    \field{journaltitle}{Journal of Political Economy}
     \field{year}{1977}
   \endentry
 
@@ -915,6 +941,74 @@
     \field{sortinithash}{F}
     \field{title}{Free To Choose: A Personal Statement}
     \field{year}{1980}
+  \endentry
+
+  \entry{Gali2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GJ}{%
+         family={Galí},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gertler},
+         familyi={G\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJGM1}
+    \strng{fullhash}{GJGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1257/jep.21.4.25
+    \endverb
+    \field{number}{4}
+    \field{pages}{25\bibrangedash 46}
+    \field{title}{Macroeconomic Modeling for Monetary Policy Evaluation}
+    \verb{url}
+    \verb https://www.aeaweb.org/articles?id=10.1257/jep.21.4.25
+    \endverb
+    \field{volume}{21}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Gali2015}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GJ}{%
+         family={Gali},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PPU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Princeton\bibnamedelima University},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJ1}
+    \strng{fullhash}{GJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Monetary Policy, Inflation, and the Business Cycle: An
+  Introduction to the New Keynesian Framework and its Application, 2nd Edition}
+    \field{year}{2015}
   \endentry
 
   \entry{Grossman1991a}{article}{}
@@ -1969,35 +2063,6 @@
     \field{sortinithash}{N}
     \field{title}{Edmund Phelps's Contributions to Macroeconomics}
     \field{year}{2006}
-  \endentry
-
-  \entry{Blanchard2003}{book}{}
-    \name{author}{1}{}{%
-      {{hash=OB}{%
-         family={Olivier},
-         familyi={O\bibinitperiod},
-         given={Blanchard},
-         giveni={B\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=SP}{%
-         family={Studium},
-         familyi={S\bibinitperiod},
-         given={Pearson},
-         giveni={P\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{OB1}
-    \strng{fullhash}{OB1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2003}
-    \field{labeldatesource}{}
-    \field{sortinit}{O}
-    \field{sortinithash}{O}
-    \field{title}{Macroeconomics}
-    \field{year}{2003}
   \endentry
 
   \entry{Tabellini1993}{article}{}
