@@ -492,6 +492,30 @@
     \field{year}{1984}
   \endentry
 
+  \entry{Blanchard1983}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BOJ}{%
+         family={Blanchard},
+         familyi={B\bibinitperiod},
+         given={Olivier\bibnamedelima J.},
+         giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BOJ1}
+    \strng{fullhash}{BOJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{900}
+    \field{pages}{1\bibrangedash 36}
+    \field{title}{Price Desynchronization and Price Level Inertia}
+    \field{journaltitle}{NBER Working Paper Series}
+    \field{year}{1982}
+  \endentry
+
   \entry{Blanchard2003}{book}{}
     \name{author}{1}{}{%
       {{hash=BO}{%
@@ -601,6 +625,43 @@
     \field{sortinithash}{B}
     \field{title}{Notenbank für Deutschland}
     \field{year}{2016}
+  \endentry
+
+  \entry{Calvo1983}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CGA}{%
+         family={Calvo},
+         familyi={C\bibinitperiod},
+         given={Guillermo\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CGA1}
+    \strng{fullhash}{CGA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    We develop a model of staggered prices along the lines of Phelps (1978) and
+  Taylor (1979, 1980), but utilizing an analytically more tractable
+  price-setting technology. ‘Demands’ are derived from utility maximization
+  assuming Sidrauski-Brock infinitely-lived families. We show that the nature
+  of the equilibrium path can be found out on the basis of essentially
+  graphical techniques. Furthermore, we demonstrate the usefulness of the model
+  by analyzing the welfare implications of monetary and fiscal policy, and by
+  showing that despite the price level being a predetermined variable, a policy
+  of pegging the nominal interest rate will lead to the existence of a
+  continuum of equilibria.%
+    }
+    \field{number}{3}
+    \field{pages}{383\bibrangedash 398}
+    \field{title}{Staggered prices in a utility-maximizing framework}
+    \field{volume}{12}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{1983}
   \endentry
 
   \entry{Mundell1998}{article}{}
@@ -943,10 +1004,40 @@
     \field{year}{1980}
   \endentry
 
+  \entry{Gali2015}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GJ}{%
+         family={Gali},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PPU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Princeton\bibnamedelima University},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJ1}
+    \strng{fullhash}{GJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Monetary Policy, Inflation, and the Business Cycle: An
+  Introduction to the New Keynesian Framework and its Application, 2nd Edition}
+    \field{year}{2015}
+  \endentry
+
   \entry{Gali2007}{article}{}
     \name{author}{2}{}{%
       {{hash=GJ}{%
-         family={Galí},
+         family={Gali},
          familyi={G\bibinitperiod},
          given={Jordi},
          giveni={J\bibinitperiod},
@@ -978,37 +1069,6 @@
     \field{volume}{21}
     \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{2007}
-    \warn{\item Invalid format of field 'month'}
-  \endentry
-
-  \entry{Gali2015}{book}{}
-    \name{author}{1}{}{%
-      {{hash=GJ}{%
-         family={Gali},
-         familyi={G\bibinitperiod},
-         given={Jordi},
-         giveni={J\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=PPU}{%
-         family={Press},
-         familyi={P\bibinitperiod},
-         given={Princeton\bibnamedelima University},
-         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{GJ1}
-    \strng{fullhash}{GJ1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2015}
-    \field{labeldatesource}{}
-    \field{sortinit}{G}
-    \field{sortinithash}{G}
-    \field{title}{Monetary Policy, Inflation, and the Business Cycle: An
-  Introduction to the New Keynesian Framework and its Application, 2nd Edition}
-    \field{year}{2015}
   \endentry
 
   \entry{Grossman1991a}{article}{}
@@ -2695,6 +2755,59 @@
     \field{year}{1987}
   \endentry
 
+  \entry{Taylor1979}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJB}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{TJB1}
+    \strng{fullhash}{TJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{2}
+    \field{pages}{108\bibrangedash 113}
+    \field{title}{Staggered Wage Setting in a Macro Model}
+    \field{volume}{69}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1979}
+  \endentry
+
+  \entry{Taylor1980}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJB}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJB1}
+    \strng{fullhash}{TJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 23}
+    \field{title}{Aggregate Dynamics and Staggered Contracts}
+    \field{volume}{80}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1980}
+  \endentry
+
   \entry{Tobin1993}{article}{}
     \name{author}{1}{}{%
       {{hash=TJ}{%
@@ -2722,7 +2835,6 @@
     \field{volume}{7}
     \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{1993}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Lucas2013}{misc}{}
