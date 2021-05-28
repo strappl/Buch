@@ -116,6 +116,35 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Akerlof1985}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AJLGAY}{%
+         family={Akerlof},
+         familyi={A\bibinitperiod},
+         suffix={George A.;\bibnamedelima Yellen},
+         suffixi={G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  Y\bibinitperiod},
+         given={Janet\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AGAYJL1}
+    \strng{fullhash}{AGAYJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{Supplement}
+    \field{pages}{823\bibrangedash 838}
+    \field{title}{A Near-Rational Model of the Business Cycle, with Wage and
+  Price Inertia}
+    \field{volume}{100}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1985}
+  \endentry
+
   \entry{Appelbaum2019}{book}{}
     \name{author}{1}{}{%
       {{hash=AB}{%
@@ -178,6 +207,67 @@
     \field{volume}{29}
     \field{journaltitle}{The Review of Economic Studies}
     \field{year}{1962}
+  \endentry
+
+  \entry{RomerDavid1990}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BDLR}{%
+         family={Ball},
+         familyi={B\bibinitperiod},
+         suffix={Laurence;\bibnamedelima Romer},
+         suffixi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLRD1}
+    \strng{fullhash}{BLRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{183\bibrangedash 203}
+    \field{title}{Real Rigidities and the Non-Neutrality of Money}
+    \field{volume}{57}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1990}
+  \endentry
+
+  \entry{Ball1988}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BNGLM}{%
+         family={Ball},
+         familyi={B\bibinitperiod},
+         suffix={Laurence;\bibnamedelima Mankiw},
+         suffixi={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={N\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLMNGRD1}
+    \strng{fullhash}{BLMNGRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1988}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 82}
+    \field{title}{The New Keynesian Rconomics and the Output-Inflation
+  Trade-Off}
+    \field{volume}{1988}
+    \field{journaltitle}{Brookings Papers on Economic Activity}
+    \field{year}{1988}
   \endentry
 
   \entry{Barro1983b}{article}{}
@@ -1754,6 +1844,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1985}
+    \field{extradate}{1}
     \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
@@ -1764,6 +1855,64 @@
     \field{volume}{89}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{1985}
+  \endentry
+
+  \entry{Mankiw1985b}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MNG}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         given={N.\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{MNG2}
+    \strng{fullhash}{MNG2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{529\bibrangedash 537}
+    \field{title}{Small Menu Costs and Large Business Cycles: A Macroeconomic
+  Model of Monopoly}
+    \verb{url}
+    \verb http://www.jstor.org/stable/1885395
+    \endverb
+    \field{volume}{100}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1985}
+  \endentry
+
+  \entry{Mankiw1990}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MNG}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         given={N\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNG1}
+    \strng{fullhash}{MNG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{4}
+    \field{pages}{1645\bibrangedash 1660}
+    \field{title}{{A Quick Refresher Course in Macroeconomics}}
+    \field{volume}{28}
+    \field{journaltitle}{Journal of Economic Literature}
+    \field{year}{1990}
   \endentry
 
   \entry{Mankiw1992}{article}{}
@@ -2057,6 +2206,34 @@
     \field{year}{1961}
   \endentry
 
+  \entry{Nakamura2008}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NJES}{%
+         family={Nakamura},
+         familyi={N\bibinitperiod},
+         suffix={Emi;\bibnamedelima Steinsson},
+         suffixi={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Jón},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NESJ1}
+    \strng{fullhash}{NESJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{4}
+    \field{pages}{1415\bibrangedash 1464}
+    \field{title}{Five Facts about Prices: A Reevaluation of Menu Cost Models}
+    \field{volume}{123}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{month}{11}
+    \field{year}{2008}
+  \endentry
+
   \entry{VonNeumann1944}{book}{}
     \name{author}{1}{}{%
       {{hash=vNOJM}{%
@@ -2123,6 +2300,31 @@
     \field{sortinithash}{N}
     \field{title}{Edmund Phelps's Contributions to Macroeconomics}
     \field{year}{2006}
+  \endentry
+
+  \entry{Parkin1986}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PM}{%
+         family={Parkin},
+         familyi={P\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PM1}
+    \strng{fullhash}{PM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1}
+    \field{title}{The Output-Inflation Trade-off When Prices Are Costly to
+  Change}
+    \field{volume}{94}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1986}
   \endentry
 
   \entry{Tabellini1993}{article}{}
@@ -2563,6 +2765,35 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Rotemberg1987}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RJJ}{%
+         family={Rotemberg},
+         familyi={R\bibinitperiod},
+         given={Julio\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ANM}{%
+         family={Annual},
+         familyi={A\bibinitperiod},
+         given={NBER\bibnamedelima Macroeconomics},
+         giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJJ1}
+    \strng{fullhash}{RJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{The New Keynesian Microfoundations}
+    \field{year}{1987}
+  \endentry
+
   \entry{Samuelson1998}{book}{}
     \name{author}{1}{}{%
       {{hash=SNWDP}{%
@@ -2727,6 +2958,43 @@
     \field{sortinithash}{S}
     \field{title}{Vienna and Chicago, Friends or Foes? -- A Tale of Two Schools
   of Free-Market Economics}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Snowdon2005}{book}{}
+    \name{author}{2}{}{%
+      {{hash=SB}{%
+         family={Snowdon},
+         familyi={S\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=VHR}{%
+         family={Vane},
+         familyi={V\bibinitperiod},
+         given={Howard\bibnamedelima R.},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=IEEP}{%
+         family={Inc.},
+         familyi={I\bibinitperiod},
+         given={Edward Elgar\bibnamedelima Publishing},
+         giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SBVHR1}
+    \strng{fullhash}{SBVHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Modern Macroeconomics - It's Origins, Developement and
+  Current State}
     \field{year}{2005}
   \endentry
 
