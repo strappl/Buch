@@ -117,13 +117,16 @@
   \endentry
 
   \entry{Akerlof1985}{article}{}
-    \name{author}{1}{}{%
-      {{hash=AJLGAY}{%
+    \name{author}{2}{}{%
+      {{hash=AGA}{%
          family={Akerlof},
          familyi={A\bibinitperiod},
-         suffix={George A.;\bibnamedelima Yellen},
-         suffixi={G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
-  Y\bibinitperiod},
+         given={George\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=YJL}{%
+         family={Yellen},
+         familyi={Y\bibinitperiod},
          given={Janet\bibnamedelima L.},
          giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
       }}%
