@@ -212,13 +212,48 @@
     \field{year}{1962}
   \endentry
 
-  \entry{RomerDavid1990}{article}{}
-    \name{author}{1}{}{%
-      {{hash=BDLR}{%
+  \entry{Ball1989}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BL}{%
          family={Ball},
          familyi={B\bibinitperiod},
-         suffix={Laurence;\bibnamedelima Romer},
-         suffixi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+         given={Laurence},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLRD1}
+    \strng{fullhash}{BLRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{3}
+    \field{pages}{507\bibrangedash 524}
+    \field{title}{Are Prices Too Sticky?}
+    \field{volume}{104}
+    \field{journaltitle}{Quarterly Journal of Economics}
+    \field{year}{1989}
+  \endentry
+
+  \entry{RomerDavid1990}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BL}{%
+         family={Ball},
+         familyi={B\bibinitperiod},
+         given={Laurence},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
          given={David},
          giveni={D\bibinitperiod},
       }}%
@@ -266,7 +301,7 @@
     \field{sortinithash}{B}
     \field{number}{1}
     \field{pages}{1\bibrangedash 82}
-    \field{title}{The New Keynesian Rconomics and the Output-Inflation
+    \field{title}{The New Keynesian Economics and the Output-Inflation
   Trade-Off}
     \field{volume}{1988}
     \field{journaltitle}{Brookings Papers on Economic Activity}
@@ -1918,6 +1953,41 @@
     \field{year}{1990}
   \endentry
 
+  \entry{Mankiw1991}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MNG}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         given={N\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PM}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={MIT},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNGRD1}
+    \strng{fullhash}{MNGRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{New Keynesian Economics, Vol 1}
+    \field{year}{1991}
+  \endentry
+
   \entry{Mankiw1992}{article}{}
     \name{author}{3}{}{%
       {{hash=MNG}{%
@@ -2628,6 +2698,31 @@
     \field{journaltitle}{Journal of Political Economy}
     \field{month}{06}
     \field{year}{1991}
+  \endentry
+
+  \entry{RomerDavid1993}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RD1}
+    \strng{fullhash}{RD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{1}
+    \field{pages}{5\bibrangedash 22}
+    \field{title}{The New Keynesian Synthesis}
+    \field{volume}{7}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{1993}
   \endentry
 
   \entry{Romer1986}{article}{}
