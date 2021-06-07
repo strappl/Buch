@@ -23,7 +23,6 @@ A level-1 auxilliary file: Kapitel_3_6.aux
 A level-1 auxilliary file: Kapitel_3_7.aux
 A level-1 auxilliary file: Teil_IV.aux
 A level-1 auxilliary file: Kapitel_3_5.aux
-A level-1 auxilliary file: Kapitel_4_2.aux
 A level-1 auxilliary file: Kapitel_4_1.aux
 A level-1 auxilliary file: Kapitel_4_4.aux
 A level-1 auxilliary file: Kapitel_4_5.aux
@@ -72,7 +71,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Here's how much of BibTeX's memory you used:
  Cites:               120 out of 750
  Fields:             3474 out of 21680
- Hash table:         4072 out of 5000
- Strings:            1942 out of 4000
- Free string pool:  24439 out of 65000
+ Hash table:         4073 out of 5000
+ Strings:            1941 out of 4000
+ Free string pool:  24424 out of 65000
  Wizard functions:   6365 out of 9000

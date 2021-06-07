@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  2 JUN 2021 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  7 JUN 2021 15:59
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -511,12 +511,12 @@ Package csquotes Info: ... found 'babel' package.
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
-(Teil_IV.aux) (Kapitel_3_5.aux) (Kapitel_4_2.aux) (Kapitel_4_1.aux)
-(Kapitel_4_4.aux) (Kapitel_4_5.aux) (Teil_V.aux) (Kapitel_5_1.aux)
-(Kapitel_5_1a.aux) (Kapitel_5_1b.aux) (Kapitel_Neoliberal.aux) (Kapitel_5_2.aux
-) (Kapitel_5_2a.aux) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux)
-(Kapitel_6_1.aux) (Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux)
-(Kapitel_6_5.aux) (Kapitel_6_6.aux) (Kapitel_6_7.aux))
+(Teil_IV.aux) (Kapitel_3_5.aux) (Kapitel_4_1.aux) (Kapitel_4_4.aux)
+(Kapitel_4_5.aux) (Teil_V.aux) (Kapitel_5_1.aux) (Kapitel_5_1a.aux)
+(Kapitel_5_1b.aux) (Kapitel_Neoliberal.aux) (Kapitel_5_2.aux) (Kapitel_5_2a.aux
+) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux) (Kapitel_6_1.aux)
+(Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux) (Kapitel_6_5.aux)
+(Kapitel_6_6.aux) (Kapitel_6_7.aux))
 \openout1 = `Buch.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
@@ -797,38 +797,28 @@ Kapitel 12.
 
 ] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55]
 [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68]) [69]
-\openout2 = `Kapitel_4_2.aux'.
+\openout2 = `Kapitel_4_1.aux'.
 
 
-(Kapitel_4_2.tex [70
+(Kapitel_4_1.tex [70
 
 
 
 
 ]
 Kapitel 13.
-) [71]
-\openout2 = `Kapitel_4_1.aux'.
+[71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84]) [85]
+\openout2 = `Kapitel_4_4.aux'.
 
- (Kapitel_4_1.tex [72
+
+(Kapitel_4_4.tex [86
 
 
 
 
 ]
 Kapitel 14.
-[73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85]) [86]
-\openout2 = `Kapitel_4_4.aux'.
-
-
-(Kapitel_4_4.tex
-Kapitel 15.
-[87
-
-
-
-
-] [88]) [89]
+[87] [88]) [89]
 \openout2 = `Kapitel_4_5.aux'.
 
  (Kapitel_4_5.tex [90
@@ -837,7 +827,7 @@ Kapitel 15.
 
 
 ]
-Kapitel 16.
+Kapitel 15.
 ) [91] [92]
 \openout2 = `Teil_V.aux'.
 
@@ -850,7 +840,7 @@ Kapitel 16.
 \openout2 = `Kapitel_5_1.aux'.
 
  (Kapitel_5_1.tex
-Kapitel 17.
+Kapitel 16.
 [95
 
 
@@ -860,7 +850,7 @@ Kapitel 17.
 \openout2 = `Kapitel_5_1a.aux'.
 
  (Kapitel_5_1a.tex
-Kapitel 18.
+Kapitel 17.
 ) [97
 
 
@@ -870,7 +860,7 @@ Kapitel 18.
 \openout2 = `Kapitel_5_1b.aux'.
 
  (Kapitel_5_1b.tex
-Kapitel 19.
+Kapitel 18.
 [99
 
 
@@ -885,7 +875,7 @@ Kapitel 19.
 
 
 ]
-Kapitel 20.
+Kapitel 19.
 [107] [108]
 Overfull \hbox (57.0568pt too wide) in paragraph at lines 33--34
 \T1/cmr/m/n/10 ten-den-zi-ell ge-nau das Ge-gen-teil ver-wen-det (sie-he: https
@@ -896,7 +886,7 @@ Overfull \hbox (57.0568pt too wide) in paragraph at lines 33--34
 \openout2 = `Kapitel_5_2.aux'.
 
  (Kapitel_5_2.tex
-Kapitel 21.
+Kapitel 20.
 ) [115
 
 
@@ -911,7 +901,7 @@ Kapitel 21.
 
 
 ]
-Kapitel 22.
+Kapitel 21.
 ) [117]
 \openout2 = `Kapitel_5_3.aux'.
 
@@ -921,7 +911,7 @@ Kapitel 22.
 
 
 ]
-Kapitel 23.
+Kapitel 22.
 ) [119]
 \openout2 = `Kapitel_4_6.aux'.
 
@@ -931,7 +921,7 @@ Kapitel 23.
 
 
 ]
-Kapitel 24.
+Kapitel 23.
 ) [121]
 \openout2 = `Teil_VI.aux'.
 
@@ -944,7 +934,7 @@ Kapitel 24.
 \openout2 = `Kapitel_6_1.aux'.
 
  (Kapitel_6_1.tex
-Kapitel 25.
+Kapitel 24.
 ) [125
 
 
@@ -959,7 +949,7 @@ Kapitel 25.
 
 
 ]
-Kapitel 26.
+Kapitel 25.
 ) [127]
 \openout2 = `Kapitel_6_3.aux'.
 
@@ -969,7 +959,7 @@ Kapitel 26.
 
 
 ]
-Kapitel 27.
+Kapitel 26.
 ) [129]
 \openout2 = `Kapitel_6_4.aux'.
 
@@ -979,7 +969,7 @@ Kapitel 27.
 
 
 ]
-Kapitel 28.
+Kapitel 27.
 ) [131]
 \openout2 = `Kapitel_6_5.aux'.
 
@@ -989,7 +979,7 @@ Kapitel 28.
 
 
 ]
-Kapitel 29.
+Kapitel 28.
 ) [133]
 \openout2 = `Kapitel_6_6.aux'.
 
@@ -999,7 +989,7 @@ Kapitel 29.
 
 
 ]
-Kapitel 30.
+Kapitel 29.
 ) [135]
 \openout2 = `Kapitel_6_7.aux'.
 
@@ -1009,25 +999,25 @@ Kapitel 30.
 
 
 ]
-Kapitel 31.
+Kapitel 30.
 ) [137] [138
 
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 109.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 108.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) [139]
 [140]
-Overfull \hbox (16.31282pt too wide) in paragraph at lines 110--110
+Overfull \hbox (16.31282pt too wide) in paragraph at lines 109--109
 [][]\T1/cmr/m/n/10 Kirzner, Is-rael (1967).   Di-ver-gent Ap-proa-ches in Li-b
 er-ta-ri-an Eco-no-mic Thougth.
  []
 
 [141]
-Overfull \hbox (9.4879pt too wide) in paragraph at lines 110--110
+Overfull \hbox (9.4879pt too wide) in paragraph at lines 109--109
 [][][]\T1/cmr/m/n/10 (1976).   Eco-no-me-tric Po-li-cy Eva-lua-ti-on: A Cri-ti
 -que. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
@@ -1038,20 +1028,20 @@ No file Buch.ind.
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
-(Teil_IV.aux) (Kapitel_3_5.aux) (Kapitel_4_2.aux) (Kapitel_4_1.aux)
-(Kapitel_4_4.aux) (Kapitel_4_5.aux) (Teil_V.aux) (Kapitel_5_1.aux)
-(Kapitel_5_1a.aux) (Kapitel_5_1b.aux) (Kapitel_Neoliberal.aux) (Kapitel_5_2.aux
-) (Kapitel_5_2a.aux) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux)
-(Kapitel_6_1.aux) (Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux)
-(Kapitel_6_5.aux) (Kapitel_6_6.aux) (Kapitel_6_7.aux))
+(Teil_IV.aux) (Kapitel_3_5.aux) (Kapitel_4_1.aux) (Kapitel_4_4.aux)
+(Kapitel_4_5.aux) (Teil_V.aux) (Kapitel_5_1.aux) (Kapitel_5_1a.aux)
+(Kapitel_5_1b.aux) (Kapitel_Neoliberal.aux) (Kapitel_5_2.aux) (Kapitel_5_2a.aux
+) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux) (Kapitel_6_1.aux)
+(Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux) (Kapitel_6_5.aux)
+(Kapitel_6_6.aux) (Kapitel_6_7.aux))
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12063 strings out of 492970
- 215693 string characters out of 3135852
- 638835 words of memory out of 3000000
+ 12056 strings out of 492970
+ 215539 string characters out of 3135852
+ 636474 words of memory out of 3000000
  15530 multiletter control sequences out of 15000+200000
  15516 words of font info for 34 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -1077,9 +1067,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Buch.pdf (159 pages, 588516 bytes).
+Output written on Buch.pdf (159 pages, 592478 bytes).
 PDF statistics:
- 1277 PDF objects out of 1440 (max. 8388607)
+ 1278 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
