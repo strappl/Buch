@@ -131,15 +131,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.3.4}Reale Rigidit\IeC {\"a}ten}{82}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.5}Arbeitsmarkt, Kreditmarkt und G\IeC {\"u}termarkt Rigidit\IeC {\"a}ten}{84}
+\contentsline {subsection}{\numberline {13.3.5}Arbeitsmarkt-, Kreditmarkt- und G\IeC {\"u}termarkt-Rigidit\IeC {\"a}ten}{85}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.4}Arbeitslosigkeit als Suchproblem}{84}
+\contentsline {subsubsection}{Unvollkommenheiten am Arbeitsmarkt}{85}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.1}Diamond, Mortensen und Pisaridis}{85}
+\contentsline {section}{\numberline {13.4}Arbeitslosigkeit als Suchproblem}{85}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.5}Nicht-Neutralit\IeC {\"a}t von Geldpolitik}{85}
+\contentsline {subsection}{\numberline {13.4.1}Diamond, Mortensen und Pisaridis}{86}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.6}Wirkung und Bedeutung des Neu-Keynesianismus}{85}
+\contentsline {section}{\numberline {13.5}Nicht-Neutralit\IeC {\"a}t von Geldpolitik}{86}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.6}Wirkung und Bedeutung des Neu-Keynesianismus}{86}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {14}Neue Neoklassische Synthese}{87}
 \defcounter {refsection}{0}\relax 

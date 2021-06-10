@@ -1319,6 +1319,36 @@
     \field{year}{2000}
   \endentry
 
+  \entry{Herzberg1966}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HF}{%
+         family={Herzberg},
+         familyi={H\bibinitperiod},
+         given={Fredrick},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=CTYC}{%
+         family={Co.},
+         familyi={C\bibinitperiod},
+         given={Thomas Y.\bibnamedelima Crowell},
+         giveni={T\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HF1}
+    \strng{fullhash}{HF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1966}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Work and the Nature of Man}
+    \field{year}{1966}
+  \endentry
+
   \entry{Horn2018}{article}{}
     \name{author}{1}{}{%
       {{hash=HK}{%
@@ -2052,6 +2082,88 @@
     \field{volume}{32}
     \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{2018}
+  \endentry
+
+  \entry{Maslow1943}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MA}{%
+         family={Maslow},
+         familyi={M\bibinitperiod},
+         given={Abraham},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MA2}
+    \strng{fullhash}{MA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1943}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{370\bibrangedash 396}
+    \field{title}{A Theory of Human Motivation}
+    \field{volume}{50}
+    \field{journaltitle}{Psychological Review}
+    \field{year}{1943}
+  \endentry
+
+  \entry{McClelland1961}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MD}{%
+         family={McClelland},
+         familyi={M\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=VNP}{%
+         family={Van\bibnamedelima Nostrand},
+         familyi={V\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Princeton},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MD1}
+    \strng{fullhash}{MD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1961}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The Achieving Society}
+    \field{year}{1961}
+  \endentry
+
+  \entry{McGregor1960}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MD}{%
+         family={McGregor},
+         familyi={M\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MHNY}{%
+         family={McGraw-Hill},
+         familyi={M\bibinithyphendelim H\bibinitperiod},
+         given={New\bibnamedelima York:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MD2}
+    \strng{fullhash}{MD2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1960}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The Human Side of Enterprise}
+    \field{year}{1960}
   \endentry
 
   \entry{Mincer1974}{book}{}
@@ -3012,6 +3124,40 @@
     \field{year}{1963}
   \endentry
 
+  \entry{ShapiroStiglitz1984}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SC}{%
+         family={Shapiro},
+         familyi={S\bibinitperiod},
+         given={Carl},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SJE}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{SCSJE1}
+    \strng{fullhash}{SCSJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{433\bibrangedash 444}
+    \field{title}{Equilibrium Unemployment as a Worker Discipline Device}
+    \field{volume}{74}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1984}
+  \endentry
+
   \entry{Shiller2017}{article}{}
     \name{author}{1}{}{%
       {{hash=SRJ}{%
@@ -3119,6 +3265,35 @@
     \field{title}{Keynesian, New Keynesian and New Classical Economics}
     \field{journaltitle}{Oxford Economic Papers}
     \field{year}{1987}
+  \endentry
+
+  \entry{Stiglitz1976}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJE}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{SJE1}
+    \strng{fullhash}{SJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{185\bibrangedash 207}
+    \field{title}{The Efficiency Wage Hypothesis, Surplus Labour, and the
+  Distribution of Income in L.D.C.s}
+    \field{volume}{28}
+    \field{journaltitle}{Oxford Economic Papers}
+    \field{year}{1976}
   \endentry
 
   \entry{Taylor1979}{article}{}
@@ -3412,6 +3587,34 @@
     \field{title}{Revolution and Evolution in Twentieth-Century Macroeconomics}
     \field{journaltitle}{Frontiers of the Mind in the Twenty-First Century}
     \field{year}{1999}
+  \endentry
+
+  \entry{Yellen1984}{article}{}
+    \name{author}{1}{}{%
+      {{hash=YJL}{%
+         family={Yellen},
+         familyi={Y\bibinitperiod},
+         given={Janet\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{YJL1}
+    \strng{fullhash}{YJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{labeldatesource}{}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{number}{2}
+    \field{pages}{200\bibrangedash 205}
+    \field{title}{Efficiency Wage Models of Unemployment}
+    \field{volume}{74}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1984}
   \endentry
 \enddatalist
 \endinput
