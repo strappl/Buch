@@ -792,6 +792,36 @@
     \field{year}{1983}
   \endentry
 
+  \entry{Chamberlin1933}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CE}{%
+         family={Chamberlin},
+         familyi={C\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PHU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Harvard\bibnamedelima University},
+         giveni={H\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CE1}
+    \strng{fullhash}{CE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1933}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{The Theory of Monopolistic Competition: A Re-Orientation of
+  the Theory of Value}
+    \field{year}{1933}
+  \endentry
+
   \entry{Mundell1998}{article}{}
     \name{author}{1}{}{%
       {{hash=CL}{%
@@ -2810,6 +2840,35 @@
     \field{journaltitle}{Journal of Political Economy}
     \field{month}{06}
     \field{year}{1991}
+  \endentry
+
+  \entry{Robinson1933}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RJV}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={Joan\bibnamedelima V.},
+         giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ML}{%
+         family={Mcmillan},
+         familyi={M\bibinitperiod},
+         given={London:},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJV1}
+    \strng{fullhash}{RJV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1933}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{The Economics of Imperfect Competition}
+    \field{year}{1933}
   \endentry
 
   \entry{RomerDavid1993}{article}{}
