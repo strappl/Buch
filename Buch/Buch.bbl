@@ -1326,6 +1326,31 @@
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
   \endentry
 
+  \entry{Hart1982}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HO}{%
+         family={Hart},
+         familyi={H\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HO1}
+    \strng{fullhash}{HO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{1}
+    \field{pages}{109\bibrangedash 138}
+    \field{title}{A Model of Imperfect Competition with Keynesian Features}
+    \field{volume}{97}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1982}
+  \endentry
+
   \entry{Hegner2000}{book}{}
     \name{author}{1}{}{%
       {{hash=HJ}{%
