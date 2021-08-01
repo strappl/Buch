@@ -644,6 +644,52 @@
     \field{year}{1982}
   \endentry
 
+  \entry{Blanchard_1987}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BOJ}{%
+         family={Blanchard},
+         familyi={B\bibinitperiod},
+         given={Olivier\bibnamedelima Jean},
+         giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KN}{%
+         family={Kiyotaki},
+         familyi={K\bibinitperiod},
+         given={Nobuhiro},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{BOJKN1}
+    \strng{fullhash}{BOJKN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    How important is monopolistic competition to an understanding of the
+  effects of aggregate demand on output? We ask the question at three levels.
+  Can monopolistic competition, by itself, explain why aggregate demand
+  movements affect output? Can it, together with other imperfections, generate
+  effects of aggregate demand in a way that perfect competition cannot? If so,
+  can it give an accurate account of the response of the economy to aggregate
+  demand movements? The answers are no, yes, and yes.%
+    }
+    \field{number}{4}
+    \field{pages}{647\bibrangedash 666}
+    \field{title}{Monopolistic Competition and the Effects of Aggregate Demand}
+    \verb{url}
+    \verb http://www.jstor.org/stable/1814537
+    \endverb
+    \field{volume}{77}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1987}
+  \endentry
+
   \entry{Blanchard2003}{book}{}
     \name{author}{1}{}{%
       {{hash=BO}{%
@@ -1321,6 +1367,7 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
