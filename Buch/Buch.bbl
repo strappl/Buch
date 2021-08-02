@@ -644,7 +644,7 @@
     \field{year}{1982}
   \endentry
 
-  \entry{Blanchard_1987}{article}{}
+  \entry{Blanchard1987}{article}{}
     \name{author}{2}{}{%
       {{hash=BOJ}{%
          family={Blanchard},
@@ -923,6 +923,44 @@
     \field{sortinithash}{C}
     \field{title}{Interview with Robert Barro}
     \field{year}{2005}
+  \endentry
+
+  \entry{Dixit1977}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DAK}{%
+         family={Dixit},
+         familyi={D\bibinitperiod},
+         given={Avinash\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SJE}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{DAKSJE1}
+    \strng{fullhash}{DAKSJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{issn}{00028282}
+    \field{number}{3}
+    \field{pages}{297\bibrangedash 308}
+    \field{title}{Monopolistic Competition and Optimum Product Diversity}
+    \verb{url}
+    \verb http://www.jstor.org/stable/1831401
+    \endverb
+    \field{volume}{67}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1977}
   \endentry
 
   \entry{Epstein1999}{article}{}
@@ -1367,7 +1405,6 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
