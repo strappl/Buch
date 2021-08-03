@@ -70,7 +70,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 
 Here's how much of BibTeX's memory you used:
  Cites:               132 out of 750
- Fields:            14316 out of 23348
+ Fields:            14455 out of 23348
  Hash table:         4027 out of 5000
  Strings:            2013 out of 4000
  Free string pool:  26329 out of 65000
