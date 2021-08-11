@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  3 AUG 2021 14:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  11 AUG 2021 15:01
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -814,96 +814,98 @@ LaTeX Warning: Reference `drei Grunde' on page 82 undefined on input line 124.
 
 LaTeX Warning: Reference `drei Grunde' on page 82 undefined on input line 126.
 
-[82]
+[82] [83] [84] [85]
+Overfull \hbox (5.08704pt too wide) in paragraph at lines 161--162
+[]\T1/cmr/m/n/10 Auÿerdem gibt es, vier-tens, das nicht-rationale, Soziologisch
+e- oder Fairness-
+ []
 
-LaTeX Warning: Reference `drei Grunde' on page 83 undefined on input line 129.
-
-[83] [84] [85] [86] [87] [88]
-Overfull \hbox (23.55475pt too wide) in paragraph at lines 177--181
+[86] [87] [88]
+Overfull \hbox (23.55475pt too wide) in paragraph at lines 197--201
 []\T1/cmr/m/n/10 Die An-fän-ge Mo-no-po-lis-ti-sche Kon-kur-renz in ma-kro-ök
 o-no-mi-schen Mainstream-
  []
 
-[89] [90] [91]) [92]
+[89] [90] [91] [92]) [93]
 \openout2 = `Kapitel_4_4.aux'.
 
- (Kapitel_4_4.tex
+ (Kapitel_4_4.tex [94
+
+
+
+
+]
 Kapitel 14.
-[93
-
-
-
-
-] [94]) [95]
+[95] [96]) [97]
 \openout2 = `Kapitel_4_5.aux'.
 
- (Kapitel_4_5.tex [96
+ (Kapitel_4_5.tex [98
 
 
 
 
 ]
 Kapitel 15.
-) [97] [98]
+) [99] [100]
 \openout2 = `Teil_V.aux'.
 
- (Teil_V.tex [99
+ (Teil_V.tex [101
 
 
 
 
-] [100])
+] [102])
 \openout2 = `Kapitel_5_1.aux'.
 
  (Kapitel_5_1.tex
 Kapitel 16.
-[101
+[103
 
 
 
 
-]) [102]
+]) [104]
 \openout2 = `Kapitel_5_1a.aux'.
 
  (Kapitel_5_1a.tex
 Kapitel 17.
-) [103
+) [105
 
 
 
 
-] [104]
+] [106]
 \openout2 = `Kapitel_5_1b.aux'.
 
  (Kapitel_5_1b.tex
 Kapitel 18.
-[105
+[107
 
 
 
 
-] [106] [107] [108] [109] [110]) [111]
+] [108] [109] [110] [111] [112]) [113]
 \openout2 = `Kapitel_Neoliberal.aux'.
 
- (Kapitel_Neoliberal.tex [112
+ (Kapitel_Neoliberal.tex [114
 
 
 
 
 ]
 Kapitel 19.
-[113] [114]
+[115] [116]
 Overfull \hbox (57.0568pt too wide) in paragraph at lines 33--34
 \T1/cmr/m/n/10 ten-den-zi-ell ge-nau das Ge-gen-teil ver-wen-det (sie-he: https
 ://www.montpelerin.org/statement-
  []
 
-[115] [116] [117] [118] [119]) [120]
+[117] [118] [119] [120] [121]) [122]
 \openout2 = `Kapitel_5_2.aux'.
 
  (Kapitel_5_2.tex
 Kapitel 20.
-) [121
+) [123
 
 
 
@@ -911,47 +913,47 @@ Kapitel 20.
 ]
 \openout2 = `Kapitel_5_2a.aux'.
 
- (Kapitel_5_2a.tex [122
+ (Kapitel_5_2a.tex [124
 
 
 
 
 ]
 Kapitel 21.
-) [123]
+) [125]
 \openout2 = `Kapitel_5_3.aux'.
 
- (Kapitel_5_3.tex [124
+ (Kapitel_5_3.tex [126
 
 
 
 
 ]
 Kapitel 22.
-) [125]
+) [127]
 \openout2 = `Kapitel_4_6.aux'.
 
- (Kapitel_4_6.tex [126
+ (Kapitel_4_6.tex [128
 
 
 
 
 ]
 Kapitel 23.
-) [127]
+) [129]
 \openout2 = `Teil_VI.aux'.
 
- (Teil_VI.tex [128
+ (Teil_VI.tex [130
 
 
 
 
-] [129] [130])
+] [131] [132])
 \openout2 = `Kapitel_6_1.aux'.
 
  (Kapitel_6_1.tex
 Kapitel 24.
-) [131
+) [133
 
 
 
@@ -959,64 +961,64 @@ Kapitel 24.
 ]
 \openout2 = `Kapitel_6_2.aux'.
 
- (Kapitel_6_2.tex [132
+ (Kapitel_6_2.tex [134
 
 
 
 
 ]
 Kapitel 25.
-) [133]
+) [135]
 \openout2 = `Kapitel_6_3.aux'.
 
- (Kapitel_6_3.tex [134
+ (Kapitel_6_3.tex [136
 
 
 
 
 ]
 Kapitel 26.
-) [135]
+) [137]
 \openout2 = `Kapitel_6_4.aux'.
 
- (Kapitel_6_4.tex [136
+ (Kapitel_6_4.tex [138
 
 
 
 
 ]
 Kapitel 27.
-) [137]
+) [139]
 \openout2 = `Kapitel_6_5.aux'.
 
- (Kapitel_6_5.tex [138
+ (Kapitel_6_5.tex [140
 
 
 
 
 ]
 Kapitel 28.
-) [139]
+) [141]
 \openout2 = `Kapitel_6_6.aux'.
 
- (Kapitel_6_6.tex [140
+ (Kapitel_6_6.tex [142
 
 
 
 
 ]
 Kapitel 29.
-) [141]
+) [143]
 \openout2 = `Kapitel_6_7.aux'.
 
- (Kapitel_6_7.tex [142
+ (Kapitel_6_7.tex [144
 
 
 
 
 ]
 Kapitel 30.
-) [143] [144
+) [145] [146
 
 
 
@@ -1025,22 +1027,22 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 108.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [145]
-[146]
+) [147]
+[148]
 Overfull \hbox (16.31282pt too wide) in paragraph at lines 109--109
 [][]\T1/cmr/m/n/10 Kirzner, Is-rael (1967).   Di-ver-gent Ap-proa-ches in Li-b
 er-ta-ri-an Eco-no-mic Thougth.
  []
 
-[147]
+[149]
 Overfull \hbox (9.4879pt too wide) in paragraph at lines 109--109
 [][][]\T1/cmr/m/n/10 (1976).   Eco-no-me-tric Po-li-cy Eva-lua-ti-on: A Cri-ti
 -que. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[148] [149] [150] [151]
+[150] [151] [152] [153]
 No file Buch.ind.
-[152] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[154] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
@@ -1058,36 +1060,35 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12127 strings out of 492970
- 217483 string characters out of 3135852
- 642650 words of memory out of 3000000
+ 12126 strings out of 492970
+ 217469 string characters out of 3135852
+ 643683 words of memory out of 3000000
  15600 multiletter control sequences out of 15000+200000
- 16292 words of font info for 35 fonts, out of 3000000 for 9000
+ 15516 words of font info for 34 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 44i,7n,55p,4770b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,7n,55p,3798b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \ectt1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
-n\ec\dpi600\ecbx0900.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecti0900.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecrm0700.pk> <C:\Users\TRAPPL\AppData\Local\M
-iKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\TRAPPL\AppD
-ata\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\
-TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk>
+n\ec\dpi600\ecti0900.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\jknappen\ec\dpi600\ecrm0700.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\TRAPPL\AppData\Local\M
+iKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\TRAPPL\AppD
+ata\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\
+TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1000.pk>
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
-ccc1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecrm1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
-r\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\TRAPPL\AppData\Local\MiK
-TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\TRAPPL\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\TR
-APPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk> <
-C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecr
-m1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Buch.pdf (166 pages, 618153 bytes).
+crm1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbx1440.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
+r\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\TRAPPL\AppData\Local\MiK
+TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\TRAPPL\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk> <C:\Users\TR
+APPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Buch.pdf (168 pages, 619648 bytes).
 PDF statistics:
  1307 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
