@@ -3410,6 +3410,31 @@
     \field{year}{2005}
   \endentry
 
+  \entry{Solow1980}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Solow},
+         familyi={S\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR1}
+    \strng{fullhash}{SR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{On Theories of Unemployment}
+    \field{volume}{70}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1980}
+  \endentry
+
   \entry{Stiglitz1987}{article}{}
     \name{author}{1}{}{%
       {{hash=SBJEG}{%
@@ -3712,6 +3737,31 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Weiss1980}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WA}{%
+         family={Weiss},
+         familyi={W\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WA1}
+    \strng{fullhash}{WA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{3}
+    \field{pages}{526\bibrangedash 538}
+    \field{title}{Job Queues and Layoffs in Labor Markets with Flexible Wages}
+    \field{volume}{88}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1980}
+  \endentry
+
   \entry{Widmann2020}{article}{}
     \name{author}{1}{}{%
       {{hash=WA}{%
@@ -3721,8 +3771,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{WA1}
-    \strng{fullhash}{WA1}
+    \strng{namehash}{WA2}
+    \strng{fullhash}{WA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
