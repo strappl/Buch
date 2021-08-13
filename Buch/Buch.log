@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  12 AUG 2021 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  13 AUG 2021 14:47
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -815,97 +815,97 @@ LaTeX Warning: Reference `drei Grunde' on page 82 undefined on input line 124.
 LaTeX Warning: Reference `drei Grunde' on page 82 undefined on input line 126.
 
 [82] [83] [84] [85] [86]
-Overfull \hbox (5.08704pt too wide) in paragraph at lines 162--163
+Overfull \hbox (5.08704pt too wide) in paragraph at lines 163--164
 []\T1/cmr/m/n/10 Auÿerdem gibt es, vier-tens, das nicht-rationale, Soziologisch
 e- oder Fairness-
  []
 
-[87] [88] [89] [90]
-Overfull \hbox (23.55475pt too wide) in paragraph at lines 198--202
+[87] [88] [89] [90] [91]
+Overfull \hbox (23.55475pt too wide) in paragraph at lines 190--194
 []\T1/cmr/m/n/10 Die An-fän-ge Mo-no-po-lis-ti-sche Kon-kur-renz in ma-kro-ök
 o-no-mi-schen Mainstream-
  []
 
-[91] [92] [93]) [94]
+[92] [93] [94]) [95]
 \openout2 = `Kapitel_4_4.aux'.
 
- (Kapitel_4_4.tex
-Kapitel 14.
-[95
-
-
-
-
-] [96]) [97]
-\openout2 = `Kapitel_4_5.aux'.
-
- (Kapitel_4_5.tex [98
+ (Kapitel_4_4.tex [96
 
 
 
 
 ]
+Kapitel 14.
+[97] [98]) [99] [100]
+\openout2 = `Kapitel_4_5.aux'.
+
+ (Kapitel_4_5.tex
 Kapitel 15.
-) [99] [100]
+) [101
+
+
+
+
+] [102]
 \openout2 = `Teil_V.aux'.
 
- (Teil_V.tex [101
+ (Teil_V.tex [103
 
 
 
 
-] [102])
+] [104])
 \openout2 = `Kapitel_5_1.aux'.
 
  (Kapitel_5_1.tex
 Kapitel 16.
-[103
+[105
 
 
 
 
-]) [104]
+]) [106]
 \openout2 = `Kapitel_5_1a.aux'.
 
  (Kapitel_5_1a.tex
 Kapitel 17.
-) [105
+) [107
 
 
 
 
-] [106]
+] [108]
 \openout2 = `Kapitel_5_1b.aux'.
 
  (Kapitel_5_1b.tex
 Kapitel 18.
-[107
+[109
 
 
 
 
-] [108] [109] [110] [111] [112]) [113]
+] [110] [111] [112] [113] [114]) [115]
 \openout2 = `Kapitel_Neoliberal.aux'.
 
- (Kapitel_Neoliberal.tex [114
+ (Kapitel_Neoliberal.tex [116
 
 
 
 
 ]
 Kapitel 19.
-[115] [116]
+[117] [118]
 Overfull \hbox (57.0568pt too wide) in paragraph at lines 33--34
 \T1/cmr/m/n/10 ten-den-zi-ell ge-nau das Ge-gen-teil ver-wen-det (sie-he: https
 ://www.montpelerin.org/statement-
  []
 
-[117] [118] [119] [120] [121]) [122]
+[119] [120] [121] [122] [123]) [124]
 \openout2 = `Kapitel_5_2.aux'.
 
  (Kapitel_5_2.tex
 Kapitel 20.
-) [123
+) [125
 
 
 
@@ -913,47 +913,47 @@ Kapitel 20.
 ]
 \openout2 = `Kapitel_5_2a.aux'.
 
- (Kapitel_5_2a.tex [124
+ (Kapitel_5_2a.tex [126
 
 
 
 
 ]
 Kapitel 21.
-) [125]
+) [127]
 \openout2 = `Kapitel_5_3.aux'.
 
- (Kapitel_5_3.tex [126
+ (Kapitel_5_3.tex [128
 
 
 
 
 ]
 Kapitel 22.
-) [127]
+) [129]
 \openout2 = `Kapitel_4_6.aux'.
 
- (Kapitel_4_6.tex [128
+ (Kapitel_4_6.tex [130
 
 
 
 
 ]
 Kapitel 23.
-) [129]
+) [131]
 \openout2 = `Teil_VI.aux'.
 
- (Teil_VI.tex [130
+ (Teil_VI.tex [132
 
 
 
 
-] [131] [132])
+] [133] [134])
 \openout2 = `Kapitel_6_1.aux'.
 
  (Kapitel_6_1.tex
 Kapitel 24.
-) [133
+) [135
 
 
 
@@ -961,64 +961,64 @@ Kapitel 24.
 ]
 \openout2 = `Kapitel_6_2.aux'.
 
- (Kapitel_6_2.tex [134
+ (Kapitel_6_2.tex [136
 
 
 
 
 ]
 Kapitel 25.
-) [135]
+) [137]
 \openout2 = `Kapitel_6_3.aux'.
 
- (Kapitel_6_3.tex [136
+ (Kapitel_6_3.tex [138
 
 
 
 
 ]
 Kapitel 26.
-) [137]
+) [139]
 \openout2 = `Kapitel_6_4.aux'.
 
- (Kapitel_6_4.tex [138
+ (Kapitel_6_4.tex [140
 
 
 
 
 ]
 Kapitel 27.
-) [139]
+) [141]
 \openout2 = `Kapitel_6_5.aux'.
 
- (Kapitel_6_5.tex [140
+ (Kapitel_6_5.tex [142
 
 
 
 
 ]
 Kapitel 28.
-) [141]
+) [143]
 \openout2 = `Kapitel_6_6.aux'.
 
- (Kapitel_6_6.tex [142
+ (Kapitel_6_6.tex [144
 
 
 
 
 ]
 Kapitel 29.
-) [143]
+) [145]
 \openout2 = `Kapitel_6_7.aux'.
 
- (Kapitel_6_7.tex [144
+ (Kapitel_6_7.tex [146
 
 
 
 
 ]
 Kapitel 30.
-) [145] [146
+) [147] [148
 
 
 
@@ -1027,22 +1027,22 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 108.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [147]
-[148]
+) [149]
+[150] [151]
 Overfull \hbox (16.31282pt too wide) in paragraph at lines 109--109
 [][]\T1/cmr/m/n/10 Kirzner, Is-rael (1967).   Di-ver-gent Ap-proa-ches in Li-b
 er-ta-ri-an Eco-no-mic Thougth.
  []
 
-[149]
+
 Overfull \hbox (9.4879pt too wide) in paragraph at lines 109--109
 [][][]\T1/cmr/m/n/10 (1976).   Eco-no-me-tric Po-li-cy Eva-lua-ti-on: A Cri-ti
 -que. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[150] [151] [152] [153]
+[152] [153] [154] [155]
 No file Buch.ind.
-[154] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[156] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
@@ -1060,10 +1060,10 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12139 strings out of 492970
- 217789 string characters out of 3135852
- 644457 words of memory out of 3000000
- 15613 multiletter control sequences out of 15000+200000
+ 12183 strings out of 492970
+ 219020 string characters out of 3135852
+ 649645 words of memory out of 3000000
+ 15657 multiletter control sequences out of 15000+200000
  15516 words of font info for 34 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  44i,7n,55p,3798b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1088,9 +1088,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Buch.pdf (168 pages, 624274 bytes).
+Output written on Buch.pdf (170 pages, 630585 bytes).
 PDF statistics:
- 1307 PDF objects out of 1440 (max. 8388607)
+ 1315 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

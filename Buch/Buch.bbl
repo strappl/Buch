@@ -148,6 +148,164 @@
     \field{year}{1985}
   \endentry
 
+  \entry{AkerlofYellen1987}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AGA}{%
+         family={Akerlof},
+         familyi={A\bibinitperiod},
+         given={George\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=YJL}{%
+         family={Yellen},
+         familyi={Y\bibinitperiod},
+         given={Janet\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AGAYJL1}
+    \strng{fullhash}{AGAYJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{137\bibrangedash 142}
+    \field{title}{Rational Models of Irrational Behavior}
+    \field{volume}{77}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1987}
+  \endentry
+
+  \entry{AkerlofYellen1988}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AGA}{%
+         family={Akerlof},
+         familyi={A\bibinitperiod},
+         given={George\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=YJL}{%
+         family={Yellen},
+         familyi={Y\bibinitperiod},
+         given={Janet\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AGAYJL1}
+    \strng{fullhash}{AGAYJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1988}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{44\bibrangedash 49}
+    \field{title}{Fairness and Unemployment}
+    \field{volume}{78}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1988}
+  \endentry
+
+  \entry{AkerlofYellen1990}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AGA}{%
+         family={Akerlof},
+         familyi={A\bibinitperiod},
+         given={George\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=YJL}{%
+         family={Yellen},
+         familyi={Y\bibinitperiod},
+         given={Janet\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{AGAYJL1}
+    \strng{fullhash}{AGAYJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    This paper introduces the fair wage-effort hypothesis and explores its
+  implications. This hypothesis is motivated by equity theory in social
+  psychology and social exchange theory in sociology. According to the fair
+  wage-effort hypothesis, workers proportionately withdraw effort as their
+  actual wage falls short of their fair wage. Such behavior causes unemployment
+  and is also consistent with observed cross-section wage differentials and
+  unemployment patterns.%
+    }
+    \field{number}{2}
+    \field{pages}{255\bibrangedash 283}
+    \field{title}{The Fair Wage-Effort Hypothesis and Unemployment}
+    \field{volume}{105}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1990}
+  \endentry
+
+  \entry{Akerlof1982}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AG}{%
+         family={Akerlof},
+         familyi={A\bibinitperiod},
+         given={George},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AG1}
+    \strng{fullhash}{AG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4}
+    \field{pages}{543\bibrangedash 569}
+    \field{title}{Labor Contracts as Partial Gift Exchange}
+    \field{volume}{97}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1982}
+  \endentry
+
+  \entry{Akerlof1984}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AG}{%
+         family={Akerlof},
+         familyi={A\bibinitperiod},
+         given={George},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{AG1}
+    \strng{fullhash}{AG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{79\bibrangedash 83}
+    \field{title}{Gift Exchange and Efficiency-Wage Theory: Four Views}
+    \field{volume}{74}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1984}
+  \endentry
+
   \entry{Appelbaum2019}{book}{}
     \name{author}{1}{}{%
       {{hash=AB}{%
@@ -2150,10 +2308,47 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1991}
+    \field{extradate}{1}
     \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{title}{New Keynesian Economics, Vol 1}
+    \field{year}{1991}
+  \endentry
+
+  \entry{Mankiw1991b}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MNG}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         given={N\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PM}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={MIT},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNGRD1}
+    \strng{fullhash}{MNGRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{New Keynesian Economics, Vol 2}
     \field{year}{1991}
   \endentry
 
@@ -2589,6 +2784,42 @@
     \field{sortinithash}{N}
     \field{title}{Theory of Games and Economic Behavior}
     \field{year}{1944}
+  \endentry
+
+  \entry{Nobelpreis-Komitee2001}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=NK}{%
+         family={Nobelpreis-Komitee},
+         familyi={N\bibinithyphendelim K\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=iotBoSPiESiMoANA}{%
+         prefix={information on the Bank of Sweden Prize in Economic Sciences
+  in Memory\bibnamedelima of},
+         prefixi={i\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim
+  t\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  o\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim
+  E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  i\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim o\bibinitperiod},
+         family={Alfred\bibnamedelima Nobel},
+         familyi={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Advanced},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NK1}
+    \strng{fullhash}{NK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{George A. Akerlof: Behavioral Macroeconomics and
+  Macroeconomic Behavior}
+    \field{year}{2001}
   \endentry
 
   \entry{Nobelpreis-Komitee2006}{misc}{}
