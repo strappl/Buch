@@ -3403,6 +3403,38 @@
     \field{year}{1987}
   \endentry
 
+  \entry{Stiglitz1976a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RM}{%
+         family={Rothschild},
+         familyi={R\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SJE}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RMSJE1}
+    \strng{fullhash}{RMSJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{4}
+    \field{pages}{629\bibrangedash 649}
+    \field{title}{Equilibrium in Competitive Insurance Markets: An Essay on the
+  Economics of Imperfect Information}
+    \field{volume}{90}
+    \field{journaltitle}{Quarterly Journal of Economics}
+    \field{year}{1976}
+  \endentry
+
   \entry{Samuelson1998}{book}{}
     \name{author}{1}{}{%
       {{hash=SNWDP}{%
@@ -3691,7 +3723,7 @@
     \field{year}{1987}
   \endentry
 
-  \entry{Stiglitz1976}{article}{}
+  \entry{Stiglitz1976b}{article}{}
     \name{author}{1}{}{%
       {{hash=SJE}{%
          family={Stiglitz},
@@ -3718,6 +3750,37 @@
     \field{volume}{28}
     \field{journaltitle}{Oxford Economic Papers}
     \field{year}{1976}
+  \endentry
+
+  \entry{Stiglitz1981}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SJE}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Weiss},
+         familyi={W\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJEWA1}
+    \strng{fullhash}{SJEWA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{393\bibrangedash 410}
+    \field{title}{Credit Rationing in Markets with Imperfect Information}
+    \field{volume}{71}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1981}
   \endentry
 
   \entry{Taylor1979}{article}{}
