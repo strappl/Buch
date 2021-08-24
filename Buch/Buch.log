@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  20 AUG 2021 13:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  24 AUG 2021 22:12
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -807,36 +807,30 @@ Kapitel 12.
 
 ]
 Kapitel 13.
-[71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81]
-
-LaTeX Warning: Reference `drei Grunde' on page 82 undefined on input line 113.
-
-
-LaTeX Warning: Reference `drei Grunde' on page 82 undefined on input line 115.
-
-[82] [83] [84] [85] [86] [87]
-Overfull \hbox (5.08704pt too wide) in paragraph at lines 152--153
+[71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85]
+[86] [87]
+Overfull \hbox (5.08704pt too wide) in paragraph at lines 151--152
 []\T1/cmr/m/n/10 Auÿerdem gibt es, vier-tens, das nicht-rationale, Soziologisch
 e- oder Fairness-
  []
 
-[88] [89] [90] [91] [92] [93]
-Overfull \hbox (23.55475pt too wide) in paragraph at lines 181--185
+[88] [89] [90] [91] [92] [93] [94]
+Overfull \hbox (23.55475pt too wide) in paragraph at lines 184--188
 []\T1/cmr/m/n/10 Die An-fän-ge Mo-no-po-lis-ti-sche Kon-kur-renz in ma-kro-ök
 o-no-mi-schen Mainstream-
  []
 
-[94] [95] [96]) [97]
+[95] [96] [97]) [98]
 \openout2 = `Kapitel_4_4.aux'.
 
- (Kapitel_4_4.tex [98
-
-
-
-
-]
+ (Kapitel_4_4.tex
 Kapitel 14.
-[99] [100]) [101] [102]
+[99
+
+
+
+
+] [100]) [101] [102]
 \openout2 = `Kapitel_4_5.aux'.
 
  (Kapitel_4_5.tex
@@ -1052,18 +1046,15 @@ No file Buch.ind.
 ) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux) (Kapitel_6_1.aux)
 (Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux) (Kapitel_6_5.aux)
 (Kapitel_6_6.aux) (Kapitel_6_7.aux))
-
-LaTeX Warning: There were undefined references.
-
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12196 strings out of 492970
- 219364 string characters out of 3135852
- 648737 words of memory out of 3000000
- 15670 multiletter control sequences out of 15000+200000
+ 12209 strings out of 492970
+ 219701 string characters out of 3135852
+ 650857 words of memory out of 3000000
+ 15683 multiletter control sequences out of 15000+200000
  15516 words of font info for 34 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  44i,7n,55p,3798b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1088,9 +1079,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Buch.pdf (172 pages, 635319 bytes).
+Output written on Buch.pdf (172 pages, 639835 bytes).
 PDF statistics:
- 1321 PDF objects out of 1440 (max. 8388607)
+ 1322 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -127,21 +127,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.3.2}Reale Rigidit\IeC {\"a}ten}{81}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Unvollkommenheiten am Arbeitsmarkt}{84}
+\contentsline {subsubsection}{Unvollkommenheiten am Arbeitsmarkt}{85}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Unvollkommenheiten am Finanzmarkt}{90}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Unvollkommenheiten am G\IeC {\"u}termarkt}{91}
+\contentsline {subsubsection}{Unvollkommenheiten am G\IeC {\"u}termarkt}{92}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.3}Monopolistische Konkurrenz}{91}
+\contentsline {subsection}{\numberline {13.3.3}Monopolistische Konkurrenz}{92}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.4}Arbeitslosigkeit als Suchproblem}{96}
+\contentsline {section}{\numberline {13.4}Arbeitslosigkeit als Suchproblem}{97}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.1}Diamond, Mortensen und Pisaridis}{96}
+\contentsline {subsection}{\numberline {13.4.1}Diamond, Mortensen und Pisaridis}{98}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.5}Der Neu-Keynesianische Konjunkturzyklus}{96}
+\contentsline {section}{\numberline {13.5}Der Neu-Keynesianische Konjunkturzyklus}{98}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.6}Wirkung und Bedeutung des Neu-Keynesianismus}{96}
+\contentsline {section}{\numberline {13.6}Wirkung und Bedeutung des Neu-Keynesianismus}{98}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {14}Neue Neoklassische Synthese}{99}
 \defcounter {refsection}{0}\relax 

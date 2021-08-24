@@ -752,6 +752,38 @@
     \field{year}{1992}
   \endentry
 
+  \entry{Bernanke1983}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BBS}{%
+         family={Bernanke},
+         familyi={B\bibinitperiod},
+         given={Ben\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{BBS1}
+    \strng{fullhash}{BBS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{3}
+    \field{pages}{257\bibrangedash 276}
+    \field{title}{Nonmonetary Effects of the Financial Crisis in the
+  Propagation of the Great Depression}
+    \verb{url}
+    \verb http://www.jstor.org/stable/1808111
+    \endverb
+    \field{volume}{73}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1983}
+  \endentry
+
   \entry{Bernanke1984}{article}{}
     \name{author}{1}{}{%
       {{hash=BBS}{%
@@ -776,6 +808,43 @@
     \field{volume}{99}
     \field{journaltitle}{Quarterly Journal of Economics}
     \field{year}{1984}
+  \endentry
+
+  \entry{Bernanke1988}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BBS}{%
+         family={Bernanke},
+         familyi={B\bibinitperiod},
+         given={Ben\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BAS}{%
+         family={Blinder},
+         familyi={B\bibinitperiod},
+         given={Alan\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{BBSBAS1}
+    \strng{fullhash}{BBSBAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1988}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{435\bibrangedash 439}
+    \field{title}{Credit, Money, and Aggregate Demand}
+    \verb{url}
+    \verb http://www.jstor.org/stable/1818164
+    \endverb
+    \field{volume}{78}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1988}
   \endentry
 
   \entry{Blanchard1983}{article}{}
