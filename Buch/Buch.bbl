@@ -2377,47 +2377,10 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1991}
-    \field{extradate}{1}
     \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{title}{New Keynesian Economics, Vol 1}
-    \field{year}{1991}
-  \endentry
-
-  \entry{Mankiw1991b}{book}{}
-    \name{author}{2}{}{%
-      {{hash=MNG}{%
-         family={Mankiw},
-         familyi={M\bibinitperiod},
-         given={N\bibnamedelima Gregory},
-         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
-      }}%
-      {{hash=RD}{%
-         family={Romer},
-         familyi={R\bibinitperiod},
-         given={David},
-         giveni={D\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=PM}{%
-         family={Press},
-         familyi={P\bibinitperiod},
-         given={MIT},
-         giveni={M\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MNGRD1}
-    \strng{fullhash}{MNGRD1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1991}
-    \field{extradate}{2}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{title}{New Keynesian Economics, Vol 2}
     \field{year}{1991}
   \endentry
 
@@ -2924,6 +2887,31 @@
     \field{sortinithash}{N}
     \field{title}{Edmund Phelps's Contributions to Macroeconomics}
     \field{year}{2006}
+  \endentry
+
+  \entry{Okun1975}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OAM}{%
+         family={Okun},
+         familyi={O\bibinitperiod},
+         given={Arthur\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OAM1}
+    \strng{fullhash}{OAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1975}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{2}
+    \field{pages}{351\bibrangedash 401}
+    \field{title}{Inflation: Its Mechanics and Welfare Costs}
+    \field{volume}{1975}
+    \field{journaltitle}{Brookings Papers on Economic Activity}
+    \field{year}{1975}
   \endentry
 
   \entry{Parkin1986}{article}{}
@@ -3472,6 +3460,67 @@
     \field{year}{1987}
   \endentry
 
+  \entry{Rotemberg1986}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RJJ}{%
+         family={Rotemberg},
+         familyi={R\bibinitperiod},
+         given={Julio\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Saloner},
+         familyi={S\bibinitperiod},
+         given={Garth},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJJSG1}
+    \strng{fullhash}{RJJSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{3}
+    \field{pages}{390\bibrangedash 407}
+    \field{title}{A Supergame-Theoretic Model of Price Wars during Booms}
+    \field{volume}{76}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1986}
+  \endentry
+
+  \entry{Rotemberg1991}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RJJ}{%
+         family={Rotemberg},
+         familyi={R\bibinitperiod},
+         given={Julio\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJJWM1}
+    \strng{fullhash}{RJJWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{1}
+    \field{title}{Markups and the Business Cycle}
+    \field{volume}{6}
+    \field{journaltitle}{NBER Macroeconomics Annual}
+    \field{year}{1991}
+  \endentry
+
   \entry{Stiglitz1976a}{article}{}
     \name{author}{2}{}{%
       {{hash=RM}{%
@@ -3819,6 +3868,34 @@
     \field{volume}{28}
     \field{journaltitle}{Oxford Economic Papers}
     \field{year}{1976}
+  \endentry
+
+  \entry{Stiglitz1984}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJE}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{SJE1}
+    \strng{fullhash}{SJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{350\bibrangedash 355}
+    \field{title}{Price Rigidities and Market Structure}
+    \field{volume}{74}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1984}
   \endentry
 
   \entry{Stiglitz1981}{article}{}
