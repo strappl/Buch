@@ -847,6 +847,31 @@
     \field{year}{1988}
   \endentry
 
+  \entry{Bils1987}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BM}{%
+         family={Bils},
+         familyi={B\bibinitperiod},
+         given={Mark\bibnamedelima 1987},
+         giveni={M\bibinitperiod\bibinitdelim \bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BM1}
+    \strng{fullhash}{BM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{5}
+    \field{pages}{838\bibrangedash 855}
+    \field{title}{The Cyclical Behavior of Marginal Cost and Price}
+    \field{volume}{77}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1987}
+  \endentry
+
   \entry{Blanchard1983}{article}{}
     \name{author}{1}{}{%
       {{hash=BOJ}{%
@@ -1301,6 +1326,31 @@
     \field{year}{1911}
   \endentry
 
+  \entry{Friedman1971}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FJ}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FJ1}
+    \strng{fullhash}{FJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1971}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 12}
+    \field{title}{A Non-cooperative Equilibrium for Supergames}
+    \field{volume}{38}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1971}
+  \endentry
+
   \entry{Friedman1957}{book}{}
     \name{author}{1}{}{%
       {{hash=FM}{%
@@ -1632,6 +1682,7 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -2785,6 +2836,35 @@
     \field{year}{2008}
   \endentry
 
+  \entry{Nekarda2020}{article}{}
+    \name{author}{2}{}{%
+      {{hash=NCJ}{%
+         family={Nekarda},
+         familyi={N\bibinitperiod},
+         given={Christopher\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RVA}{%
+         family={Ramey},
+         familyi={R\bibinitperiod},
+         given={Valerie\bibnamedelima A.},
+         giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NCJRVA1}
+    \strng{fullhash}{NCJRVA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{pages}{1\bibrangedash 44}
+    \field{title}{The Cyclical Behavior of the Price-Cost Markup}
+    \field{journaltitle}{NBER Working Paper}
+    \field{year}{2020}
+  \endentry
+
   \entry{VonNeumann1944}{book}{}
     \name{author}{1}{}{%
       {{hash=vNOJM}{%
@@ -2887,31 +2967,6 @@
     \field{sortinithash}{N}
     \field{title}{Edmund Phelps's Contributions to Macroeconomics}
     \field{year}{2006}
-  \endentry
-
-  \entry{Okun1975}{article}{}
-    \name{author}{1}{}{%
-      {{hash=OAM}{%
-         family={Okun},
-         familyi={O\bibinitperiod},
-         given={Arthur\bibnamedelima M.},
-         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{OAM1}
-    \strng{fullhash}{OAM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1975}
-    \field{labeldatesource}{}
-    \field{sortinit}{O}
-    \field{sortinithash}{O}
-    \field{number}{2}
-    \field{pages}{351\bibrangedash 401}
-    \field{title}{Inflation: Its Mechanics and Welfare Costs}
-    \field{volume}{1975}
-    \field{journaltitle}{Brookings Papers on Economic Activity}
-    \field{year}{1975}
   \endentry
 
   \entry{Parkin1986}{article}{}
@@ -3489,36 +3544,6 @@
     \field{volume}{76}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1986}
-  \endentry
-
-  \entry{Rotemberg1991}{article}{}
-    \name{author}{2}{}{%
-      {{hash=RJJ}{%
-         family={Rotemberg},
-         familyi={R\bibinitperiod},
-         given={Julio\bibnamedelima J.},
-         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-      {{hash=WM}{%
-         family={Woodford},
-         familyi={W\bibinitperiod},
-         given={Michael},
-         giveni={M\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{RJJWM1}
-    \strng{fullhash}{RJJWM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1991}
-    \field{labeldatesource}{}
-    \field{sortinit}{R}
-    \field{sortinithash}{R}
-    \field{number}{1}
-    \field{title}{Markups and the Business Cycle}
-    \field{volume}{6}
-    \field{journaltitle}{NBER Macroeconomics Annual}
-    \field{year}{1991}
   \endentry
 
   \entry{Stiglitz1976a}{article}{}
