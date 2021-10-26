@@ -1177,6 +1177,60 @@
     \field{year}{2005}
   \endentry
 
+  \entry{Cooper1988}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CR}{%
+         family={Cooper},
+         familyi={C\bibinitperiod},
+         given={Russel},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={John},
+         familyi={J\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRJA1}
+    \strng{fullhash}{CRJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{441\bibrangedash 463}
+    \field{title}{Coordinating Coordination Failures in Keynesian Models}
+    \field{volume}{103}
+    \field{journaltitle}{Quarterly Journal of Economics}
+  \endentry
+
+  \entry{Diamond1982}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DPA}{%
+         family={Diamond},
+         familyi={D\bibinitperiod},
+         given={Peter\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DPA1}
+    \strng{fullhash}{DPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{5}
+    \field{pages}{881\bibrangedash 849}
+    \field{title}{Aggregate Demand Management in Search Equilibrium}
+    \field{volume}{90}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1982}
+  \endentry
+
   \entry{Dixit1977}{article}{}
     \name{author}{2}{}{%
       {{hash=DAK}{%
@@ -2675,6 +2729,63 @@
     \field{year}{1954}
   \endentry
 
+  \entry{Mortensen1978}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MDT}{%
+         family={Mortensen},
+         familyi={M\bibinitperiod},
+         given={Dale\bibnamedelima T.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MDT1}
+    \strng{fullhash}{MDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{572\bibrangedash 586}
+    \field{title}{Specific Capital and Labor Turnover}
+    \field{volume}{9}
+    \field{journaltitle}{The Bell Journal of Economics.}
+    \field{year}{1978}
+  \endentry
+
+  \entry{Mortensen_Pissarides1994}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MDT}{%
+         family={Mortensen},
+         familyi={M\bibinitperiod},
+         given={Dale\bibnamedelima T.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=PCA}{%
+         family={Pissarides},
+         familyi={P\bibinitperiod},
+         given={Christopher\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MDTPCA1}
+    \strng{fullhash}{MDTPCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{397}
+    \field{title}{Job creation and Job Destruction in the Theory of
+  Unemployment.}
+    \field{volume}{61}
+    \field{journaltitle}{Review of Economic Studies}
+    \field{year}{1994}
+  \endentry
+
   \entry{Mundell1961}{article}{}
     \name{author}{1}{}{%
       {{hash=MRA}{%
@@ -3266,6 +3377,32 @@
     \field{year}{2012}
   \endentry
 
+  \entry{Pissarides1985}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PCA}{%
+         family={Pissarides},
+         familyi={P\bibinitperiod},
+         given={Christopher\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PCA1}
+    \strng{fullhash}{PCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{4}
+    \field{pages}{676 \bibrangedash  690}
+    \field{title}{Short-Run Equilibrium Dynamics of Unemployment, Vacancies,
+  and Real Wages.}
+    \field{volume}{75}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1985}
+  \endentry
+
   \entry{Rebelo1991}{article}{}
     \name{author}{1}{}{%
       {{hash=RS}{%
@@ -3321,6 +3458,49 @@
     \field{sortinithash}{R}
     \field{title}{The Economics of Imperfect Competition}
     \field{year}{1933}
+  \endentry
+
+  \entry{Rogerson2005}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RR}{%
+         family={Rogerson},
+         familyi={R\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Shimer},
+         familyi={S\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Wright},
+         familyi={W\bibinitperiod},
+         given={Randall},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RRSRWR1}
+    \strng{fullhash}{RRSRWR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.1257/002205105775362014
+    \endverb
+    \field{number}{4}
+    \field{pages}{959\bibrangedash 988}
+    \field{title}{Search-Theoretic Models of the Labor Market: A Survey}
+    \verb{url}
+    \verb https://www.aeaweb.org/articles?id=10.1257/002205105775362014
+    \endverb
+    \field{volume}{43}
+    \field{journaltitle}{Journal of Economic Literature}
+    \field{year}{2005}
   \endentry
 
   \entry{RomerDavid1993}{article}{}
@@ -4248,6 +4428,61 @@
   Ausgabe 29.02.2020}
     \field{journaltitle}{derStandard}
     \field{year}{2020}
+  \endentry
+
+  \entry{Woodford1990b}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley, Econometric Society}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{2}
+    \field{pages}{277\bibrangedash 307}
+    \field{title}{Learning to Believe in Sunspots}
+    \field{volume}{58}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1990}
+  \endentry
+
+  \entry{Woodford1990}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{3361}
+    \field{pages}{1\bibrangedash 43}
+    \field{title}{Self-Fullfilling Expectations and Fluctuations in Aggregate
+  Demand}
+    \field{journaltitle}{NBER Working Paper Series}
+    \field{year}{1990}
   \endentry
 
   \entry{Woodford1999}{article}{}
