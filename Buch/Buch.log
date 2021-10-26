@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.28)  26 OCT 2021 16:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.28)  26 OCT 2021 21:09
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -866,18 +866,18 @@ Overfull \hbox (23.55475pt too wide) in paragraph at lines 195--199
 o-no-mi-schen Mainstream-
  []
 
-[98] [99] [100] [101] [102]) [103]
+[98] [99] [100] [101] [102] [103]) [104]
 \openout2 = `Kapitel_4_4.aux'.
 
- (Kapitel_4_4.tex [104
-
-
-
-
-
-]
+ (Kapitel_4_4.tex
 Kapitel 14.
-[105] [106]) [107] [108]
+[105
+
+
+
+
+
+] [106]) [107] [108]
 \openout2 = `Kapitel_4_5.aux'.
 
  (Kapitel_4_5.tex
@@ -1113,6 +1113,10 @@ No file Buch.ind.
 ) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux) (Kapitel_6_1.aux)
 (Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux) (Kapitel_6_5.aux)
 (Kapitel_6_6.aux) (Kapitel_6_7.aux))
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
@@ -1147,7 +1151,7 @@ msfonts/cm/cmmi10.pfb><C:/Users/stefa/AppData/Local/Programs/MiKTeX/fonts/type1
 ts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/stefa/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/stefa/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Buch.pdf (179 pages, 659624 bytes).
+Output written on Buch.pdf (179 pages, 661525 bytes).
 PDF statistics:
  1349 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
