@@ -603,6 +603,98 @@
     \field{year}{1976}
   \endentry
 
+  \entry{Baumol1967}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BWJ}{%
+         family={Baumol},
+         familyi={B\bibinitperiod},
+         given={William\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BWJ1}
+    \strng{fullhash}{BWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1967}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{3}
+    \field{pages}{419\bibrangedash 420}
+    \field{title}{Macroeconomics of Unbalanced Growth: The Anatomy of Urban
+  Crisis}
+    \field{volume}{57}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1967}
+  \endentry
+
+  \entry{Baumol2012}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BWJ}{%
+         family={Baumol},
+         familyi={B\bibinitperiod},
+         given={William\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=YUPNH}{%
+         family={Yale University\bibnamedelima Press},
+         familyi={Y\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+         given={New\bibnamedelima Haven},
+         giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=L}{%
+         family={London},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BWJ1}
+    \strng{fullhash}{BWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{The Cost Disease}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Baumol1965}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BWJ}{%
+         family={Baumol},
+         familyi={B\bibinitperiod},
+         given={William\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BWG}{%
+         family={Bowen},
+         familyi={B\bibinitperiod},
+         given={William\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BWJBWG1}
+    \strng{fullhash}{BWJBWG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1965}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{495\bibrangedash 502}
+    \field{title}{On the Performing Arts: The Anatomy of their Economic
+  Problems}
+    \field{volume}{55}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1965}
+  \endentry
+
   \entry{Becker1957}{book}{}
     \name{author}{1}{}{%
       {{hash=BGS}{%
@@ -1979,6 +2071,31 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Krueger2001Interview}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KAB}{%
+         family={Krueger},
+         familyi={K\bibinitperiod},
+         given={Alan\bibnamedelima B},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KAB1}
+    \strng{fullhash}{KAB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{3}
+    \field{pages}{211\bibrangedash 231}
+    \field{title}{An Interview with William J. Baumol}
+    \field{volume}{15}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2001}
+  \endentry
+
   \entry{Kydland1977}{article}{}
     \name{author}{1}{}{%
       {{hash=KECFEP}{%
@@ -3078,6 +3195,36 @@
     \field{sortinithash}{N}
     \field{title}{Edmund Phelps's Contributions to Macroeconomics}
     \field{year}{2006}
+  \endentry
+
+  \entry{Nordhaus2008}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NWD}{%
+         family={Nordhaus},
+         familyi={N\bibinitperiod},
+         given={William\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NWD1}
+    \strng{fullhash}{NWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \verb{doi}
+    \verb doi:10.2202/1935-1690.1382
+    \endverb
+    \field{number}{1}
+    \field{title}{Baumol's Diseases: A Macroeconomic Perspective}
+    \verb{url}
+    \verb https://doi.org/10.2202/1935-1690.1382
+    \endverb
+    \field{volume}{8}
+    \field{journaltitle}{The B.E. Journal of Macroeconomics}
+    \field{year}{2008}
   \endentry
 
   \entry{Parkin1986}{article}{}
