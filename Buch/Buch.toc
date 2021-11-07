@@ -119,27 +119,27 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.1.2}Die Kostenkrankheit und angreifbare Märkte}{74}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.2}Phelps: Mikrofoundation der Makroökonomie}{75}{}%
+\contentsline {section}{\numberline {13.2}Phelps: Mikrofoundation der Makroökonomie}{76}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.3}"'Kern"' des Neukeynesianismus}{79}{}%
+\contentsline {section}{\numberline {13.3}"'Kern"' des Neukeynesianismus}{80}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.1}Nominale Rigiditäten}{79}{}%
+\contentsline {subsection}{\numberline {13.3.1}Nominale Rigiditäten}{80}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.2}Reale Rigiditäten}{83}{}%
+\contentsline {subsection}{\numberline {13.3.2}Reale Rigiditäten}{84}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Unvollkommenheiten am Arbeitsmarkt}{86}{}%
+\contentsline {subsubsection}{Unvollkommenheiten am Arbeitsmarkt}{87}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Unvollkommenheiten am Finanzmarkt}{91}{}%
+\contentsline {subsubsection}{Unvollkommenheiten am Finanzmarkt}{92}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Unvollkommenheiten am Gütermarkt}{94}{}%
+\contentsline {subsubsection}{Unvollkommenheiten am Gütermarkt}{95}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.3}Monopolistische Konkurrenz}{97}{}%
+\contentsline {subsection}{\numberline {13.3.3}Monopolistische Konkurrenz}{98}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.4}Koordinationsversagen}{102}{}%
+\contentsline {section}{\numberline {13.4}Koordinationsversagen}{103}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.5}Der Neu-Keynesianische Konjunkturzyklus}{104}{}%
+\contentsline {section}{\numberline {13.5}Der Neu-Keynesianische Konjunkturzyklus}{105}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.6}Wirkung und Bedeutung des Neu-Keynesianismus}{105}{}%
+\contentsline {section}{\numberline {13.6}Wirkung und Bedeutung des Neu-Keynesianismus}{106}{}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {14}Neue Neoklassische Synthese}{109}{}%
 \defcounter {refsection}{0}\relax 

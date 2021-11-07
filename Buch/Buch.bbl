@@ -695,6 +695,47 @@
     \field{year}{1965}
   \endentry
 
+  \entry{Baumol1982}{book}{}
+    \name{author}{3}{}{%
+      {{hash=BWJ}{%
+         family={Baumol},
+         familyi={B\bibinitperiod},
+         given={William\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=PJC}{%
+         family={Panzar},
+         familyi={P\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=WRD}{%
+         family={Willig},
+         familyi={W\bibinitperiod},
+         given={R.\bibnamedelima D.},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PSC}{%
+         family={Publishing},
+         familyi={P\bibinitperiod},
+         given={Saunders\bibnamedelima College},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BWJPJCWRD1}
+    \strng{fullhash}{BWJPJCWRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Contestable Markets and the Theory of Industry Structure}
+    \field{year}{1982}
+  \endentry
+
   \entry{Becker1957}{book}{}
     \name{author}{1}{}{%
       {{hash=BGS}{%
