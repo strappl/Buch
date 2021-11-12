@@ -629,6 +629,32 @@
     \field{year}{1967}
   \endentry
 
+  \entry{Baumol1982b}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BWJ}{%
+         family={Baumol},
+         familyi={B\bibinitperiod},
+         given={William\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BWJ1}
+    \strng{fullhash}{BWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 15}
+    \field{title}{Contestable Markets: An Uprising in the Theory of Industry
+  Structure}
+    \field{volume}{72}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1982}
+  \endentry
+
   \entry{Baumol2012}{book}{}
     \name{author}{1}{}{%
       {{hash=BWJ}{%
@@ -1329,7 +1355,6 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -1869,7 +1894,6 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -2240,6 +2264,31 @@
     \field{volume}{1765}
     \field{journaltitle}{The Heritage Foundation: Backgrounder}
     \field{year}{2004}
+  \endentry
+
+  \entry{Leibenstein1966}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LH}{%
+         family={Leibenstein},
+         familyi={L\bibinitperiod},
+         given={Harvey},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LH1}
+    \strng{fullhash}{LH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1966}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{3}
+    \field{pages}{392\bibrangedash 415}
+    \field{title}{Allocative Efficiency vs. "X-Efficiency"}
+    \field{volume}{56}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1966}
   \endentry
 
   \entry{Linss2017}{book}{}
@@ -3478,6 +3527,38 @@
     \field{year}{2006}
   \endentry
 
+  \entry{Taylor1977}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PES}{%
+         family={Phelps},
+         familyi={P\bibinitperiod},
+         given={Edmund\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=TJB}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PESTJB1}
+    \strng{fullhash}{PESTJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1}
+    \field{pages}{163\bibrangedash 190}
+    \field{title}{Stabilizing Powers of Monetary Policy under Rational
+  Expectations}
+    \field{volume}{85}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1977}
+  \endentry
+
   \entry{Phelps1961}{article}{}
     \name{author}{1}{}{%
       {{hash=PE}{%
@@ -3507,35 +3588,6 @@
     \field{volume}{51}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1961}
-  \endentry
-
-  \entry{Taylor1977}{article}{}
-    \name{author}{1}{}{%
-      {{hash=PJBEST}{%
-         family={Phelps},
-         familyi={P\bibinitperiod},
-         suffix={Edmund S.;\bibnamedelima Taylor},
-         suffixi={E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
-  T\bibinitperiod},
-         given={John\bibnamedelima B.},
-         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{PESTJB1}
-    \strng{fullhash}{PESTJB1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1977}
-    \field{labeldatesource}{}
-    \field{sortinit}{P}
-    \field{sortinithash}{P}
-    \field{number}{1}
-    \field{pages}{163\bibrangedash 190}
-    \field{title}{Stabilizing Powers of Monetary Policy under Rational
-  Expectations}
-    \field{volume}{85}
-    \field{journaltitle}{Journal of Political Economy}
-    \field{year}{1977}
   \endentry
 
   \entry{Pierenkemper2012}{book}{}
