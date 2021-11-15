@@ -116,6 +116,32 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Akerlof1970}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AGA}{%
+         family={Akerlof},
+         familyi={A\bibinitperiod},
+         given={George\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AGA1}
+    \strng{fullhash}{AGA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1970}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{488\bibrangedash 500}
+    \field{title}{The Market for "Lemons": Quality Uncertainty and the Market
+  Mechanism}
+    \field{volume}{84}
+    \field{journaltitle}{Quarterly Journal of Economics}
+    \field{year}{1970}
+  \endentry
+
   \entry{Akerlof1985}{article}{}
     \name{author}{2}{}{%
       {{hash=AGA}{%
@@ -4259,6 +4285,31 @@
     \field{volume}{70}
     \field{journaltitle}{American Economic Review}
     \field{year}{1980}
+  \endentry
+
+  \entry{Spence1973}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SM}{%
+         family={Spence},
+         familyi={S\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SM2}
+    \strng{fullhash}{SM2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{355\bibrangedash 374}
+    \field{title}{Job Market Signaling}
+    \field{volume}{87}
+    \field{journaltitle}{Quarterly Journal of Economics}
+    \field{year}{1973}
   \endentry
 
   \entry{Stiglitz1987}{article}{}
