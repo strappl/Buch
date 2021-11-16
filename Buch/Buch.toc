@@ -119,29 +119,29 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.1.1}Informationsasymmetrie}{73}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.2}Die Kostenkrankheit und angreifbare M\IeC {\"a}rkte}{76}
+\contentsline {subsection}{\numberline {13.1.2}Die Kostenkrankheit und angreifbare M\IeC {\"a}rkte}{77}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.2}Phelps: Mikrofoundation der Makro\IeC {\"o}konomie}{81}
+\contentsline {section}{\numberline {13.2}Phelps: Mikrofoundation der Makro\IeC {\"o}konomie}{82}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.3}"'Kern"' des Neukeynesianismus}{86}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.1}Nominale Rigidit\IeC {\"a}ten}{86}
+\contentsline {subsection}{\numberline {13.3.1}Nominale Rigidit\IeC {\"a}ten}{87}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.2}Reale Rigidit\IeC {\"a}ten}{89}
+\contentsline {subsection}{\numberline {13.3.2}Reale Rigidit\IeC {\"a}ten}{90}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Unvollkommenheiten am Arbeitsmarkt}{93}
+\contentsline {subsubsection}{Unvollkommenheiten am Arbeitsmarkt}{94}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Unvollkommenheiten am Finanzmarkt}{98}
+\contentsline {subsubsection}{Unvollkommenheiten am Finanzmarkt}{99}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Unvollkommenheiten am G\IeC {\"u}termarkt}{100}
+\contentsline {subsubsection}{Unvollkommenheiten am G\IeC {\"u}termarkt}{101}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.3}Monopolistische Konkurrenz}{103}
+\contentsline {subsection}{\numberline {13.3.3}Monopolistische Konkurrenz}{104}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.4}Koordinationsversagen}{108}
+\contentsline {section}{\numberline {13.4}Koordinationsversagen}{109}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.5}Der Neu-Keynesianische Konjunkturzyklus}{111}
+\contentsline {section}{\numberline {13.5}Der Neu-Keynesianische Konjunkturzyklus}{112}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.6}Wirkung und Bedeutung des Neu-Keynesianismus}{111}
+\contentsline {section}{\numberline {13.6}Wirkung und Bedeutung des Neu-Keynesianismus}{112}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {14}Neue Neoklassische Synthese}{115}
 \defcounter {refsection}{0}\relax 

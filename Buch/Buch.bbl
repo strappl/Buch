@@ -396,6 +396,31 @@
     \field{year}{1962}
   \endentry
 
+  \entry{Arrow1963}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AKJ}{%
+         family={Arrow},
+         familyi={A\bibinitperiod},
+         given={Kenneth\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AKJ1}
+    \strng{fullhash}{AKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1963}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{5}
+    \field{pages}{941\bibrangedash 973}
+    \field{title}{Uncertainty and the Welfare Economics of Medical Care}
+    \field{volume}{55}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1963}
+  \endentry
+
   \entry{Ball1989}{article}{}
     \name{author}{2}{}{%
       {{hash=BL}{%
@@ -1415,6 +1440,35 @@
     \field{year}{1982}
   \endentry
 
+  \entry{Dickerson1963}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DOD}{%
+         family={Dickerson},
+         familyi={D\bibinitperiod},
+         given={O.\bibnamedelima D.},
+         giveni={O\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=HI}{%
+         family={Homewood},
+         familyi={H\bibinitperiod},
+         given={Illinois},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DOD1}
+    \strng{fullhash}{DOD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1963}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Health Insurance}
+    \field{year}{1963}
+  \endentry
+
   \entry{Dixit1977}{article}{}
     \name{author}{2}{}{%
       {{hash=DAK}{%
@@ -1670,7 +1724,7 @@
     \field{pages}{1\bibrangedash 17}
     \field{title}{The Role of Monetary Policy}
     \field{volume}{58}
-    \field{journaltitle}{American Economic Review}
+    \field{journaltitle}{The American Economic Review}
     \field{year}{1968}
   \endentry
 
@@ -2023,6 +2077,38 @@
     \field{title}{Der Neoliberalismus wird achtzig}
     \field{journaltitle}{Frankfurter Allgemeine Zeitung}
     \field{year}{2018}
+  \endentry
+
+  \entry{Jensen1976}{article}{}
+    \name{author}{2}{}{%
+      {{hash=JMC}{%
+         family={Jensen},
+         familyi={J\bibinitperiod},
+         given={Michael\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MWH}{%
+         family={Meckling},
+         familyi={M\bibinitperiod},
+         given={William\bibnamedelima H.},
+         giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JMCMWH1}
+    \strng{fullhash}{JMCMWH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{4}
+    \field{pages}{305\bibrangedash 360}
+    \field{title}{Theory of the Firm: Managerial Behavior, Agency Costs and
+  Ownership Structure}
+    \field{volume}{3}
+    \field{journaltitle}{Journal of Financial Economics}
+    \field{year}{1976}
   \endentry
 
   \entry{Jones1995}{article}{}
@@ -2987,7 +3073,7 @@
     \field{year}{1978}
   \endentry
 
-  \entry{Mortensen_Pissarides1994}{article}{}
+  \entry{MortensenPissarides1994}{article}{}
     \name{author}{2}{}{%
       {{hash=MDT}{%
          family={Mortensen},
@@ -3366,6 +3452,31 @@
     \field{volume}{94}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1986}
+  \endentry
+
+  \entry{Pauly1968}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PMV}{%
+         family={Pauly},
+         familyi={P\bibinitperiod},
+         given={Mark\bibnamedelima V.},
+         giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PMV1}
+    \strng{fullhash}{PMV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1968}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{3}
+    \field{pages}{531\bibrangedash 537}
+    \field{title}{The Economics of Moral Hazard: Comment}
+    \field{volume}{58}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1968}
   \endentry
 
   \entry{Tabellini1993}{article}{}
