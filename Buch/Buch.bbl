@@ -1406,6 +1406,7 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -1974,6 +1975,7 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -4587,6 +4589,30 @@
     \field{volume}{80}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1980}
+  \endentry
+
+  \entry{Taylor1993}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJB}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJB1}
+    \strng{fullhash}{TJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{pages}{195\bibrangedash 214}
+    \field{title}{Discretion versus Policy Rules in Practice}
+    \field{volume}{39}
+    \field{journaltitle}{Carnegie-Rochester Conference Series on Public Policy}
+    \field{year}{1993}
   \endentry
 
   \entry{Tobin1993}{article}{}
