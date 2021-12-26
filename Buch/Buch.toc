@@ -103,7 +103,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.1}Lucas' Kritik und Sargent's Beitrag}{43}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.2}Edward Prescott (Real Business Cycle Theorie)}{51}{}%
+\contentsline {section}{\numberline {12.2}Real Business Cycle Theorie}{51}{}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.3}Barro: Ricardianische Äquivalenz}{54}{}%
 \defcounter {refsection}{0}\relax 
@@ -145,27 +145,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {14}Neue Neoklassische Synthese}{115}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.1}Die frühen 1990er-Jahre}{116}{}%
+\contentsline {section}{\numberline {14.1}DSGE: Die Zweckehe zwischen "`Neuen Klassikern"' und "`Neu-Keynesianern"'}{117}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.2}DSGE: Die Zweckehe zwischen "`Neuen Klassikern"' und "`Neu-Keynesianern"'}{117}{}%
+\contentsline {subsection}{\numberline {14.1.1}HANK}{117}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.1}HANK}{117}{}%
+\contentsline {subsection}{\numberline {14.1.2}Neue Philips Kurve}{117}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.2}Neue Philips Kurve}{117}{}%
+\contentsline {section}{\numberline {14.2}Taylor-Rule oder die Verwissenschaftlichung der Zentralbanken}{118}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.3}Taylor-Rule oder die Verwissenschaftlichung der Zentralbanken}{117}{}%
+\contentsline {subsection}{\numberline {14.2.1}Exkurs: Die Evolution der Zentralbanken}{118}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.1}Exkurs: Die Evolution der Zentralbanken}{117}{}%
+\contentsline {subsection}{\numberline {14.2.2}Taylor-Rule: Ein pragmatischer Zugang zur Geldpolitik}{118}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.2}Taylor-Rule: Ein pragmatischer Zugang zur Geldpolitik}{117}{}%
+\contentsline {section}{\numberline {14.3}Auf den Schultern von Giganten}{119}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.4}Auf den Schultern von Giganten}{119}{}%
+\contentsline {subsection}{\numberline {14.3.1}Krugman}{119}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.4.1}Krugman}{119}{}%
+\contentsline {subsection}{\numberline {14.3.2}Blanchard}{119}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.4.2}Blanchard}{119}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.4.3}David Romer \& Mankiv}{119}{}%
+\contentsline {subsection}{\numberline {14.3.3}David Romer \& Mankiv}{119}{}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {15}Sisyphus-Ökonomie}{121}{}%
 \defcounter {refsection}{0}\relax 

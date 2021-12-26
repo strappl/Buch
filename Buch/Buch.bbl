@@ -2455,6 +2455,34 @@
     \field{year}{1937}
   \endentry
 
+  \entry{Plosser1983}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LCIJBP}{%
+         family={Long},
+         familyi={L\bibinitperiod},
+         suffix={John B;\bibnamedelima Plosser},
+         suffixi={J\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+         given={Charles\bibnamedelima I},
+         giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJBPCI1}
+    \strng{fullhash}{LJBPCI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{issue}{1}
+    \field{pages}{39\bibrangedash 69}
+    \field{title}{Real Business Cycles}
+    \field{volume}{91}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1983}
+  \endentry
+
   \entry{Lucas1972}{article}{}
     \name{author}{1}{}{%
       {{hash=LRE}{%
