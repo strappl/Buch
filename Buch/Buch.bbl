@@ -1406,7 +1406,6 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -1975,7 +1974,6 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -3933,6 +3931,35 @@
     \field{volume}{7}
     \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{1993}
+  \endentry
+
+  \entry{Romer2019}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=HM}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={McGraw},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RD1}
+    \strng{fullhash}{RD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Advanced Macroeconomics, Fifth Edition}
+    \field{year}{2019}
   \endentry
 
   \entry{Romer1986}{article}{}
