@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  7 JAN 2022 16:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  10 JAN 2022 17:17
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -842,112 +842,100 @@ Overfull \hbox (11.15549pt too wide) in paragraph at lines 22--23
 mit Ele-
  []
 
-[117]
-Overfull \hbox (32.41003pt too wide) in paragraph at lines 56--57
+[117] [118] [119] [120]
+Overfull \hbox (32.41003pt too wide) in paragraph at lines 109--110
 \T1/cmr/m/n/10 schrie-ben. Die Ver-ehe-li-chung zwi-schen der RBC-Methodik un
 d Neu-Keynesianischen
  []
 
-[118]
+
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 14.2 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
 nesianern []
  []
 
-[119] [120]
+[121] [122]
+Overfull \hbox (17.28116pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 14.2 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
+nesianern []
+ []
 
-LaTeX Warning: Citation 'Gali2000' on page 121 undefined on input line 93.
-
-[121]
-Overfull \hbox (3.75403pt too wide) in paragraph at lines 185--186
+[123] [124]
+Overfull \hbox (3.75403pt too wide) in paragraph at lines 243--244
 []\T1/cmr/m/n/10 Neue Klas-si-sche Ma-kro-öko-no-mie: An-nah-me Ra-tio-na-le E
 r-war-tun-gen, Real-
  []
 
-
-! Package inputenc Error: Unicode character  (U+2)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.212 ...ture?, in: Peterson Institute of Interna
-                                                  tional Economics, Policy B...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-) [122]
+) [125] [126]
 \openout2 = `Kapitel_4_5.aux'.
 
  (Kapitel_4_5.tex
 Kapitel 15.
-[123
-
-
-
-
-]) [124]
-\openout2 = `Teil_V.aux'.
-
- (Teil_V.tex [125
-
-
-
-
-] [126])
-\openout2 = `Kapitel_5_1.aux'.
-
- (Kapitel_5_1.tex
-Kapitel 16.
 [127
 
 
 
 
 ]) [128]
-\openout2 = `Kapitel_5_1a.aux'.
+\openout2 = `Teil_V.aux'.
 
- (Kapitel_5_1a.tex
-Kapitel 17.
-) [129
+ (Teil_V.tex [129
 
 
 
 
-] [130]
-\openout2 = `Kapitel_5_1b.aux'.
+] [130])
+\openout2 = `Kapitel_5_1.aux'.
 
- (Kapitel_5_1b.tex
-Kapitel 18.
+ (Kapitel_5_1.tex
+Kapitel 16.
 [131
 
 
 
 
-] [132] [133] [134] [135] [136]) [137]
+]) [132]
+\openout2 = `Kapitel_5_1a.aux'.
+
+ (Kapitel_5_1a.tex
+Kapitel 17.
+) [133
+
+
+
+
+] [134]
+\openout2 = `Kapitel_5_1b.aux'.
+
+ (Kapitel_5_1b.tex
+Kapitel 18.
+[135
+
+
+
+
+] [136] [137] [138] [139] [140]) [141]
 \openout2 = `Kapitel_Neoliberal.aux'.
 
- (Kapitel_Neoliberal.tex [138
+ (Kapitel_Neoliberal.tex [142
 
 
 
 
 ]
 Kapitel 19.
-[139] [140]
+[143] [144]
 Overfull \hbox (57.0568pt too wide) in paragraph at lines 33--34
 \T1/cmr/m/n/10 ten-den-zi-ell ge-nau das Ge-gen-teil ver-wen-det (sie-he: https
 ://www.montpelerin.org/statement-
  []
 
-[141] [142] [143] [144] [145]) [146]
+[145] [146] [147] [148] [149]) [150]
 \openout2 = `Kapitel_5_2.aux'.
 
  (Kapitel_5_2.tex
 Kapitel 20.
-) [147
+) [151
 
 
 
@@ -955,47 +943,47 @@ Kapitel 20.
 ]
 \openout2 = `Kapitel_5_2a.aux'.
 
- (Kapitel_5_2a.tex [148
+ (Kapitel_5_2a.tex [152
 
 
 
 
 ]
 Kapitel 21.
-) [149]
+) [153]
 \openout2 = `Kapitel_5_3.aux'.
 
- (Kapitel_5_3.tex [150
+ (Kapitel_5_3.tex [154
 
 
 
 
 ]
 Kapitel 22.
-) [151]
+) [155]
 \openout2 = `Kapitel_4_6.aux'.
 
- (Kapitel_4_6.tex [152
+ (Kapitel_4_6.tex [156
 
 
 
 
 ]
 Kapitel 23.
-) [153]
+) [157]
 \openout2 = `Teil_VI.aux'.
 
- (Teil_VI.tex [154
+ (Teil_VI.tex [158
 
 
 
 
-] [155] [156])
+] [159] [160])
 \openout2 = `Kapitel_6_1.aux'.
 
  (Kapitel_6_1.tex
 Kapitel 24.
-) [157
+) [161
 
 
 
@@ -1003,64 +991,64 @@ Kapitel 24.
 ]
 \openout2 = `Kapitel_6_2.aux'.
 
- (Kapitel_6_2.tex [158
+ (Kapitel_6_2.tex [162
 
 
 
 
 ]
 Kapitel 25.
-) [159]
+) [163]
 \openout2 = `Kapitel_6_3.aux'.
 
- (Kapitel_6_3.tex [160
+ (Kapitel_6_3.tex [164
 
 
 
 
 ]
 Kapitel 26.
-) [161]
+) [165]
 \openout2 = `Kapitel_6_4.aux'.
 
- (Kapitel_6_4.tex [162
+ (Kapitel_6_4.tex [166
 
 
 
 
 ]
 Kapitel 27.
-) [163]
+) [167]
 \openout2 = `Kapitel_6_5.aux'.
 
- (Kapitel_6_5.tex [164
+ (Kapitel_6_5.tex [168
 
 
 
 
 ]
 Kapitel 28.
-) [165]
+) [169]
 \openout2 = `Kapitel_6_6.aux'.
 
- (Kapitel_6_6.tex [166
+ (Kapitel_6_6.tex [170
 
 
 
 
 ]
 Kapitel 29.
-) [167]
+) [171]
 \openout2 = `Kapitel_6_7.aux'.
 
- (Kapitel_6_7.tex [168
+ (Kapitel_6_7.tex [172
 
 
 
 
 ]
 Kapitel 30.
-) [169] [170
+) [173] [174
 
 
 
@@ -1069,28 +1057,28 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 108.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [171]
-[172] [173]
+) [175]
+[176] [177] [178]
 Overfull \hbox (16.31282pt too wide) in paragraph at lines 109--109
 [][]\T1/cmr/m/n/10 Kirzner, Is-rael (1967).   Di-ver-gent Ap-proa-ches in Li-b
 er-ta-ri-an Eco-no-mic Thougth.
  []
 
-[174]
+
 Overfull \hbox (9.4879pt too wide) in paragraph at lines 109--109
 [][][]\T1/cmr/m/n/10 (1976).   Eco-no-me-tric Po-li-cy Eva-lua-ti-on: A Cri-ti
 -que. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[175] [176] [177] [178]
+[179] [180] [181] [182]
 Overfull \hbox (3.20612pt too wide) in paragraph at lines 109--109
 [][][]\T1/cmr/m/n/10 (1993).   Dis-creti-on ver-sus Po-li-cy Ru-les in Prac-ti
 -ce. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[179]
+[183]
 No file Buch.ind.
-[180] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[184] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
@@ -1100,23 +1088,15 @@ No file Buch.ind.
 ) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux) (Kapitel_6_1.aux)
 (Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux) (Kapitel_6_5.aux)
 (Kapitel_6_6.aux) (Kapitel_6_7.aux))
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                Buch
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12405 strings out of 492970
- 224693 string characters out of 3135852
- 665610 words of memory out of 3000000
- 15879 multiletter control sequences out of 15000+200000
+ 12441 strings out of 492970
+ 225560 string characters out of 3135852
+ 668097 words of memory out of 3000000
+ 15915 multiletter control sequences out of 15000+200000
  15516 words of font info for 34 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  44i,7n,55p,4683b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1137,13 +1117,16 @@ TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\TRAPPL\AppDat
 a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk> <C:\Users\TR
 APPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Buch.pdf (194 pages, 716077 bytes).
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on Buch.pdf (198 pages, 766243 bytes).
 PDF statistics:
- 1400 PDF objects out of 1440 (max. 8388607)
+ 1431 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

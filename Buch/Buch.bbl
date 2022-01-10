@@ -1020,6 +1020,37 @@
     \field{year}{1984}
   \endentry
 
+  \entry{Bernanke2015}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BBS}{%
+         family={Bernanke},
+         familyi={B\bibinitperiod},
+         given={Ben\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=B}{%
+         family={Brookings.edu},
+         familyi={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBS1}
+    \strng{fullhash}{BBS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{The Taylor Rule: A benchmark for monetary policy?}
+    \verb{url}
+    \verb https://www.brookings.edu/blog/ben-bernanke/2015/04/28/the-taylor-rul
+    \verb e-a-benchmark-for-monetary-policy/
+    \endverb
+    \field{year}{2015}
+  \endentry
+
   \entry{Bernanke1988}{article}{}
     \name{author}{2}{}{%
       {{hash=BBS}{%
@@ -1358,6 +1389,41 @@
     \field{year}{1998}
   \endentry
 
+  \entry{Gali2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CJGMRG}{%
+         family={Clarida},
+         familyi={C\bibinitperiod},
+         suffix={Richard;\bibnamedelima Gali},
+         suffixi={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={Jordi; Gertler\bibnamedelima Mark},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{CRGJGM1}
+    \strng{fullhash}{CRGJGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{147\bibrangedash 180}
+    \field{title}{Monetary Policy Rules and Macroeconomic Stability: Evidence
+  and Some Theory}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2586937
+    \endverb
+    \field{volume}{115}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{2000}
+  \endentry
+
   \entry{Barro2005}{misc}{}
     \name{author}{1}{}{%
       {{hash=CD}{%
@@ -1385,6 +1451,35 @@
     \field{sortinithash}{C}
     \field{title}{Interview with Robert Barro}
     \field{year}{2005}
+  \endentry
+
+  \entry{Taylor2006}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Clement},
+         familyi={C\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=FM}{%
+         family={Fed},
+         familyi={F\bibinitperiod},
+         given={Minneapolis},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CD1}
+    \strng{fullhash}{CD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Interview with John B. Taylor}
+    \field{year}{2006}
   \endentry
 
   \entry{Cooper1988}{article}{}
@@ -1670,6 +1765,36 @@
     \field{sortinithash}{F}
     \field{title}{A Theory of the Consumption Function}
     \field{year}{1957}
+  \endentry
+
+  \entry{Friedman1960}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         given={Milton},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PNYFU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={New York: Fordham\bibnamedelima University},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  F\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1960}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{A Program for Monetary Stability}
+    \field{year}{1960}
   \endentry
 
   \entry{Friedman1962}{book}{}
@@ -4668,6 +4793,38 @@
     \field{volume}{39}
     \field{journaltitle}{Carnegie-Rochester Conference Series on Public Policy}
     \field{year}{1993}
+  \endentry
+
+  \entry{Taylor2015}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=TJB}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=OE}{%
+         family={One},
+         familyi={O\bibinitperiod},
+         given={Economics},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJB1}
+    \strng{fullhash}{TJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{A Monetary Policy for the Future}
+    \verb{url}
+    \verb https://economicsone.com/2015/04/16/a-monetary-policy-for-the-future/
+    \endverb
+    \field{year}{2016}
   \endentry
 
   \entry{Tobin1993}{article}{}
