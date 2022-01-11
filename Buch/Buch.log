@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  10 JAN 2022 17:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  11 JAN 2022 17:08
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -588,12 +588,19 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Buch.bbl' found.
-(Buch.bbl)
+(Buch.bbl
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Woodford2001':
+(biblatex)                - Invalid format of field 'month'.
+
+)
 Package biblatex Info: Reference section=0 on input line 42.
 Package biblatex Info: Reference segment=0 on input line 42.
  [1
 
-{C:/Users/TRAPPL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+{C:/Users/TRAPPL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2
 
 
 ]
@@ -842,8 +849,8 @@ Overfull \hbox (11.15549pt too wide) in paragraph at lines 22--23
 mit Ele-
  []
 
-[117] [118] [119] [120]
-Overfull \hbox (32.41003pt too wide) in paragraph at lines 109--110
+[117] [118] [119] [120] [121] [122]
+Overfull \hbox (32.41003pt too wide) in paragraph at lines 98--99
 \T1/cmr/m/n/10 schrie-ben. Die Ver-ehe-li-chung zwi-schen der RBC-Methodik un
 d Neu-Keynesianischen
  []
@@ -854,88 +861,88 @@ Overfull \hbox (17.28116pt too wide) has occurred while \output is active
 nesianern []
  []
 
-[121] [122]
+[123] [124]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 14.2 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
 nesianern []
  []
 
-[123] [124]
-Overfull \hbox (3.75403pt too wide) in paragraph at lines 243--244
+[125] [126]
+Overfull \hbox (3.75403pt too wide) in paragraph at lines 232--233
 []\T1/cmr/m/n/10 Neue Klas-si-sche Ma-kro-öko-no-mie: An-nah-me Ra-tio-na-le E
 r-war-tun-gen, Real-
  []
 
-) [125] [126]
+) [127]
 \openout2 = `Kapitel_4_5.aux'.
 
- (Kapitel_4_5.tex
+ (Kapitel_4_5.tex [128
+
+
+
+
+]
 Kapitel 15.
-[127
-
-
-
-
-]) [128]
+[129]) [130]
 \openout2 = `Teil_V.aux'.
 
- (Teil_V.tex [129
+ (Teil_V.tex [131
 
 
 
 
-] [130])
+] [132])
 \openout2 = `Kapitel_5_1.aux'.
 
  (Kapitel_5_1.tex
 Kapitel 16.
-[131
+[133
 
 
 
 
-]) [132]
+]) [134]
 \openout2 = `Kapitel_5_1a.aux'.
 
  (Kapitel_5_1a.tex
 Kapitel 17.
-) [133
+) [135
 
 
 
 
-] [134]
+] [136]
 \openout2 = `Kapitel_5_1b.aux'.
 
  (Kapitel_5_1b.tex
 Kapitel 18.
-[135
+[137
 
 
 
 
-] [136] [137] [138] [139] [140]) [141]
+] [138] [139] [140] [141] [142]) [143]
 \openout2 = `Kapitel_Neoliberal.aux'.
 
- (Kapitel_Neoliberal.tex [142
+ (Kapitel_Neoliberal.tex [144
 
 
 
 
 ]
 Kapitel 19.
-[143] [144]
+[145] [146]
 Overfull \hbox (57.0568pt too wide) in paragraph at lines 33--34
 \T1/cmr/m/n/10 ten-den-zi-ell ge-nau das Ge-gen-teil ver-wen-det (sie-he: https
 ://www.montpelerin.org/statement-
  []
 
-[145] [146] [147] [148] [149]) [150]
+[147] [148] [149] [150] [151]) [152]
 \openout2 = `Kapitel_5_2.aux'.
 
  (Kapitel_5_2.tex
 Kapitel 20.
-) [151
+) [153
 
 
 
@@ -943,47 +950,47 @@ Kapitel 20.
 ]
 \openout2 = `Kapitel_5_2a.aux'.
 
- (Kapitel_5_2a.tex [152
+ (Kapitel_5_2a.tex [154
 
 
 
 
 ]
 Kapitel 21.
-) [153]
+) [155]
 \openout2 = `Kapitel_5_3.aux'.
 
- (Kapitel_5_3.tex [154
+ (Kapitel_5_3.tex [156
 
 
 
 
 ]
 Kapitel 22.
-) [155]
+) [157]
 \openout2 = `Kapitel_4_6.aux'.
 
- (Kapitel_4_6.tex [156
+ (Kapitel_4_6.tex [158
 
 
 
 
 ]
 Kapitel 23.
-) [157]
+) [159]
 \openout2 = `Teil_VI.aux'.
 
- (Teil_VI.tex [158
+ (Teil_VI.tex [160
 
 
 
 
-] [159] [160])
+] [161] [162])
 \openout2 = `Kapitel_6_1.aux'.
 
  (Kapitel_6_1.tex
 Kapitel 24.
-) [161
+) [163
 
 
 
@@ -991,64 +998,64 @@ Kapitel 24.
 ]
 \openout2 = `Kapitel_6_2.aux'.
 
- (Kapitel_6_2.tex [162
+ (Kapitel_6_2.tex [164
 
 
 
 
 ]
 Kapitel 25.
-) [163]
+) [165]
 \openout2 = `Kapitel_6_3.aux'.
 
- (Kapitel_6_3.tex [164
+ (Kapitel_6_3.tex [166
 
 
 
 
 ]
 Kapitel 26.
-) [165]
+) [167]
 \openout2 = `Kapitel_6_4.aux'.
 
- (Kapitel_6_4.tex [166
+ (Kapitel_6_4.tex [168
 
 
 
 
 ]
 Kapitel 27.
-) [167]
+) [169]
 \openout2 = `Kapitel_6_5.aux'.
 
- (Kapitel_6_5.tex [168
+ (Kapitel_6_5.tex [170
 
 
 
 
 ]
 Kapitel 28.
-) [169]
+) [171]
 \openout2 = `Kapitel_6_6.aux'.
 
- (Kapitel_6_6.tex [170
+ (Kapitel_6_6.tex [172
 
 
 
 
 ]
 Kapitel 29.
-) [171]
+) [173]
 \openout2 = `Kapitel_6_7.aux'.
 
- (Kapitel_6_7.tex [172
+ (Kapitel_6_7.tex [174
 
 
 
 
 ]
 Kapitel 30.
-) [173] [174
+) [175] [176
 
 
 
@@ -1057,8 +1064,8 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 108.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [175]
-[176] [177] [178]
+) [177]
+[178] [179] [180]
 Overfull \hbox (16.31282pt too wide) in paragraph at lines 109--109
 [][]\T1/cmr/m/n/10 Kirzner, Is-rael (1967).   Di-ver-gent Ap-proa-ches in Li-b
 er-ta-ri-an Eco-no-mic Thougth.
@@ -1070,15 +1077,15 @@ Overfull \hbox (9.4879pt too wide) in paragraph at lines 109--109
 -que. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[179] [180] [181] [182]
+[181] [182] [183] [184]
 Overfull \hbox (3.20612pt too wide) in paragraph at lines 109--109
 [][][]\T1/cmr/m/n/10 (1993).   Dis-creti-on ver-sus Po-li-cy Ru-les in Prac-ti
 -ce. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[183]
+[185]
 No file Buch.ind.
-[184] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[186] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
@@ -1093,10 +1100,10 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12441 strings out of 492970
- 225560 string characters out of 3135852
- 668097 words of memory out of 3000000
- 15915 multiletter control sequences out of 15000+200000
+ 12471 strings out of 492970
+ 226268 string characters out of 3135852
+ 669925 words of memory out of 3000000
+ 15945 multiletter control sequences out of 15000+200000
  15516 words of font info for 34 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  44i,7n,55p,4683b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1124,9 +1131,9 @@ pe1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (198 pages, 766243 bytes).
+Output written on Buch.pdf (200 pages, 772543 bytes).
 PDF statistics:
- 1431 PDF objects out of 1440 (max. 8388607)
+ 1438 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

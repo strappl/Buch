@@ -1389,6 +1389,34 @@
     \field{year}{1998}
   \endentry
 
+  \entry{Gali1998}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CJGMRG}{%
+         family={Clarida},
+         familyi={C\bibinitperiod},
+         suffix={Richard;\bibnamedelima Gali},
+         suffixi={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={Jordi; Gertler\bibnamedelima Mark},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRGJGM1}
+    \strng{fullhash}{CRGJGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{1033\bibrangedash 1067}
+    \field{title}{Monetary Policy Rules in Practice: Some International
+  Evidence}
+    \field{volume}{42}
+    \field{journaltitle}{European Economic Review}
+    \field{year}{1998}
+  \endentry
+
   \entry{Gali2000}{article}{}
     \name{author}{1}{}{%
       {{hash=CJGMRG}{%
@@ -4795,6 +4823,38 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Taylor1999}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=TJB}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=oCPU}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Chicago\bibnamedelima Press},
+         familyi={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={University},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJB1}
+    \strng{fullhash}{TJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{booktitle}{Monetary Policy Rules}
+    \field{title}{An Historical Analysis of Monetary Policy Rules}
+    \field{year}{1999}
+  \endentry
+
   \entry{Taylor2015}{misc}{}
     \name{author}{1}{}{%
       {{hash=TJB}{%
@@ -5047,6 +5107,35 @@
     \field{year}{1980}
   \endentry
 
+  \entry{Wicksel1898}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WK}{%
+         family={Wicksell},
+         familyi={W\bibinitperiod},
+         given={Knut},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=VJF}{%
+         family={Verlag},
+         familyi={V\bibinitperiod},
+         given={Jena:\bibnamedelima Fischer},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WK1}
+    \strng{fullhash}{WK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1898}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Geldzins und Güterpreise}
+    \field{year}{1898}
+  \endentry
+
   \entry{Widmann2020}{article}{}
     \name{author}{1}{}{%
       {{hash=WA}{%
@@ -5145,6 +5234,32 @@
     \field{title}{Revolution and Evolution in Twentieth-Century Macroeconomics}
     \field{journaltitle}{Frontiers of the Mind in the Twenty-First Century}
     \field{year}{1999}
+  \endentry
+
+  \entry{Woodford2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{2}
+    \field{pages}{232\bibrangedash 237}
+    \field{title}{The Taylor Rule and Optimal Monetary Policy}
+    \field{volume}{91}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2001}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Yellen1984}{article}{}
