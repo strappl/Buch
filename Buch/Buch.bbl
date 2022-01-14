@@ -1361,6 +1361,36 @@
     \field{year}{1933}
   \endentry
 
+  \entry{Christiano2005}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CMECLLJE}{%
+         family={Christiano},
+         familyi={C\bibinitperiod},
+         suffix={Lawrence J.;\bibnamedelima Eichenbaum},
+         suffixi={L\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  E\bibinitperiod},
+         given={Martin; Evans Charles\bibnamedelima L.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CLJEMECL1}
+    \strng{fullhash}{CLJEMECL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 45}
+    \field{title}{Nominal Rigidities and the Dynamic Effects of a Shock to
+  Monetary Policy}
+    \field{volume}{113}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{2005}
+  \endentry
+
   \entry{Mundell1998}{article}{}
     \name{author}{1}{}{%
       {{hash=CL}{%
@@ -1968,6 +1998,37 @@
     \field{year}{1980}
   \endentry
 
+  \entry{Gali1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GJ}{%
+         family={Galı́},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gertler},
+         familyi={G\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJGM1}
+    \strng{fullhash}{GJGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{2}
+    \field{pages}{195\bibrangedash 222}
+    \field{title}{Inflation dynamics: A structural econometric analysis}
+    \field{volume}{44}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{1999}
+  \endentry
+
   \entry{Gali2015}{book}{}
     \name{author}{1}{}{%
       {{hash=GJ}{%
@@ -2013,8 +2074,8 @@
          giveni={M\bibinitperiod},
       }}%
     }
-    \strng{namehash}{GJGM1}
-    \strng{fullhash}{GJGM1}
+    \strng{namehash}{GJGM2}
+    \strng{fullhash}{GJGM2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
@@ -2954,6 +3015,38 @@
     \field{year}{1990}
   \endentry
 
+  \entry{Mankiw2002}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MNG}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         given={N.\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Reis},
+         familyi={R\bibinitperiod},
+         given={Ricardo},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNGRR1}
+    \strng{fullhash}{MNGRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{4}
+    \field{pages}{1295\bibrangedash 1328}
+    \field{title}{Sticky Information versus Sticky Prices: A Proposal to
+  Replace the New Keynesian Phillips Curve}
+    \field{volume}{117}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{2002}
+  \endentry
+
   \entry{Mankiw1991}{book}{}
     \name{author}{2}{}{%
       {{hash=MNG}{%
@@ -3038,8 +3131,8 @@
          giveni={R\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MNGRR1}
-    \strng{fullhash}{MNGRR1}
+    \strng{namehash}{MNGRR2}
+    \strng{fullhash}{MNGRR2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
@@ -3989,6 +4082,31 @@
     \field{year}{1991}
   \endentry
 
+  \entry{Roberts1995}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RJM}{%
+         family={Roberts},
+         familyi={R\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJM1}
+    \strng{fullhash}{RJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{4}
+    \field{pages}{975\bibrangedash 984}
+    \field{title}{New Keynesian Economics and the Phillips Curve}
+    \field{volume}{27}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1995}
+  \endentry
+
   \entry{Robinson1933}{book}{}
     \name{author}{1}{}{%
       {{hash=RJV}{%
@@ -4313,6 +4431,31 @@
     \field{year}{1986}
   \endentry
 
+  \entry{Rotemberg1982}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RJ}{%
+         family={Rotemberg},
+         familyi={R\bibinitperiod},
+         given={Julio},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJ1}
+    \strng{fullhash}{RJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{4}
+    \field{pages}{517\bibrangedash 531}
+    \field{title}{Monopolistic Price Adjustment and Aggregate Output}
+    \field{volume}{49}
+    \field{journaltitle}{Review of Economic Studies}
+    \field{year}{1982}
+  \endentry
+
   \entry{Stiglitz1976a}{article}{}
     \name{author}{2}{}{%
       {{hash=RM}{%
@@ -4343,6 +4486,72 @@
     \field{volume}{90}
     \field{journaltitle}{Quarterly Journal of Economics}
     \field{year}{1976}
+  \endentry
+
+  \entry{Rudd2005}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RJB}{%
+         family={Rudd},
+         familyi={R\bibinitperiod},
+         given={Jeremy\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Whelan},
+         familyi={W\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJBWK1}
+    \strng{fullhash}{RJBWK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{2}
+    \field{pages}{297\bibrangedash 312}
+    \field{title}{Does Labor's Share drive Inflation?}
+    \field{volume}{37}
+    \field{journaltitle}{Journal of Money, Credit, and Banking}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Rudd2006}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RJ}{%
+         family={Rudd},
+         familyi={R\bibinitperiod},
+         given={Jeremy},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Whelan},
+         familyi={W\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJWK1}
+    \strng{fullhash}{RJWK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{1}
+    \field{pages}{303\bibrangedash 320}
+    \field{title}{Can Rational Expectations Sticky-Price Models Explain
+  Inflation Dynamics?}
+    \verb{url}
+    \verb https://www.aeaweb.org/articles?id=10.1257/000282806776157560
+    \endverb
+    \field{volume}{96}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2006}
   \endentry
 
   \entry{Samuelson1998}{book}{}
