@@ -1362,16 +1362,24 @@
   \endentry
 
   \entry{Christiano2005}{article}{}
-    \name{author}{1}{}{%
-      {{hash=CMECLLJE}{%
+    \name{author}{3}{}{%
+      {{hash=CLJ}{%
          family={Christiano},
          familyi={C\bibinitperiod},
-         suffix={Lawrence J.;\bibnamedelima Eichenbaum},
-         suffixi={L\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
-  E\bibinitperiod},
-         given={Martin; Evans Charles\bibnamedelima L.},
-         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
-  C\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Lawrence\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=EM}{%
+         family={Eichenbaum},
+         familyi={E\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ECL}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Charles\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
       }}%
     }
     \strng{namehash}{CLJEMECL1}
@@ -1382,7 +1390,6 @@
     \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
-    \field{number}{1}
     \field{pages}{1\bibrangedash 45}
     \field{title}{Nominal Rigidities and the Dynamic Effects of a Shock to
   Monetary Policy}
@@ -1482,6 +1489,46 @@
     \field{year}{2000}
   \endentry
 
+  \entry{Gali1999}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CR}{%
+         family={Clarida},
+         familyi={C\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Gali},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gertler},
+         familyi={G\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRGJGM2}
+    \strng{fullhash}{CRGJGM2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{4}
+    \field{pages}{1661\bibrangedash 1707}
+    \field{title}{The Science of Monetary Policy: A New Keynesian Perspective}
+    \verb{url}
+    \verb https://www.aeaweb.org/articles?id=10.1257/jel.37.4.1661
+    \endverb
+    \field{volume}{37}
+    \field{journaltitle}{Journal of Economic Literature}
+    \field{year}{1999}
+  \endentry
+
   \entry{Barro2005}{misc}{}
     \name{author}{1}{}{%
       {{hash=CD}{%
@@ -1559,6 +1606,7 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -1998,37 +2046,6 @@
     \field{year}{1980}
   \endentry
 
-  \entry{Gali1999}{article}{}
-    \name{author}{2}{}{%
-      {{hash=GJ}{%
-         family={Galı́},
-         familyi={G\bibinitperiod},
-         given={Jordi},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=GM}{%
-         family={Gertler},
-         familyi={G\bibinitperiod},
-         given={Mark},
-         giveni={M\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{GJGM1}
-    \strng{fullhash}{GJGM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1999}
-    \field{labeldatesource}{}
-    \field{sortinit}{G}
-    \field{sortinithash}{G}
-    \field{number}{2}
-    \field{pages}{195\bibrangedash 222}
-    \field{title}{Inflation dynamics: A structural econometric analysis}
-    \field{volume}{44}
-    \field{journaltitle}{Journal of Monetary Economics}
-    \field{year}{1999}
-  \endentry
-
   \entry{Gali2015}{book}{}
     \name{author}{1}{}{%
       {{hash=GJ}{%
@@ -2074,8 +2091,8 @@
          giveni={M\bibinitperiod},
       }}%
     }
-    \strng{namehash}{GJGM2}
-    \strng{fullhash}{GJGM2}
+    \strng{namehash}{GJGM1}
+    \strng{fullhash}{GJGM1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
@@ -2188,6 +2205,7 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -3228,6 +3246,41 @@
     \field{sortinithash}{M}
     \field{title}{The Human Side of Enterprise}
     \field{year}{1960}
+  \endentry
+
+  \entry{McCallum1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MBT}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Bennett\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBTNE1}
+    \strng{fullhash}{MBTNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{296\bibrangedash 316}
+    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
+  Business Cycle Analysis}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2601113
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1999}
   \endentry
 
   \entry{Mincer1974}{book}{}
@@ -4336,7 +4389,6 @@
     \endverb
     \field{volume}{105}
     \field{journaltitle}{American Economic Review: Papers \& Proceedings}
-    \field{month}{05}
     \field{year}{2015}
   \endentry
 
@@ -5468,7 +5520,6 @@
     \field{volume}{91}
     \field{journaltitle}{American Economic Review}
     \field{year}{2001}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Yellen1984}{article}{}
