@@ -2371,6 +2371,37 @@
     \field{year}{1995}
   \endentry
 
+  \entry{Kerr1996}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KW}{%
+         family={Kerr},
+         familyi={K\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={King},
+         familyi={K\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KWKR1}
+    \strng{fullhash}{KWKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{2}
+    \field{pages}{47\bibrangedash 75}
+    \field{title}{Limits on Interest Rate Rules in the IS Model}
+    \field{volume}{82}
+    \field{journaltitle}{Economic Quarterly}
+    \field{year}{1996}
+  \endentry
+
   \entry{Kirzner1967}{article}{}
     \name{author}{1}{}{%
       {{hash=KI}{%
@@ -5520,6 +5551,38 @@
     \field{volume}{91}
     \field{journaltitle}{American Economic Review}
     \field{year}{2001}
+  \endentry
+
+  \entry{Woodford2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1257/mac.3.1.1
+    \endverb
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 35}
+    \field{title}{Simple Analytics of the Government Expenditure Multiplier}
+    \verb{url}
+    \verb https://www.aeaweb.org/articles?id=10.1257/mac.3.1.1
+    \endverb
+    \field{volume}{3}
+    \field{journaltitle}{American Economic Journal: Macroeconomics}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Yellen1984}{article}{}

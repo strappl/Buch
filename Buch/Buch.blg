@@ -96,52 +96,50 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 31880 items.
+Reallocating 'field_info' (item size: 4) to 32020 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
-Warning--I didn't find a database entry for "Kerr"
 Biblatex version: 3.16
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 191 entries,
+You've used 193 entries,
             6393 wiz_defined-function locations,
-            2343 strings with 33809 characters,
-and the built_in function-call counts, 1191490 in all, are:
-= -- 76236
-> -- 40355
-< -- 5909
-+ -- 39346
-- -- 26589
-* -- 85306
-:= -- 126760
+            2357 strings with 34126 characters,
+and the built_in function-call counts, 1200551 in all, are:
+= -- 76743
+> -- 40556
+< -- 5958
++ -- 39524
+- -- 26662
+* -- 85999
+:= -- 127598
 add.period$ -- 0
-call.type$ -- 191
-change.case$ -- 190
-chr.to.int$ -- 1212
-cite$ -- 380
-duplicate$ -- 105365
-empty$ -- 111408
-format.name$ -- 10607
-if$ -- 236227
+call.type$ -- 193
+change.case$ -- 192
+chr.to.int$ -- 1213
+cite$ -- 384
+duplicate$ -- 106408
+empty$ -- 112308
+format.name$ -- 10727
+if$ -- 238141
 int.to.chr$ -- 0
-int.to.str$ -- 583
+int.to.str$ -- 589
 missing$ -- 0
-newline$ -- 5439
-num.names$ -- 9117
-pop$ -- 64730
+newline$ -- 5502
+num.names$ -- 9205
+pop$ -- 65397
 preamble$ -- 1
-purify$ -- 3380
+purify$ -- 3409
 quote$ -- 0
-skip$ -- 38465
+skip$ -- 38834
 stack$ -- 0
-substring$ -- 144611
-swap$ -- 29145
-text.length$ -- 5136
-text.prefix$ -- 191
+substring$ -- 145308
+swap$ -- 29457
+text.length$ -- 5185
+text.prefix$ -- 193
 top$ -- 1
-type$ -- 6482
+type$ -- 6550
 warning$ -- 0
-while$ -- 12879
+while$ -- 13004
 width$ -- 0
-write$ -- 5249
-(There was 1 warning)
+write$ -- 5310
