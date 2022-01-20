@@ -1361,6 +1361,61 @@
     \field{year}{1933}
   \endentry
 
+  \entry{Christiamo1999}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=CLJ}{%
+         family={Christiano},
+         familyi={C\bibinitperiod},
+         given={Lawrence\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=EM}{%
+         family={Eichenbaum},
+         familyi={E\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ECL}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Charles\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=TJB}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{CLJEMECL1}
+    \strng{fullhash}{CLJEMECL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{issn}{1574-0048}
+    \field{pages}{65\bibrangedash 148}
+    \field{series}{Handbook of Macroeconomics}
+    \field{title}{Monetary Policy Shocks: What Have We Learned and to What
+  End?}
+    \field{volume}{1}
+    \field{year}{1999}
+  \endentry
+
   \entry{Christiano2005}{article}{}
     \name{author}{3}{}{%
       {{hash=CLJ}{%
@@ -1606,7 +1661,6 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -2113,6 +2167,44 @@
     \field{year}{2007}
   \endentry
 
+  \entry{Gali2005}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GJ}{%
+         family={Gali},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gertler},
+         familyi={G\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DLS}{%
+         family={David},
+         familyi={D\bibinitperiod},
+         given={Lopez-Salido},
+         giveni={L\bibinithyphendelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJGMDLS1}
+    \strng{fullhash}{GJGMDLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{issue}{6}
+    \field{pages}{1107\bibrangedash 1118}
+    \field{title}{Robustness of the Estimates of the Hybrid New Keynesian
+  Phillips Curve.}
+    \field{volume}{52}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{2005}
+  \endentry
+
   \entry{Grossman1991a}{article}{}
     \name{author}{1}{}{%
       {{hash=GEGMH}{%
@@ -2205,7 +2297,6 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -3221,6 +3312,41 @@
     \field{year}{1943}
   \endentry
 
+  \entry{McCallum1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MBT}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Bennett\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBTNE1}
+    \strng{fullhash}{MBTNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{296\bibrangedash 316}
+    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
+  Business Cycle Analysis}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2601113
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1999}
+  \endentry
+
   \entry{McClelland1961}{book}{}
     \name{author}{1}{}{%
       {{hash=MD}{%
@@ -3277,41 +3403,6 @@
     \field{sortinithash}{M}
     \field{title}{The Human Side of Enterprise}
     \field{year}{1960}
-  \endentry
-
-  \entry{McCallum1999}{article}{}
-    \name{author}{2}{}{%
-      {{hash=MBT}{%
-         family={Mccallum},
-         familyi={M\bibinitperiod},
-         given={Bennett\bibnamedelima T.},
-         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=NE}{%
-         family={Nelson},
-         familyi={N\bibinitperiod},
-         given={Edward},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MBTNE1}
-    \strng{fullhash}{MBTNE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1999}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{number}{3}
-    \field{pages}{296\bibrangedash 316}
-    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
-  Business Cycle Analysis}
-    \verb{url}
-    \verb http://www.jstor.org/stable/2601113
-    \endverb
-    \field{volume}{31}
-    \field{journaltitle}{Journal of Money, Credit and Banking}
-    \field{year}{1999}
   \endentry
 
   \entry{Mincer1974}{book}{}
@@ -4514,6 +4605,82 @@
     \field{year}{1986}
   \endentry
 
+  \entry{Rotemberg1997}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=RJJ}{%
+         family={Rotemberg},
+         familyi={R\bibinitperiod},
+         given={Julio\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=BBS}{%
+         family={Bernanke},
+         familyi={B\bibinitperiod},
+         given={Ben\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Rotemberg},
+         familyi={R\bibinitperiod},
+         given={Julio},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{RJJWM1}
+    \strng{fullhash}{RJJWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{NBER Macroeconomics Annual 1997}
+    \field{pages}{297\bibrangedash 361}
+    \field{title}{An Optimization-Based Econometric Framework for the
+  Evaluation of Monetary Policy}
+    \field{year}{1997}
+  \endentry
+
+  \entry{Rotemberg1998}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RJJ}{%
+         family={Rotemberg},
+         familyi={R\bibinitperiod},
+         given={Julio\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJJWM1}
+    \strng{fullhash}{RJJWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{6618}
+    \field{title}{Interest-Rate Rules in an Estimated Sticky Price Model}
+    \field{journaltitle}{NBER Working Paper}
+    \field{year}{1998}
+  \endentry
+
   \entry{Rotemberg1982}{article}{}
     \name{author}{1}{}{%
       {{hash=RJ}{%
@@ -4537,6 +4704,36 @@
     \field{volume}{49}
     \field{journaltitle}{Review of Economic Studies}
     \field{year}{1982}
+  \endentry
+
+  \entry{Rotemberg1993}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RJ}{%
+         family={Rotemberg},
+         familyi={R\bibinitperiod},
+         given={Julio},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJWM1}
+    \strng{fullhash}{RJWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{4502}
+    \field{title}{Dynamic General Equilibrium Models with Imperfectly
+  Competitive Product Markets}
+    \field{journaltitle}{NBER Working Paper}
+    \field{year}{1993}
   \endentry
 
   \entry{Stiglitz1976a}{article}{}
@@ -5506,6 +5703,29 @@
     \field{year}{1990}
   \endentry
 
+  \entry{Woodford1996}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{5684}
+    \field{title}{Control of Public Debt: A Requirement for Price Stability?}
+    \field{journaltitle}{NBER Working Paper}
+    \field{year}{1996}
+  \endentry
+
   \entry{Woodford1999}{article}{}
     \name{author}{1}{}{%
       {{hash=WM}{%
@@ -5582,7 +5802,6 @@
     \field{volume}{3}
     \field{journaltitle}{American Economic Journal: Macroeconomics}
     \field{year}{2011}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Yellen1984}{article}{}
@@ -5611,6 +5830,32 @@
     \field{volume}{74}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1984}
+  \endentry
+
+  \entry{Yun1996}{article}{}
+    \name{author}{1}{}{%
+      {{hash=YT}{%
+         family={Yun},
+         familyi={Y\bibinitperiod},
+         given={Tack},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YT1}
+    \strng{fullhash}{YT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{issue}{2}
+    \field{pages}{345\bibrangedash 370}
+    \field{title}{Nominal Price Rigidity, Money Supply Endogeneity, and
+  Business Cycles}
+    \field{volume}{37}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{1996}
   \endentry
 \enddatalist
 \endinput

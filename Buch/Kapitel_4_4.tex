@@ -54,7 +54,7 @@ Als Antwort auf diese "`Neu-klassischen"'-Modelle, entwickelten die "`Neu-Keynes
 
 Die Kombination der "`Neu-Keynesianischen"' Ideen mit dem "`Neu-Klassischen"' Modellansatz begründet damit den Namen "`Neue Neoklassische Synthese"'\footnote{Dies ist aber insofern etwas verwirrend, als die meisten Entwickler von DSGE-Modellen, diese als "`Neu-Keynesianisch"' bezeichnen. Z.B.: \textcite{Gali2015}, \textcite{Romer2019}. \textcite[S. 28]{Gali2007} meint richtigerweise, dass sich der Begriff "`Neu-Keynesianisch"' weitgehend durchgesetzt hat, räumt aber ein, dass dieser Begriff eigentlich unzureichend ist!}.
 
-Das Zusammenführen der beiden Ansätze verlief weniger geradlinig und einfach, als im letzten Absatz dargestellt. So gibt es verschiedene Ansätze \parencite[S. 310]{Romer2019} wie die dynamische Preisanpassung modelliert wird, was wiederum sehr unterschiedliche Auswirkungen der mikroökonomischen Rigiditäten auf die makroökonomischen Ergebnisse verursacht. Die DSGE-Modelle wurden zudem laufend erweitert. Insbesondere die Anfang der 1990er Jahre ebenfalls neuen Erkenntnisse, wie Geldpolitik praktiziert wird (siehe Unterkapitel \ref{Taylor-Rule}), sowie die Berücksichtigung der "`Neuen Phillipskurve"' (siehe Unterkapitel \ref{NeuePhillips}) zur Modellierung von Arbeitslosigkeit, waren wesentliche Weiterentwicklungen des Grundmodells und sind heute wichtige Bausteine der DSGE-Modelle.
+Das Zusammenführen der beiden Ansätze verlief weniger geradlinig und einfach, als im letzten Absatz dargestellt. So gibt es verschiedene Ansätze \parencite[S. 310]{Romer2019} wie die dynamische Preisanpassung modelliert wird, was wiederum sehr unterschiedliche Auswirkungen der mikroökonomischen Rigiditäten auf die makroökonomischen Ergebnisse verursacht. Die DSGE-Modelle wurden zudem laufend erweitert. Insbesondere die Anfang der 1990er Jahre ebenfalls neuen Erkenntnisse, wie Geldpolitik praktiziert wird (siehe Unterkapitel \ref{Taylor}), sowie die Berücksichtigung der "`Neuen Phillipskurve"' (siehe Unterkapitel \ref{NeuePhillips}) zur Modellierung von Arbeitslosigkeit, waren wesentliche Weiterentwicklungen des Grundmodells und sind heute wichtige Bausteine der DSGE-Modelle.
 
 Konkret werden die drei soeben angeführten Neu-Keynesianischen Elemente durch zwei Annahmen eingeführt. Erstens, jedes Unternehmen produziert ein spezielles Produkt, für das es den Preis \textit{setzt}. Damit ist die Annahme eines monopolistischen Konkurrenzmarktes erfüllt. Zweitens, nominale Preisrigiditäten werden modelliert, indem man annimmt, dass jedes Unternehmen nur zu einem bestimmten Zeitpunkt seine Preise an das Gleichgewicht anpassen kann \parencite[S. 52]{Gali2015}. Im Kapitel \ref{cha: Neu Keynes} wurden drei verschiedene Ansätze erwähnt, wie man dies simulieren kann. Jenen von \textcite{Fischer1977} und \textcite{Taylor1977}, jenen von \textcite{Taylor1979} und schließlich jenen von \textcite{Calvo1983}. Man kann heute sagen, dass sich der Ansatz von \textcite{Calvo1983} durchgesetzt hat. Dieser kann aus mathematischen Gründen am einfachsten in das DSGE-Framework integriert werden. Zur Erinnerung: Welches Unternehmen seinen Preis anpassen darf, wird hier durch eine Poisson-Verteilung, also durch einen Zufallsprozess, bestimmt. Die Annahme der "`Nicht-Neutralität der Geldpolitik in der kurzen Frist"' ist durch die zwei eben genannten Elemente mitumfasst, denn die Preise sind im Ergebnis eben keine walrasianischen Gleichgewichtspreise mehr. Das heißt aber auch, dass sich auch der Geldwert nicht ständig an sein wahres Gleichgewicht anpasst. Diese Abweichung vom Gleichgewicht kann eben für Geldpolitik genutzt werden.
 
@@ -155,46 +155,11 @@ Aus den drei Gleichungen bilden wir jetzt ein DSGE-Modell:
 
 Wie funktionieren solche Modelle nun? Zunächst muss festgehalten werden, dass es sich um mehrperiodige Gleichgewichtsmodelle handelt, das heißt, nach exogenen Schocks nehmen deren Auswirkungen mit fortlaufender Zeit ab und verschwinden schließlich ganz, womit das System wieder im Gleichgewicht ist. Die drei Stellschrauben sind die Fehlerterme. An diesen Stellen können die zufälligen Schocks simuliert werden: Der Fehlerterm der Zinsregel $u_t^{MP}$ simuliert hierbei einen geldpolitischen Schock. Durch das Gleichungssystem werden die verschiedenen Variablen durch diesen Schock unterschiedlich beeinflusst. Durch die intertemporäre Ausgestaltung des Systems werden diese Abweichungen vom Gleichgewicht über mehrere Perioden wirksam. Bei einem restriktiven, geldpolitischen Schock würde zum Beispiel die Inflation sinken, in weiterer Folge auch die Beschäftigung, sowie damit verbunden, die aggregierten Reallöhne. Der nominale Zinssatz würde steigen. Ebenso der Real-Zinssatz, welcher aufgrund des Rückgangs der Inflation sogar noch stärker steigen würde. Schließlich würde die Gesamtoutput-Entwicklung zurückgehen, also das BIP-Wachstum fallen und der Output-Gap steigen (im negativen Bereich), da das potenzielle BIP unverändert bleibt \parencite[S. 68f]{Gali2015}. Änderungen im Fehlerterm der Neu-Keynesianischen IS-Kurve $u_t^{IS}$ würden einen Nachfrage-Schock (IS-Schock) verursachen. Der Fehlerterm der Neu-Keynesianische Phillips-Kurve $u_t^{\pi}$ simuliert einen Inflationsschock\footnote{Auch ein Technologieschock kann über die Phillips-Kurve simuliert werden.}. Das vollständig definierte Modell gibt somit als Antwort auf auszuwählende Schocks für die verschiedenen Variablen zu verschiedenen Zeitpunkten Abweichungen vom Gleichgewicht an. 
 
-Dieses Modell ist mathematisch komplex, aber äußerst elegant und nachvollziehbar. Die Gleichungen bedingen sich gegenseitig und über zwei Zeitperioden hinweg. Das Modell ist also ein intertemporales Optimierungsmodell und somit \textit{dynamisch}\footnote{Im Spezialfall von fehlender Autoregression, wäre das Modell im Gleichgewicht und Abweichungen einzelner Variablen vom Gleichgewicht würden nur mehr durch die zufällige Schocks vorkommen. Das Ergebnis wäre ident zu Ergebnissen reiner "`Real-Business-Cycle"'-Modellen.}. Durch die Hinzunahme der Fehlerterme umfasst die Annahme zufälliger Schocks, ist also \textit{stochastisch}. Es ist streng mikrofundiert und ausschließlich zukunftsorientiert. Damit entspricht das Modell den Anforderungen der Theorie der rationalen Erwartungen.
+Julio Rotemberg und Michael Woodford waren die ersten Ökonomen, die DSGE-ähnliche Modelle entwickelten. In \textcite{Rotemberg1993} implementierten die beiden das Konzept der Monopolistischen Konkurrenz in ein dynamisches Gleichgewichtsmodell. Als erstes vollständiges DSGE-Modell wird häufig \textcite{Yun1996} genannt, zum Beispiel in \textcite[S. 80]{Gali2015}. Tatsächlich veröffentlichte, der sonst recht unbekannt gebliebene Ökonom, schon Mitte der 1990er Jahre ein DSGE-Modell, das vom Aufbau her den heutigen Modellen schon sehr ähnlich ist. Monopolistische Konkurrenz, sowie Nominale Rigiditäten, die mittels den von \textcite{Calvo1983} vorgeschlagenen Prozess simuliert werden, sind bereits enthalten. Auch die Darstellung der Ergebnisse ist bis heute ähnlich geblieben. \textcite{Rotemberg1997} veröffentlichten noch eine Reihe weiterer DSGE-Paper. Interessant ist, dass \textcite{Woodford1996} bereits im Jahr 1996 mittels DSGE-Modell analysierte, dass sich in einer Währungsunion expansive Fiskalpolitik eines Mitgliedstaats auf die Preisstabilität der anderen Mitgliedsstaaten auswirkt. Er ging hierbei davon aus, dass die Ricardianische Äquivalenz nicht gültig ist. Das Ausgangsbeispiel war hierbei die Europäische Währungsunion und der Sinn und Zweck der Maastricht-Kriterien, die den potentielle Mitgliedsstaaten enge fiskalpolitische Grenzen auferlegte\footnote{So durfte ein jährliches Budgetdefizit von 3\% des BIP nicht überschritten werden und der Verschuldungsgrad musste unter 60\% des BIP liegen.}. Der Durchbruch der DSGE-Modell erfolgte schließlich mit der Jahrtausendwende. Als \textit{das} Standardmodell etablierte sich schließlich jenes Drei-Gleichungen-Modell, das \textcite{Gali2000} veröffentlichten. In dieser Zeit wurde das Modell auch schon ausgiebig auf seine empirische Robustheit getestet und diskutiert \parencite{Gali1999}. \textcite{Gali1998, Taylor1999} zum Beispiel publizierten zur Gültigkeit der Taylor-Rule. Die Diskussion zur problematischen Neu-Keynesianischen Phillips Kurve entfachte etwas später und wurde bereits in Unterkapitel \ref{NeuePhillips} angeführt. Hierzu wurden alsbald auch Alternativen (siehe Unterkapitel \ref{ErweiterungDSGE}) entwickelt. Ebenfalls zur Jahrtausendwende lieferten \textcite{Rotemberg1998, Christiamo1999} empirische Evidenz zu den Auswirkungen von geldpolitischen Schocks.
 
-Ohne Zweifel sind DSGE-Modelle mit sehr starken Annahmen hinterlegt, das macht sie punktuell recht angreifbar. Man denke nur an die schlechten empirischen Ergebnisse zur "`Neu-keynesianischen Phillips-Kurve"'. Man muss aber im Umkehrschluss festhalten, dass DSGE-Modelle Probleme erfolgreich in den Griff bekommen, die traditionelle Keynesianische und Monetaristische Modelle noch nicht einmal erkannten. Zudem sind sie ein Fortschritt gegenüber den "`Real-Business-Cycle"'-Modellen. Faktum ist, dass DSGE-Modelle vor allem in Zentralbanken als Analyseinstrument der Geldpolitik herangezogen werden. Bis heute gibt es außerdem viele Weiterentwicklungen des Standardmodells, auf die wichtigsten gehen wir im nächsten Unterkapitel ein.
+Trotz aller Unzulänglichkeiten und Erweiterungen wird das Modell von \textcite{Gali2000} in Lehrbüchern noch immer als Ausgangsmodell angeführt \parencite[S. 350]{Romer2019}. Dieses Modell ist mathematisch komplex, aber äußerst elegant und nachvollziehbar. Die Gleichungen bedingen sich gegenseitig und über mehrere Zeitperioden hinweg. Das Modell ist also ein intertemporales Optimierungsmodell und somit \textit{dynamisch}\footnote{Im Spezialfall von fehlender Autoregression, wäre das Modell im Gleichgewicht und Abweichungen einzelner Variablen vom Gleichgewicht würden nur mehr durch die zufällige Schocks vorkommen. Das Ergebnis wäre ident zu Ergebnissen reiner "`Real-Business-Cycle"'-Modellen.}. Durch die Hinzunahme der Fehlerterme umfasst die Annahme zufälliger Schocks, ist also \textit{stochastisch}. Es ist streng mikrofundiert und ausschließlich zukunftsorientiert. Damit entspricht das Modell den Anforderungen der Theorie der rationalen Erwartungen.
 
-
-HIER WEITER: historisches, erste Modelle
-
-
-Kapitel 7.8 im Romer-Buch.
-
-
-mit ersten Modellen und Überleitung zu "`Neuen Phillips-Kurve"', die aus dem Calvo1983 abgeleitet wird.
-
-Erstes Neu-keynesianisches DSGE-Modell: Rotemberg und Woodford bzw. Yun (1996)
-
-Rotemberg, Julio; Woodford, Michael (1993), "Dynamic General Equilibrium Models with Imperfectly Competitive Product Markets", NBER Working Paper No. 4502
-
-Rotemberg, Julio; Woodford, Michael (1995). "Dynamic general equilibrium models with imperfectly competitive product markets". In Cooley, Thomas (ed.). Frontiers of Business Cycle Research. Princeton University Press. ISBN 0-691-04323-X.
-
-Rotemberg, Julio J.; Woodford, Michael (1997). "An optimization-based econometric framework for the evaluation of monetary policy" (PDF). NBER Macroeconomics Annual. 12: 297–346. doi:10.1086/654340. JSTOR 3585236. S2CID 154438345
-
-
-Richard Clarida and Jordi Gali and Mark Gertler, 2000. "Monetary Policy Rules and Macroeconomic Stability: Evidence and Some Theory," The Quarterly Journal of Economics, Oxford University Press, vol. 115(1), pages 147-180.
-
-Mark Gertler and Jordi Gali and Richard Clarida, 1999. "The Science of Monetary Policy: A New Keynesian Perspective," Journal of Economic Literature, American Economic Association, vol. 37(4), pages 1661-1707, December.
-
-
-Smets/Wouters (EZB-Modell)
-
-
-Als Standardmodell etablierte sich schließlich jenes Drei-Gleichungen-Modell, das \textcite{Gali2000} veröffentlichten\parencite[S. 311]{Romer2019}.
-
-
-
-In Gali and Gertler (1999, 2007, S. 32ff) and Gali, Gertler and Lopez-Salido (2005),
-
-
-
-Inhaltlich spielt in der Wirtschaftspolitik fast ausschließlich nur mehr die Geldpolitik eine Rolle. Zur Fiskalpolitik haben die Vertreter der "`neuen Neoklassischen Synthese"' praktisch ausschließlich eine ablehnende Haltung.
-
+Ohne Zweifel sind DSGE-Modelle mit sehr starken Annahmen hinterlegt, das macht sie punktuell recht angreifbar. Man denke nur an die schlechten empirischen Ergebnisse zur "`Neu-keynesianischen Phillips-Kurve"'. Man muss aber im Umkehrschluss festhalten, dass DSGE-Modelle Probleme erfolgreich in den Griff bekommen, die zu Zeiten der traditionellen Keynesianische und Monetaristische Modelle noch nicht einmal also solche identifiziert waren. Zudem sind sie ein Fortschritt gegenüber den "`Real-Business-Cycle"'-Modellen. Faktum ist, dass DSGE-Modelle vor allem in Zentralbanken als Analyseinstrument der Geldpolitik herangezogen werden. Bis heute gibt es außerdem viele Weiterentwicklungen des Standardmodells, auf die wichtigsten gehen wir im nächsten Kapitel ein.
 
 
 
@@ -214,8 +179,22 @@ Danzinger Lucas Modell
 
 \subsection{Staggered Price Adjustmend with Inflation Inertia}
 
-Problem mit "`Inflation Inertia"': Eichenbaum und Mankiw Paper
+
+Hybride Phillips Kurve \textcite{Gali1999} und \textcite{Gali2005}
+Problem mit "`Inflation Inertia"': 
+\textcite{Christiano2005}
+und Mankiw-Reis Paper
 Romer-Buch S. 341 + S. 354
+
+
+
+
+Status Quo:
+Berühmte Modelle in der Praxis: 
+Smets/Wouters (EZB-Modell)
+
+
+
 
 Abschluss DSGE: Siegeszug in der Makroökonomie. Aber sehr umstritten durch starke Annahmen. Gilt als "`Schönwettermodell"', das versagt Krisenauswirkungen zu erklären.
 Erhielt durch die "`Great Recession"' einen Dämpfer, weil in keinster Weise vorhergesagt.
@@ -276,6 +255,12 @@ Elemente aus verschiedenen Schulen:
 
 \section{Fiskalpolitik}
 \label{NeueFiskal}
+
+
+Inhaltlich spielt in der Wirtschaftspolitik fast ausschließlich nur mehr die Geldpolitik eine Rolle. Zur Fiskalpolitik haben die Vertreter der "`neuen Neoklassischen Synthese"' praktisch ausschließlich eine ablehnende Haltung.
+
+
+
 
 Seite 409 (Snowdon/Vane)
 \parencite{Woodford2011}
