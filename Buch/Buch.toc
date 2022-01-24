@@ -159,31 +159,33 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {14.2.4}\textit {Das} DSGE-Grundmodell}{127}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.3}Erweiterungen}{131}
+\contentsline {subsection}{\numberline {14.2.5}Erweiterungen der DSGE-Modelle}{131}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.1}Arbeitslosigkeit}{131}
+\contentsline {subsubsection}{Das Problem der Inflationstr\IeC {\"a}gheit}{131}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.2}State-Dependent Pricing}{131}
+\contentsline {subsubsection}{State-Dependent Pricing}{132}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.3}Staggered Price Adjustmend with Inflation Inertia}{132}
+\contentsline {subsection}{\numberline {14.2.6}Kritik an DSGE-Modellen}{133}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.4}Inflation}{132}
+\contentsline {subsection}{\numberline {14.2.7}Arbeitslosigkeit}{133}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.4.1}Kosten der Inflation, Inertia}{132}
+\contentsline {section}{\numberline {14.3}Inflation}{133}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.4.2}Zentralbanken Unabh\IeC {\"a}ngigkeit und Inflation-Targeting}{132}
+\contentsline {subsection}{\numberline {14.3.1}Kosten der Inflation, Inertia}{133}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.4.3}Divine Coincidence}{132}
+\contentsline {subsection}{\numberline {14.3.2}Zentralbanken Unabh\IeC {\"a}ngigkeit und Inflation-Targeting}{133}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.5}Fiskalpolitik}{133}
+\contentsline {subsection}{\numberline {14.3.3}Divine Coincidence}{134}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.6}Auf den Schultern von Giganten}{133}
+\contentsline {section}{\numberline {14.4}Fiskalpolitik}{134}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.6.1}Krugman}{133}
+\contentsline {section}{\numberline {14.5}Auf den Schultern von Giganten}{134}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.6.2}Blanchard}{133}
+\contentsline {subsection}{\numberline {14.5.1}Krugman}{134}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.6.3}David Romer \& Mankiv}{133}
+\contentsline {subsection}{\numberline {14.5.2}Blanchard}{134}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {14.5.3}David Romer \& Mankiv}{134}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {15}Sisyphus-\IeC {\"O}konomie}{135}
 \defcounter {refsection}{0}\relax 

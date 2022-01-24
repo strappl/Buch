@@ -1331,6 +1331,40 @@
     \field{year}{1983}
   \endentry
 
+  \entry{Caplin1987}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CAS}{%
+         family={Caplin},
+         familyi={C\bibinitperiod},
+         given={Andrew\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SDF}{%
+         family={Spulber},
+         familyi={S\bibinitperiod},
+         given={Daniel\bibnamedelima F.},
+         giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{CASSDF1}
+    \strng{fullhash}{CASSDF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{4}
+    \field{pages}{703\bibrangedash 726}
+    \field{title}{Menu Costs and the Neutrality of Money}
+    \field{volume}{102}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1987}
+  \endentry
+
   \entry{Chamberlin1933}{book}{}
     \name{author}{1}{}{%
       {{hash=CE}{%
@@ -1361,7 +1395,7 @@
     \field{year}{1933}
   \endentry
 
-  \entry{Christiamo1999}{incollection}{}
+  \entry{Christiano1999}{incollection}{}
     \name{author}{3}{}{%
       {{hash=CLJ}{%
          family={Christiano},
@@ -1668,6 +1702,34 @@
     \field{title}{Coordinating Coordination Failures in Keynesian Models}
     \field{volume}{103}
     \field{journaltitle}{Quarterly Journal of Economics}
+  \endentry
+
+  \entry{Danziger1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DL}{%
+         family={Danziger},
+         familyi={D\bibinitperiod},
+         given={Leif},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DL1}
+    \strng{fullhash}{DL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{4}
+    \field{pages}{878\bibrangedash 901}
+    \field{title}{A Dynamic Economy with Costly Price Adjustments}
+    \verb{url}
+    \verb https://www.aeaweb.org/articles?id=10.1257/aer.89.4.878
+    \endverb
+    \field{volume}{89}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1999}
   \endentry
 
   \entry{Diamond1982}{article}{}
@@ -2203,6 +2265,40 @@
     \field{volume}{52}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{2005}
+  \endentry
+
+  \entry{Golosov2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GM}{%
+         family={Golosov},
+         familyi={G\bibinitperiod},
+         given={Mikhail},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Lucas Jr.},
+         familyi={L\bibinitperiod},
+         given={Robert E.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The University of Chicago Press}%
+    }
+    \strng{namehash}{GMLR1}
+    \strng{fullhash}{GMLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{2}
+    \field{pages}{171\bibrangedash 199}
+    \field{title}{Menu Costs and Phillips Curves}
+    \field{volume}{115}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{2007}
   \endentry
 
   \entry{Grossman1991a}{article}{}
@@ -3109,8 +3205,8 @@
     \list{publisher}{1}{%
       {Oxford University Press}%
     }
-    \strng{namehash}{MNG2}
-    \strng{fullhash}{MNG2}
+    \strng{namehash}{MNG1}
+    \strng{fullhash}{MNG1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1985}
@@ -3135,7 +3231,7 @@
       {{hash=MNG}{%
          family={Mankiw},
          familyi={M\bibinitperiod},
-         given={N\bibnamedelima Gregory},
+         given={N.\bibnamedelima Gregory},
          giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
       }}%
     }
