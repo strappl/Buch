@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  24 JAN 2022 16:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  25 JAN 2022 15:54
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -920,82 +920,88 @@ Overfull \hbox (17.28116pt too wide) has occurred while \output is active
 nesianern []
  []
 
-[131] [132] [133]
-Overfull \hbox (3.75403pt too wide) in paragraph at lines 279--280
+[131] [132]
+Overfull \hbox (17.28116pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 14.2 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
+nesianern []
+ []
+
+[133]
+Overfull \hbox (3.75403pt too wide) in paragraph at lines 259--260
 []\T1/cmr/m/n/10 Neue Klas-si-sche Ma-kro-öko-no-mie: An-nah-me Ra-tio-na-le E
 r-war-tun-gen, Real-
  []
 
-) [134]
+[134]) [135]
 \openout2 = `Kapitel_4_5.aux'.
 
- (Kapitel_4_5.tex
+ (Kapitel_4_5.tex [136
+
+
+
+
+]
 Kapitel 15.
-[135
-
-
-
-
-]) [136]
+[137]) [138]
 \openout2 = `Teil_V.aux'.
 
- (Teil_V.tex [137
+ (Teil_V.tex [139
 
 
 
 
-] [138])
+] [140])
 \openout2 = `Kapitel_5_1.aux'.
 
  (Kapitel_5_1.tex
 Kapitel 16.
-[139
+[141
 
 
 
 
-]) [140]
+]) [142]
 \openout2 = `Kapitel_5_1a.aux'.
 
  (Kapitel_5_1a.tex
 Kapitel 17.
-) [141
+) [143
 
 
 
 
-] [142]
+] [144]
 \openout2 = `Kapitel_5_1b.aux'.
 
  (Kapitel_5_1b.tex
 Kapitel 18.
-[143
+[145
 
 
 
 
-] [144] [145] [146] [147] [148]) [149]
+] [146] [147] [148] [149] [150]) [151]
 \openout2 = `Kapitel_Neoliberal.aux'.
 
- (Kapitel_Neoliberal.tex [150
+ (Kapitel_Neoliberal.tex [152
 
 
 
 
 ]
 Kapitel 19.
-[151] [152]
+[153] [154]
 Overfull \hbox (57.0568pt too wide) in paragraph at lines 33--34
 \T1/cmr/m/n/10 ten-den-zi-ell ge-nau das Ge-gen-teil ver-wen-det (sie-he: https
 ://www.montpelerin.org/statement-
  []
 
-[153] [154] [155] [156] [157]) [158]
+[155] [156] [157] [158] [159]) [160]
 \openout2 = `Kapitel_5_2.aux'.
 
  (Kapitel_5_2.tex
 Kapitel 20.
-) [159
+) [161
 
 
 
@@ -1003,47 +1009,47 @@ Kapitel 20.
 ]
 \openout2 = `Kapitel_5_2a.aux'.
 
- (Kapitel_5_2a.tex [160
+ (Kapitel_5_2a.tex [162
 
 
 
 
 ]
 Kapitel 21.
-) [161]
+) [163]
 \openout2 = `Kapitel_5_3.aux'.
 
- (Kapitel_5_3.tex [162
+ (Kapitel_5_3.tex [164
 
 
 
 
 ]
 Kapitel 22.
-) [163]
+) [165]
 \openout2 = `Kapitel_4_6.aux'.
 
- (Kapitel_4_6.tex [164
+ (Kapitel_4_6.tex [166
 
 
 
 
 ]
 Kapitel 23.
-) [165]
+) [167]
 \openout2 = `Teil_VI.aux'.
 
- (Teil_VI.tex [166
+ (Teil_VI.tex [168
 
 
 
 
-] [167] [168])
+] [169] [170])
 \openout2 = `Kapitel_6_1.aux'.
 
  (Kapitel_6_1.tex
 Kapitel 24.
-) [169
+) [171
 
 
 
@@ -1051,64 +1057,64 @@ Kapitel 24.
 ]
 \openout2 = `Kapitel_6_2.aux'.
 
- (Kapitel_6_2.tex [170
+ (Kapitel_6_2.tex [172
 
 
 
 
 ]
 Kapitel 25.
-) [171]
+) [173]
 \openout2 = `Kapitel_6_3.aux'.
 
- (Kapitel_6_3.tex [172
+ (Kapitel_6_3.tex [174
 
 
 
 
 ]
 Kapitel 26.
-) [173]
+) [175]
 \openout2 = `Kapitel_6_4.aux'.
 
- (Kapitel_6_4.tex [174
+ (Kapitel_6_4.tex [176
 
 
 
 
 ]
 Kapitel 27.
-) [175]
+) [177]
 \openout2 = `Kapitel_6_5.aux'.
 
- (Kapitel_6_5.tex [176
+ (Kapitel_6_5.tex [178
 
 
 
 
 ]
 Kapitel 28.
-) [177]
+) [179]
 \openout2 = `Kapitel_6_6.aux'.
 
- (Kapitel_6_6.tex [178
+ (Kapitel_6_6.tex [180
 
 
 
 
 ]
 Kapitel 29.
-) [179]
+) [181]
 \openout2 = `Kapitel_6_7.aux'.
 
- (Kapitel_6_7.tex [180
+ (Kapitel_6_7.tex [182
 
 
 
 
 ]
 Kapitel 30.
-) [181] [182
+) [183] [184
 
 
 
@@ -1117,28 +1123,28 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 108.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [183]
-[184] [185] [186]
+) [185]
+[186] [187] [188]
 Overfull \hbox (16.31282pt too wide) in paragraph at lines 109--109
 [][]\T1/cmr/m/n/10 Kirzner, Is-rael (1967).   Di-ver-gent Ap-proa-ches in Li-b
 er-ta-ri-an Eco-no-mic Thougth.
  []
 
-[187]
+[189]
 Overfull \hbox (9.4879pt too wide) in paragraph at lines 109--109
 [][][]\T1/cmr/m/n/10 (1976).   Eco-no-me-tric Po-li-cy Eva-lua-ti-on: A Cri-ti
 -que. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[188] [189] [190] [191] [192]
+[190] [191] [192] [193] [194]
 Overfull \hbox (3.20612pt too wide) in paragraph at lines 109--109
 [][][]\T1/cmr/m/n/10 (1993).   Dis-creti-on ver-sus Po-li-cy Ru-les in Prac-ti
 -ce. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[193]
+[195]
 No file Buch.ind.
-[194] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[196] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
@@ -1148,19 +1154,15 @@ No file Buch.ind.
 ) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux) (Kapitel_6_1.aux)
 (Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux) (Kapitel_6_5.aux)
 (Kapitel_6_6.aux) (Kapitel_6_7.aux))
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12601 strings out of 492970
- 229557 string characters out of 3135852
- 680836 words of memory out of 3000000
- 16074 multiletter control sequences out of 15000+200000
+ 12599 strings out of 492970
+ 229533 string characters out of 3135852
+ 680829 words of memory out of 3000000
+ 16072 multiletter control sequences out of 15000+200000
  16217 words of font info for 35 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  44i,7n,55p,4683b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1190,9 +1192,9 @@ type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (208 pages, 815687 bytes).
+Output written on Buch.pdf (210 pages, 817435 bytes).
 PDF statistics:
- 1478 PDF objects out of 1728 (max. 8388607)
+ 1482 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
