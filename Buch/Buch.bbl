@@ -1846,6 +1846,44 @@
     \field{year}{1999}
   \endentry
 
+  \entry{Erceg2000}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ECJ}{%
+         family={Erceg},
+         familyi={E\bibinitperiod},
+         given={Christopher\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HDW}{%
+         family={Henderson},
+         familyi={H\bibinitperiod},
+         given={Dale\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=LAT}{%
+         family={Levin},
+         familyi={L\bibinitperiod},
+         given={Andrew\bibnamedelima T.},
+         giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ECJHDWLAT1}
+    \strng{fullhash}{ECJHDWLAT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{2}
+    \field{pages}{281\bibrangedash 313}
+    \field{title}{Optimal Monetary Policy with Staggered Wage and Price
+  Contracts}
+    \field{volume}{46}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{2000}
+  \endentry
+
   \entry{Fischer1994}{misc}{}
     \name{author}{1}{}{%
       {{hash=FMAMZ}{%

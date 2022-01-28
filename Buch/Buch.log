@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  25 JAN 2022 15:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  28 JAN 2022 15:08
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -926,23 +926,23 @@ Overfull \hbox (17.28116pt too wide) has occurred while \output is active
 nesianern []
  []
 
-[133]
-Overfull \hbox (3.75403pt too wide) in paragraph at lines 259--260
+[133] [134] [135]
+Overfull \hbox (3.75403pt too wide) in paragraph at lines 274--275
 []\T1/cmr/m/n/10 Neue Klas-si-sche Ma-kro-öko-no-mie: An-nah-me Ra-tio-na-le E
 r-war-tun-gen, Real-
  []
 
-[134]) [135]
+) [136]
 \openout2 = `Kapitel_4_5.aux'.
 
- (Kapitel_4_5.tex [136
-
-
-
-
-]
+ (Kapitel_4_5.tex
 Kapitel 15.
-[137]) [138]
+[137
+
+
+
+
+]) [138]
 \openout2 = `Teil_V.aux'.
 
  (Teil_V.tex [139
@@ -1159,10 +1159,10 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12599 strings out of 492970
- 229533 string characters out of 3135852
- 680829 words of memory out of 3000000
- 16072 multiletter control sequences out of 15000+200000
+ 12615 strings out of 492970
+ 229807 string characters out of 3135852
+ 681505 words of memory out of 3000000
+ 16088 multiletter control sequences out of 15000+200000
  16217 words of font info for 35 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  44i,7n,55p,4683b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1192,7 +1192,7 @@ type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (210 pages, 817435 bytes).
+Output written on Buch.pdf (210 pages, 822158 bytes).
 PDF statistics:
  1482 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
