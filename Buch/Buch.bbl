@@ -1137,6 +1137,36 @@
     \field{year}{1982}
   \endentry
 
+  \entry{Blanchard2005}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BOJ}{%
+         family={Blanchard},
+         familyi={B\bibinitperiod},
+         given={Olivier\bibnamedelima J.},
+         giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Gali},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BOJGJ1}
+    \strng{fullhash}{BOJGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{11806}
+    \field{pages}{1\bibrangedash 36}
+    \field{title}{Real Wage Rigidities and the New Keynesian Model}
+    \field{journaltitle}{NBER Working Paper Series}
+    \field{year}{2005}
+  \endentry
+
   \entry{Blanchard1987}{article}{}
     \name{author}{2}{}{%
       {{hash=BOJ}{%
@@ -1210,6 +1240,38 @@
     \field{sortinithash}{B}
     \field{title}{Macroeconomics}
     \field{year}{2003}
+  \endentry
+
+  \entry{Blanchard2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BO}{%
+         family={Blanchard},
+         familyi={B\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Gali},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BOGJ1}
+    \strng{fullhash}{BOGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{1\bibrangedash 30}
+    \field{title}{Labor Markets and Monetary Policy: A New Keynesian Model with
+  Unemployment}
+    \field{volume}{2}
+    \field{journaltitle}{American Economic Journal: Macroeconomics}
+    \field{year}{2010}
   \endentry
 
   \entry{Meltzer1971}{article}{}
@@ -1695,6 +1757,7 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -2200,6 +2263,64 @@
     \field{year}{1980}
   \endentry
 
+  \entry{Gali2011a}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GJ}{%
+         family={Gali},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJ1}
+    \strng{fullhash}{GJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{3}
+    \field{pages}{436\bibrangedash 461}
+    \field{title}{The Return of the Wage Phillips Curve}
+    \field{volume}{9}
+    \field{journaltitle}{Journal of the European Economic Association}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Gali2011b}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GJ}{%
+         family={Gali},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MPMC}{%
+         family={MIT\bibnamedelima Press},
+         familyi={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+         suffix={Cambridge},
+         suffixi={C\bibinitperiod},
+         given={MA},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJ1}
+    \strng{fullhash}{GJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Unemployment Fluctuations and Stabilization Policies}
+    \field{year}{2011}
+  \endentry
+
   \entry{Gali2015}{book}{}
     \name{author}{1}{}{%
       {{hash=GJ}{%
@@ -2303,6 +2424,42 @@
     \field{volume}{52}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{2005}
+  \endentry
+
+  \entry{GaliSmetsWouters2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GJ}{%
+         family={Gali},
+         familyi={G\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Smets},
+         familyi={S\bibinitperiod},
+         given={Frank},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Wouters},
+         familyi={W\bibinitperiod},
+         given={Rafael},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJSFWR1}
+    \strng{fullhash}{GJSFWR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{pages}{329\bibrangedash 360}
+    \field{title}{Unemployment in an Estimated New Keynesian Model}
+    \field{volume}{26}
+    \field{journaltitle}{NBER Macroeconomic Annual}
+    \field{year}{2012}
   \endentry
 
   \entry{Golosov2007}{article}{}
@@ -2431,6 +2588,7 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -3446,41 +3604,6 @@
     \field{year}{1943}
   \endentry
 
-  \entry{McCallum1999}{article}{}
-    \name{author}{2}{}{%
-      {{hash=MBT}{%
-         family={Mccallum},
-         familyi={M\bibinitperiod},
-         given={Bennett\bibnamedelima T.},
-         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=NE}{%
-         family={Nelson},
-         familyi={N\bibinitperiod},
-         given={Edward},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MBTNE1}
-    \strng{fullhash}{MBTNE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1999}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{number}{3}
-    \field{pages}{296\bibrangedash 316}
-    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
-  Business Cycle Analysis}
-    \verb{url}
-    \verb http://www.jstor.org/stable/2601113
-    \endverb
-    \field{volume}{31}
-    \field{journaltitle}{Journal of Money, Credit and Banking}
-    \field{year}{1999}
-  \endentry
-
   \entry{McClelland1961}{book}{}
     \name{author}{1}{}{%
       {{hash=MD}{%
@@ -3537,6 +3660,41 @@
     \field{sortinithash}{M}
     \field{title}{The Human Side of Enterprise}
     \field{year}{1960}
+  \endentry
+
+  \entry{McCallum1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MBT}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Bennett\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBTNE1}
+    \strng{fullhash}{MBTNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{296\bibrangedash 316}
+    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
+  Business Cycle Analysis}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2601113
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1999}
   \endentry
 
   \entry{Mincer1974}{book}{}
@@ -4361,6 +4519,37 @@
     \field{volume}{75}
     \field{journaltitle}{American Economic Review}
     \field{year}{1985}
+  \endentry
+
+  \entry{Pissarides2000}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PCA}{%
+         family={Pissarides},
+         familyi={P\bibinitperiod},
+         given={Christopher\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MPMC}{%
+         family={MIT\bibnamedelima Press},
+         familyi={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+         suffix={Cambridge},
+         suffixi={C\bibinitperiod},
+         given={MA},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PCA1}
+    \strng{fullhash}{PCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Equlibrium Unemployment Theory, 2. Auflage}
+    \field{year}{2000}
   \endentry
 
   \entry{Rebelo1991}{article}{}
