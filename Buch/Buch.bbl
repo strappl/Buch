@@ -1457,6 +1457,80 @@
     \field{year}{1933}
   \endentry
 
+  \entry{Christiano2016}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CLJ}{%
+         family={Christiano},
+         familyi={C\bibinitperiod},
+         given={Lawrence\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=EMS}{%
+         family={Eichenbaum},
+         familyi={E\bibinitperiod},
+         given={Martin\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Mathias},
+         familyi={M\bibinitperiod},
+         given={Trabandt},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CLJEMSMT1}
+    \strng{fullhash}{CLJEMSMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{4}
+    \field{pages}{1523\bibrangedash 1569}
+    \field{title}{Unemployment and Business Cycles}
+    \field{volume}{84}
+    \field{journaltitle}{Econometrica}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Christiano2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CLJ}{%
+         family={Christiano},
+         familyi={C\bibinitperiod},
+         given={Lawrence\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=EMS}{%
+         family={Eichenbaum},
+         familyi={E\bibinitperiod},
+         given={Martin\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Mathias},
+         familyi={M\bibinitperiod},
+         given={Trabandt},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CLJEMSMT1}
+    \strng{fullhash}{CLJEMSMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{113\bibrangedash 140}
+    \field{title}{On DSGE Models}
+    \field{volume}{32}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2018}
+  \endentry
+
   \entry{Christiano1999}{incollection}{}
     \name{author}{3}{}{%
       {{hash=CLJ}{%
@@ -1757,7 +1831,6 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -1765,6 +1838,68 @@
     \field{title}{Coordinating Coordination Failures in Keynesian Models}
     \field{volume}{103}
     \field{journaltitle}{Quarterly Journal of Economics}
+  \endentry
+
+  \entry{Corsetti2001}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CG}{%
+         family={Corsetti},
+         familyi={C\bibinitperiod},
+         given={Giancarlo},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Pesenti},
+         familyi={P\bibinitperiod},
+         given={Paolo},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CGPP1}
+    \strng{fullhash}{CGPP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{2}
+    \field{pages}{421\bibrangedash 445}
+    \field{title}{Welfare and Macroeconomic Interdependence}
+    \field{volume}{116}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Curdia2016}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CV}{%
+         family={Curdia},
+         familyi={C\bibinitperiod},
+         given={Vasco},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CVWM1}
+    \strng{fullhash}{CVWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{C}
+    \field{pages}{30\bibrangedash 65}
+    \field{title}{Credit Frictions and Optimal Monetary Policy}
+    \field{volume}{84}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{2016}
   \endentry
 
   \entry{Danziger1999}{article}{}
@@ -2462,6 +2597,38 @@
     \field{year}{2012}
   \endentry
 
+  \entry{Gertler2015}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GM}{%
+         family={Gertler},
+         familyi={G\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KN}{%
+         family={Kiyotaki},
+         familyi={K\bibinitperiod},
+         given={Nobuhiro},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GMKN1}
+    \strng{fullhash}{GMKN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{7}
+    \field{pages}{2011\bibrangedash 2043}
+    \field{title}{Banking, Liquidity, and Bank Runs in an Infinite Horizon
+  Economy}
+    \field{volume}{105}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2015}
+  \endentry
+
   \entry{Golosov2007}{article}{}
     \name{author}{2}{}{%
       {{hash=GM}{%
@@ -2566,6 +2733,37 @@
     \field{year}{1991}
   \endentry
 
+  \entry{Hall2008}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HRE}{%
+         family={Hall},
+         familyi={H\bibinitperiod},
+         given={Robert\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=MPR}{%
+         family={Milgrom},
+         familyi={M\bibinitperiod},
+         given={Paul\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HREMPR1}
+    \strng{fullhash}{HREMPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{4}
+    \field{pages}{1653\bibrangedash 1674}
+    \field{title}{The Limited Influence of Unemployment on the Wage Bargain}
+    \field{volume}{98}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2008}
+  \endentry
+
   \entry{Hall1976}{misc}{}
     \name{author}{1}{}{%
       {{hash=HR}{%
@@ -2588,7 +2786,6 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -2752,6 +2949,43 @@
     \field{volume}{103}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1995}
+  \endentry
+
+  \entry{Kaplan2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KG}{%
+         family={Kaplan},
+         familyi={K\bibinitperiod},
+         given={Greg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Moll},
+         familyi={M\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=VGL}{%
+         family={Violante},
+         familyi={V\bibinitperiod},
+         given={Giovanni\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KGMBVGL1}
+    \strng{fullhash}{KGMBVGL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{3}
+    \field{pages}{697\bibrangedash 743}
+    \field{title}{Monetary Policy According to HANK}
+    \field{volume}{108}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2018}
   \endentry
 
   \entry{Kerr1996}{article}{}
@@ -3604,6 +3838,41 @@
     \field{year}{1943}
   \endentry
 
+  \entry{McCallum1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MBT}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Bennett\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBTNE1}
+    \strng{fullhash}{MBTNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{296\bibrangedash 316}
+    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
+  Business Cycle Analysis}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2601113
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1999}
+  \endentry
+
   \entry{McClelland1961}{book}{}
     \name{author}{1}{}{%
       {{hash=MD}{%
@@ -3660,41 +3929,6 @@
     \field{sortinithash}{M}
     \field{title}{The Human Side of Enterprise}
     \field{year}{1960}
-  \endentry
-
-  \entry{McCallum1999}{article}{}
-    \name{author}{2}{}{%
-      {{hash=MBT}{%
-         family={Mccallum},
-         familyi={M\bibinitperiod},
-         given={Bennett\bibnamedelima T.},
-         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=NE}{%
-         family={Nelson},
-         familyi={N\bibinitperiod},
-         given={Edward},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MBTNE1}
-    \strng{fullhash}{MBTNE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1999}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{number}{3}
-    \field{pages}{296\bibrangedash 316}
-    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
-  Business Cycle Analysis}
-    \verb{url}
-    \verb http://www.jstor.org/stable/2601113
-    \endverb
-    \field{volume}{31}
-    \field{journaltitle}{Journal of Money, Credit and Banking}
-    \field{year}{1999}
   \endentry
 
   \entry{Mincer1974}{book}{}
@@ -4168,6 +4402,71 @@
     \field{volume}{8}
     \field{journaltitle}{The B.E. Journal of Macroeconomics}
     \field{year}{2008}
+  \endentry
+
+  \entry{Obstfeld1995}{article}{}
+    \name{author}{2}{}{%
+      {{hash=OM}{%
+         family={Obstfeld},
+         familyi={O\bibinitperiod},
+         given={Maurice},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RK}{%
+         family={Rogoff},
+         familyi={R\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OMRK1}
+    \strng{fullhash}{OMRK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{3}
+    \field{pages}{624\bibrangedash 660}
+    \field{title}{Exchange Rate Dynamics Redux}
+    \field{volume}{103}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1995}
+  \endentry
+
+  \entry{Obstfeld2002}{article}{}
+    \name{author}{2}{}{%
+      {{hash=OM}{%
+         family={Obstfeld},
+         familyi={O\bibinitperiod},
+         given={Maurice},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RK}{%
+         family={Rogoff},
+         familyi={R\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{OMRK1}
+    \strng{fullhash}{OMRK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{2}
+    \field{pages}{503\bibrangedash 535}
+    \field{title}{Global Implications of Self-Oriented National Monetary Rules}
+    \field{volume}{117}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{2002}
   \endentry
 
   \entry{Parkin1986}{article}{}
