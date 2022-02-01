@@ -116,6 +116,31 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Aiyagari1994}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ASR}{%
+         family={Aiyagari},
+         familyi={A\bibinitperiod},
+         given={S.\bibnamedelima Rao},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ASR1}
+    \strng{fullhash}{ASR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{659\bibrangedash 684}
+    \field{title}{Uninsured Idiosyncratic Risk and Aggregate Saving}
+    \field{volume}{109}
+    \field{journaltitle}{Quarterly Journal of Economics}
+    \field{year}{1994}
+  \endentry
+
   \entry{Akerlof1970}{article}{}
     \name{author}{1}{}{%
       {{hash=AGA}{%
@@ -2142,6 +2167,30 @@
     \field{year}{1977}
   \endentry
 
+  \entry{Fischer2017}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FS}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Stanley},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FS1}
+    \strng{fullhash}{FS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{I’d Rather Have Bob Solow Than an Econometric Model, But..}
+    \verb{url}
+    \verb https://www.bis.org/review/r170214a.pdf
+    \endverb
+    \field{year}{2017}
+  \endentry
+
   \entry{Fisher1911}{article}{}
     \name{author}{1}{}{%
       {{hash=FI}{%
@@ -2891,6 +2940,58 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Huggett1993}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HM}{%
+         family={Huggett},
+         familyi={H\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM1}
+    \strng{fullhash}{HM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{5-6}
+    \field{pages}{953\bibrangedash 969}
+    \field{title}{The Risk-Free Rate in Heterogeneous-Agent
+  Incomplete-Insurance Economies}
+    \field{volume}{17}
+    \field{journaltitle}{Journal of Economic Dynamics and Control}
+    \field{year}{1993}
+  \endentry
+
+  \entry{Imrohoroglu1989}{article}{}
+    \name{author}{1}{}{%
+      {{hash=IA}{%
+         family={Imrohoroglu},
+         familyi={I\bibinitperiod},
+         given={Ayse},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IA1}
+    \strng{fullhash}{IA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{number}{6}
+    \field{pages}{1364\bibrangedash 1383}
+    \field{title}{Cost of Business Cycles with Indivisibilities and Liquidity
+  Constraints}
+    \field{volume}{97}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1989}
+  \endentry
+
   \entry{Jensen1976}{article}{}
     \name{author}{2}{}{%
       {{hash=JMC}{%
@@ -2985,6 +3086,37 @@
     \field{title}{Monetary Policy According to HANK}
     \field{volume}{108}
     \field{journaltitle}{American Economic Review}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Kaplan2018b}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KG}{%
+         family={Kaplan},
+         familyi={K\bibinitperiod},
+         given={Greg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=VGL}{%
+         family={Violante},
+         familyi={V\bibinitperiod},
+         given={Giovanni\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KGVGL1}
+    \strng{fullhash}{KGVGL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{3}
+    \field{pages}{167\bibrangedash 194}
+    \field{title}{Microeconomic Heterogeneity and Macroeconomic Shocks}
+    \field{volume}{32}
+    \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{2018}
   \endentry
 
@@ -3931,6 +4063,43 @@
     \field{year}{1960}
   \endentry
 
+  \entry{McKay2016}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MA}{%
+         family={McKay},
+         familyi={M\bibinitperiod},
+         given={Alisdair},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EN}{%
+         family={Emi},
+         familyi={E\bibinitperiod},
+         given={Nakamura.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Steinsson},
+         familyi={S\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MAENSJ1}
+    \strng{fullhash}{MAENSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{10}
+    \field{pages}{3133\bibrangedash 3158}
+    \field{title}{The Power of Forward Guidance Revisited}
+    \field{volume}{106}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2016}
+  \endentry
+
   \entry{Mincer1974}{book}{}
     \name{author}{1}{}{%
       {{hash=MJ}{%
@@ -4467,6 +4636,38 @@
     \field{volume}{117}
     \field{journaltitle}{The Quarterly Journal of Economics}
     \field{year}{2002}
+  \endentry
+
+  \entry{Oh2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=OH}{%
+         family={Oh},
+         familyi={O\bibinitperiod},
+         given={Hyunseung},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Reis},
+         familyi={R\bibinitperiod},
+         given={Ricardo},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OHRR1}
+    \strng{fullhash}{OHRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{S}
+    \field{pages}{50\bibrangedash 64}
+    \field{title}{Targeted Transfers and the Fiscal Response to the Great
+  Recession}
+    \field{volume}{59}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{2012}
   \endentry
 
   \entry{Parkin1986}{article}{}
@@ -5657,6 +5858,70 @@
     \field{year}{2005}
   \endentry
 
+  \entry{SmetsWouters2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SF}{%
+         family={Smets},
+         familyi={S\bibinitperiod},
+         given={Frank},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Wouters},
+         familyi={W\bibinitperiod},
+         given={Raf},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SFWR1}
+    \strng{fullhash}{SFWR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{5}
+    \field{pages}{1123\bibrangedash 1175}
+    \field{title}{An Estimated Dynamic Stochastic General Equilibrium Model of
+  the Euro Area}
+    \field{volume}{1}
+    \field{journaltitle}{Journal of the European Economic Association}
+    \field{year}{2003}
+  \endentry
+
+  \entry{SmetsWouters2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SF}{%
+         family={Smets},
+         familyi={S\bibinitperiod},
+         given={Frank},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Wouters},
+         familyi={W\bibinitperiod},
+         given={Rafael},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SFWR2}
+    \strng{fullhash}{SFWR2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{586\bibrangedash 606}
+    \field{title}{Shocks and Frictions in US Business Cycles: A Bayesian DSGE
+  Approach}
+    \field{volume}{97}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2007}
+  \endentry
+
   \entry{Snowdon2005}{book}{}
     \name{author}{2}{}{%
       {{hash=SB}{%
@@ -5692,6 +5957,31 @@
     \field{title}{Modern Macroeconomics - It's Origins, Developement and
   Current State}
     \field{year}{2005}
+  \endentry
+
+  \entry{Solow2010}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SRM}{%
+         family={Solow},
+         familyi={S\bibinitperiod},
+         given={Robert\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SRM1}
+    \strng{fullhash}{SRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Building a Science of Economics for the Real World}
+    \verb{url}
+    \verb http://www2.econ.iastate.edu/classes/econ502/tesfatsion/Solow.StateOf
+    \verb Macro.CongressionalTestimony.July2010.pdf
+    \endverb
+    \field{year}{2010}
   \endentry
 
   \entry{Solow1980}{article}{}
@@ -5824,6 +6114,30 @@
     \field{volume}{74}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1984}
+  \endentry
+
+  \entry{Stiglitz2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJE}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJE1}
+    \strng{fullhash}{SJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{23795}
+    \field{pages}{1\bibrangedash 42}
+    \field{title}{Where Modern Macroeconomics Went Wrong}
+    \field{journaltitle}{NBER Working Paper}
+    \field{year}{2017}
   \endentry
 
   \entry{Stiglitz1981}{article}{}
