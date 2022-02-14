@@ -1955,6 +1955,42 @@
     \field{year}{1999}
   \endentry
 
+  \entry{DelNegro2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DNM}{%
+         family={Del\bibnamedelima Negro},
+         familyi={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Giannoni},
+         familyi={G\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Patterson},
+         familyi={P\bibinitperiod},
+         given={Christina},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DNMGMPC1}
+    \strng{fullhash}{DNMGMPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{pages}{1\bibrangedash 81}
+    \field{title}{The Forward Guidance Puzzle}
+    \field{journaltitle}{Federal Reserve Bank of New York Staff Reports, No.
+  574}
+    \field{year}{2015}
+  \endentry
+
   \entry{Diamond1982}{article}{}
     \name{author}{1}{}{%
       {{hash=DPA}{%

@@ -173,27 +173,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {14.2.6}Status Quo und Quo vadis, DSGE?}{140}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.7}Konkrete Schw\IeC {\"a}chen des DSGE-Modells}{142}
+\contentsline {section}{\numberline {14.3}Inflation}{143}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.3}Inflation}{142}
+\contentsline {subsection}{\numberline {14.3.1}Kosten der Inflation, Inertia}{143}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.1}Kosten der Inflation, Inertia}{142}
+\contentsline {subsection}{\numberline {14.3.2}Zentralbanken Unabh\IeC {\"a}ngigkeit und Inflation-Targeting}{143}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.2}Zentralbanken Unabh\IeC {\"a}ngigkeit und Inflation-Targeting}{142}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.4}Arbeitslosigkeit}{142}
+\contentsline {section}{\numberline {14.4}Arbeitslosigkeit}{143}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {14.5}Geldpolitik}{143}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.6}Fiskalpolitik}{143}
+\contentsline {section}{\numberline {14.6}Fiskalpolitik}{144}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.7}Auf den Schultern von Giganten}{143}
+\contentsline {section}{\numberline {14.7}Auf den Schultern von Giganten}{144}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.7.1}Krugman}{143}
+\contentsline {subsection}{\numberline {14.7.1}Krugman}{144}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.7.2}Blanchard}{143}
+\contentsline {subsection}{\numberline {14.7.2}Blanchard}{144}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.7.3}David Romer \& Mankiv}{143}
+\contentsline {subsection}{\numberline {14.7.3}David Romer \& Mankiv}{144}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {15}Sisyphus-\IeC {\"O}konomie}{145}
 \defcounter {refsection}{0}\relax 
