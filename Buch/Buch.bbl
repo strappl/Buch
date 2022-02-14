@@ -2256,6 +2256,62 @@
     \field{year}{1911}
   \endentry
 
+  \entry{Fleming1962}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Fleming},
+         familyi={F\bibinitperiod},
+         given={Marcus},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{pages}{369\bibrangedash 379}
+    \field{title}{Domestic Financial Policies under Fixed and Floating Exchange
+  Rates}
+    \field{volume}{9}
+    \field{journaltitle}{IMF Staff Papers}
+    \field{year}{1962}
+  \endentry
+
+  \entry{Friedman1963}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FAJMS}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         suffix={Milton;\bibnamedelima Schwartz},
+         suffixi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Anna\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PPU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Princeton\bibnamedelima University},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FMSAJ1}
+    \strng{fullhash}{FMSAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1963}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{A Monetary History of the United States, 1867–1960}
+    \field{year}{1963}
+  \endentry
+
   \entry{Friedman1971}{article}{}
     \name{author}{1}{}{%
       {{hash=FJ}{%
@@ -2298,8 +2354,8 @@
          giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
       }}%
     }
-    \strng{namehash}{FM1}
-    \strng{fullhash}{FM1}
+    \strng{namehash}{FM2}
+    \strng{fullhash}{FM2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1957}
@@ -2328,8 +2384,8 @@
   F\bibinitperiod\bibinitdelim U\bibinitperiod},
       }}%
     }
-    \strng{namehash}{FM1}
-    \strng{fullhash}{FM1}
+    \strng{namehash}{FM2}
+    \strng{fullhash}{FM2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1960}
@@ -2359,8 +2415,8 @@
          giveni={U\bibinitperiod},
       }}%
     }
-    \strng{namehash}{FM1}
-    \strng{fullhash}{FM1}
+    \strng{namehash}{FM2}
+    \strng{fullhash}{FM2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1962}
@@ -2380,8 +2436,8 @@
          giveni={M\bibinitperiod},
       }}%
     }
-    \strng{namehash}{FM1}
-    \strng{fullhash}{FM1}
+    \strng{namehash}{FM2}
+    \strng{fullhash}{FM2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1968}
@@ -2411,8 +2467,8 @@
          familyi={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{FM1}
-    \strng{fullhash}{FM1}
+    \strng{namehash}{FM2}
+    \strng{fullhash}{FM2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1969}
@@ -2438,8 +2494,8 @@
          familyi={N\bibinithyphendelim P\bibinitperiod},
       }}%
     }
-    \strng{namehash}{FM1}
-    \strng{fullhash}{FM1}
+    \strng{namehash}{FM2}
+    \strng{fullhash}{FM2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1976}
@@ -4294,8 +4350,8 @@
          giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MRA2}
-    \strng{fullhash}{MRA2}
+    \strng{namehash}{MRA3}
+    \strng{fullhash}{MRA3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1961}
@@ -4319,8 +4375,8 @@
          giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MRA2}
-    \strng{fullhash}{MRA2}
+    \strng{namehash}{MRA3}
+    \strng{fullhash}{MRA3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1962}
@@ -4345,8 +4401,8 @@
          giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MRA2}
-    \strng{fullhash}{MRA2}
+    \strng{namehash}{MRA1}
+    \strng{fullhash}{MRA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1963}
@@ -4377,8 +4433,8 @@
          familyi={N\bibinithyphendelim P\bibinithyphendelim B\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MRA1}
-    \strng{fullhash}{MRA1}
+    \strng{namehash}{MRA2}
+    \strng{fullhash}{MRA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1999}
