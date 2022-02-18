@@ -304,6 +304,58 @@
     \field{year}{1990}
   \endentry
 
+  \entry{Akerlof1996}{article}{}
+    \name{author}{5}{}{%
+      {{hash=AGA}{%
+         family={Akerlof},
+         familyi={A\bibinitperiod},
+         given={George\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DWT}{%
+         family={Dickens},
+         familyi={D\bibinitperiod},
+         given={William\bibnamedelima T.},
+         giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=PGL}{%
+         family={Perry},
+         familyi={P\bibinitperiod},
+         given={George\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=GRJ}{%
+         family={Gordon},
+         familyi={G\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MNG}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         given={N.\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Brookings Institution Press}%
+    }
+    \strng{namehash}{AGA+1}
+    \strng{fullhash}{AGADWTPGLGRJMNG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 76}
+    \field{title}{The Macroeconomics of Low Inflation}
+    \field{volume}{1996}
+    \field{journaltitle}{Brookings Papers on Economic Activity}
+    \field{year}{1996}
+  \endentry
+
   \entry{Akerlof1982}{article}{}
     \name{author}{1}{}{%
       {{hash=AG}{%
@@ -355,6 +407,41 @@
     \field{volume}{74}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1984}
+  \endentry
+
+  \entry{Alesina1993}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SLH}{%
+         family={Summers},
+         familyi={S\bibinitperiod},
+         given={Lawrence\bibnamedelima H.},
+         giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{AASLH1}
+    \strng{fullhash}{AASLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{151\bibrangedash 162}
+    \field{title}{Central Bank Independence and Macroeconomic Performance: Some
+  Comparative Evidence}
+    \field{volume}{25}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1993}
   \endentry
 
   \entry{Appelbaum2019}{book}{}
@@ -444,6 +531,37 @@
     \field{volume}{55}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1963}
+  \endentry
+
+  \entry{Ball1990}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BL}{%
+         family={Ball},
+         familyi={B\bibinitperiod},
+         given={Laurence},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CSG}{%
+         family={Cecchetti},
+         familyi={C\bibinitperiod},
+         given={Stephen\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLCSG1}
+    \strng{fullhash}{BLCSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{245\bibrangedash 254}
+    \field{title}{Inflation and Uncertainty at Short and Long Horizons}
+    \field{volume}{1990}
+    \field{journaltitle}{Brookings Papers on Economic Activity}
+    \field{year}{1990}
   \endentry
 
   \entry{Ball1989}{article}{}
@@ -1111,6 +1229,129 @@
     \field{volume}{78}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1988}
+  \endentry
+
+  \entry{Bernanke1999}{inbook}{}
+    \name{author}{3}{}{%
+      {{hash=BBS}{%
+         family={Bernanke},
+         familyi={B\bibinitperiod},
+         given={Ben\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gertler},
+         familyi={G\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={Gilchrist},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=oCPU}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Chicago\bibnamedelima Press},
+         familyi={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={University},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBSGMSG1}
+    \strng{fullhash}{BBSGMSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{Handbook of Macroeconomics}
+    \field{title}{The Financial Accelerator in a Quantitative Business Cycle
+  Framework}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Bernanke1997}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=BBS}{%
+         family={Bernanke},
+         familyi={B\bibinitperiod},
+         given={Ben\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Woodford},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBSWM1}
+    \strng{fullhash}{BBSWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{6157}
+    \field{pages}{1\bibrangedash 50}
+    \field{title}{Inflation Forecasts and Monetary Policy}
+    \field{journaltitle}{NBER Working Paper Series}
+    \field{year}{1997}
+  \endentry
+
+  \entry{Bernanke1999b}{book}{}
+    \name{author}{4}{}{%
+      {{hash=BB}{%
+         family={Bernanke},
+         familyi={B\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Laubach},
+         familyi={L\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MFS}{%
+         family={Mishkin},
+         familyi={M\bibinitperiod},
+         given={Frederic\bibnamedelima S.},
+         giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=PAS}{%
+         family={Posen},
+         familyi={P\bibinitperiod},
+         given={Adam\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PPU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Princeton\bibnamedelima University},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BB+1}
+    \strng{fullhash}{BBLTMFSPAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Inflation Targeting: Lessons from the International
+  Experience}
+    \field{year}{1999}
   \endentry
 
   \entry{Bils1987}{article}{}
@@ -2201,6 +2442,34 @@
     \field{volume}{85}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1977}
+  \endentry
+
+  \entry{Fischer1993}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FS}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Stanley},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{FS1}
+    \strng{fullhash}{FS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{3}
+    \field{pages}{485\bibrangedash 512}
+    \field{title}{The Role of Macroeconomic Factors in Growth}
+    \field{volume}{32}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{1993}
   \endentry
 
   \entry{Fischer2017}{misc}{}
@@ -3709,10 +3978,36 @@
     \field{sortinithash}{L}
     \field{number}{2}
     \field{pages}{92\bibrangedash 96}
-    \field{title}{Why Doesn't Capital Flow from Rich to Poor Countries?}
+    \field{title}{Doesn't Capital Flow from Rich to Poor Countries?}
     \field{volume}{80}
     \field{journaltitle}{American Economic Review}
     \field{year}{1990}
+  \endentry
+
+  \entry{Lucas1994}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LRE}{%
+         family={Lucas},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRE2}
+    \strng{fullhash}{LRE2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{On the Welfare Cost of Inflation}
+    \verb{url}
+    \verb http://faculty.econ.ucdavis.edu/faculty/kdsalyer/LECTURES/Ecn235a/Ext
+    \verb ra_Articles/welfare.pdf
+    \endverb
+    \field{journaltitle}{University of Chicago Working Paper}
+    \field{year}{1994}
   \endentry
 
   \entry{Lucas2003}{article}{}
@@ -4246,6 +4541,31 @@
     \field{sortinithash}{M}
     \field{title}{The Road from Mont Pelerin}
     \field{year}{2009}
+  \endentry
+
+  \entry{Mishkin2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MFS}{%
+         family={Mishkin},
+         familyi={M\bibinitperiod},
+         given={Frederic\bibnamedelima S},
+         giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFS1}
+    \strng{fullhash}{MFS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{105\bibrangedash 109}
+    \field{title}{Inflation Targeting in Emerging-Market Countries}
+    \field{volume}{90}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2000}
   \endentry
 
   \entry{Modigliani1954}{incollection}{}
@@ -5144,6 +5464,39 @@
     \field{year}{2000}
   \endentry
 
+  \entry{Ramey1995}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RG}{%
+         family={Ramey},
+         familyi={R\bibinitperiod},
+         given={Garey},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=RVA}{%
+         family={Ramey},
+         familyi={R\bibinitperiod},
+         given={Valerie\bibnamedelima A.},
+         giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RGRVA1}
+    \strng{fullhash}{RGRVA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{5}
+    \field{pages}{1138\bibrangedash 1151}
+    \field{title}{{Cross-Country Evidence on the Link between Volatility and
+  Growth}}
+    \field{volume}{85}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1995}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{Rebelo1991}{article}{}
     \name{author}{1}{}{%
       {{hash=RS}{%
@@ -5267,6 +5620,36 @@
     \field{volume}{43}
     \field{journaltitle}{Journal of Economic Literature}
     \field{year}{2005}
+  \endentry
+
+  \entry{Romer1998}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RCD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={Christina\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RCDRD1}
+    \strng{fullhash}{RCDRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{6793}
+    \field{pages}{1\bibrangedash 40}
+    \field{title}{Monetary Policy and the Well-Being of the Poor}
+    \field{journaltitle}{NBER Working Paper Series}
+    \field{year}{1998}
   \endentry
 
   \entry{RomerDavid1993}{article}{}
@@ -5903,6 +6286,46 @@
     \field{year}{1984}
   \endentry
 
+  \entry{Shiller1997}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SRJ}{%
+         family={Shiller},
+         familyi={S\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=RCD}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={Christina\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=RDH}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={David\bibnamedelima H.},
+         giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{SRJ1}
+    \strng{fullhash}{SRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Reducing Inflation: Motivation and Strategy}
+    \field{pages}{13–\bibrangedash 70}
+    \field{title}{Why Do People Dislike Inflation?}
+    \field{year}{1997}
+  \endentry
+
   \entry{Shiller2017}{article}{}
     \name{author}{1}{}{%
       {{hash=SRJ}{%
@@ -6261,6 +6684,33 @@
     \field{volume}{71}
     \field{journaltitle}{American Economic Review}
     \field{year}{1981}
+  \endentry
+
+  \entry{Svensson2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SLEO}{%
+         family={Svensson},
+         familyi={S\bibinitperiod},
+         given={Lars E.\bibnamedelima O.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SLEO1}
+    \strng{fullhash}{SLEO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{95\bibrangedash 99}
+    \field{title}{The First Year of the Eurosystem: Inflation Targeting or
+  Not?}
+    \field{volume}{90}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2000}
   \endentry
 
   \entry{Taylor1979}{article}{}
