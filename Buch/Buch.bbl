@@ -533,6 +533,37 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Autor2001}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ADH}{%
+         family={Autor},
+         familyi={A\bibinitperiod},
+         given={David\bibnamedelima H.},
+         giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=DMG}{%
+         family={Duggan},
+         familyi={D\bibinitperiod},
+         given={Mark\bibnamedelima G.},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADHDMG1}
+    \strng{fullhash}{ADHDMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{8336}
+    \field{pages}{1\bibrangedash 59}
+    \field{title}{The Rise of Disability Recipiency and the Decline in
+  Unemployment}
+    \field{journaltitle}{NBER Working Paper Series}
+    \field{year}{2001}
+  \endentry
+
   \entry{Ball1990}{article}{}
     \name{author}{2}{}{%
       {{hash=BL}{%
@@ -562,6 +593,38 @@
     \field{volume}{1990}
     \field{journaltitle}{Brookings Papers on Economic Activity}
     \field{year}{1990}
+  \endentry
+
+  \entry{Ball2002}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BL}{%
+         family={Ball},
+         familyi={B\bibinitperiod},
+         given={Laurence},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MNG}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         given={N.\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLMNG1}
+    \strng{fullhash}{BLMNG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{4}
+    \field{pages}{115\bibrangedash 136}
+    \field{title}{The NAIRU in Theory and Practice}
+    \field{volume}{16}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2002}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Ball1989}{article}{}
@@ -1431,6 +1494,39 @@
     \field{title}{Real Wage Rigidities and the New Keynesian Model}
     \field{journaltitle}{NBER Working Paper Series}
     \field{year}{2005}
+  \endentry
+
+  \entry{Blanchard1986}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BOJ}{%
+         family={Blanchard},
+         familyi={B\bibinitperiod},
+         given={Olivier\bibnamedelima J.},
+         giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SLH}{%
+         family={Summers},
+         familyi={S\bibinitperiod},
+         given={Lawrence\bibnamedelima H.},
+         giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT press}%
+    }
+    \strng{namehash}{BOJSLH1}
+    \strng{fullhash}{BOJSLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{pages}{15\bibrangedash 78}
+    \field{title}{Hysteresis and the European Unemployment Problem}
+    \field{volume}{1}
+    \field{journaltitle}{NBER Macroeconomics Annual}
+    \field{year}{1986}
   \endentry
 
   \entry{Blanchard1987}{article}{}
@@ -3646,6 +3742,43 @@
     \field{year}{2001}
   \endentry
 
+  \entry{Krueger1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KAB}{%
+         family={Krueger},
+         familyi={K\bibinitperiod},
+         given={Alan\bibnamedelima B.},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=KLF}{%
+         family={Katz},
+         familyi={K\bibinitperiod},
+         given={Lawrence\bibnamedelima F.},
+         giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Brookings Institution Press}%
+    }
+    \strng{namehash}{KABKLF1}
+    \strng{fullhash}{KABKLF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 88}
+    \field{title}{The High-Pressure U.S. Labor Market of the 1990}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2534063
+    \endverb
+    \field{volume}{30}
+    \field{journaltitle}{Brookings Papers on Economic Activity}
+    \field{year}{1999}
+  \endentry
+
   \entry{Kydland1977}{article}{}
     \name{author}{1}{}{%
       {{hash=KECFEP}{%
@@ -4333,6 +4466,61 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Markowitz1990}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MHM}{%
+         family={Markowitz},
+         familyi={M\bibinitperiod},
+         given={Harry\bibnamedelima M.},
+         giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPL}{%
+         family={Nobel-Prize-Lecture},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MHM1}
+    \strng{fullhash}{MHM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Foundations of Portfolio Theory}
+    \verb{url}
+    \verb https://www.nobelprize.org/uploads/2018/06/markowitz-lecture.pdf
+    \endverb
+    \field{year}{1990}
+  \endentry
+
+  \entry{Markowitz1952}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MH}{%
+         family={Markowitz},
+         familyi={M\bibinitperiod},
+         given={Harry},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MH1}
+    \strng{fullhash}{MH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1952}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{77\bibrangedash 91}
+    \field{title}{Portfolio Selection}
+    \field{volume}{7}
+    \field{journaltitle}{Journal of Finance}
+    \field{year}{1952}
+  \endentry
+
   \entry{Maslow1943}{article}{}
     \name{author}{1}{}{%
       {{hash=MA}{%
@@ -4602,6 +4790,78 @@
     \field{title}{Utility analysis and the Consumption Function: An
   Interpretation of Cross-Section Data}
     \field{year}{1954}
+  \endentry
+
+  \entry{Modigliani1958}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MF}{%
+         family={Modigliani},
+         familyi={M\bibinitperiod},
+         given={Franco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MMH}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={Merton\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFMMH1}
+    \strng{fullhash}{MFMMH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1958}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{261\bibrangedash 297}
+    \field{title}{The Cost of Capital, Corporation Finance and the Theory of
+  Investment}
+    \verb{url}
+    \verb http://www.jstor.org/stable/1809766
+    \endverb
+    \field{volume}{48}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1958}
+  \endentry
+
+  \entry{Modigliani1975}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MF}{%
+         family={Modigliani},
+         familyi={M\bibinitperiod},
+         given={Franco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=PL}{%
+         family={Papademos},
+         familyi={P\bibinitperiod},
+         given={Lucas},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Brookings Institution Press}%
+    }
+    \strng{namehash}{MFPL1}
+    \strng{fullhash}{MFPL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1975}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{141\bibrangedash 165}
+    \field{title}{Targets for Monetary Policy in the Coming Year}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2534063
+    \endverb
+    \field{volume}{1975}
+    \field{journaltitle}{Brookings Papers on Economic Activity}
+    \field{year}{1975}
   \endentry
 
   \entry{Mortensen1978}{article}{}
@@ -6066,6 +6326,32 @@
     \field{year}{1976}
   \endentry
 
+  \entry{Rubinstein2002}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RM}{%
+         family={Rubinstein},
+         familyi={R\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RM1}
+    \strng{fullhash}{RM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{3}
+    \field{pages}{1041\bibrangedash 1045}
+    \field{title}{Markowitz's "Portfolio Selection": A Fifty-Year
+  Retrospective}
+    \field{volume}{57}
+    \field{journaltitle}{Journal of Finance}
+    \field{year}{2002}
+  \endentry
+
   \entry{Rudd2005}{article}{}
     \name{author}{2}{}{%
       {{hash=RJB}{%
@@ -6549,6 +6835,42 @@
     \field{year}{1973}
   \endentry
 
+  \entry{Staiger2001}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SD}{%
+         family={Staiger},
+         familyi={S\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SJH}{%
+         family={Stock},
+         familyi={S\bibinitperiod},
+         given={James\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=WMW}{%
+         family={Watson},
+         familyi={W\bibinitperiod},
+         given={Mark\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SDSJHWMW1}
+    \strng{fullhash}{SDSJHWMW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{8320}
+    \field{pages}{1\bibrangedash 60}
+    \field{title}{Prices, Wages and the U.S. NAIRU in the 1990s}
+    \field{journaltitle}{NBER Working Paper Series}
+    \field{year}{2001}
+  \endentry
+
   \entry{Stiglitz1987}{article}{}
     \name{author}{1}{}{%
       {{hash=SBJEG}{%
@@ -6852,6 +7174,37 @@
     \verb https://economicsone.com/2015/04/16/a-monetary-policy-for-the-future/
     \endverb
     \field{year}{2016}
+  \endentry
+
+  \entry{Tobin1980}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJ}{%
+         family={Tobin},
+         familyi={T\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Brookings Institution Press}%
+    }
+    \strng{namehash}{TJ1}
+    \strng{fullhash}{TJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{1}
+    \field{pages}{19\bibrangedash 89}
+    \field{title}{Stabilization Policy Ten Years After}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2534285
+    \endverb
+    \field{volume}{1980}
+    \field{journaltitle}{Brookings Papers on Economic Activity}
+    \field{year}{1980}
   \endentry
 
   \entry{Tobin1993}{article}{}
