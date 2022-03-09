@@ -7176,6 +7176,34 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Tobin1958}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJ}{%
+         family={Tobin},
+         familyi={T\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJ1}
+    \strng{fullhash}{TJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1958}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{2}
+    \field{pages}{65\bibrangedash 86}
+    \field{title}{Liquidity Preference as Behavior Towards Risk}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2296205
+    \endverb
+    \field{volume}{25}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1958}
+  \endentry
+
   \entry{Tobin1980}{article}{}
     \name{author}{1}{}{%
       {{hash=TJ}{%
