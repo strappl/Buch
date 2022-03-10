@@ -624,7 +624,6 @@
     \field{volume}{16}
     \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{2002}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Ball1989}{article}{}
@@ -1417,6 +1416,39 @@
     \field{year}{1999}
   \endentry
 
+  \entry{Bernstein1996}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BPL}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Peter\bibnamedelima L.},
+         giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=WJ}{%
+         family={Wiley},
+         familyi={W\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=S}{%
+         family={Sons},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BPL1}
+    \strng{fullhash}{BPL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Against the Gods - The Remarkable Story of Risk}
+    \field{year}{1996}
+  \endentry
+
   \entry{Bils1987}{article}{}
     \name{author}{1}{}{%
       {{hash=BM}{%
@@ -1440,6 +1472,68 @@
     \field{volume}{77}
     \field{journaltitle}{American Economic Review}
     \field{year}{1987}
+  \endentry
+
+  \entry{Black1992}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BF}{%
+         family={Black},
+         familyi={B\bibinitperiod},
+         given={Fischer},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Litterman},
+         familyi={L\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BFLR1}
+    \strng{fullhash}{BFLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{5}
+    \field{pages}{28\bibrangedash 43}
+    \field{title}{Global Portfolio Optimization}
+    \field{volume}{48}
+    \field{journaltitle}{Financial Analysts Journal}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Black1973}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BF}{%
+         family={Black},
+         familyi={B\bibinitperiod},
+         given={Fischer},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Scholes},
+         familyi={S\bibinitperiod},
+         given={Myron},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BFSM1}
+    \strng{fullhash}{BFSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{3}
+    \field{pages}{637\bibrangedash 654}
+    \field{title}{The Pricing of Options and Corporate Liabilities}
+    \field{volume}{81}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1973}
   \endentry
 
   \entry{Blanchard1983}{article}{}
@@ -2233,6 +2327,43 @@
     \field{year}{2001}
   \endentry
 
+  \entry{Rubinstein1979}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CJC}{%
+         family={Cox},
+         familyi={C\bibinitperiod},
+         given={John\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=RSA}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Stephen\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Mark},
+         familyi={M\bibinitperiod},
+         given={Rubinstein},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJCRSAMR1}
+    \strng{fullhash}{CJCRSAMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{229\bibrangedash 263}
+    \field{title}{Option Pricing: A Simplified Approach}
+    \field{volume}{7}
+    \field{journaltitle}{Journal of Financial Economics}
+    \field{year}{1979}
+  \endentry
+
   \entry{Curdia2016}{article}{}
     \name{author}{2}{}{%
       {{hash=CV}{%
@@ -2478,6 +2609,37 @@
     \field{volume}{46}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{2000}
+  \endentry
+
+  \entry{Fama1993}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FEF}{%
+         family={Fama},
+         familyi={F\bibinitperiod},
+         given={Eugene\bibnamedelima F.},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=FKR}{%
+         family={French},
+         familyi={F\bibinitperiod},
+         given={Kenneth\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FEFFKR1}
+    \strng{fullhash}{FEFFKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{1}
+    \field{pages}{3\bibrangedash 56}
+    \field{title}{Common Risk Factors in the Returns on Stocks and Bonds}
+    \field{volume}{33}
+    \field{journaltitle}{Journal of Financial Economics}
+    \field{year}{1993}
   \endentry
 
   \entry{Fischer1994}{misc}{}
@@ -3297,6 +3459,32 @@
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
   \endentry
 
+  \entry{Hamada1972}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HRS}{%
+         family={Hamada},
+         familyi={H\bibinitperiod},
+         given={Robert\bibnamedelima S.},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HRS1}
+    \strng{fullhash}{HRS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1972}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{issue}{2}
+    \field{pages}{435\bibrangedash 452}
+    \field{title}{The Effect of the Firm's Capital Structure on the Systematic
+  Risk of Common Stocks}
+    \field{volume}{27}
+    \field{journaltitle}{The Journal of Finance}
+    \field{year}{1972}
+  \endentry
+
   \entry{Hart1982}{article}{}
     \name{author}{1}{}{%
       {{hash=HO}{%
@@ -3938,6 +4126,32 @@
     \field{year}{2017}
   \endentry
 
+  \entry{Lintner1965}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LJ}{%
+         family={Lintner},
+         familyi={L\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ1}
+    \strng{fullhash}{LJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1965}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{4}
+    \field{pages}{587\bibrangedash 615}
+    \field{title}{Security Prices, Risk, and Maximal Gains From
+  Diversification}
+    \field{volume}{20}
+    \field{journaltitle}{The Journal of Finance}
+    \field{year}{1965}
+  \endentry
+
   \entry{Lippmann1937}{book}{}
     \name{author}{1}{}{%
       {{hash=LW}{%
@@ -4517,7 +4731,7 @@
     \field{pages}{77\bibrangedash 91}
     \field{title}{Portfolio Selection}
     \field{volume}{7}
-    \field{journaltitle}{Journal of Finance}
+    \field{journaltitle}{The Journal of Finance}
     \field{year}{1952}
   \endentry
 
@@ -4673,6 +4887,31 @@
     \field{volume}{106}
     \field{journaltitle}{American Economic Review}
     \field{year}{2016}
+  \endentry
+
+  \entry{Merton1973}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Merton},
+         familyi={M\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{141\bibrangedash 183}
+    \field{title}{Theory of Rational Option Pricing}
+    \field{volume}{4}
+    \field{journaltitle}{The Bell Journal of Economics and Management Science}
+    \field{year}{1973}
   \endentry
 
   \entry{Mincer1974}{book}{}
@@ -4919,6 +5158,31 @@
     \field{volume}{61}
     \field{journaltitle}{Review of Economic Studies}
     \field{year}{1994}
+  \endentry
+
+  \entry{Mossin1966}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MJ}{%
+         family={Mossin},
+         familyi={M\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJ2}
+    \strng{fullhash}{MJ2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1966}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{issue}{4}
+    \field{pages}{768\bibrangedash 783}
+    \field{title}{Equilibrium in a Capital Asset Market}
+    \field{volume}{34}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1966}
   \endentry
 
   \entry{Mundell1961}{article}{}
@@ -5754,7 +6018,6 @@
     \field{volume}{85}
     \field{journaltitle}{American Economic Review}
     \field{year}{1995}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Rebelo1991}{article}{}
@@ -6101,6 +6364,31 @@
     \verb e/
     \endverb
     \field{year}{2018}
+  \endentry
+
+  \entry{Ross1976}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RSA}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Stephen\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RSA1}
+    \strng{fullhash}{RSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{issue}{3}
+    \field{pages}{341\bibrangedash 360}
+    \field{title}{The Arbitrage Theory of Capital Asset Pricing}
+    \field{volume}{13}
+    \field{journaltitle}{Journal of Economic Theory}
+    \field{year}{1976}
   \endentry
 
   \entry{Rotemberg1987}{misc}{}
@@ -6480,6 +6768,36 @@
     \field{year}{1975}
   \endentry
 
+  \entry{Scholes1997}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SMS}{%
+         family={Scholes},
+         familyi={S\bibinitperiod},
+         given={Myron\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPL}{%
+         family={Nobel-Prize-Lecture},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SMS1}
+    \strng{fullhash}{SMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Derivatives in a Dynamic Environment}
+    \verb{url}
+    \verb https://www.nobelprize.org/uploads/2018/06/scholes-lecture.pdf
+    \endverb
+    \field{year}{1997}
+  \endentry
+
   \entry{Schultz1961}{article}{}
     \name{author}{1}{}{%
       {{hash=STW}{%
@@ -6570,6 +6888,32 @@
     \field{volume}{74}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1984}
+  \endentry
+
+  \entry{Sharpe1964}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SWF}{%
+         family={Sharpe},
+         familyi={S\bibinitperiod},
+         given={William\bibnamedelima F.},
+         giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SWF1}
+    \strng{fullhash}{SWF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1964}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{issue}{3}
+    \field{pages}{425\bibrangedash 442}
+    \field{title}{Capital Asset Prices: A Theory of Market Equilibrium under
+  Conditions of Risk}
+    \field{volume}{19}
+    \field{journaltitle}{The Journal of Finance}
+    \field{year}{1964}
   \endentry
 
   \entry{Shiller1997}{incollection}{}
@@ -7262,6 +7606,28 @@
     \field{volume}{7}
     \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{1993}
+  \endentry
+
+  \entry{Treynor1961}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJL}{%
+         family={Treynor},
+         familyi={T\bibinitperiod},
+         given={Jack\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJL1}
+    \strng{fullhash}{TJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1961}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Market Value, Time, and Risk}
+    \field{journaltitle}{unveröffentlicht}
+    \field{year}{1961}
   \endentry
 
   \entry{Lucas2013}{misc}{}
