@@ -564,6 +564,31 @@
     \field{year}{2001}
   \endentry
 
+  \entry{Bachelier1900}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BL}{%
+         family={Bachelier},
+         familyi={B\bibinitperiod},
+         given={Louis},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BL1}
+    \strng{fullhash}{BL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1900}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{17}
+    \field{pages}{21\bibrangedash 86}
+    \field{title}{Theorie de la Speculation (frz. Original)}
+    \field{volume}{3}
+    \field{journaltitle}{Annales scientifiques de l'Ecole Normale Superieure}
+    \field{year}{1900}
+  \endentry
+
   \entry{Ball1990}{article}{}
     \name{author}{2}{}{%
       {{hash=BL}{%
@@ -2287,6 +2312,7 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -2609,6 +2635,35 @@
     \field{volume}{46}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{2000}
+  \endentry
+
+  \entry{Fama1970}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FEF}{%
+         family={Fama},
+         familyi={F\bibinitperiod},
+         given={Eugene\bibnamedelima F.},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {[American Finance Association, Wiley]}%
+    }
+    \strng{namehash}{FEF1}
+    \strng{fullhash}{FEF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1970}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{2}
+    \field{pages}{383\bibrangedash 417}
+    \field{title}{Efficient Capital Markets: A Review of Theory and Empirical
+  Work}
+    \field{volume}{25}
+    \field{journaltitle}{The Journal of Finance}
+    \field{year}{1970}
   \endentry
 
   \entry{Fama1993}{article}{}
@@ -3401,6 +3456,40 @@
     \field{year}{1991}
   \endentry
 
+  \entry{Grossman1980}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GSJ}{%
+         family={Grossman},
+         familyi={G\bibinitperiod},
+         given={Sanford\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SJE}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{GSJSJE1}
+    \strng{fullhash}{GSJSJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{3}
+    \field{pages}{393\bibrangedash 408}
+    \field{title}{On the Impossibility of Informationally Efficient Markets}
+    \field{volume}{70}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1980}
+  \endentry
+
   \entry{Hall2008}{article}{}
     \name{author}{2}{}{%
       {{hash=HRE}{%
@@ -3454,6 +3543,7 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -4759,41 +4849,6 @@
     \field{year}{1943}
   \endentry
 
-  \entry{McCallum1999}{article}{}
-    \name{author}{2}{}{%
-      {{hash=MBT}{%
-         family={Mccallum},
-         familyi={M\bibinitperiod},
-         given={Bennett\bibnamedelima T.},
-         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=NE}{%
-         family={Nelson},
-         familyi={N\bibinitperiod},
-         given={Edward},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MBTNE1}
-    \strng{fullhash}{MBTNE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1999}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{number}{3}
-    \field{pages}{296\bibrangedash 316}
-    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
-  Business Cycle Analysis}
-    \verb{url}
-    \verb http://www.jstor.org/stable/2601113
-    \endverb
-    \field{volume}{31}
-    \field{journaltitle}{Journal of Money, Credit and Banking}
-    \field{year}{1999}
-  \endentry
-
   \entry{McClelland1961}{book}{}
     \name{author}{1}{}{%
       {{hash=MD}{%
@@ -4887,6 +4942,41 @@
     \field{volume}{106}
     \field{journaltitle}{American Economic Review}
     \field{year}{2016}
+  \endentry
+
+  \entry{McCallum1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MBT}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Bennett\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBTNE1}
+    \strng{fullhash}{MBTNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{296\bibrangedash 316}
+    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
+  Business Cycle Analysis}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2601113
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1999}
   \endentry
 
   \entry{Merton1973}{article}{}
@@ -5064,6 +5154,43 @@
     \field{volume}{48}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1958}
+  \endentry
+
+  \entry{Modigliani1963}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MF}{%
+         family={Modigliani},
+         familyi={M\bibinitperiod},
+         given={Franco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MMH}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={Merton\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{MFMMH1}
+    \strng{fullhash}{MFMMH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1963}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{433\bibrangedash 443}
+    \field{title}{Corporate Income Taxes and the Cost of Capital: A Correction}
+    \verb{url}
+    \verb http://www.jstor.org/stable/1809167
+    \endverb
+    \field{volume}{53}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1963}
   \endentry
 
   \entry{Modigliani1975}{article}{}
@@ -6914,6 +7041,35 @@
     \field{volume}{19}
     \field{journaltitle}{The Journal of Finance}
     \field{year}{1964}
+  \endentry
+
+  \entry{Shiller1981}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SRJ}{%
+         family={Shiller},
+         familyi={S\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{SRJ1}
+    \strng{fullhash}{SRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{421\bibrangedash 436}
+    \field{title}{Do Stock Prices Move Too Much to be Justified by Subsequent
+  Changes in Dividends?}
+    \field{volume}{71}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1981}
   \endentry
 
   \entry{Shiller1997}{incollection}{}
