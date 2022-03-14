@@ -444,6 +444,32 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Allais1953}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AM}{%
+         family={Allais},
+         familyi={A\bibinitperiod},
+         given={Maurice},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AM1}
+    \strng{fullhash}{AM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1953}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4}
+    \field{pages}{503\bibrangedash 546}
+    \field{title}{Le Comportement de l'Homme Rationnel devant le Risque:
+  Critique des Postulats et Axiomes de l'Ecole Americaine}
+    \field{volume}{21}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1953}
+  \endentry
+
   \entry{Appelbaum2019}{book}{}
     \name{author}{1}{}{%
       {{hash=AB}{%
@@ -1441,6 +1467,31 @@
     \field{year}{1999}
   \endentry
 
+  \entry{Bernoulli1738}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BD}{%
+         family={Bernoulli},
+         familyi={B\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BD1}
+    \strng{fullhash}{BD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1954[1738]}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{23\bibrangedash 36}
+    \field{title}{Exposition of a New Theory on the Measurement of Risk}
+    \field{volume}{22}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1954[1738]}
+  \endentry
+
   \entry{Bernstein1996}{book}{}
     \name{author}{1}{}{%
       {{hash=BPL}{%
@@ -1825,8 +1876,8 @@
          giveni={D\bibinitperiod},
       }}%
     }
-    \strng{namehash}{BD1}
-    \strng{fullhash}{BD1}
+    \strng{namehash}{BD2}
+    \strng{fullhash}{BD2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
@@ -2312,7 +2363,6 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -2447,6 +2497,34 @@
     \field{volume}{89}
     \field{journaltitle}{American Economic Review}
     \field{year}{1999}
+  \endentry
+
+  \entry{DeFinetti1952}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DFB}{%
+         family={De\bibnamedelima Finetti},
+         familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={Bruno},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {EGEA SpA}%
+    }
+    \strng{namehash}{DFB1}
+    \strng{fullhash}{DFB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1952}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{11/12}
+    \field{pages}{685\bibrangedash 709}
+    \field{title}{Sulla Preferibilita}
+    \field{volume}{11}
+    \field{journaltitle}{Giornale degli Economisti e Annali di Economia}
+    \field{year}{1952}
   \endentry
 
   \entry{DelNegro2015}{article}{}
@@ -3543,7 +3621,6 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -4849,6 +4926,41 @@
     \field{year}{1943}
   \endentry
 
+  \entry{McCallum1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MBT}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Bennett\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBTNE1}
+    \strng{fullhash}{MBTNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{296\bibrangedash 316}
+    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
+  Business Cycle Analysis}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2601113
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1999}
+  \endentry
+
   \entry{McClelland1961}{book}{}
     \name{author}{1}{}{%
       {{hash=MD}{%
@@ -4942,41 +5054,6 @@
     \field{volume}{106}
     \field{journaltitle}{American Economic Review}
     \field{year}{2016}
-  \endentry
-
-  \entry{McCallum1999}{article}{}
-    \name{author}{2}{}{%
-      {{hash=MBT}{%
-         family={Mccallum},
-         familyi={M\bibinitperiod},
-         given={Bennett\bibnamedelima T.},
-         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=NE}{%
-         family={Nelson},
-         familyi={N\bibinitperiod},
-         given={Edward},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MBTNE1}
-    \strng{fullhash}{MBTNE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1999}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{number}{3}
-    \field{pages}{296\bibrangedash 316}
-    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
-  Business Cycle Analysis}
-    \verb{url}
-    \verb http://www.jstor.org/stable/2601113
-    \endverb
-    \field{volume}{31}
-    \field{journaltitle}{Journal of Money, Credit and Banking}
-    \field{year}{1999}
   \endentry
 
   \entry{Merton1973}{article}{}
@@ -6113,6 +6190,34 @@
     \field{sortinithash}{P}
     \field{title}{Equlibrium Unemployment Theory, 2. Auflage}
     \field{year}{2000}
+  \endentry
+
+  \entry{Pratt1964}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PJW}{%
+         family={Pratt},
+         familyi={P\bibinitperiod},
+         given={John\bibnamedelima W.},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {[Wiley, Econometric Society]}%
+    }
+    \strng{namehash}{PJW1}
+    \strng{fullhash}{PJW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1964}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1/2}
+    \field{pages}{122\bibrangedash 136}
+    \field{title}{Risk Aversion in the Small and in the Large}
+    \field{volume}{32}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1964}
   \endentry
 
   \entry{Ramey1995}{article}{}
@@ -7870,6 +7975,40 @@
     \field{title}{Neoliberalism as Concept}
     \field{journaltitle}{Economy and Society}
     \field{year}{2015}
+  \endentry
+
+  \entry{Morgenstern1944}{book}{}
+    \name{author}{2}{}{%
+      {{hash=VNJ}{%
+         family={Von\bibnamedelima Neumann},
+         familyi={V\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MO}{%
+         family={Morgenstern},
+         familyi={M\bibinitperiod},
+         given={Oskar},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PPU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Princeton\bibnamedelima University},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VNJMO1}
+    \strng{fullhash}{VNJMO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Theory of Games and Economic Behavior}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
   \endentry
 
   \entry{Mundell2006}{article}{}
