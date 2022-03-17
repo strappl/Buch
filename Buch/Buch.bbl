@@ -534,6 +534,31 @@
     \field{year}{1962}
   \endentry
 
+  \entry{Arrow1963b}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AKJ}{%
+         family={Arrow},
+         familyi={A\bibinitperiod},
+         given={Kenneth\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AKJ1}
+    \strng{fullhash}{AKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1963}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{pages}{33\bibrangedash 53}
+    \field{title}{Liquidity Preference}
+    \field{volume}{285}
+    \field{journaltitle}{Lecture VI in Lecture Notes for Economics}
+    \field{year}{1963}
+  \endentry
+
   \entry{Arrow1963}{article}{}
     \name{author}{1}{}{%
       {{hash=AKJ}{%
@@ -548,6 +573,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1963}
+    \field{extradate}{2}
     \field{labeldatesource}{}
     \field{sortinit}{A}
     \field{sortinithash}{A}
@@ -613,6 +639,38 @@
     \field{volume}{3}
     \field{journaltitle}{Annales scientifiques de l'Ecole Normale Superieure}
     \field{year}{1900}
+  \endentry
+
+  \entry{BohmBawerk1888}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BBE}{%
+         family={Böhm-Bawerk},
+         familyi={B\bibinithyphendelim B\bibinitperiod},
+         given={Eugen},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dWUBIV}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Wagner'schen Universitäts-Buchhandlung},
+         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
+  B\bibinitperiod},
+         given={Innsbruck:\bibnamedelima Verlag},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBE1}
+    \strng{fullhash}{BBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1889}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
+    \field{year}{1889}
   \endentry
 
   \entry{Ball1990}{article}{}
@@ -2655,6 +2713,49 @@
     \field{year}{1977}
   \endentry
 
+  \entry{Dowd2008}{article}{}
+    \name{author}{4}{}{%
+      {{hash=DK}{%
+         family={Dowd},
+         familyi={D\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Cotter},
+         familyi={C\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Humphrey},
+         familyi={H\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Woods},
+         familyi={W\bibinitperiod},
+         given={Margaret},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DK+1}
+    \strng{fullhash}{DKCJHCWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{4}
+    \field{pages}{76\bibrangedash 80}
+    \field{title}{How Unlucky Is 25-Sigma?}
+    \field{volume}{34}
+    \field{journaltitle}{The Journal of Portfolio Management}
+    \field{year}{2008}
+  \endentry
+
   \entry{Epstein1999}{article}{}
     \name{author}{1}{}{%
       {{hash=EG}{%
@@ -2887,6 +2988,35 @@
     \field{year}{2017}
   \endentry
 
+  \entry{Fisher1906}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FI}{%
+         family={Fisher},
+         familyi={F\bibinitperiod},
+         given={Irving},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MNY}{%
+         family={Macmillan},
+         familyi={M\bibinitperiod},
+         given={New\bibnamedelima York},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FI1}
+    \strng{fullhash}{FI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1906}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The Nature of Capital and Income}
+    \field{year}{1906}
+  \endentry
+
   \entry{Fisher1911}{article}{}
     \name{author}{1}{}{%
       {{hash=FI}{%
@@ -2914,6 +3044,35 @@
     \field{sortinithash}{F}
     \field{title}{The Purchasing Power of Money}
     \field{year}{1911}
+  \endentry
+
+  \entry{Fisher1930}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FI}{%
+         family={Fisher},
+         familyi={F\bibinitperiod},
+         given={Irving},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MNY}{%
+         family={Macmillan},
+         familyi={M\bibinitperiod},
+         given={New\bibnamedelima York},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FI1}
+    \strng{fullhash}{FI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1930}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The Theory of Interest}
+    \field{year}{1930}
   \endentry
 
   \entry{Fleming1962}{article}{}
@@ -4014,6 +4173,36 @@
     \field{year}{1984}
   \endentry
 
+  \entry{Knight1921}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KFH}{%
+         family={Knight},
+         familyi={K\bibinitperiod},
+         given={Frank\bibnamedelima H.},
+         giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=CTRP}{%
+         family={Cambridge},
+         familyi={C\bibinitperiod},
+         given={The Riverside\bibnamedelima Press},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KFH1}
+    \strng{fullhash}{KFH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1921}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Risk, Uncertainty and Profit}
+    \field{year}{1921}
+  \endentry
+
   \entry{Kolev2017}{book}{}
     \name{author}{1}{}{%
       {{hash=KS}{%
@@ -4624,6 +4813,31 @@
     \field{sortinithash}{M}
     \field{title}{Phase of Capitalist Development}
     \field{year}{1982}
+  \endentry
+
+  \entry{Mandelbrot1963}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MB}{%
+         family={Mandelbrot},
+         familyi={M\bibinitperiod},
+         given={Benoit},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MB1}
+    \strng{fullhash}{MB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1963}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{4}
+    \field{pages}{394\bibrangedash 419}
+    \field{title}{The Variation of Certain Speculative Prices}
+    \field{volume}{36}
+    \field{journaltitle}{The Journal of Business}
+    \field{year}{1963}
   \endentry
 
   \entry{Mankiw1985}{article}{}
@@ -6598,6 +6812,37 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Rosner2012}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RP}{%
+         family={Rosner},
+         familyi={R\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=DuHB}{%
+         prefix={Dunker\bibnamedelima und},
+         prefixi={D\bibinitperiod\bibinitdelim u\bibinitperiod},
+         family={Humblot},
+         familyi={H\bibinitperiod},
+         given={Berlin},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RP1}
+    \strng{fullhash}{RP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Die Entwicklung ökonomischen Denkens}
+    \field{year}{2012}
+  \endentry
+
   \entry{Ross1976}{article}{}
     \name{author}{1}{}{%
       {{hash=RSA}{%
@@ -7869,6 +8114,35 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Tobin2005}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJ}{%
+         family={Tobin},
+         familyi={T\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {[American Journal of Economics}%
+      {Sociology, Inc., Wiley]}%
+    }
+    \strng{namehash}{TJ1}
+    \strng{fullhash}{TJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{1}
+    \field{pages}{19\bibrangedash 42}
+    \field{title}{Irving Fisher (1867-1947)}
+    \field{volume}{64}
+    \field{journaltitle}{The American Journal of Economics and Sociology}
+    \field{year}{2005}
+  \endentry
+
   \entry{Treynor1961}{article}{}
     \name{author}{1}{}{%
       {{hash=TJL}{%
@@ -8004,11 +8278,12 @@
     \strng{fullhash}{VNJMO1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labelyear}{1944[1953]}
+    \field{labeldatesource}{}
     \field{sortinit}{V}
     \field{sortinithash}{V}
     \field{title}{Theory of Games and Economic Behavior}
-    \warn{\item Invalid format of field 'date' \item Invalid format of field
-  'date'}
+    \field{year}{1944[1953]}
   \endentry
 
   \entry{Mundell2006}{article}{}
