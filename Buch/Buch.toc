@@ -79,23 +79,23 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {10.2}Erwartungsnutzen und Pratt's Risikoaversion}{40}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.3}Die Relevanz der Irrelevanz}{44}
+\contentsline {section}{\numberline {10.3}Die Relevanz der Irrelevanz}{45}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {10.4}Fama: Nichts arbeitet so effizient wie der Markt}{46}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.5}Markowitz: Don't put all your eggs in one basket}{47}
+\contentsline {section}{\numberline {10.5}Markowitz: Don't put all your eggs in one basket}{48}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {10.6}Die Bepreisung von Optionen}{52}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {11}Exkurs: Spieltheorie}{55}
+\contentsline {chapter}{\numberline {11}Spieltheorie}{55}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.1}Von Neumann Morgenstern}{55}
+\contentsline {section}{\numberline {11.1}Von Neumann Morgenstern}{56}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.2}Nash und Hurwicz}{55}
+\contentsline {section}{\numberline {11.2}Nash und Hurwicz}{56}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.3}Aumann, Harshani, Selten}{55}
+\contentsline {section}{\numberline {11.3}Aumann, Harshani, Selten}{56}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.4}Marktdesign und Auktionstheorie}{55}
+\contentsline {section}{\numberline {11.4}Marktdesign und Auktionstheorie}{56}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{Teil\ IV\hspace {\betweenumberspace }Seit 1975\\Neue Klassische Makro\IeC {\"o}konomie -- Neu-Keynesianismus -- Neue Neoklassische Synthese}{57}
 \defcounter {refsection}{0}\relax 
