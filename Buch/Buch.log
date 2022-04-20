@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  4 APR 2022 10:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  20 APR 2022 15:22
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -500,8 +500,321 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-\@indexfile=\write4
-\openout4 = `Buch.idx'.
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.st
+y (C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-c
+ommon.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen137
+\pgfutil@tempdimb=\dimen138
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-c
+ommon-lists.tex))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-l
+atex.def
+\pgfutil@abb=\box52
+ (C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.co
+de.tex
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.st
+y
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.st
+y
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.
+code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.c
+ode.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfi
+ltered.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen139
+\pgf@y=\dimen140
+\pgf@xa=\dimen141
+\pgf@ya=\dimen142
+\pgf@xb=\dimen143
+\pgf@yb=\dimen144
+\pgf@xc=\dimen145
+\pgf@yc=\dimen146
+\pgf@xd=\dimen147
+\pgf@yd=\dimen148
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count301
+\c@pgf@countb=\count302
+\c@pgf@countc=\count303
+\c@pgf@countd=\count304
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count305
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-
+pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-
+common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyss
+oftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count306
+\pgfsyssoftpath@bigbuffer@items=\count307
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysp
+rotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.
+code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
+ex
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.co
+de.tex
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.co
+de.tex)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.
+code.tex
+\pgfmath@dimen=\dimen149
+\pgfmath@count=\count308
+\pgfmath@box=\box53
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.code.tex
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.basic.code.tex)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.trigonometric.code.tex)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.random.code.tex)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.comparison.code.tex)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.base.code.tex)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.round.code.tex)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.misc.code.tex)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.integerarithmetics.code.tex)))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.c
+ode.tex
+\c@pgfmathroundto@lastzeros=\count309
+))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfint.code.te
+x)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+oints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen150
+\pgf@picmaxx=\dimen151
+\pgf@picminy=\dimen152
+\pgf@picmaxy=\dimen153
+\pgf@pathminx=\dimen154
+\pgf@pathmaxx=\dimen155
+\pgf@pathminy=\dimen156
+\pgf@pathmaxy=\dimen157
+\pgf@xx=\dimen158
+\pgf@xy=\dimen159
+\pgf@yx=\dimen160
+\pgf@yy=\dimen161
+\pgf@zx=\dimen162
+\pgf@zy=\dimen163
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+athconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen164
+\pgf@path@lasty=\dimen165
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+athusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen166
+\pgf@shorten@start@additional=\dimen167
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcores
+copes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count310
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreg
+raphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen168
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoret
+ransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen169
+\pgf@pt@y=\dimen170
+\pgf@pt@temp=\dimen171
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreq
+uick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreo
+bjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+athprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorea
+rrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen172
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcores
+hade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen173
+\pgf@sys@shading@range@num=\count311
+\pgf@shadingcount=\count312
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorei
+mage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoree
+xternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box57
+))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorel
+ayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoret
+ransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+atterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorer
+df.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesh
+apes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box58
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulepl
+ot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp
+-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen174
+\pgf@nodesepend=\dimen175
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp
+-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.c
+ode.tex))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
+ex))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.co
+de.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
+ex)
+\pgffor@iter=\dimen176
+\pgffor@skip=\dimen177
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
+tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrar
+yplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count313
+\pgfplotmarksize=\dimen178
+)
+\tikz@lastx=\dimen179
+\tikz@lasty=\dimen180
+\tikz@lastxsaved=\dimen181
+\tikz@lastysaved=\dimen182
+\tikz@lastmovetox=\dimen183
+\tikz@lastmovetoy=\dimen184
+\tikzleveldistance=\dimen185
+\tikzsiblingdistance=\dimen186
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count314
+\tikznumberofchildren=\count315
+\tikznumberofcurrentchild=\count316
+\tikz@fig@count=\count317
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulema
+trix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count318
+\pgfmatrixcurrentcolumn=\count319
+\pgf@matrix@numberofcolumns=\count320
+)
+\tikz@expandcount=\count321
+
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
+libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
+libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
+libraries\tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+\@indexfile=\write5
+\openout5 = `Buch.idx'.
 
 
 Writing index file Buch.idx
@@ -519,32 +832,32 @@ Package csquotes Info: ... found 'babel' package.
 (Kapitel_6_6.aux) (Kapitel_6_7.aux))
 \openout1 = `Buch.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
 (C:\Users\TRAPPL\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count301
-\scratchdimen=\dimen137
-\scratchbox=\box52
-\nofMPsegments=\count302
-\nofMParguments=\count303
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count304
-\MPscratchDim=\dimen138
-\MPnumerator=\count305
-\makeMPintoPDFobject=\count306
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count322
+\scratchdimen=\dimen187
+\scratchbox=\box63
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen188
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks30
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -589,9 +902,9 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Buch.bbl' found.
 (Buch.bbl)
-Package biblatex Info: Reference section=0 on input line 42.
-Package biblatex Info: Reference segment=0 on input line 42.
- [1
+Package biblatex Info: Reference section=0 on input line 44.
+Package biblatex Info: Reference segment=0 on input line 44.
+ ABD: EveryShipout initializing macros [1
 
 {C:/Users/TRAPPL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
@@ -614,14 +927,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 10.
- [7] [8]) [9] [10
+
+[7] [8]) [9] [10
 
 
 
-] (Buch.toc [11] [12]
-[13] [14])
-\tf@toc=\write5
-\openout5 = `Buch.toc'.
+] (Buch.toc [11] [12] [13] [14])
+\tf@toc=\write6
+\openout6 = `Buch.toc'.
 
  [15] [16
 
@@ -633,7 +946,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-] [2])
+]
+[2])
 \openout2 = `Kapitel_1_1.aux'.
 
  (Kapitel_1_1.tex
@@ -784,78 +1098,78 @@ Kapitel 11.
 
 
 
-]) [56]
+] [56] [57] [58]) [59]
 \openout2 = `Teil_IV.aux'.
 
- (Teil_IV.tex [57
+ (Teil_IV.tex [60
 
 
 
 
-] [58])
+] [61] [62])
 \openout2 = `Kapitel_3_5.aux'.
 
  (Kapitel_3_5.tex
 Kapitel 12.
-[59
+[63
 
 
 
 
-] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73]
-[74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86]) [87]
+] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77]
+[78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]) [91]
 \openout2 = `Kapitel_4_1.aux'.
 
 
-(Kapitel_4_1.tex [88
+(Kapitel_4_1.tex [92
 
 
 
 
 ]
 Kapitel 13.
-[89] [90] [91] [92] [93] [94] [95] [96] [97] [98]
+[93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
 Overfull \hbox (2.38959pt too wide) in paragraph at lines 61--62
 \T1/cmr/m/n/10 ana-ly-siert, zu-sam-men-ge-fasst und em-pi-risch un-ter-sucht. 
 Er kam zu dem Schluss,
  []
 
-[99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113] [114]
+[103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
+[115] [116] [117] [118]
 Overfull \hbox (5.08704pt too wide) in paragraph at lines 174--175
 []\T1/cmr/m/n/10 Auÿerdem gibt es, vier-tens, das nicht-rationale, Soziologisch
 e- oder Fairness-
  []
 
-[115] [116] [117] [118] [119] [120] [121] [122] [123] [124]
+[119] [120] [121] [122] [123] [124] [125] [126] [127] [128]
 Overfull \hbox (23.55475pt too wide) in paragraph at lines 218--222
 []\T1/cmr/m/n/10 Die An-fän-ge Mo-no-po-lis-ti-sche Kon-kur-renz in ma-kro-ök
 o-no-mi-schen Mainstream-
  []
 
-[125] [126] [127] [128] [129] [130]) [131] [132]
+[129] [130] [131] [132] [133] [134]) [135] [136]
 \openout2 = `Kapitel_4_4.aux'.
 
  (Kapitel_4_4.tex
 Kapitel 14.
-[133
+[137
 
 
 
 
-] [134]
+] [138]
 Overfull \hbox (11.15549pt too wide) in paragraph at lines 22--23
 \T1/cmr/m/n/10 formal-mathematischen Real-Business-Cycle-Gleichgewichtsmodelle 
 mit Ele-
  []
 
-[135] [136] [137] [138]
+[139] [140] [141] [142]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
 nesianern []
  []
 
-[139]
+[143]
 Overfull \hbox (32.41003pt too wide) in paragraph at lines 46--47
 \T1/cmr/m/n/10 schrie-ben. Die Ver-ehe-li-chung zwi-schen der RBC-Methodik un
 d Neu-Keynesianischen
@@ -867,37 +1181,37 @@ Overfull \hbox (14.64026pt too wide) in paragraph at lines 53--54
 Neu-Klassischen
  []
 
-[140]
+[144]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
 nesianern []
  []
 
-[141]
+[145]
 Overfull \hbox (22.88458pt too wide) in paragraph at lines 69--70
 \T1/cmr/m/n/10 2001 pro-ba-b-ly the sin-gle most im-port-ant ma-cro-e-co-no-mi
 c re-la-ti-on-ship ([]Nobelpreis-
  []
 
-[142]
-Overfull \hbox (17.28116pt too wide) has occurred while \output is active
- \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
-nesianern []
- []
-
-[143] [144]
-Overfull \hbox (17.28116pt too wide) has occurred while \output is active
- \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
-nesianern []
- []
-
-[145] [146]
+[146]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
 nesianern []
  []
 
 [147] [148]
+Overfull \hbox (17.28116pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
+nesianern []
+ []
+
+[149] [150]
+Overfull \hbox (17.28116pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
+nesianern []
+ []
+
+[151] [152]
 Overfull \hbox (37.21808pt too wide) in paragraph at lines 130--131
 []\T1/cmr/m/n/10 Haushalte: Die Ag-gre-gier-te Nach-fra-ge wird mo-del-liert mi
 t-tels Neu-Keynesianischer
@@ -909,25 +1223,13 @@ Overfull \hbox (17.28116pt too wide) has occurred while \output is active
 nesianern []
  []
 
-[149]
+[153]
 Overfull \hbox (4.42053pt too wide) in paragraph at lines 132--133
 []\T1/cmr/m/n/10 Zentralbank: De-ren Ver-hal-ten ist nicht mi-kro-fun-diert, ab
 er Regel-gebunden:
  []
 
-[150]
-Overfull \hbox (17.28116pt too wide) has occurred while \output is active
- \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
-nesianern []
- []
-
-[151] [152]
-Overfull \hbox (17.28116pt too wide) has occurred while \output is active
- \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
-nesianern []
- []
-
-[153] [154]
+[154]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
 nesianern []
@@ -951,13 +1253,25 @@ Overfull \hbox (17.28116pt too wide) has occurred while \output is active
 nesianern []
  []
 
-[161]
+[161] [162]
+Overfull \hbox (17.28116pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
+nesianern []
+ []
+
+[163] [164]
+Overfull \hbox (17.28116pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 14.1 DSGE: Die Zweckehe zwischen Neuen Klassikern und Neu-Key
+nesianern []
+ []
+
+[165]
 Overfull \hbox (10.46072pt too wide) in paragraph at lines 213--214
 []\T1/cmr/m/n/10 Keynesianismus: Ob-wohl die DSGE-Modelle meist nur Neu-Keynes
 ianische-
  []
 
-[162]
+[166]
 Overfull \hbox (9.05829pt too wide) in paragraph at lines 216--217
 []\T1/cmr/m/n/10 Neue Klas-si-sche Ma-kro-öko-no-mie: Zu-sam-men mit dem Neu-K
 eynesianismus
@@ -969,76 +1283,76 @@ Overfull \hbox (17.28116pt too wide) has occurred while \output is active
 nesianern []
  []
 
-[163] [164] [165] [166] [167] [168]) [169]
+[167] [168] [169] [170] [171] [172]) [173]
 \openout2 = `Kapitel_4_5.aux'.
 
- (Kapitel_4_5.tex [170
+ (Kapitel_4_5.tex [174
 
 
 
 
 ]
 Kapitel 15.
-[171] [172]) [173]
+[175] [176]) [177]
 \openout2 = `Teil_V.aux'.
 
- (Teil_V.tex [174
+ (Teil_V.tex [178
 
 
 
 
-] [175] [176])
+] [179] [180])
 \openout2 = `Kapitel_5_1.aux'.
 
  (Kapitel_5_1.tex
 Kapitel 16.
-[177
-
-
-
-
-]) [178]
-\openout2 = `Kapitel_5_1a.aux'.
-
- (Kapitel_5_1a.tex
-Kapitel 17.
-) [179
-
-
-
-
-] [180]
-\openout2 = `Kapitel_5_1b.aux'.
-
- (Kapitel_5_1b.tex
-Kapitel 18.
 [181
 
 
 
 
-] [182] [183] [184] [185] [186]) [187]
+]) [182]
+\openout2 = `Kapitel_5_1a.aux'.
+
+ (Kapitel_5_1a.tex
+Kapitel 17.
+) [183
+
+
+
+
+] [184]
+\openout2 = `Kapitel_5_1b.aux'.
+
+ (Kapitel_5_1b.tex
+Kapitel 18.
+[185
+
+
+
+
+] [186] [187] [188] [189] [190]) [191]
 \openout2 = `Kapitel_Neoliberal.aux'.
 
- (Kapitel_Neoliberal.tex [188
+ (Kapitel_Neoliberal.tex [192
 
 
 
 
 ]
 Kapitel 19.
-[189] [190]
+[193] [194]
 Overfull \hbox (57.0568pt too wide) in paragraph at lines 33--34
 \T1/cmr/m/n/10 ten-den-zi-ell ge-nau das Ge-gen-teil ver-wen-det (sie-he: https
 ://www.montpelerin.org/statement-
  []
 
-[191] [192] [193] [194] [195]) [196]
+[195] [196] [197] [198] [199]) [200]
 \openout2 = `Kapitel_5_2.aux'.
 
  (Kapitel_5_2.tex
 Kapitel 20.
-) [197
+) [201
 
 
 
@@ -1046,47 +1360,47 @@ Kapitel 20.
 ]
 \openout2 = `Kapitel_5_2a.aux'.
 
- (Kapitel_5_2a.tex [198
+ (Kapitel_5_2a.tex [202
 
 
 
 
 ]
 Kapitel 21.
-) [199]
+) [203]
 \openout2 = `Kapitel_5_3.aux'.
 
- (Kapitel_5_3.tex [200
+ (Kapitel_5_3.tex [204
 
 
 
 
 ]
 Kapitel 22.
-) [201]
+) [205]
 \openout2 = `Kapitel_4_6.aux'.
 
- (Kapitel_4_6.tex [202
+ (Kapitel_4_6.tex [206
 
 
 
 
 ]
 Kapitel 23.
-) [203]
+) [207]
 \openout2 = `Teil_VI.aux'.
 
- (Teil_VI.tex [204
+ (Teil_VI.tex [208
 
 
 
 
-] [205] [206])
+] [209] [210])
 \openout2 = `Kapitel_6_1.aux'.
 
  (Kapitel_6_1.tex
 Kapitel 24.
-) [207
+) [211
 
 
 
@@ -1094,100 +1408,100 @@ Kapitel 24.
 ]
 \openout2 = `Kapitel_6_2.aux'.
 
- (Kapitel_6_2.tex [208
+ (Kapitel_6_2.tex [212
 
 
 
 
 ]
 Kapitel 25.
-) [209]
+) [213]
 \openout2 = `Kapitel_6_3.aux'.
 
- (Kapitel_6_3.tex [210
+ (Kapitel_6_3.tex [214
 
 
 
 
 ]
 Kapitel 26.
-) [211]
+) [215]
 \openout2 = `Kapitel_6_4.aux'.
 
- (Kapitel_6_4.tex [212
+ (Kapitel_6_4.tex [216
 
 
 
 
 ]
 Kapitel 27.
-) [213]
+) [217]
 \openout2 = `Kapitel_6_5.aux'.
 
- (Kapitel_6_5.tex [214
+ (Kapitel_6_5.tex [218
 
 
 
 
 ]
 Kapitel 28.
-) [215]
+) [219]
 \openout2 = `Kapitel_6_6.aux'.
 
- (Kapitel_6_6.tex [216
+ (Kapitel_6_6.tex [220
 
 
 
 
 ]
 Kapitel 29.
-) [217]
+) [221]
 \openout2 = `Kapitel_6_7.aux'.
 
- (Kapitel_6_7.tex [218
+ (Kapitel_6_7.tex [222
 
 
 
 
 ]
 Kapitel 30.
-) [219] [220
+) [223] [224
 
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 108.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 110.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [221]
-[222] [223] [224] [225] [226]
-Overfull \hbox (10.64754pt too wide) in paragraph at lines 109--109
+) [225]
+[226] [227] [228] [229] [230] [231]
+Overfull \hbox (10.64754pt too wide) in paragraph at lines 111--111
 [][]\T1/cmr/m/n/10 Huggett, Mark (1993).   The Risk-Free Ra-te in Heterogeneou
 s-Agent Incomplete-
  []
 
-[227]
-Overfull \hbox (16.31282pt too wide) in paragraph at lines 109--109
+
+Overfull \hbox (16.31282pt too wide) in paragraph at lines 111--111
 [][]\T1/cmr/m/n/10 Kirzner, Is-rael (1967).   Di-ver-gent Ap-proa-ches in Li-b
 er-ta-ri-an Eco-no-mic Thougth.
  []
 
-[228]
-Overfull \hbox (9.4879pt too wide) in paragraph at lines 109--109
+[232]
+Overfull \hbox (9.4879pt too wide) in paragraph at lines 111--111
 [][][]\T1/cmr/m/n/10 (1976).   Eco-no-me-tric Po-li-cy Eva-lua-ti-on: A Cri-ti
 -que. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[229] [230] [231] [232] [233] [234]
-Overfull \hbox (3.20612pt too wide) in paragraph at lines 109--109
+[233] [234] [235] [236] [237] [238] [239]
+Overfull \hbox (3.20612pt too wide) in paragraph at lines 111--111
 [][][]\T1/cmr/m/n/10 (1993).   Dis-creti-on ver-sus Po-li-cy Ru-les in Prac-ti
 -ce. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[235]
+[240]
 No file Buch.ind.
-[236] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[241] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
@@ -1197,18 +1511,22 @@ No file Buch.ind.
 ) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux) (Kapitel_6_1.aux)
 (Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux) (Kapitel_6_5.aux)
 (Kapitel_6_6.aux) (Kapitel_6_7.aux))
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13152 strings out of 492970
- 243903 string characters out of 3135852
- 726013 words of memory out of 3000000
- 16625 multiletter control sequences out of 15000+200000
+ 23248 strings out of 492970
+ 466771 string characters out of 3135852
+ 921238 words of memory out of 3000000
+ 26503 multiletter control sequences out of 15000+200000
  16217 words of font info for 35 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 44i,7n,55p,5919b,3364s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,14n,71p,5919b,3365s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \ectt1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\ecbi1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
@@ -1235,9 +1553,9 @@ type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (250 pages, 962693 bytes).
+Output written on Buch.pdf (255 pages, 988943 bytes).
 PDF statistics:
- 1636 PDF objects out of 1728 (max. 8388607)
+ 1657 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

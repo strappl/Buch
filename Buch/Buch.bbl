@@ -2017,6 +2017,35 @@
     \field{year}{1987}
   \endentry
 
+  \entry{Cassidy2015}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Cassidy},
+         familyi={C\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NT}{%
+         family={NewYorker},
+         familyi={N\bibinitperiod},
+         given={The},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{The Triumph (and Failure) of John Nash's Game Theory}
+    \field{year}{2015}
+  \endentry
+
   \entry{Chamberlin1933}{book}{}
     \name{author}{1}{}{%
       {{hash=CE}{%
@@ -2459,6 +2488,36 @@
     \field{volume}{116}
     \field{journaltitle}{The Quarterly Journal of Economics}
     \field{year}{2001}
+  \endentry
+
+  \entry{Cournot1836}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CAA}{%
+         family={Cournot},
+         familyi={C\bibinitperiod},
+         given={Augustin\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=LHP}{%
+         family={L.\bibnamedelima Hachette},
+         familyi={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={Paris},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CAA1}
+    \strng{fullhash}{CAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1836}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Recherches sur les Principes Mathématiques de la Théorie
+  des Richesses}
+    \field{year}{1836}
   \endentry
 
   \entry{Rubinstein1979}{article}{}
@@ -3623,6 +3682,40 @@
     \field{year}{2007}
   \endentry
 
+  \entry{Nash2004}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GM}{%
+         family={Griehsel},
+         familyi={G\bibinitperiod},
+         given={Marika},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=oLiESiLM}{%
+         prefix={of\bibnamedelima Laureates in Economic Sciences\bibnamedelima
+  in},
+         prefixi={o\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  i\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim i\bibinitperiod},
+         family={Lindau},
+         familyi={L\bibinitperiod},
+         given={Meeting},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GM1}
+    \strng{fullhash}{GM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Interview with John F. Nash}
+    \field{year}{2004}
+  \endentry
+
   \entry{Grossman1991a}{article}{}
     \name{author}{1}{}{%
       {{hash=GEGMH}{%
@@ -3809,6 +3902,37 @@
     \field{volume}{27}
     \field{journaltitle}{The Journal of Finance}
     \field{year}{1972}
+  \endentry
+
+  \entry{Harsanyi1994}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HJC}{%
+         family={Harsanyi},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPL}{%
+         family={Nobel-Prize-Lecture},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJC1}
+    \strng{fullhash}{HJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Games with Incomplete Information}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/1994/harsanyi/lec
+    \verb ture/
+    \endverb
+    \field{year}{1994}
   \endentry
 
   \entry{Hart1982}{article}{}
@@ -4323,6 +4447,67 @@
     \field{year}{1999}
   \endentry
 
+  \entry{Nash1994}{misc}{}
+    \name{author}{6}{}{%
+      {{hash=KHW}{%
+         family={Kuhn},
+         familyi={K\bibinitperiod},
+         given={Harold\bibnamedelima W},
+         giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=HJC}{%
+         family={Harsanyi},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Selten},
+         familyi={S\bibinitperiod},
+         given={Reinhard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WJW}{%
+         family={Weibull},
+         familyi={W\bibinitperiod},
+         given={Jörgen\bibnamedelima W.},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=DEv}{%
+         family={Damme},
+         familyi={D\bibinitperiod},
+         given={Eric\bibnamedelima van},
+         giveni={E\bibinitperiod\bibinitdelim v\bibinitperiod},
+      }}%
+      {{hash=NJF}{%
+         family={Nash},
+         familyi={N\bibinitperiod},
+         given={John\bibnamedelima F},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NS}{%
+         family={Nobel-Seminar},
+         familyi={N\bibinithyphendelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KHW+1}
+    \strng{fullhash}{KHWHJCSRWJWDEvNJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{The Work of John Nash in Game Theory}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/1994/nash/lecture
+    \verb /
+    \endverb
+    \field{year}{1994}
+  \endentry
+
   \entry{Kydland1977}{article}{}
     \name{author}{1}{}{%
       {{hash=KECFEP}{%
@@ -4451,6 +4636,32 @@
     \field{volume}{56}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1966}
+  \endentry
+
+  \entry{Leonard1994}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LRJ}{%
+         family={Leonard},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima J},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRJ1}
+    \strng{fullhash}{LRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{424}
+    \field{pages}{492\bibrangedash 511}
+    \field{title}{Reading Cournot, Reading Nash: The Creation and Stabilisation
+  of the Nash Equilibrium}
+    \field{volume}{104}
+    \field{journaltitle}{Economic Journal}
+    \field{year}{1994}
   \endentry
 
   \entry{Linss2017}{book}{}
@@ -5521,6 +5732,32 @@
     \field{year}{1975}
   \endentry
 
+  \entry{Morgenstern1976}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MO}{%
+         family={Morgenstern},
+         familyi={M\bibinitperiod},
+         given={Oskar},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MO1}
+    \strng{fullhash}{MO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{805\bibrangedash 16}
+    \field{title}{The Collaboration between Oskar Morgenstern and John von
+  Neumann on the Theory of Games}
+    \field{volume}{14}
+    \field{journaltitle}{Journal of Economic Literature}
+    \field{year}{1976}
+  \endentry
+
   \entry{Mortensen1978}{article}{}
     \name{author}{1}{}{%
       {{hash=MDT}{%
@@ -5764,6 +6001,88 @@
     \field{year}{2008}
   \endentry
 
+  \entry{Nash1950b}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NJF}{%
+         family={Nash},
+         familyi={N\bibinitperiod},
+         given={John\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJF1}
+    \strng{fullhash}{NJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1950}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{pages}{48\bibrangedash 49}
+    \field{title}{Equilibrium Points in n-person Games}
+    \field{volume}{36}
+    \field{journaltitle}{Proceedings National Academy of Sciences}
+    \field{year}{1950}
+  \endentry
+
+  \entry{Nash1950}{book}{}
+    \name{author}{1}{}{%
+      {{hash=NJF}{%
+         family={Nash},
+         familyi={N\bibinitperiod},
+         given={John\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PTPUMD}{%
+         family={Ph.D.\bibnamedelima Thesis},
+         familyi={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+         suffix={Mathematics\bibnamedelima Department},
+         suffixi={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={Princeton\bibnamedelima University},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJF1}
+    \strng{fullhash}{NJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1950}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Non-Cooperative Games}
+    \field{year}{1950}
+  \endentry
+
+  \entry{Nash1951}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NJF}{%
+         family={Nash},
+         familyi={N\bibinitperiod},
+         given={John\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJF1}
+    \strng{fullhash}{NJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1951}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{2}
+    \field{pages}{286\bibrangedash 295}
+    \field{title}{Non-Cooperative Games}
+    \field{volume}{54}
+    \field{journaltitle}{The Annals of Mathematics}
+    \field{year}{1951}
+  \endentry
+
   \entry{Nekarda2020}{article}{}
     \name{author}{2}{}{%
       {{hash=NCJ}{%
@@ -5791,6 +6110,33 @@
     \field{title}{The Cyclical Behavior of the Price-Cost Markup}
     \field{journaltitle}{NBER Working Paper}
     \field{year}{2020}
+  \endentry
+
+  \entry{VonNeumann1928}{article}{}
+    \name{author}{1}{}{%
+      {{hash=vNJ}{%
+         prefix={von},
+         prefixi={v\bibinitperiod},
+         family={Neumann},
+         familyi={N\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJv1}
+    \strng{fullhash}{NJv1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1928}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{1}
+    \field{pages}{295\bibrangedash 320}
+    \field{title}{Zur Theorie der Gesellschaftsspiele}
+    \field{volume}{100}
+    \field{journaltitle}{Mathematische Annalen}
+    \field{year}{1928}
   \endentry
 
   \entry{VonNeumann1944}{book}{}
@@ -7333,6 +7679,26 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Selten2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Selten},
+         familyi={S\bibinitperiod},
+         given={Reinhard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR1}
+    \strng{fullhash}{SR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Die konzeptionellen Grundlagen der Spieltheorie einst und
+  jetzt}
+    \field{journaltitle}{Bonn Econ Discussion Papers, No. 2/2001}
+  \endentry
+
   \entry{ShapiroStiglitz1984}{article}{}
     \name{author}{2}{}{%
       {{hash=SC}{%
@@ -7644,8 +8010,8 @@
          giveni={R\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SR1}
-    \strng{fullhash}{SR1}
+    \strng{namehash}{SR2}
+    \strng{fullhash}{SR2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1980}
