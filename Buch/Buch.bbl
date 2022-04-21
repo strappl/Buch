@@ -1864,6 +1864,55 @@
     \field{year}{2010}
   \endentry
 
+  \entry{Blinder1982}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BAS}{%
+         family={Blinder},
+         familyi={B\bibinitperiod},
+         given={Alan\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BAS1}
+    \strng{fullhash}{BAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{982}
+    \field{pages}{1\bibrangedash 51}
+    \field{title}{Issues in the Coordination of Monetary and Fiscal Policy}
+    \field{journaltitle}{NBER Working Paper Series}
+    \field{year}{1982}
+  \endentry
+
+  \entry{Brouwer1912}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BLEJ}{%
+         family={Brouwer},
+         familyi={B\bibinitperiod},
+         given={Luitzen E.\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLEJ1}
+    \strng{fullhash}{BLEJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1912}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{pages}{97\bibrangedash 115}
+    \field{title}{Über Abbildung von Mannigfaltigkeiten}
+    \field{volume}{71}
+    \field{journaltitle}{Mathematische Annalen}
+    \field{year}{1912}
+  \endentry
+
   \entry{Meltzer1971}{article}{}
     \name{author}{1}{}{%
       {{hash=BAHKM}{%
@@ -4013,6 +4062,43 @@
     \field{year}{1966}
   \endentry
 
+  \entry{Holler2005}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HMJ}{%
+         family={Holler},
+         familyi={H\bibinitperiod},
+         given={Manfred\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=IG}{%
+         family={Illing},
+         familyi={I\bibinitperiod},
+         given={Gerhard},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=SAB}{%
+         family={Springer},
+         familyi={S\bibinitperiod},
+         suffix={Berlin},
+         suffixi={B\bibinitperiod},
+         given={6.\bibnamedelima Auflage},
+         giveni={\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HMJIG1}
+    \strng{fullhash}{HMJIG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Einführung in die Spieltheorie}
+    \field{year}{2005}
+  \endentry
+
   \entry{Horn2018}{article}{}
     \name{author}{1}{}{%
       {{hash=HK}{%
@@ -4445,6 +4531,35 @@
     \field{volume}{30}
     \field{journaltitle}{Brookings Papers on Economic Activity}
     \field{year}{1999}
+  \endentry
+
+  \entry{Kuhn1951}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=KHW}{%
+         family={Kuhn},
+         familyi={K\bibinitperiod},
+         given={Harold\bibnamedelima W.},
+         giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=WTA}{%
+         family={W.},
+         familyi={W\bibinitperiod},
+         given={Tucker\bibnamedelima Albert},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KHWWTA1}
+    \strng{fullhash}{KHWWTA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1951}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{481\bibrangedash 492}
+    \field{title}{Nonlinear Programming}
+    \field{journaltitle}{Proceedings of 2nd Berkeley Symposium}
+    \field{year}{1951}
   \endentry
 
   \entry{Nash1994}{misc}{}
@@ -7437,6 +7552,28 @@
     \field{year}{1976}
   \endentry
 
+  \entry{Rubinstein2003}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RA}{%
+         family={Rubinstein},
+         familyi={R\bibinitperiod},
+         given={Ariel},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RA1}
+    \strng{fullhash}{RA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{The Autumnal Sadness of the Princeton Ghost}
+    \field{journaltitle}{The Times Higher Education Supplement}
+    \field{year}{2003}
+  \endentry
+
   \entry{Rubinstein2002}{article}{}
     \name{author}{1}{}{%
       {{hash=RM}{%
@@ -7692,11 +7829,14 @@
     \strng{fullhash}{SR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{title}{Die konzeptionellen Grundlagen der Spieltheorie einst und
   jetzt}
     \field{journaltitle}{Bonn Econ Discussion Papers, No. 2/2001}
+    \field{year}{2001}
   \endentry
 
   \entry{ShapiroStiglitz1984}{article}{}
