@@ -585,6 +585,34 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Aumann1976}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ARJ}{%
+         family={Aumann},
+         familyi={A\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Institute of Mathematical Statistics}%
+    }
+    \strng{namehash}{ARJ1}
+    \strng{fullhash}{ARJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{6}
+    \field{pages}{1236\bibrangedash 1239}
+    \field{title}{{Agreeing to Disagree}}
+    \field{volume}{4}
+    \field{journaltitle}{The Annals of Statistics}
+    \field{year}{1976}
+  \endentry
+
   \entry{Autor2001}{article}{}
     \name{author}{2}{}{%
       {{hash=ADH}{%
@@ -3984,6 +4012,31 @@
     \field{year}{1994}
   \endentry
 
+  \entry{Harsanyi1967}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HJ}{%
+         family={Harsanyi},
+         familyi={H\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ1}
+    \strng{fullhash}{HJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1967}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{3}
+    \field{pages}{159\bibrangedash 182}
+    \field{title}{Games with Incomplete Information Played by Bayesian Players}
+    \field{volume}{14}
+    \field{journaltitle}{Management Science}
+    \field{year}{1967}
+  \endentry
+
   \entry{Hart1982}{article}{}
     \name{author}{1}{}{%
       {{hash=HO}{%
@@ -4018,8 +4071,8 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{HJ1}
-    \strng{fullhash}{HJ1}
+    \strng{namehash}{HJ2}
+    \strng{fullhash}{HJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2000}
