@@ -4012,7 +4012,7 @@
     \field{year}{1994}
   \endentry
 
-  \entry{Harsanyi1967}{misc}{}
+  \entry{Harsanyi1967}{article}{}
     \name{author}{1}{}{%
       {{hash=HJ}{%
          family={Harsanyi},
@@ -4030,7 +4030,8 @@
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{number}{3}
-    \field{pages}{159\bibrangedash 182}
+    \field{pages}{159\bibrangedash 182, 320\bibrangedash 334, 486\bibrangedash
+  502}
     \field{title}{Games with Incomplete Information Played by Bayesian Players}
     \field{volume}{14}
     \field{journaltitle}{Management Science}

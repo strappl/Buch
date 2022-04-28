@@ -93,7 +93,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {11.2}Nash: Das tragische Genie}{58}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.3}Hurwicz, Aumann, Harsanyi, Selten}{61}
+\contentsline {section}{\numberline {11.3}Hurwicz, Aumann, Harsanyi, Selten}{62}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {11.4}Marktdesign und Auktionstheorie}{63}
 \defcounter {refsection}{0}\relax 
