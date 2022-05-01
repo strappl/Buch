@@ -669,38 +669,6 @@
     \field{year}{1900}
   \endentry
 
-  \entry{BohmBawerk1888}{book}{}
-    \name{author}{1}{}{%
-      {{hash=BBE}{%
-         family={Böhm-Bawerk},
-         familyi={B\bibinithyphendelim B\bibinitperiod},
-         given={Eugen},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=dWUBIV}{%
-         prefix={der},
-         prefixi={d\bibinitperiod},
-         family={Wagner'schen Universitäts-Buchhandlung},
-         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
-  B\bibinitperiod},
-         given={Innsbruck:\bibnamedelima Verlag},
-         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BBE1}
-    \strng{fullhash}{BBE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1889}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
-    \field{year}{1889}
-  \endentry
-
   \entry{Ball1990}{article}{}
     \name{author}{2}{}{%
       {{hash=BL}{%
@@ -1609,6 +1577,38 @@
     \field{sortinithash}{B}
     \field{title}{Against the Gods - The Remarkable Story of Risk}
     \field{year}{1996}
+  \endentry
+
+  \entry{BohmBawerk1888}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BBE}{%
+         family={Böhm-Bawerk},
+         familyi={B\bibinithyphendelim B\bibinitperiod},
+         given={Eugen},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dWUBIV}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Wagner'schen Universitäts-Buchhandlung},
+         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
+  B\bibinitperiod},
+         given={Innsbruck:\bibnamedelima Verlag},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBE1}
+    \strng{fullhash}{BBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1889}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
+    \field{year}{1889}
   \endentry
 
   \entry{Bils1987}{article}{}
@@ -2527,6 +2527,7 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -3725,6 +3726,36 @@
     \field{year}{2015}
   \endentry
 
+  \entry{Gigerenzer2002}{book}{}
+    \name{author}{2}{}{%
+      {{hash=GG}{%
+         family={Gigerenzer},
+         familyi={G\bibinitperiod},
+         given={Gerd},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Selten},
+         familyi={S\bibinitperiod},
+         given={Reinhard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT press}%
+    }
+    \strng{namehash}{GGSR1}
+    \strng{fullhash}{GGSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Bounded Rationality: The Adaptive Roolbox}
+    \field{year}{2002}
+  \endentry
+
   \entry{Golosov2007}{article}{}
     \name{author}{2}{}{%
       {{hash=GM}{%
@@ -3950,6 +3981,7 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -4036,6 +4068,43 @@
     \field{volume}{14}
     \field{journaltitle}{Management Science}
     \field{year}{1967}
+  \endentry
+
+  \entry{Harsanyi1988}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HJ}{%
+         family={Harsanyi},
+         familyi={H\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Selten},
+         familyi={S\bibinitperiod},
+         given={Reinhard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MPMC}{%
+         family={MIT-Press},
+         familyi={M\bibinithyphendelim P\bibinitperiod},
+         suffix={Cambridge},
+         suffixi={C\bibinitperiod},
+         given={MA},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJSR1}
+    \strng{fullhash}{HJSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1988}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{A General Theory of Equilibrium Selection}
+    \field{year}{1988}
   \endentry
 
   \entry{Hart1982}{article}{}
@@ -5520,41 +5589,6 @@
     \field{year}{1943}
   \endentry
 
-  \entry{McCallum1999}{article}{}
-    \name{author}{2}{}{%
-      {{hash=MBT}{%
-         family={Mccallum},
-         familyi={M\bibinitperiod},
-         given={Bennett\bibnamedelima T.},
-         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=NE}{%
-         family={Nelson},
-         familyi={N\bibinitperiod},
-         given={Edward},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MBTNE1}
-    \strng{fullhash}{MBTNE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1999}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{number}{3}
-    \field{pages}{296\bibrangedash 316}
-    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
-  Business Cycle Analysis}
-    \verb{url}
-    \verb http://www.jstor.org/stable/2601113
-    \endverb
-    \field{volume}{31}
-    \field{journaltitle}{Journal of Money, Credit and Banking}
-    \field{year}{1999}
-  \endentry
-
   \entry{McClelland1961}{book}{}
     \name{author}{1}{}{%
       {{hash=MD}{%
@@ -5648,6 +5682,41 @@
     \field{volume}{106}
     \field{journaltitle}{American Economic Review}
     \field{year}{2016}
+  \endentry
+
+  \entry{McCallum1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MBT}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Bennett\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBTNE1}
+    \strng{fullhash}{MBTNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{296\bibrangedash 316}
+    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
+  Business Cycle Analysis}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2601113
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1999}
   \endentry
 
   \entry{Merton1973}{article}{}
@@ -6140,6 +6209,30 @@
     \field{volume}{29}
     \field{journaltitle}{Econometrica}
     \field{year}{1961}
+  \endentry
+
+  \entry{Myerson1978}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRB}{%
+         family={Myerson},
+         familyi={M\bibinitperiod},
+         given={Roger\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRB1}
+    \strng{fullhash}{MRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{73\bibrangedash 80}
+    \field{title}{Refinements of the Nash Equilibrium Concept}
+    \field{volume}{7}
+    \field{journaltitle}{International Journal of Game Theory}
+    \field{year}{1978}
   \endentry
 
   \entry{Nakamura2008}{article}{}
@@ -7870,6 +7963,55 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Selten1965}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Selten},
+         familyi={S\bibinitperiod},
+         given={Reinhard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR1}
+    \strng{fullhash}{SR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1965}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{pages}{301\bibrangedash 324, 667\bibrangedash 689}
+    \field{title}{Spieltheoretische Behandlung eines Oligopolmodells mit
+  Nachfragetr{\"a}gheit}
+    \field{volume}{12}
+    \field{journaltitle}{Zeitschrift f{\"u}r die gesamte Staatswissenschaft}
+    \field{year}{1965}
+  \endentry
+
+  \entry{Selten1975}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Selten},
+         familyi={S\bibinitperiod},
+         given={Reinhard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR1}
+    \strng{fullhash}{SR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1975}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{pages}{25\bibrangedash 55}
+    \field{title}{A Reexamination of the Concept of Perfectness}
+    \field{volume}{4}
+    \field{journaltitle}{International Journal of Game Theory}
+    \field{year}{1975}
+  \endentry
+
   \entry{Selten2001}{article}{}
     \name{author}{1}{}{%
       {{hash=SR}{%
@@ -8131,6 +8273,36 @@
     \field{volume}{97}
     \field{journaltitle}{American Economic Review}
     \field{year}{2007}
+  \endentry
+
+  \entry{Price1973}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SJM}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PGR}{%
+         family={Price},
+         familyi={P\bibinitperiod},
+         given={George\bibnamedelima R.},
+         giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJMPGR1}
+    \strng{fullhash}{SJMPGR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{pages}{15\bibrangedash 18}
+    \field{title}{The Logic of Animal Conflict}
+    \field{volume}{246}
+    \field{journaltitle}{Nature}
+    \field{year}{1973}
   \endentry
 
   \entry{Snowdon2005}{book}{}
