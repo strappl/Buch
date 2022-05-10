@@ -669,6 +669,38 @@
     \field{year}{1900}
   \endentry
 
+  \entry{BohmBawerk1888}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BBE}{%
+         family={Böhm-Bawerk},
+         familyi={B\bibinithyphendelim B\bibinitperiod},
+         given={Eugen},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dWUBIV}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Wagner'schen Universitäts-Buchhandlung},
+         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
+  B\bibinitperiod},
+         given={Innsbruck:\bibnamedelima Verlag},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBE1}
+    \strng{fullhash}{BBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1889}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
+    \field{year}{1889}
+  \endentry
+
   \entry{Ball1990}{article}{}
     \name{author}{2}{}{%
       {{hash=BL}{%
@@ -1577,38 +1609,6 @@
     \field{sortinithash}{B}
     \field{title}{Against the Gods - The Remarkable Story of Risk}
     \field{year}{1996}
-  \endentry
-
-  \entry{BohmBawerk1888}{book}{}
-    \name{author}{1}{}{%
-      {{hash=BBE}{%
-         family={Böhm-Bawerk},
-         familyi={B\bibinithyphendelim B\bibinitperiod},
-         given={Eugen},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=dWUBIV}{%
-         prefix={der},
-         prefixi={d\bibinitperiod},
-         family={Wagner'schen Universitäts-Buchhandlung},
-         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
-  B\bibinitperiod},
-         given={Innsbruck:\bibnamedelima Verlag},
-         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BBE1}
-    \strng{fullhash}{BBE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1889}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
-    \field{year}{1889}
   \endentry
 
   \entry{Bils1987}{article}{}
@@ -2527,7 +2527,6 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -2692,6 +2691,44 @@
     \field{volume}{89}
     \field{journaltitle}{American Economic Review}
     \field{year}{1999}
+  \endentry
+
+  \entry{Maskin1979}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DP}{%
+         family={Dasgupta},
+         familyi={D\bibinitperiod},
+         given={Partha},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HPJ}{%
+         family={Hammond},
+         familyi={H\bibinitperiod},
+         given={Peter\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ME}{%
+         family={Maskin},
+         familyi={M\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DPHPJME1}
+    \strng{fullhash}{DPHPJME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{2}
+    \field{pages}{185\bibrangedash 216}
+    \field{title}{The Implementation of Social Choice Rules: Some General
+  Results on Incentive Compatibility}
+    \field{volume}{46}
+    \field{journaltitle}{Review of Economic Studies}
+    \field{year}{1979}
   \endentry
 
   \entry{DeFinetti1952}{article}{}
@@ -3495,6 +3532,36 @@
     \field{year}{1980}
   \endentry
 
+  \entry{Fudenberg1991}{book}{}
+    \name{author}{2}{}{%
+      {{hash=FD}{%
+         family={Fudenberg},
+         familyi={F\bibinitperiod},
+         given={Drew},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=JT}{%
+         family={Jean},
+         familyi={J\bibinitperiod},
+         given={Tirole},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press, Cambrigde/Massachusetts}%
+    }
+    \strng{namehash}{FDJT1}
+    \strng{fullhash}{FDJT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Game Theory}
+    \field{year}{1991}
+  \endentry
+
   \entry{Gali2011a}{article}{}
     \name{author}{1}{}{%
       {{hash=GJ}{%
@@ -3726,6 +3793,31 @@
     \field{year}{2015}
   \endentry
 
+  \entry{Gibbard1973}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GA}{%
+         family={Gibbard},
+         familyi={G\bibinitperiod},
+         given={Allan},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GA1}
+    \strng{fullhash}{GA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{4}
+    \field{pages}{587\bibrangedash 601}
+    \field{title}{Manipulation of Voting Schemes: A General Result}
+    \field{volume}{41}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1973}
+  \endentry
+
   \entry{Gigerenzer2002}{book}{}
     \name{author}{2}{}{%
       {{hash=GG}{%
@@ -3742,7 +3834,7 @@
       }}%
     }
     \list{publisher}{1}{%
-      {MIT press}%
+      {MIT Press, Cambrigde/Massachusetts}%
     }
     \strng{namehash}{GGSR1}
     \strng{fullhash}{GGSR1}
@@ -3752,7 +3844,7 @@
     \field{labeldatesource}{}
     \field{sortinit}{G}
     \field{sortinithash}{G}
-    \field{title}{Bounded Rationality: The Adaptive Roolbox}
+    \field{title}{Bounded Rationality: The Adaptive Toolbox}
     \field{year}{2002}
   \endentry
 
@@ -3981,7 +4073,6 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -4268,6 +4359,83 @@
     \field{volume}{17}
     \field{journaltitle}{Journal of Economic Dynamics and Control}
     \field{year}{1993}
+  \endentry
+
+  \entry{Arrow1960}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=HL}{%
+         family={Hurwicz},
+         familyi={H\bibinitperiod},
+         given={Leonid},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=AKJ}{%
+         family={Arrow},
+         familyi={A\bibinitperiod},
+         given={Kenneth\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Samuel},
+         familyi={S\bibinitperiod},
+         given={Karlin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Patrick},
+         familyi={P\bibinitperiod},
+         given={Suppes},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Stanford University Press}%
+    }
+    \strng{namehash}{HL1}
+    \strng{fullhash}{HL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1960}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{Mathematical Methods in the Social Sciences}
+    \field{title}{Optimality and Informational Efficiency in Resource
+  Allocation Processes}
+    \field{year}{1960}
+  \endentry
+
+  \entry{Hurwicz1973}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HL}{%
+         family={Hurwicz},
+         familyi={H\bibinitperiod},
+         given={Leonid},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{HL1}
+    \strng{fullhash}{HL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{2}
+    \field{pages}{1\bibrangedash 30}
+    \field{title}{The Design of Mechanisms for Resource Allocation}
+    \verb{url}
+    \verb http://www.jstor.org/stable/1817047
+    \endverb
+    \field{volume}{63}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1973}
   \endentry
 
   \entry{Imrohoroglu1989}{article}{}
@@ -5589,6 +5757,41 @@
     \field{year}{1943}
   \endentry
 
+  \entry{McCallum1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MBT}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Bennett\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBTNE1}
+    \strng{fullhash}{MBTNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{296\bibrangedash 316}
+    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
+  Business Cycle Analysis}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2601113
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1999}
+  \endentry
+
   \entry{McClelland1961}{book}{}
     \name{author}{1}{}{%
       {{hash=MD}{%
@@ -5682,41 +5885,6 @@
     \field{volume}{106}
     \field{journaltitle}{American Economic Review}
     \field{year}{2016}
-  \endentry
-
-  \entry{McCallum1999}{article}{}
-    \name{author}{2}{}{%
-      {{hash=MBT}{%
-         family={Mccallum},
-         familyi={M\bibinitperiod},
-         given={Bennett\bibnamedelima T.},
-         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=NE}{%
-         family={Nelson},
-         familyi={N\bibinitperiod},
-         given={Edward},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MBTNE1}
-    \strng{fullhash}{MBTNE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1999}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{number}{3}
-    \field{pages}{296\bibrangedash 316}
-    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
-  Business Cycle Analysis}
-    \verb{url}
-    \verb http://www.jstor.org/stable/2601113
-    \endverb
-    \field{volume}{31}
-    \field{journaltitle}{Journal of Money, Credit and Banking}
-    \field{year}{1999}
   \endentry
 
   \entry{Merton1973}{article}{}
@@ -5826,13 +5994,18 @@
   \endentry
 
   \entry{Modigliani1954}{incollection}{}
-    \name{author}{1}{}{%
-      {{hash=MFRHB}{%
+    \name{author}{2}{}{%
+      {{hash=MF}{%
          family={Modigliani},
          familyi={M\bibinitperiod},
-         given={Franco; Richard H.\bibnamedelima Brumberg},
-         giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
-  H\bibinitperiod\bibinitdelim B\bibinitperiod},
+         given={Franco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BRH}{%
+         family={Brumberg},
+         familyi={B\bibinitperiod},
+         given={Richard\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
       }}%
     }
     \name{editor}{1}{}{%
@@ -5846,8 +6019,8 @@
     \list{publisher}{1}{%
       {New Brunswick: Rutgers University Press}%
     }
-    \strng{namehash}{MFRHB1}
-    \strng{fullhash}{MFRHB1}
+    \strng{namehash}{MFBRH1}
+    \strng{fullhash}{MFBRH1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1954}
@@ -5856,7 +6029,7 @@
     \field{sortinithash}{M}
     \field{booktitle}{Post-Keynesian Economics}
     \field{pages}{388–\bibrangedash 436}
-    \field{title}{Utility analysis and the Consumption Function: An
+    \field{title}{Utility Analysis and the Consumption Function: An
   Interpretation of Cross-Section Data}
     \field{year}{1954}
   \endentry
@@ -6235,6 +6408,37 @@
     \field{year}{1978}
   \endentry
 
+  \entry{Myerson1979}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRB}{%
+         family={Myerson},
+         familyi={M\bibinitperiod},
+         given={Roger\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {[Wiley, Econometric Society]}%
+    }
+    \strng{namehash}{MRB1}
+    \strng{fullhash}{MRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{61\bibrangedash 73}
+    \field{title}{Incentive Compatibility and the Bargaining Problem}
+    \field{volume}{47}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1979}
+    \field{urlday}{10}
+    \field{urlmonth}{05}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{Nakamura2008}{article}{}
     \name{author}{1}{}{%
       {{hash=NJES}{%
@@ -6503,6 +6707,41 @@
     \field{sortinithash}{N}
     \field{title}{Edmund Phelps's Contributions to Macroeconomics}
     \field{year}{2006}
+  \endentry
+
+  \entry{Nobelpreis-Komitee2007}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=NK}{%
+         family={Nobelpreis-Komitee},
+         familyi={N\bibinithyphendelim K\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=otBoSPiESiMoANAI}{%
+         prefix={on\bibnamedelima the Bank of Sweden Prize in Economic Sciences
+  in Memory\bibnamedelima of},
+         prefixi={o\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim
+  B\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  i\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim o\bibinitperiod},
+         family={Alfred\bibnamedelima Nobel},
+         familyi={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Advanced\bibnamedelima Information},
+         giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NK1}
+    \strng{fullhash}{NK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Mechanism Design Theory}
+    \field{year}{2007}
   \endentry
 
   \entry{Nordhaus2008}{article}{}
@@ -7667,6 +7906,38 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Roth2019}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RAE}{%
+         family={Roth},
+         familyi={R\bibinitperiod},
+         given={Alvin\bibnamedelima E.},
+         giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=WRB}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={Robert\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RAEWRB1}
+    \strng{fullhash}{RAEWRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{3}
+    \field{pages}{118\bibrangedash 143}
+    \field{title}{How Market Design Emerged from Game Theory: A Mutual
+  Interview}
+    \field{volume}{33}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2019}
+  \endentry
+
   \entry{Stiglitz1976a}{article}{}
     \name{author}{2}{}{%
       {{hash=RM}{%
@@ -7841,6 +8112,37 @@
     \field{sortinithash}{S}
     \field{title}{Economics}
     \field{year}{1998}
+  \endentry
+
+  \entry{Samuelson1954}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SPA}{%
+         family={Samuelson},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The MIT Press}%
+    }
+    \strng{namehash}{SPA1}
+    \strng{fullhash}{SPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1954}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{4}
+    \field{pages}{387\bibrangedash 389}
+    \field{title}{The Pure Theory of Public Expenditure}
+    \verb{url}
+    \verb http://www.jstor.org/stable/1925895
+    \endverb
+    \field{volume}{36}
+    \field{journaltitle}{The Review of Economics and Statistics}
+    \field{year}{1954}
   \endentry
 
   \entry{Sargent1975}{article}{}
