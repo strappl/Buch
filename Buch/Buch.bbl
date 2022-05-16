@@ -2060,6 +2060,42 @@
     \field{year}{1983}
   \endentry
 
+  \entry{Capen1971}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CEC}{%
+         family={Capen},
+         familyi={C\bibinitperiod},
+         given={Edward\bibnamedelima C.},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=CRV}{%
+         family={Clapp},
+         familyi={C\bibinitperiod},
+         given={Robert\bibnamedelima V.},
+         giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=CWM}{%
+         family={Campbell},
+         familyi={C\bibinitperiod},
+         given={William\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CECCRVCWM1}
+    \strng{fullhash}{CECCRVCWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1971}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{641\bibrangedash 653}
+    \field{title}{Competitive Bidding in High-Risk Situations}
+    \field{volume}{23}
+    \field{journaltitle}{Journal of Petroleum Technology}
+    \field{year}{1971}
+  \endentry
+
   \entry{Caplin1987}{article}{}
     \name{author}{2}{}{%
       {{hash=CAS}{%
@@ -3272,6 +3308,31 @@
     \field{volume}{9}
     \field{journaltitle}{IMF Staff Papers}
     \field{year}{1962}
+  \endentry
+
+  \entry{Frey2003}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FBS}{%
+         family={Frey},
+         familyi={F\bibinitperiod},
+         given={Bruno\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FBS1}
+    \strng{fullhash}{FBS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{pages}{205\bibrangedash 223}
+    \field{title}{Publishing as Prostitution? – Choosing between one’s own
+  Ideas and Academic Success}
+    \field{volume}{116}
+    \field{journaltitle}{Public Choice}
+    \field{year}{2003}
   \endentry
 
   \entry{Friedman1963}{book}{}
@@ -5912,6 +5973,88 @@
     \field{year}{1973}
   \endentry
 
+  \entry{Milgrom1979}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MPR}{%
+         family={Milgrom},
+         familyi={M\bibinitperiod},
+         given={Paul\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MPR1}
+    \strng{fullhash}{MPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{679\bibrangedash 688}
+    \field{title}{A Convergence Theorem for Competitive Bidding with
+  Differential Information}
+    \field{volume}{47}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1979}
+  \endentry
+
+  \entry{Milgrom1981}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MPR}{%
+         family={Milgrom},
+         familyi={M\bibinitperiod},
+         given={Paul\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MPR1}
+    \strng{fullhash}{MPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{921\bibrangedash –943}
+    \field{title}{Rational Expectations, Information Acquisition, and
+  Competitive Bidding}
+    \field{volume}{49}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1981}
+  \endentry
+
+  \entry{Milgrom1982}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MPR}{%
+         family={Milgrom},
+         familyi={M\bibinitperiod},
+         given={Paul\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WRJ}{%
+         family={Weber},
+         familyi={W\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MPRWRJ1}
+    \strng{fullhash}{MPRWRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{5}
+    \field{pages}{1089\bibrangedash 1122}
+    \field{title}{A Theory of Auctions and Competitive Bidding}
+    \field{volume}{50}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1982}
+  \endentry
+
   \entry{Mincer1974}{book}{}
     \name{author}{1}{}{%
       {{hash=MJ}{%
@@ -6547,6 +6690,31 @@
     \field{volume}{54}
     \field{journaltitle}{The Annals of Mathematics}
     \field{year}{1951}
+  \endentry
+
+  \entry{Nash1953}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NJF}{%
+         family={Nash},
+         familyi={N\bibinitperiod},
+         given={John\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJF1}
+    \strng{fullhash}{NJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1953}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{1}
+    \field{pages}{128\bibrangedash 140}
+    \field{title}{Two-Person Cooperative Games}
+    \field{volume}{21}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1953}
   \endentry
 
   \entry{Nekarda2020}{article}{}
@@ -8177,6 +8345,31 @@
     \field{year}{1975}
   \endentry
 
+  \entry{Schelling1960}{book}{}
+    \name{author}{1}{}{%
+      {{hash=STC}{%
+         family={Schelling},
+         familyi={S\bibinitperiod},
+         given={Thomas\bibnamedelima C.},
+         giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Harvard University Press: Cambridge}%
+      {London}%
+    }
+    \strng{namehash}{STC1}
+    \strng{fullhash}{STC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1960}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{The Strategy of Conflict}
+    \field{year}{1960}
+  \endentry
+
   \entry{Scholes1997}{misc}{}
     \name{author}{1}{}{%
       {{hash=SMS}{%
@@ -8369,6 +8562,46 @@
     \field{volume}{74}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1984}
+  \endentry
+
+  \entry{Shapley1953}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SLS}{%
+         family={Shapley},
+         familyi={S\bibinitperiod},
+         given={Lloyd\bibnamedelima S.},
+         giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=KHW}{%
+         family={Kuhn},
+         familyi={K\bibinitperiod},
+         given={Harold\bibnamedelima W.},
+         giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=WTA}{%
+         family={W.},
+         familyi={W\bibinitperiod},
+         given={Tucker\bibnamedelima Albert},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton University Press}%
+    }
+    \strng{namehash}{SLS1}
+    \strng{fullhash}{SLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1953}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Annals of Mathematical Studies. Vol. 28.}
+    \field{pages}{307–\bibrangedash 317}
+    \field{title}{Contributions to the Theory of Games}
+    \field{year}{1953}
   \endentry
 
   \entry{Sharpe1964}{article}{}
@@ -9285,6 +9518,31 @@
     \field{year}{2015}
   \endentry
 
+  \entry{Vickrey1961}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VW}{%
+         family={Vickrey},
+         familyi={V\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VW1}
+    \strng{fullhash}{VW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1961}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{1}
+    \field{pages}{8\bibrangedash 37}
+    \field{title}{Counterspeculation, Auctions, and Competitive Sealed Tenders}
+    \field{volume}{16}
+    \field{journaltitle}{The Journal of Finance}
+    \field{year}{1961}
+  \endentry
+
   \entry{Morgenstern1944}{book}{}
     \name{author}{2}{}{%
       {{hash=VNJ}{%
@@ -9475,6 +9733,79 @@
   Ausgabe 29.02.2020}
     \field{journaltitle}{derStandard}
     \field{year}{2020}
+  \endentry
+
+  \entry{Wilson1967}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WRB}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={Robert\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WRB1}
+    \strng{fullhash}{WRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1967}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{pages}{816–\bibrangedash 820}
+    \field{title}{Competitive Bidding with Asymmetric Information}
+    \field{volume}{13}
+    \field{journaltitle}{Management Science}
+    \field{year}{1967}
+  \endentry
+
+  \entry{Wilson1969}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WRB}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={Robert\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WRB1}
+    \strng{fullhash}{WRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1969}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{pages}{446–\bibrangedash 448}
+    \field{title}{Competitive Bidding with Disparate Information}
+    \field{volume}{15}
+    \field{journaltitle}{Management Science}
+    \field{year}{1969}
+  \endentry
+
+  \entry{Wilson1977}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WRB}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={Robert\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WRB1}
+    \strng{fullhash}{WRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{issue}{3}
+    \field{pages}{511\bibrangedash 518}
+    \field{title}{A Bidding Model of Perfect Competition}
+    \field{volume}{44}
+    \field{journaltitle}{Review of Economic Studies}
+    \field{year}{1977}
   \endentry
 
   \entry{Woodford1990b}{article}{}
