@@ -585,6 +585,46 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Aumann1959}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=ARJ}{%
+         family={Aumann},
+         familyi={A\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=TAW}{%
+         family={Tucker},
+         familyi={T\bibinitperiod},
+         given={Albert\bibnamedelima W.},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=LRD}{%
+         family={Luce},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima D.},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton University Press}%
+    }
+    \strng{namehash}{ARJ1}
+    \strng{fullhash}{ARJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1959}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{Contributions to the Theory of Games, Volume IV}
+    \field{pages}{287\bibrangedash 324}
+    \field{title}{Acceptable Points in General Cooperative n-Person Games}
+    \field{year}{1959}
+  \endentry
+
   \entry{Aumann1976}{article}{}
     \name{author}{1}{}{%
       {{hash=ARJ}{%
@@ -611,6 +651,32 @@
     \field{volume}{4}
     \field{journaltitle}{The Annals of Statistics}
     \field{year}{1976}
+  \endentry
+
+  \entry{Aumann1987}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ARJ}{%
+         family={Aumann},
+         familyi={A\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ARJ1}
+    \strng{fullhash}{ARJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 18}
+    \field{title}{Correlated Equilibrium as an Expression of Bayesian
+  Rationality}
+    \field{volume}{55}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1987}
   \endentry
 
   \entry{Autor2001}{article}{}
@@ -642,6 +708,61 @@
   Unemployment}
     \field{journaltitle}{NBER Working Paper Series}
     \field{year}{2001}
+  \endentry
+
+  \entry{Axelrod1984}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AD}{%
+         family={Axelrod},
+         familyi={A\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Basic Books}%
+    }
+    \strng{namehash}{AD1}
+    \strng{fullhash}{AD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{The Evolution of Cooperation}
+    \field{year}{1984}
+  \endentry
+
+  \entry{Axelrod1981}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AR}{%
+         family={Axelrod},
+         familyi={A\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HWD}{%
+         family={Hamilton},
+         familyi={H\bibinitperiod},
+         given={William\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ARHWD1}
+    \strng{fullhash}{ARHWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4489}
+    \field{pages}{1390\bibrangedash 1396}
+    \field{title}{The Evolution of Cooperation}
+    \field{volume}{211}
+    \field{journaltitle}{Science}
+    \field{year}{1981}
   \endentry
 
   \entry{Bachelier1900}{article}{}
