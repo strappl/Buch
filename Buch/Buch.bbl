@@ -3087,6 +3087,42 @@
     \field{year}{2008}
   \endentry
 
+  \entry{Ekelund2002}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EJRB}{%
+         family={Ekelund},
+         familyi={E\bibinitperiod},
+         suffix={Robert\bibnamedelima B.},
+         suffixi={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+         given={Jr},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HRF}{%
+         family={Hébert},
+         familyi={H\bibinitperiod},
+         given={Robert\bibnamedelima F.},
+         giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ERBJHRF1}
+    \strng{fullhash}{ERBJHRF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{3}
+    \field{pages}{197\bibrangedash 215}
+    \field{title}{Retrospectives: The Origins of Neoclassical Microeconomics}
+    \verb{url}
+    \verb https://www.aeaweb.org/articles?id=10.1257/089533002760278785
+    \endverb
+    \field{volume}{16}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2002}
+  \endentry
+
   \entry{Epstein1999}{article}{}
     \name{author}{1}{}{%
       {{hash=EG}{%
@@ -4064,6 +4100,32 @@
     \field{year}{2007}
   \endentry
 
+  \entry{Gossen1854}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GHH}{%
+         family={Gossen},
+         familyi={G\bibinitperiod},
+         given={Hermann\bibnamedelima Heinrich},
+         giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Braunschweig: Verlag Friedrich Vieweg und Sohn. Nachdruck 1987,
+  Düsseldorf: Verlag Wirtschaft und Finanzen}%
+    }
+    \strng{namehash}{GHH1}
+    \strng{fullhash}{GHH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1854}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Entwickelung der Gesetze des menschlichen Verkehrs, und der
+  daraus fließenden Regeln für menschliches Handeln}
+    \field{year}{1854}
+  \endentry
+
   \entry{Nash2004}{misc}{}
     \name{author}{1}{}{%
       {{hash=GM}{%
@@ -4620,6 +4682,32 @@
     \field{year}{1973}
   \endentry
 
+  \entry{Ikeda2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=IY}{%
+         family={Ikeda},
+         familyi={I\bibinitperiod},
+         given={Yukihiro},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IY1}
+    \strng{fullhash}{IY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{issue}{4/5}
+    \field{pages}{394\bibrangedash 415}
+    \field{title}{Hermann Heinrich Gossen: a Wirkungsgeschichte of an Ignored
+  Mathematical Economist}
+    \field{volume}{27}
+    \field{journaltitle}{Journal of Economic Studies}
+    \field{year}{2000}
+  \endentry
+
   \entry{Imrohoroglu1989}{article}{}
     \name{author}{1}{}{%
       {{hash=IA}{%
@@ -5094,6 +5182,32 @@
     \verb /
     \endverb
     \field{year}{1994}
+  \endentry
+
+  \entry{Kurz2009}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KHD}{%
+         family={Kurz},
+         familyi={K\bibinitperiod},
+         given={Heinz\bibnamedelima D.},
+         giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KHD1}
+    \strng{fullhash}{KHD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{3}
+    \field{pages}{473\bibrangedash 500}
+    \field{title}{Wer war Hermann Heinrich Gossen (1810 –1858), Namensgeber
+  eines der Preise des Vereins für Socialpolitik?}
+    \field{volume}{129}
+    \field{journaltitle}{Schmollers Jahrbuch}
+    \field{year}{2009}
   \endentry
 
   \entry{Kydland1977}{article}{}
@@ -9414,6 +9528,31 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Thunen1826}{book}{}
+    \name{author}{1}{}{%
+      {{hash=TJHv}{%
+         family={Thünen},
+         familyi={T\bibinitperiod},
+         given={Johann Heinrich\bibnamedelima von},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  v\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nachdruck 1985, Düsseldorf: Verlag Wirtschaft und Finanzen}%
+    }
+    \strng{namehash}{TJHv1}
+    \strng{fullhash}{TJHv1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1826}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Der isolierte Staat [...]}
+    \field{year}{1826}
+  \endentry
+
   \entry{Tobin1958}{article}{}
     \name{author}{1}{}{%
       {{hash=TJ}{%
@@ -9723,6 +9862,31 @@
     \field{journaltitle}{Finance and Developement: A quarterly magazine of the
   IMF}
     \field{year}{2006}
+  \endentry
+
+  \entry{Walras1885}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WL}{%
+         family={Walras},
+         familyi={W\bibinitperiod},
+         given={Leon},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WL2}
+    \strng{fullhash}{WL2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1885}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{issue}{4}
+    \field{pages}{60\bibrangedash 90}
+    \field{title}{Un economiste inconnu: Hermann-Henri Gossen}
+    \field{volume}{30}
+    \field{journaltitle}{Journal des Economistes}
+    \field{year}{1885}
   \endentry
 
   \entry{Wanniski1978}{article}{}

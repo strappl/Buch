@@ -15,6 +15,7 @@ A level-1 auxilliary file: Teil_II.aux
 A level-1 auxilliary file: Kapitel_2_1.aux
 A level-1 auxilliary file: Kapitel_2_2.aux
 A level-1 auxilliary file: Kapitel_2_3.aux
+A level-1 auxilliary file: Kapitel_2_4.aux
 A level-1 auxilliary file: Teil_III.aux
 A level-1 auxilliary file: Kapitel_3_1.aux
 A level-1 auxilliary file: Kapitel_3_2.aux
@@ -61,7 +62,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 52260 items from 5000.
+Reallocated field_info (elt_size=4) to 53094 items from 5000.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Biblatex version: 3.13
@@ -69,9 +70,9 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 
 Here's how much of BibTeX's memory you used:
- Cites:               340 out of 750
- Fields:            36973 out of 52260
- Hash table:         3069 out of 5000
- Strings:            3157 out of 4000
- Free string pool:  51969 out of 65000
+ Cites:               346 out of 750
+ Fields:            37807 out of 53094
+ Hash table:         3027 out of 5000
+ Strings:            3197 out of 4000
+ Free string pool:  53009 out of 65000
  Wizard functions:   6365 out of 9000
