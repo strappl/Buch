@@ -1425,6 +1425,30 @@
     \field{year}{1992}
   \endentry
 
+  \entry{Bentham1789}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Bentham},
+         familyi={B\bibinitperiod},
+         given={Jeremy},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nachdruck 1823: London: W. Pickering}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1789}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{An Introduction to the Principles of Morals and Legislation}
+    \field{year}{1789}
+  \endentry
+
   \entry{Bernanke1983}{article}{}
     \name{author}{1}{}{%
       {{hash=BBS}{%
@@ -2724,7 +2748,7 @@
     \field{year}{2001}
   \endentry
 
-  \entry{Cournot1836}{book}{}
+  \entry{Cournot1838}{book}{}
     \name{author}{1}{}{%
       {{hash=CAA}{%
          family={Cournot},
@@ -2733,25 +2757,20 @@
          giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
     }
-    \name{editor}{1}{}{%
-      {{hash=LHP}{%
-         family={L.\bibnamedelima Hachette},
-         familyi={L\bibinitperiod\bibinitdelim H\bibinitperiod},
-         given={Paris},
-         giveni={P\bibinitperiod},
-      }}%
+    \list{publisher}{1}{%
+      {Paris: Chez L. Hachette}%
     }
     \strng{namehash}{CAA1}
     \strng{fullhash}{CAA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{1836}
+    \field{labelyear}{1838}
     \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{title}{Recherches sur les Principes Mathématiques de la Théorie
   des Richesses}
-    \field{year}{1836}
+    \field{year}{1838}
   \endentry
 
   \entry{Rubinstein1979}{article}{}
@@ -4891,6 +4910,30 @@
     \field{volume}{82}
     \field{journaltitle}{Economic Quarterly}
     \field{year}{1996}
+  \endentry
+
+  \entry{Keynes1936}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KJM}{%
+         family={Keynes},
+         familyi={K\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {London: Macmillan}%
+    }
+    \strng{namehash}{KJM1}
+    \strng{fullhash}{KJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1936}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{The General Theory of Employment, Interest and Money}
+    \field{year}{1936}
   \endentry
 
   \entry{Kirzner1967}{article}{}
