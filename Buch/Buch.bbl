@@ -2037,6 +2037,62 @@
     \field{year}{2010}
   \endentry
 
+  \entry{Blaug1973}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BM}{%
+         family={Blaug},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BM2}
+    \strng{fullhash}{BM2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{269\bibrangedash 280}
+    \field{title}{Was There a Marginal Revolution?}
+    \verb{url}
+    \verb https://www.aeaweb.org/articles?id=10.1257/jep.15.1.145
+    \endverb
+    \field{volume}{4}
+    \field{journaltitle}{History of Political Economy}
+    \field{year}{1973}
+  \endentry
+
+  \entry{Blaug2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BM}{%
+         family={Blaug},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BM2}
+    \strng{fullhash}{BM2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{145\bibrangedash 164}
+    \field{title}{No History of Ideas, Please, We're Economists}
+    \verb{url}
+    \verb https://www.aeaweb.org/articles?id=10.1257/jep.15.1.145
+    \endverb
+    \field{volume}{15}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2001}
+  \endentry
+
   \entry{Blinder1982}{misc}{}
     \name{author}{1}{}{%
       {{hash=BAS}{%
@@ -6226,6 +6282,30 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Menger1871}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MC}{%
+         family={Menger},
+         familyi={M\bibinitperiod},
+         given={Carl},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wien: Wilhelm Braumüller, 1871}%
+    }
+    \strng{namehash}{MC1}
+    \strng{fullhash}{MC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1871}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Grundsätze der Volkswirthschaftslehre}
+    \field{year}{1871}
+  \endentry
+
   \entry{Merton1973}{article}{}
     \name{author}{1}{}{%
       {{hash=MR}{%
@@ -9401,6 +9481,49 @@
     \field{volume}{71}
     \field{journaltitle}{American Economic Review}
     \field{year}{1981}
+  \endentry
+
+  \entry{Streissler1990}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SEW}{%
+         family={Streissler},
+         familyi={S\bibinitperiod},
+         given={Erich\bibnamedelima W.},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=MC}{%
+         family={Menger},
+         familyi={M\bibinitperiod},
+         given={Carl},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=iEHL}{%
+         prefix={in},
+         prefixi={i\bibinitperiod},
+         family={Economics},
+         familyi={E\bibinitperiod},
+         given={His\bibnamedelima Legacy},
+         giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Caldwell, Bruce J.}%
+    }
+    \strng{namehash}{SEW1}
+    \strng{fullhash}{SEW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{History of Political Economy, Supplement}
+    \field{pages}{31\bibrangedash 68}
+    \field{title}{The Influence of German Economics on the Work of Menger and
+  Marshall}
+    \field{year}{1990}
   \endentry
 
   \entry{Svensson2000}{article}{}
