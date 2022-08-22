@@ -33,11 +33,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1.2}Der Vater der Profitmaximierung}{17}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Jevons}{18}
+\contentsline {section}{\numberline {4.2}Menger}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Walras}{18}
+\contentsline {section}{\numberline {4.3}Jevons}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Menger}{18}
+\contentsline {section}{\numberline {4.4}Walras}{22}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Auf dem Historikerweg}{23}
 \defcounter {refsection}{0}\relax 
