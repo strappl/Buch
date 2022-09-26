@@ -6266,6 +6266,30 @@
     \field{year}{1952}
   \endentry
 
+  \entry{Marshall1890}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MA}{%
+         family={Marshall},
+         familyi={M\bibinitperiod},
+         given={Alfred},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {London: MacMillan [Palgrave Classics in Economics (2013)}%
+    }
+    \strng{namehash}{MA2}
+    \strng{fullhash}{MA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1890}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Principles of Economics}
+    \field{year}{1890}
+  \endentry
+
   \entry{Maslow1943}{article}{}
     \name{author}{1}{}{%
       {{hash=MA}{%
@@ -6275,8 +6299,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MA2}
-    \strng{fullhash}{MA2}
+    \strng{namehash}{MA3}
+    \strng{fullhash}{MA3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1943}

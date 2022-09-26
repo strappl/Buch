@@ -62,7 +62,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 54623 items from 5000.
+Reallocated field_info (elt_size=4) to 54762 items from 5000.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Biblatex version: 3.13
@@ -70,9 +70,9 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 
 Here's how much of BibTeX's memory you used:
- Cites:               357 out of 750
- Fields:            39336 out of 54623
- Hash table:         2985 out of 5000
- Strings:            3260 out of 4000
- Free string pool:  54264 out of 65000
+ Cites:               358 out of 750
+ Fields:            39475 out of 54762
+ Hash table:         2976 out of 5000
+ Strings:            3266 out of 4000
+ Free string pool:  54387 out of 65000
  Wizard functions:   6365 out of 9000
