@@ -8978,6 +8978,36 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Schumpeter1954}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SJA}{%
+         family={Schumpeter},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PNYOU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={New York: Oxford\bibnamedelima University},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  O\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJA1}
+    \strng{fullhash}{SJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1954}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{History of Economic Analysis}
+    \field{year}{1954}
+  \endentry
+
   \entry{Selten1965}{article}{}
     \name{author}{1}{}{%
       {{hash=SR}{%

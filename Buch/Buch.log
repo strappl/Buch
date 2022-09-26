@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  23 AUG 2022 13:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2020.3.27)  26 SEP 2022 10:17
 entering extended mode
 **./Buch.tex
 (Buch.tex
@@ -1070,7 +1070,7 @@ Kapitel 8.
  (Kapitel_2_4.tex
 Kapitel 9.
 
-Overfull \hbox (2.41736pt too wide) in paragraph at lines 38--40
+Overfull \hbox (2.41736pt too wide) in paragraph at lines 39--41
 \T1/cmr/m/n/10 Vorläufer: Von-Neumann Growth-Theory: "Über ein öko-no-mi-sches 
 Glei-chungs-
  []
@@ -1548,23 +1548,15 @@ No file Buch.ind.
 ) (Kapitel_5_2a.aux) (Kapitel_5_3.aux) (Kapitel_4_6.aux) (Teil_VI.aux)
 (Kapitel_6_1.aux) (Kapitel_6_2.aux) (Kapitel_6_3.aux) (Kapitel_6_4.aux)
 (Kapitel_6_5.aux) (Kapitel_6_6.aux) (Kapitel_6_7.aux))
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                Buch
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23629 strings out of 492970
- 476468 string characters out of 3135852
- 952740 words of memory out of 3000000
- 26877 multiletter control sequences out of 15000+200000
+ 23635 strings out of 492970
+ 476640 string characters out of 3135852
+ 953285 words of memory out of 3000000
+ 26883 multiletter control sequences out of 15000+200000
  16217 words of font info for 35 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  55i,14n,71p,5919b,3363s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1594,9 +1586,9 @@ type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (284 pages, 1086434 bytes).
+Output written on Buch.pdf (284 pages, 1087762 bytes).
 PDF statistics:
- 1753 PDF objects out of 2073 (max. 8388607)
+ 1754 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
