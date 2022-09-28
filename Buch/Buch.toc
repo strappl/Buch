@@ -55,7 +55,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.4}Fisher: Economics goes USA}{27}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Teil\ III\hspace {\betweenumberspace }1936 -- 1975\\Keynesianismus - Synthese - Monetarismus und daneben die Mikro\IeC {\"o}konomie}{29}
+\contentsline {part}{Teil\ III\hspace {\betweenumberspace }1936 -- 1975\\Die Geburt der Makro\IeC {\"o}konomie: Keynesianismus - Synthese - Monetarismus. Daneben w\IeC {\"a}chst die Mikro\IeC {\"o}konomie aber weiter}{29}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Keynesianismus: Nachfrage statt Angebot?}{33}
 \defcounter {refsection}{0}\relax 

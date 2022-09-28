@@ -3348,6 +3348,40 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Felderer1989}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=FB}{%
+         family={Felderer},
+         familyi={F\bibinitperiod},
+         given={Bernhard},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=JS}{%
+         family={Joachim},
+         familyi={J\bibinitperiod},
+         given={Starbatty},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {München: Nikol-Verlag}%
+    }
+    \strng{namehash}{FB1}
+    \strng{fullhash}{FB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{Klassiker des Ökonomischen Denkens, Vol. 2}
+    \field{pages}{59\bibrangedash 75}
+    \field{title}{Leon Walras (1834-1910)}
+    \field{year}{1989}
+  \endentry
+
   \entry{Fischer1994}{misc}{}
     \name{author}{1}{}{%
       {{hash=FMAMZ}{%
@@ -9684,24 +9718,16 @@
          giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
       }}%
     }
-    \name{editor}{2}{}{%
-      {{hash=MC}{%
-         family={Menger},
-         familyi={M\bibinitperiod},
-         given={Carl},
-         giveni={C\bibinitperiod},
-      }}%
-      {{hash=iEHL}{%
-         prefix={in},
-         prefixi={i\bibinitperiod},
-         family={Economics},
-         familyi={E\bibinitperiod},
-         given={His\bibnamedelima Legacy},
-         giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+    \name{editor}{1}{}{%
+      {{hash=CBJ}{%
+         family={Caldwell},
+         familyi={C\bibinitperiod},
+         given={Bruce\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
-      {Caldwell, Bruce J.}%
+      {Duke University Press}%
     }
     \strng{namehash}{SEW1}
     \strng{fullhash}{SEW1}
@@ -9711,7 +9737,8 @@
     \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
-    \field{booktitle}{History of Political Economy, Supplement}
+    \field{booktitle}{Carl Menger and His Legacy in Economics, History of
+  Political Economy, Supplement}
     \field{pages}{31\bibrangedash 68}
     \field{title}{The Influence of German Economics on the Work of Menger and
   Marshall}
@@ -10224,15 +10251,16 @@
 
   \entry{Walras1885}{article}{}
     \name{author}{1}{}{%
-      {{hash=WL}{%
+      {{hash=WMEL}{%
          family={Walras},
          familyi={W\bibinitperiod},
-         given={Leon},
-         giveni={L\bibinitperiod},
+         given={M.-E.\bibnamedelima Leon},
+         giveni={M\bibinithyphendelim E\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
       }}%
     }
-    \strng{namehash}{WL2}
-    \strng{fullhash}{WL2}
+    \strng{namehash}{WMEL1}
+    \strng{fullhash}{WMEL1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1885}
