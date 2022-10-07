@@ -3376,7 +3376,7 @@
     \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
-    \field{booktitle}{Klassiker des Ökonomischen Denkens, Vol. 2}
+    \field{booktitle}{Klassiker des Ökonomischen Denkens, Teil 2}
     \field{pages}{59\bibrangedash 75}
     \field{title}{Leon Walras (1834-1910)}
     \field{year}{1989}
@@ -10247,6 +10247,33 @@
     \field{journaltitle}{Finance and Developement: A quarterly magazine of the
   IMF}
     \field{year}{2006}
+  \endentry
+
+  \entry{Walras1874}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WMEL}{%
+         family={Walras},
+         familyi={W\bibinitperiod},
+         given={M.-E.\bibnamedelima Leon},
+         giveni={M\bibinithyphendelim E\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {London: George Allen}%
+      {Unwin, 1954}%
+    }
+    \strng{namehash}{WMEL1}
+    \strng{fullhash}{WMEL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1874}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Elements d'Economie Politique Pure ou Theorie de la Richesse
+  Sociale (Elements of Pure Economics or the Theory of Social Wealth)}
+    \field{year}{1874}
   \endentry
 
   \entry{Walras1885}{article}{}

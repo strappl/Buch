@@ -27,13 +27,15 @@ A level-1 auxilliary file: Kapitel_3_5.aux
 A level-1 auxilliary file: Kapitel_4_1.aux
 A level-1 auxilliary file: Kapitel_4_4.aux
 A level-1 auxilliary file: Kapitel_4_5.aux
+A level-1 auxilliary file: Teil_IV_A.aux
+A level-1 auxilliary file: Kapitel_5_2.aux
+A level-1 auxilliary file: Kapitel_5_2b.aux
+A level-1 auxilliary file: Kapitel_5_2a.aux
 A level-1 auxilliary file: Teil_V.aux
 A level-1 auxilliary file: Kapitel_5_1.aux
 A level-1 auxilliary file: Kapitel_5_1a.aux
 A level-1 auxilliary file: Kapitel_5_1b.aux
 A level-1 auxilliary file: Kapitel_Neoliberal.aux
-A level-1 auxilliary file: Kapitel_5_2.aux
-A level-1 auxilliary file: Kapitel_5_2a.aux
 A level-1 auxilliary file: Kapitel_5_3.aux
 A level-1 auxilliary file: Kapitel_4_6.aux
 A level-1 auxilliary file: Teil_VI.aux
@@ -62,7 +64,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 55040 items from 5000.
+Reallocated field_info (elt_size=4) to 55179 items from 5000.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Biblatex version: 3.13
@@ -70,9 +72,9 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 
 Here's how much of BibTeX's memory you used:
- Cites:               360 out of 750
- Fields:            39753 out of 55040
- Hash table:         2964 out of 5000
- Strings:            3279 out of 4000
- Free string pool:  54679 out of 65000
+ Cites:               361 out of 750
+ Fields:            39892 out of 55179
+ Hash table:         2958 out of 5000
+ Strings:            3286 out of 4000
+ Free string pool:  54896 out of 65000
  Wizard functions:   6365 out of 9000
