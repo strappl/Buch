@@ -4659,6 +4659,31 @@
     \field{year}{1966}
   \endentry
 
+  \entry{Hicks1934}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HJR}{%
+         family={Hicks},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJR1}
+    \strng{fullhash}{HJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1934}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{issue}{4}
+    \field{pages}{338\bibrangedash 348}
+    \field{title}{Leon Walras}
+    \field{volume}{2}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1934}
+  \endentry
+
   \entry{Holler2005}{book}{}
     \name{author}{2}{}{%
       {{hash=HMJ}{%
@@ -4871,6 +4896,31 @@
     \field{volume}{97}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1989}
+  \endentry
+
+  \entry{Jaffe1976}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JW}{%
+         family={Jaffe},
+         familyi={J\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JW1}
+    \strng{fullhash}{JW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{issue}{4}
+    \field{pages}{511\bibrangedash 524}
+    \field{title}{Menger, Jevons and Walras De-Homogenized}
+    \field{volume}{14}
+    \field{journaltitle}{Economic Inquiry}
+    \field{year}{1976}
   \endentry
 
   \entry{Jensen1976}{article}{}
