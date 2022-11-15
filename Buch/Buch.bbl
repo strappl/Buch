@@ -585,6 +585,43 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Audretsch2007}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AD}{%
+         family={Audretsch},
+         familyi={A\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FO}{%
+         family={Falck},
+         familyi={F\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Heblich},
+         familyi={H\bibinitperiod},
+         given={Stephan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADFOHS1}
+    \strng{fullhash}{ADFOHS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{pages}{1\bibrangedash 40}
+    \field{title}{It's All in Marshall: The Impact of External Economies on
+  Regional Dynamics}
+    \field{journaltitle}{CESifo Group Munich, CESifo Working Paper Series}
+    \field{month}{09}
+    \field{year}{2007}
+  \endentry
+
   \entry{Aumann1959}{inbook}{}
     \name{author}{1}{}{%
       {{hash=ARJ}{%
@@ -788,6 +825,38 @@
     \field{volume}{3}
     \field{journaltitle}{Annales scientifiques de l'Ecole Normale Superieure}
     \field{year}{1900}
+  \endentry
+
+  \entry{BohmBawerk1888}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BBE}{%
+         family={Böhm-Bawerk},
+         familyi={B\bibinithyphendelim B\bibinitperiod},
+         given={Eugen},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dWUBIV}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Wagner'schen Universitäts-Buchhandlung},
+         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
+  B\bibinitperiod},
+         given={Innsbruck:\bibnamedelima Verlag},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBE1}
+    \strng{fullhash}{BBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1889}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
+    \field{year}{1889}
   \endentry
 
   \entry{Ball1990}{article}{}
@@ -1724,38 +1793,6 @@
     \field{year}{1996}
   \endentry
 
-  \entry{BohmBawerk1888}{book}{}
-    \name{author}{1}{}{%
-      {{hash=BBE}{%
-         family={Böhm-Bawerk},
-         familyi={B\bibinithyphendelim B\bibinitperiod},
-         given={Eugen},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=dWUBIV}{%
-         prefix={der},
-         prefixi={d\bibinitperiod},
-         family={Wagner'schen Universitäts-Buchhandlung},
-         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
-  B\bibinitperiod},
-         given={Innsbruck:\bibnamedelima Verlag},
-         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BBE1}
-    \strng{fullhash}{BBE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1889}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
-    \field{year}{1889}
-  \endentry
-
   \entry{Bils1987}{article}{}
     \name{author}{1}{}{%
       {{hash=BM}{%
@@ -2035,6 +2072,30 @@
     \field{volume}{2}
     \field{journaltitle}{American Economic Journal: Macroeconomics}
     \field{year}{2010}
+  \endentry
+
+  \entry{Blaug1962}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BM}{%
+         family={Blaug},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{BM2}
+    \strng{fullhash}{BM2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Economic Theory in Retrospect}
+    \field{year}{1962}
   \endentry
 
   \entry{Blaug1973}{article}{}
@@ -2775,6 +2836,32 @@
     \field{year}{2006}
   \endentry
 
+  \entry{Colander2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Colander},
+         familyi={C\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CD2}
+    \strng{fullhash}{CD2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{2}
+    \field{pages}{215\bibrangedash 226}
+    \field{title}{Retrospectives: Edgeworth's Hedonimeter and the Quest to
+  Measure Utility}
+    \field{volume}{21}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2007}
+  \endentry
+
   \entry{Cooper1988}{article}{}
     \name{author}{2}{}{%
       {{hash=CR}{%
@@ -2794,7 +2881,6 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -3191,6 +3277,31 @@
     \field{volume}{34}
     \field{journaltitle}{The Journal of Portfolio Management}
     \field{year}{2008}
+  \endentry
+
+  \entry{Edgeworth1881}{book}{}
+    \name{author}{1}{}{%
+      {{hash=EFY}{%
+         family={Edgeworth},
+         familyi={E\bibinitperiod},
+         given={Francis\bibnamedelima Ysidro},
+         giveni={F\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {C. Kegan Paul, London}%
+    }
+    \strng{namehash}{EFY1}
+    \strng{fullhash}{EFY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1881}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{Mathematical Psychics: An Essay on the Application of
+  Mathematics to the Moral Sciences}
+    \field{year}{1881}
   \endentry
 
   \entry{Ekelund2002}{article}{}
@@ -4481,7 +4592,6 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -4793,6 +4903,57 @@
     \field{volume}{17}
     \field{journaltitle}{Journal of Economic Dynamics and Control}
     \field{year}{1993}
+  \endentry
+
+  \entry{Humphrey1992}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HTM}{%
+         family={Humphrey},
+         familyi={H\bibinitperiod},
+         given={Thomas\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HTM1}
+    \strng{fullhash}{HTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{March/April}
+    \field{pages}{3\bibrangedash 23}
+    \field{title}{{Marshallian Cross Diagrams and Their Uses Before Alfred
+  Marshall : The Origins of Supply and Demand Geometry}}
+    \field{volume}{78}
+    \field{journaltitle}{Economic Review}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Humphrey1996}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HTM}{%
+         family={Humphrey},
+         familyi={H\bibinitperiod},
+         given={Thomas\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HTM1}
+    \strng{fullhash}{HTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{Winter}
+    \field{pages}{37\bibrangedash 75}
+    \field{title}{{The Early History of the Box Diagram}}
+    \field{volume}{82}
+    \field{journaltitle}{Economic Review}
+    \field{year}{1996}
   \endentry
 
   \entry{Arrow1960}{incollection}{}
@@ -5186,6 +5347,31 @@
     \field{volume}{82}
     \field{journaltitle}{Economic Quarterly}
     \field{year}{1996}
+  \endentry
+
+  \entry{Keynes1924}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KJM}{%
+         family={Keynes},
+         familyi={K\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KJM1}
+    \strng{fullhash}{KJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1924}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{135}
+    \field{pages}{311\bibrangedash 372}
+    \field{title}{Alfred Marshall, 1842-1924}
+    \field{volume}{34}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{1924}
   \endentry
 
   \entry{Keynes1936a}{article}{}
@@ -6424,6 +6610,41 @@
     \field{year}{1943}
   \endentry
 
+  \entry{McCallum1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MBT}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Bennett\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBTNE1}
+    \strng{fullhash}{MBTNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{296\bibrangedash 316}
+    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
+  Business Cycle Analysis}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2601113
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1999}
+  \endentry
+
   \entry{McClelland1961}{book}{}
     \name{author}{1}{}{%
       {{hash=MD}{%
@@ -6517,41 +6738,6 @@
     \field{volume}{106}
     \field{journaltitle}{American Economic Review}
     \field{year}{2016}
-  \endentry
-
-  \entry{McCallum1999}{article}{}
-    \name{author}{2}{}{%
-      {{hash=MBT}{%
-         family={Mccallum},
-         familyi={M\bibinitperiod},
-         given={Bennett\bibnamedelima T.},
-         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=NE}{%
-         family={Nelson},
-         familyi={N\bibinitperiod},
-         given={Edward},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MBTNE1}
-    \strng{fullhash}{MBTNE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1999}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{number}{3}
-    \field{pages}{296\bibrangedash 316}
-    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
-  Business Cycle Analysis}
-    \verb{url}
-    \verb http://www.jstor.org/stable/2601113
-    \endverb
-    \field{volume}{31}
-    \field{journaltitle}{Journal of Money, Credit and Banking}
-    \field{year}{1999}
   \endentry
 
   \entry{Menger1871}{book}{}
@@ -7992,6 +8178,31 @@
     \field{sortinithash}{P}
     \field{title}{Geschichte des modernen ökonomischen Denkens}
     \field{year}{2012}
+  \endentry
+
+  \entry{Pigou1925}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PAC}{%
+         family={Pigou},
+         familyi={P\bibinitperiod},
+         given={Arthur\bibnamedelima Cecil},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {MacMillan}%
+      {Co, London}%
+    }
+    \strng{namehash}{PAC1}
+    \strng{fullhash}{PAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1925}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Memorials of Alfred Marshall}
+    \field{year}{1925}
   \endentry
 
   \entry{Pissarides1985}{article}{}
