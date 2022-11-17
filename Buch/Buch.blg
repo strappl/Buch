@@ -1,80 +1,161 @@
-This is 8-bit Big BibTeX version 0.99d
-Implementation:  Microsoft(R) C/C++ for Win32
-Release version: 3.71 (18 mar 2013)
-
-The 8-bit codepage and sorting file: 88591lat.csf
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Buch.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: biblatex.bst
-A level-1 auxilliary file: dedic.aux
-A level-1 auxilliary file: pref.aux
-A level-1 auxilliary file: Teil_I.aux
-A level-1 auxilliary file: Kapitel_1_1.aux
-A level-1 auxilliary file: Kapitel_1_2.aux
-A level-1 auxilliary file: Kapitel_1_3.aux
-A level-1 auxilliary file: Teil_II.aux
-A level-1 auxilliary file: Kapitel_2_1.aux
-A level-1 auxilliary file: Kapitel_2_2.aux
-A level-1 auxilliary file: Kapitel_2_3.aux
-A level-1 auxilliary file: Teil_III.aux
-A level-1 auxilliary file: Kapitel_3_1.aux
-A level-1 auxilliary file: Kapitel_3_2.aux
-A level-1 auxilliary file: Kapitel_2_4.aux
-A level-1 auxilliary file: Kapitel_3_4.aux
-A level-1 auxilliary file: Kapitel_3_6.aux
-A level-1 auxilliary file: Kapitel_3_7.aux
-A level-1 auxilliary file: Teil_IV.aux
-A level-1 auxilliary file: Kapitel_3_5.aux
-A level-1 auxilliary file: Kapitel_4_1.aux
-A level-1 auxilliary file: Kapitel_4_4.aux
-A level-1 auxilliary file: Kapitel_4_5.aux
-A level-1 auxilliary file: Teil_IV_A.aux
-A level-1 auxilliary file: Kapitel_5_2.aux
-A level-1 auxilliary file: Kapitel_5_2b.aux
-A level-1 auxilliary file: Kapitel_5_2a.aux
-A level-1 auxilliary file: Teil_V.aux
-A level-1 auxilliary file: Kapitel_5_1.aux
-A level-1 auxilliary file: Kapitel_5_1a.aux
-A level-1 auxilliary file: Kapitel_5_1b.aux
-A level-1 auxilliary file: Kapitel_Neoliberal.aux
-A level-1 auxilliary file: Kapitel_5_3.aux
-A level-1 auxilliary file: Kapitel_4_6.aux
-A level-1 auxilliary file: Teil_VI.aux
-A level-1 auxilliary file: Kapitel_6_1.aux
-A level-1 auxilliary file: Kapitel_6_2.aux
-A level-1 auxilliary file: Kapitel_6_3.aux
-A level-1 auxilliary file: Kapitel_6_4.aux
-A level-1 auxilliary file: Kapitel_6_5.aux
-A level-1 auxilliary file: Kapitel_6_6.aux
-A level-1 auxilliary file: Kapitel_6_7.aux
-Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
-Reallocated global_strs (elt_size=1001) to 10 items from 0.
-Reallocated glb_str_end (elt_size=4) to 10 items from 0.
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=1001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 56847 items from 5000.
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+A level-1 auxiliary file: dedic.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+A level-1 auxiliary file: pref.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: Teil_I.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_1_1.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_1_2.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_1_3.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: Teil_II.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_2_1.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_2_2.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_2_3.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: Teil_III.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_3_1.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_3_2.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_2_4.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_3_4.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_3_6.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_3_7.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: Teil_IV.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_3_5.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_4_1.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_4_4.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_4_5.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Teil_IV_A.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_5_2.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Kapitel_5_2b.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Kapitel_5_2a.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: Teil_V.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_5_1.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Kapitel_5_1a.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Kapitel_5_1b.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Kapitel_Neoliberal.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_5_3.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_4_6.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: Teil_VI.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_6_1.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_6_2.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_6_3.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_6_4.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_6_5.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_6_6.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_6_7.aux
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'field_info' (item size: 4) to 58060 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
-Biblatex version: 3.13
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-
-Here's how much of BibTeX's memory you used:
- Cites:               373 out of 750
- Fields:            41560 out of 56847
- Hash table:         2889 out of 5000
- Strings:            3351 out of 4000
- Free string pool:  56216 out of 65000
- Wizard functions:   6365 out of 9000
+Repeated entry---line 3887 of file Literatur.bib
+ : @article{Hicks1934
+ :                   ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3898 of file Literatur.bib
+ :  
+ :  author = {Hicks, John R. and Allen, Roy G. D. },
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Biblatex version: 3.16
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+You've used 379 entries,
+            6393 wiz_defined-function locations,
+            3389 strings with 56763 characters,
+and the built_in function-call counts, 2303666 in all, are:
+= -- 151679
+> -- 65121
+< -- 11917
++ -- 64728
+- -- 37974
+* -- 168441
+:= -- 236425
+add.period$ -- 0
+call.type$ -- 379
+change.case$ -- 378
+chr.to.int$ -- 1504
+cite$ -- 756
+duplicate$ -- 212643
+empty$ -- 218443
+format.name$ -- 21816
+if$ -- 469052
+int.to.chr$ -- 0
+int.to.str$ -- 1155
+missing$ -- 0
+newline$ -- 10999
+num.names$ -- 18700
+pop$ -- 128944
+preamble$ -- 1
+purify$ -- 7467
+quote$ -- 0
+skip$ -- 78246
+stack$ -- 0
+substring$ -- 279183
+swap$ -- 58294
+text.length$ -- 9874
+text.prefix$ -- 379
+top$ -- 1
+type$ -- 12874
+warning$ -- 0
+while$ -- 25672
+width$ -- 0
+write$ -- 10621
+(There were 2 error messages)

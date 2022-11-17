@@ -17,6 +17,13 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{Hicks1934a}{article}{}
+    \field{extradate}{2}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{0}
+    \field{sortinithash}{0}
+  \endentry
+
   \entry{Aghion1992}{article}{}
     \name{author}{1}{}{%
       {{hash=APPH}{%
@@ -825,38 +832,6 @@
     \field{volume}{3}
     \field{journaltitle}{Annales scientifiques de l'Ecole Normale Superieure}
     \field{year}{1900}
-  \endentry
-
-  \entry{BohmBawerk1888}{book}{}
-    \name{author}{1}{}{%
-      {{hash=BBE}{%
-         family={Böhm-Bawerk},
-         familyi={B\bibinithyphendelim B\bibinitperiod},
-         given={Eugen},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=dWUBIV}{%
-         prefix={der},
-         prefixi={d\bibinitperiod},
-         family={Wagner'schen Universitäts-Buchhandlung},
-         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
-  B\bibinitperiod},
-         given={Innsbruck:\bibnamedelima Verlag},
-         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BBE1}
-    \strng{fullhash}{BBE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1889}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
-    \field{year}{1889}
   \endentry
 
   \entry{Ball1990}{article}{}
@@ -1793,6 +1768,38 @@
     \field{year}{1996}
   \endentry
 
+  \entry{BohmBawerk1888}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BBE}{%
+         family={Böhm-Bawerk},
+         familyi={B\bibinithyphendelim B\bibinitperiod},
+         given={Eugen},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dWUBIV}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Wagner'schen Universitäts-Buchhandlung},
+         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
+  B\bibinitperiod},
+         given={Innsbruck:\bibnamedelima Verlag},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBE1}
+    \strng{fullhash}{BBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1889}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
+    \field{year}{1889}
+  \endentry
+
   \entry{Bils1987}{article}{}
     \name{author}{1}{}{%
       {{hash=BM}{%
@@ -2675,6 +2682,35 @@
     \field{year}{1998}
   \endentry
 
+  \entry{Cirillo1983}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CR}{%
+         family={Cirillo},
+         familyi={C\bibinitperiod},
+         given={Renato},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {[American Journal of Economics}%
+      {Sociology]}%
+    }
+    \strng{namehash}{CR1}
+    \strng{fullhash}{CR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{2}
+    \field{pages}{235\bibrangedash 245}
+    \field{title}{Was Vilfredo Pareto Really a 'Precursor' of Fascism?}
+    \field{volume}{42}
+    \field{journaltitle}{The American Journal of Economics and Sociology}
+    \field{year}{1983}
+  \endentry
+
   \entry{Gali1998}{article}{}
     \name{author}{1}{}{%
       {{hash=CJGMRG}{%
@@ -2881,6 +2917,7 @@
     \strng{fullhash}{CRJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{number}{3}
@@ -3304,6 +3341,40 @@
     \field{year}{1881}
   \endentry
 
+  \entry{Eisermann1989}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=EG}{%
+         family={Eisermann},
+         familyi={E\bibinitperiod},
+         given={Gottfried},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=JS}{%
+         family={Joachim},
+         familyi={J\bibinitperiod},
+         given={Starbatty},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {München: Nikol-Verlag}%
+    }
+    \strng{namehash}{EG1}
+    \strng{fullhash}{EG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{booktitle}{Klassiker des Ökonomischen Denkens, Teil 2}
+    \field{pages}{158\bibrangedash 174}
+    \field{title}{Vilfredo Pareto (1848 - 1923}
+    \field{year}{1989}
+  \endentry
+
   \entry{Ekelund2002}{article}{}
     \name{author}{2}{}{%
       {{hash=EJRB}{%
@@ -3349,8 +3420,8 @@
          giveni={G\bibinitperiod},
       }}%
     }
-    \strng{namehash}{EG1}
-    \strng{fullhash}{EG1}
+    \strng{namehash}{EG2}
+    \strng{fullhash}{EG2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1999}
@@ -4592,6 +4663,7 @@
     \strng{fullhash}{HR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{title}{Notes on the Current State of Empirical Macroeconomics}
@@ -6610,41 +6682,6 @@
     \field{year}{1943}
   \endentry
 
-  \entry{McCallum1999}{article}{}
-    \name{author}{2}{}{%
-      {{hash=MBT}{%
-         family={Mccallum},
-         familyi={M\bibinitperiod},
-         given={Bennett\bibnamedelima T.},
-         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=NE}{%
-         family={Nelson},
-         familyi={N\bibinitperiod},
-         given={Edward},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MBTNE1}
-    \strng{fullhash}{MBTNE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1999}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{number}{3}
-    \field{pages}{296\bibrangedash 316}
-    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
-  Business Cycle Analysis}
-    \verb{url}
-    \verb http://www.jstor.org/stable/2601113
-    \endverb
-    \field{volume}{31}
-    \field{journaltitle}{Journal of Money, Credit and Banking}
-    \field{year}{1999}
-  \endentry
-
   \entry{McClelland1961}{book}{}
     \name{author}{1}{}{%
       {{hash=MD}{%
@@ -6738,6 +6775,41 @@
     \field{volume}{106}
     \field{journaltitle}{American Economic Review}
     \field{year}{2016}
+  \endentry
+
+  \entry{McCallum1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MBT}{%
+         family={Mccallum},
+         familyi={M\bibinitperiod},
+         given={Bennett\bibnamedelima T.},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=NE}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBTNE1}
+    \strng{fullhash}{MBTNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{296\bibrangedash 316}
+    \field{title}{An Optimizing IS-LM Specification for Monetary Policy and
+  Business Cycle Analysis}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2601113
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Money, Credit and Banking}
+    \field{year}{1999}
   \endentry
 
   \entry{Menger1871}{book}{}
@@ -7855,6 +7927,54 @@
     \field{year}{2012}
   \endentry
 
+  \entry{Pareto1896}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PV}{%
+         family={Pareto},
+         familyi={P\bibinitperiod},
+         given={Vilfredo},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Lausanne}%
+    }
+    \strng{namehash}{PV1}
+    \strng{fullhash}{PV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1896}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{La Courbe des Revenues}
+    \field{year}{1896}
+  \endentry
+
+  \entry{Pareto1906}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PV}{%
+         family={Pareto},
+         familyi={P\bibinitperiod},
+         given={Vilfredo},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{PV1}
+    \strng{fullhash}{PV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1906}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Manual of Political Economy (engl. Version aus 2014)}
+    \field{year}{1906}
+  \endentry
+
   \entry{Parkin1986}{article}{}
     \name{author}{1}{}{%
       {{hash=PM}{%
@@ -7903,6 +8023,30 @@
     \field{volume}{58}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1968}
+  \endentry
+
+  \entry{Persky1992}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PJ}{%
+         family={Persky},
+         familyi={P\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PJ1}
+    \strng{fullhash}{PJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{2}
+    \field{pages}{181\bibrangedash 192}
+    \field{title}{Retrospectives: Pareto's Law}
+    \field{volume}{6}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Tabellini1993}{article}{}
