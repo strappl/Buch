@@ -102,60 +102,50 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 58060 items.
+Reallocating 'field_info' (item size: 4) to 59180 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
-Repeated entry---line 3887 of file Literatur.bib
- : @article{Hicks1934
- :                   ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3898 of file Literatur.bib
- :  
- :  author = {Hicks, John R. and Allen, Roy G. D. },
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Biblatex version: 3.16
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 379 entries,
+You've used 387 entries,
             6393 wiz_defined-function locations,
-            3389 strings with 56763 characters,
-and the built_in function-call counts, 2303666 in all, are:
-= -- 151679
-> -- 65121
-< -- 11917
-+ -- 64728
-- -- 37974
-* -- 168441
-:= -- 236425
+            3432 strings with 57656 characters,
+and the built_in function-call counts, 2348811 in all, are:
+= -- 154744
+> -- 66041
+< -- 12196
++ -- 65495
+- -- 38242
+* -- 171810
+:= -- 240524
 add.period$ -- 0
-call.type$ -- 379
-change.case$ -- 378
-chr.to.int$ -- 1504
-cite$ -- 756
-duplicate$ -- 212643
-empty$ -- 218443
-format.name$ -- 21816
-if$ -- 469052
+call.type$ -- 387
+change.case$ -- 386
+chr.to.int$ -- 1503
+cite$ -- 772
+duplicate$ -- 216989
+empty$ -- 222874
+format.name$ -- 22321
+if$ -- 478896
 int.to.chr$ -- 0
-int.to.str$ -- 1155
+int.to.str$ -- 1188
 missing$ -- 0
-newline$ -- 10999
-num.names$ -- 18700
-pop$ -- 128944
+newline$ -- 11230
+num.names$ -- 19202
+pop$ -- 131601
 preamble$ -- 1
-purify$ -- 7467
+purify$ -- 7676
 quote$ -- 0
-skip$ -- 78246
+skip$ -- 80163
 stack$ -- 0
-substring$ -- 279183
-swap$ -- 58294
-text.length$ -- 9874
-text.prefix$ -- 379
+substring$ -- 284408
+swap$ -- 59563
+text.length$ -- 10072
+text.prefix$ -- 387
 top$ -- 1
-type$ -- 12874
+type$ -- 13146
 warning$ -- 0
-while$ -- 25672
+while$ -- 26149
 width$ -- 0
-write$ -- 10621
-(There were 2 error messages)
+write$ -- 10844

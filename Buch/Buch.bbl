@@ -17,13 +17,6 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
-  \entry{Hicks1934a}{article}{}
-    \field{extradate}{2}
-    \field{labeldatesource}{nodate}
-    \field{sortinit}{0}
-    \field{sortinithash}{0}
-  \endentry
-
   \entry{Aghion1992}{article}{}
     \name{author}{1}{}{%
       {{hash=APPH}{%
@@ -2814,6 +2807,105 @@
     \field{year}{1999}
   \endentry
 
+  \entry{Clark1886}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CJB}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Boston: Ginn \& Company}%
+    }
+    \strng{namehash}{CJB1}
+    \strng{fullhash}{CJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1886}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{The Philosophy of Wealth}
+    \field{year}{1886}
+  \endentry
+
+  \entry{Clark1891}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CJB}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={John\bibnamedelima B},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJB2}
+    \strng{fullhash}{CJB2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1891}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{289\bibrangedash 318}
+    \field{title}{Distribution as Determined by a Law of Rent}
+    \field{volume}{5}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1891}
+  \endentry
+
+  \entry{Clark1899}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CJB}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MacMillan, New York}%
+    }
+    \strng{namehash}{CJB3}
+    \strng{fullhash}{CJB3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1899}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{The Distribution of Wealth: A Theory of Wages, Interest and
+  Profits}
+    \field{year}{1899}
+  \endentry
+
+  \entry{Clark1907}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CJB}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={John\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {New York: MacMillan}%
+    }
+    \strng{namehash}{CJB3}
+    \strng{fullhash}{CJB3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1907}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Essentials of Economic Theory as Applied to Modern Problems
+  of Industry and Public Policy}
+    \field{year}{1907}
+  \endentry
+
   \entry{Barro2005}{misc}{}
     \name{author}{1}{}{%
       {{hash=CD}{%
@@ -3321,7 +3413,7 @@
       {{hash=EFY}{%
          family={Edgeworth},
          familyi={E\bibinitperiod},
-         given={Francis\bibnamedelima Ysidro},
+         given={Francis\bibnamedelima Y.},
          giveni={F\bibinitperiod\bibinitdelim Y\bibinitperiod},
       }}%
     }
@@ -4889,6 +4981,73 @@
     \field{title}{Leon Walras}
     \field{volume}{2}
     \field{journaltitle}{Econometrica}
+    \field{year}{1934}
+  \endentry
+
+  \entry{Hicks1934b}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HJR}{%
+         family={Hicks},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=ARGD}{%
+         family={Allen},
+         familyi={A\bibinitperiod},
+         given={Roy G.\bibnamedelima D.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJRARGD1}
+    \strng{fullhash}{HJRARGD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1934}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{1}
+    \field{pages}{52\bibrangedash 76}
+    \field{title}{A Reconsideration of the Theory of Value. Part I}
+    \field{volume}{1}
+    \field{journaltitle}{Economica}
+    \field{year}{1934}
+  \endentry
+
+  \entry{Hicks1934a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HJR}{%
+         family={Hicks},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=ARGD}{%
+         family={Allen},
+         familyi={A\bibinitperiod},
+         given={Roy G.\bibnamedelima D.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJRARGD1}
+    \strng{fullhash}{HJRARGD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1934}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{2}
+    \field{pages}{196\bibrangedash 219}
+    \field{title}{A Reconsideration of the Theory of Value. Part II. A
+  Mathematical Theory of Individual Demand Functions}
+    \field{volume}{1}
+    \field{journaltitle}{Economica}
     \field{year}{1934}
   \endentry
 
@@ -8046,7 +8205,32 @@
     \field{title}{Retrospectives: Pareto's Law}
     \field{volume}{6}
     \field{journaltitle}{Journal of Economic Perspectives}
-    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Persky2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PJ}{%
+         family={Persky},
+         familyi={P\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PJ1}
+    \strng{fullhash}{PJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1}
+    \field{pages}{95\bibrangedash 108}
+    \field{title}{The Neoclassical Advent: American Economics at the Dawn of
+  the 20th Century}
+    \field{volume}{14}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2000}
   \endentry
 
   \entry{Tabellini1993}{article}{}
@@ -10462,6 +10646,34 @@
     \field{year}{1980}
   \endentry
 
+  \entry{Tobin1985}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJ}{%
+         family={Tobin},
+         familyi={T\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{TJ1}
+    \strng{fullhash}{TJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{6}
+    \field{pages}{28\bibrangedash 38}
+    \field{title}{Neoclassical Theory in America: J. B. Clark and Fisher}
+    \field{volume}{75}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1985}
+  \endentry
+
   \entry{Tobin1993}{article}{}
     \name{author}{1}{}{%
       {{hash=TJ}{%
@@ -10604,6 +10816,31 @@
     \field{volume}{6}
     \field{journaltitle}{International Economic Review}
     \field{year}{1965}
+  \endentry
+
+  \entry{Veblen1909}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VT}{%
+         family={Veblen},
+         familyi={V\bibinitperiod},
+         given={Thorstein},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VT1}
+    \strng{fullhash}{VT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1909}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{November}
+    \field{pages}{620–\bibrangedash 636}
+    \field{title}{The Limitations of Marginal Utility}
+    \field{volume}{17}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1909}
   \endentry
 
   \entry{Venugopal2015}{article}{}
