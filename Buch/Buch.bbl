@@ -409,6 +409,37 @@
     \field{year}{1984}
   \endentry
 
+  \entry{Blinder1973}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AB}{%
+         family={Alan},
+         familyi={A\bibinitperiod},
+         given={Blinder},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MSR}{%
+         family={M.},
+         familyi={M\bibinitperiod},
+         given={Solow\bibnamedelima Robert},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ABMSR1}
+    \strng{fullhash}{ABMSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{issue}{4}
+    \field{pages}{319\bibrangedash 337}
+    \field{title}{Does Fiscal Policy Matter?}
+    \field{volume}{2}
+    \field{journaltitle}{Journal of Public Economics}
+    \field{year}{1973}
+  \endentry
+
   \entry{Alesina1993}{article}{}
     \name{author}{2}{}{%
       {{hash=AA}{%
@@ -985,65 +1016,6 @@
     \field{year}{1988}
   \endentry
 
-  \entry{Barro1983b}{article}{}
-    \name{author}{1}{}{%
-      {{hash=BDBRJG}{%
-         family={Barro},
-         familyi={B\bibinitperiod},
-         suffix={Robert J.;\bibnamedelima Gordon},
-         suffixi={R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
-  G\bibinitperiod},
-         given={David\bibnamedelima B},
-         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BRJGDB1}
-    \strng{fullhash}{BRJGDB1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1983}
-    \field{extradate}{1}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{number}{4}
-    \field{pages}{589\bibrangedash 610}
-    \field{title}{A Positive Theory of Monetary Policy in a Natural Rate Model}
-    \field{volume}{91}
-    \field{journaltitle}{Journal of Political Economy}
-    \field{year}{1983}
-  \endentry
-
-  \entry{Barro1983a}{article}{}
-    \name{author}{1}{}{%
-      {{hash=BDBRJG}{%
-         family={Barro},
-         familyi={B\bibinitperiod},
-         suffix={Robert J.;\bibnamedelima Gordon},
-         suffixi={R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
-  G\bibinitperiod},
-         given={David\bibnamedelima B},
-         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BRJGDB1}
-    \strng{fullhash}{BRJGDB1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1983}
-    \field{extradate}{2}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{number}{1}
-    \field{pages}{101\bibrangedash 121}
-    \field{title}{Rules, Discretion and Reputation in a Model of Monetary
-  Policy}
-    \field{volume}{12}
-    \field{journaltitle}{Journal of Monetary Economics}
-    \field{year}{1983}
-  \endentry
-
   \entry{Barro1971}{article}{}
     \name{author}{1}{}{%
       {{hash=BHIRJG}{%
@@ -1120,6 +1092,71 @@
     \field{volume}{2}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{1976}
+  \endentry
+
+  \entry{Barro1983b}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BRJ}{%
+         family={Barro},
+         familyi={B\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GDB}{%
+         family={Gordon},
+         familyi={G\bibinitperiod},
+         given={David\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRJGDB1}
+    \strng{fullhash}{BRJGDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{4}
+    \field{pages}{589\bibrangedash 610}
+    \field{title}{A Positive Theory of Monetary Policy in a Natural Rate Model}
+    \field{volume}{91}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1983}
+  \endentry
+
+  \entry{Barro1983a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BRJ}{%
+         family={Barro},
+         familyi={B\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GDB}{%
+         family={Gordon},
+         familyi={G\bibinitperiod},
+         given={David\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRJGDB1}
+    \strng{fullhash}{BRJGDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{101\bibrangedash 121}
+    \field{title}{Rules, Discretion and Reputation in a Model of Monetary
+  Policy}
+    \field{volume}{12}
+    \field{journaltitle}{Journal of Monetary Economics}
+    \field{year}{1983}
   \endentry
 
   \entry{Baumol1967}{article}{}
@@ -3327,6 +3364,40 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Dimand2005}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DRW}{%
+         family={Dimand},
+         familyi={D\bibinitperiod},
+         given={Robert\bibnamedelima W.},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Geanakoplos},
+         familyi={G\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DRWGJ1}
+    \strng{fullhash}{DRWGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1}
+    \field{pages}{3\bibrangedash 15}
+    \field{title}{Celebrating Irving Fisher: The Legacy of a Great Economist}
+    \field{volume}{64}
+    \field{journaltitle}{The American Journal of Economics and Sociology}
+    \field{year}{2005}
+    \field{urlday}{05}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{Dixit1977}{article}{}
     \name{author}{2}{}{%
       {{hash=DAK}{%
@@ -3798,6 +3869,41 @@
     \field{year}{1906}
   \endentry
 
+  \entry{Fisher1907}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FI}{%
+         family={Fisher},
+         familyi={F\bibinitperiod},
+         given={Irving},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MNY}{%
+         family={Macmillan},
+         familyi={M\bibinitperiod},
+         given={New\bibnamedelima York},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {McMaster University Archive for the History of Economic Thought}%
+    }
+    \strng{namehash}{FI1}
+    \strng{fullhash}{FI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1907}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The Rate of Interest}
+    \verb{url}
+    \verb https://EconPapers.repec.org/RePEc:hay:hetboo:fisher1907
+    \endverb
+    \field{year}{1907}
+  \endentry
+
   \entry{Fisher1911}{article}{}
     \name{author}{1}{}{%
       {{hash=FI}{%
@@ -3854,6 +3960,31 @@
     \field{sortinithash}{F}
     \field{title}{The Theory of Interest}
     \field{year}{1930}
+  \endentry
+
+  \entry{Fisher1933}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FI}{%
+         family={Fisher},
+         familyi={F\bibinitperiod},
+         given={Irving},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FI1}
+    \strng{fullhash}{FI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1933}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{4}
+    \field{pages}{337\bibrangedash 357}
+    \field{title}{The Debt-Deflation Theory of Great Depression}
+    \field{volume}{1}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1933}
   \endentry
 
   \entry{Fleming1962}{article}{}
@@ -5316,6 +5447,32 @@
     \field{year}{1989}
   \endentry
 
+  \entry{Fisher1892}{book}{}
+    \name{author}{1}{}{%
+      {{hash=IF}{%
+         family={Irving},
+         familyi={I\bibinitperiod},
+         given={Fisher},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {New Haven: Connecticut Academy of Arts}%
+      {Sciences}%
+    }
+    \strng{namehash}{IF1}
+    \strng{fullhash}{IF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1892}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{Mathematical Investigations in the Theory of Value and
+  Prices}
+    \field{year}{1892}
+  \endentry
+
   \entry{Jaffe1976}{article}{}
     \name{author}{1}{}{%
       {{hash=JW}{%
@@ -5975,13 +6132,16 @@
   \endentry
 
   \entry{Kydland1977}{article}{}
-    \name{author}{1}{}{%
-      {{hash=KECFEP}{%
+    \name{author}{2}{}{%
+      {{hash=KFE}{%
          family={Kydland},
          familyi={K\bibinitperiod},
-         suffix={Finn E;\bibnamedelima Prescott},
-         suffixi={F\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
-  P\bibinitperiod},
+         given={Finn\bibnamedelima E},
+         giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=PEC}{%
+         family={Prescott},
+         familyi={P\bibinitperiod},
          given={Edward\bibnamedelima C},
          giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
       }}%
@@ -6004,13 +6164,16 @@
   \endentry
 
   \entry{Kydland1982}{article}{}
-    \name{author}{1}{}{%
-      {{hash=KECFEP}{%
+    \name{author}{2}{}{%
+      {{hash=KFE}{%
          family={Kydland},
          familyi={K\bibinitperiod},
-         suffix={Finn E;\bibnamedelima Prescott},
-         suffixi={F\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
-  P\bibinitperiod},
+         given={Finn\bibnamedelima E},
+         giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=PEC}{%
+         family={Prescott},
+         familyi={P\bibinitperiod},
          given={Edward\bibnamedelima C},
          giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
       }}%
@@ -6207,13 +6370,16 @@
   \endentry
 
   \entry{Plosser1983}{article}{}
-    \name{author}{1}{}{%
-      {{hash=LCIJBP}{%
+    \name{author}{2}{}{%
+      {{hash=LJB}{%
          family={Long},
          familyi={L\bibinitperiod},
-         suffix={John B;\bibnamedelima Plosser},
-         suffixi={J\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
-  P\bibinitperiod},
+         given={John\bibnamedelima B},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=PCI}{%
+         family={Plosser},
+         familyi={P\bibinitperiod},
          given={Charles\bibnamedelima I},
          giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
       }}%
@@ -6435,32 +6601,6 @@
     \field{title}{After Keynesian Macroeconomics}
     \field{journaltitle}{Federal Reserve Bank of Minneapolis Quarterly Review}
     \field{year}{1979}
-  \endentry
-
-  \entry{Blinder1973}{article}{}
-    \name{author}{1}{}{%
-      {{hash=MBASR}{%
-         family={M.},
-         familyi={M\bibinitperiod},
-         given={Blinder Alan; Solow\bibnamedelima Robert},
-         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
-  S\bibinitperiod\bibinitdelim R\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MBASR1}
-    \strng{fullhash}{MBASR1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1973}
-    \field{labeldatesource}{}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{issue}{4}
-    \field{pages}{319\bibrangedash 337}
-    \field{title}{Does Fiscal Policy Matter?}
-    \field{volume}{2}
-    \field{journaltitle}{Journal of Public Economics}
-    \field{year}{1973}
   \endentry
 
   \entry{Maddison1982}{book}{}
@@ -7333,6 +7473,40 @@
     \field{year}{1975}
   \endentry
 
+  \entry{Monissen1989}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=MHG}{%
+         family={Monissen},
+         familyi={M\bibinitperiod},
+         given={Hans\bibnamedelima G.},
+         giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=JS}{%
+         family={Joachim},
+         familyi={J\bibinitperiod},
+         given={Starbatty},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {München: Nikol-Verlag}%
+    }
+    \strng{namehash}{MHG1}
+    \strng{fullhash}{MHG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Klassiker des Ökonomischen Denkens, Teil 2}
+    \field{pages}{211\bibrangedash 230}
+    \field{title}{Irving Fisher (1867 - 1947)}
+    \field{year}{1989}
+  \endentry
+
   \entry{Morgenstern1976}{article}{}
     \name{author}{1}{}{%
       {{hash=MO}{%
@@ -7987,6 +8161,31 @@
     \field{volume}{8}
     \field{journaltitle}{The B.E. Journal of Macroeconomics}
     \field{year}{2008}
+  \endentry
+
+  \entry{OBrien2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ODP}{%
+         family={O'Brien},
+         familyi={O\bibinitperiod},
+         given={Denis\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ODP1}
+    \strng{fullhash}{ODP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{2}
+    \field{pages}{267\bibrangedash 292}
+    \field{title}{Bodin's Analysis of Inflation}
+    \field{volume}{32}
+    \field{journaltitle}{History of Political Economy}
+    \field{year}{2000}
   \endentry
 
   \entry{Obstfeld1995}{article}{}
@@ -10712,15 +10911,11 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \list{publisher}{2}{%
-      {[American Journal of Economics}%
-      {Sociology, Inc., Wiley]}%
-    }
     \strng{namehash}{TJ1}
     \strng{fullhash}{TJ1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{2005}
+    \field{labelyear}{2005 (1987)}
     \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
@@ -10729,7 +10924,7 @@
     \field{title}{Irving Fisher (1867-1947)}
     \field{volume}{64}
     \field{journaltitle}{The American Journal of Economics and Sociology}
-    \field{year}{2005}
+    \field{year}{2005 (1987)}
   \endentry
 
   \entry{Treynor1961}{article}{}
