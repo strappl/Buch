@@ -2050,6 +2050,31 @@
     \field{year}{1987}
   \endentry
 
+  \entry{Blanchard2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BO}{%
+         family={Blanchard},
+         familyi={B\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BO1}
+    \strng{fullhash}{BO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{7550}
+    \field{pages}{1\bibrangedash 48}
+    \field{title}{What do we know about Macroeconomics that Fisher and Wicksell
+  did not?}
+    \field{journaltitle}{NBER Working Paper Series}
+    \field{year}{2000}
+  \endentry
+
   \entry{Blanchard2003}{book}{}
     \name{author}{1}{}{%
       {{hash=BO}{%
@@ -2127,12 +2152,12 @@
     \strng{fullhash}{BM2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{1962}
+    \field{labelyear}{1962 (1984)}
     \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{title}{Economic Theory in Retrospect}
-    \field{year}{1962}
+    \field{title}{Economic Theory in Retrospect (4. Auflage, 1984}
+    \field{year}{1962 (1984)}
   \endentry
 
   \entry{Blaug1973}{article}{}
@@ -2161,6 +2186,31 @@
     \field{volume}{4}
     \field{journaltitle}{History of Political Economy}
     \field{year}{1973}
+  \endentry
+
+  \entry{Blaug1986}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BM}{%
+         family={Blaug},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Brighton}%
+    }
+    \strng{namehash}{BM2}
+    \strng{fullhash}{BM2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Great Economists before Keynes. An Introduction to the Lives
+  \& Works of One Hundred Great Economists of the Past}
+    \field{year}{1986}
   \endentry
 
   \entry{Blaug2001}{article}{}
@@ -4727,6 +4777,40 @@
     \field{sortinithash}{G}
     \field{title}{A Soaring Eagle: Alfred Marshall, 1842 - 1924}
     \field{year}{1995}
+  \endentry
+
+  \entry{Grossekettler1989}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=GH}{%
+         family={Grossekettler},
+         familyi={G\bibinitperiod},
+         given={Heinz},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=JS}{%
+         family={Joachim},
+         familyi={J\bibinitperiod},
+         given={Starbatty},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {München: Nikol-Verlag}%
+    }
+    \strng{namehash}{GH1}
+    \strng{fullhash}{GH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{Klassiker des Ökonomischen Denkens, Teil 2}
+    \field{pages}{191\bibrangedash 210}
+    \field{title}{Johan Gustav Knut Wicksel (1851 - 1926)}
+    \field{year}{1989}
   \endentry
 
   \entry{Grossman1991a}{article}{}
@@ -11305,6 +11389,28 @@
     \field{sortinithash}{W}
     \field{title}{Geldzins und Güterpreise}
     \field{year}{1898}
+  \endentry
+
+  \entry{Wicksell1922}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WK}{%
+         family={Wicksell},
+         familyi={W\bibinitperiod},
+         given={Knut},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WK1}
+    \strng{fullhash}{WK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1922}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Vorlesungen über Nationalökonomie, Band 2: Geld und Kredit}
+    \field{journaltitle}{Jena: Gustav Fischer}
+    \field{year}{1922}
   \endentry
 
   \entry{Widmann2020}{article}{}
