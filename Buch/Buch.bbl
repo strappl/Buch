@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -1776,38 +1776,6 @@
     \field{year}{1996}
   \endentry
 
-  \entry{BohmBawerk1888}{book}{}
-    \name{author}{1}{}{%
-      {{hash=BBE}{%
-         family={Böhm-Bawerk},
-         familyi={B\bibinithyphendelim B\bibinitperiod},
-         given={Eugen},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=dWUBIV}{%
-         prefix={der},
-         prefixi={d\bibinitperiod},
-         family={Wagner'schen Universitäts-Buchhandlung},
-         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
-  B\bibinitperiod},
-         given={Innsbruck:\bibnamedelima Verlag},
-         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BBE1}
-    \strng{fullhash}{BBE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1889}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
-    \field{year}{1889}
-  \endentry
-
   \entry{Bils1987}{article}{}
     \name{author}{1}{}{%
       {{hash=BM}{%
@@ -2350,6 +2318,38 @@
     \field{year}{2016}
   \endentry
 
+  \entry{BohmBawerk1888}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BBE}{%
+         family={Böhm-Bawerk},
+         familyi={B\bibinithyphendelim B\bibinitperiod},
+         given={Eugen},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dWUBIV}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Wagner'schen Universitäts-Buchhandlung},
+         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
+  B\bibinitperiod},
+         given={Innsbruck:\bibnamedelima Verlag},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBE1}
+    \strng{fullhash}{BBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1889}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
+    \field{year}{1889}
+  \endentry
+
   \entry{Calvo1983}{article}{}
     \name{author}{1}{}{%
       {{hash=CGA}{%
@@ -2385,6 +2385,40 @@
     \field{volume}{12}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{1983}
+  \endentry
+
+  \entry{Cansier1989}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Cansier},
+         familyi={C\bibinitperiod},
+         given={Dieter},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=JS}{%
+         family={Joachim},
+         familyi={J\bibinitperiod},
+         given={Starbatty},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {München: Nikol-Verlag}%
+    }
+    \strng{namehash}{CD1}
+    \strng{fullhash}{CD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{Klassiker des Ökonomischen Denkens, Teil 2}
+    \field{pages}{231\bibrangedash 250}
+    \field{title}{Arthur Cecil Pigou (1877 - 1959}
+    \field{year}{1989}
   \endentry
 
   \entry{Capen1971}{article}{}
@@ -2960,8 +2994,8 @@
          giveni={M\bibinitperiod},
       }}%
     }
-    \strng{namehash}{CD1}
-    \strng{fullhash}{CD1}
+    \strng{namehash}{CD2}
+    \strng{fullhash}{CD2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2005}
@@ -2989,8 +3023,8 @@
          giveni={M\bibinitperiod},
       }}%
     }
-    \strng{namehash}{CD1}
-    \strng{fullhash}{CD1}
+    \strng{namehash}{CD2}
+    \strng{fullhash}{CD2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2006}
@@ -3010,8 +3044,8 @@
          giveni={D\bibinitperiod},
       }}%
     }
-    \strng{namehash}{CD2}
-    \strng{fullhash}{CD2}
+    \strng{namehash}{CD3}
+    \strng{fullhash}{CD3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
@@ -5599,6 +5633,32 @@
     \field{year}{1871}
   \endentry
 
+  \entry{Johnson1960}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JHG}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={Harry\bibnamedelima G.},
+         giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JHG1}
+    \strng{fullhash}{JHG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1960}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{1}
+    \field{pages}{150\bibrangedash 155}
+    \field{title}{Arthur Cecil Pigou, 1877-1959}
+    \field{volume}{26}
+    \field{journaltitle}{The Canadian Journal of Economics and Political
+  Science}
+    \field{year}{1960}
+  \endentry
+
   \entry{Jones1995}{article}{}
     \name{author}{1}{}{%
       {{hash=JCI}{%
@@ -6235,6 +6295,35 @@
     \field{volume}{20}
     \field{journaltitle}{The Journal of Finance}
     \field{year}{1965}
+  \endentry
+
+  \entry{Robbins1932}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LR}{%
+         family={Lionel},
+         familyi={L\bibinitperiod},
+         given={Robbins},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ML}{%
+         family={Macmillan},
+         familyi={M\bibinitperiod},
+         given={London},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LR1}
+    \strng{fullhash}{LR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1932}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{An Essay on the Nature and Significance of Economic Science}
+    \field{year}{1932}
   \endentry
 
   \entry{Plosser1983}{article}{}
@@ -8470,6 +8559,94 @@
     \field{year}{2012}
   \endentry
 
+  \entry{Pigou1912}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PAC}{%
+         family={Pigou},
+         familyi={P\bibinitperiod},
+         given={Arthur\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=M}{%
+         family={Macmillan},
+         familyi={M\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Company},
+         familyi={C\bibinitperiod},
+         given={London},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PAC1}
+    \strng{fullhash}{PAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1912}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Wealth and Welfare}
+    \field{year}{1912}
+  \endentry
+
+  \entry{Pigou1920}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PAC}{%
+         family={Pigou},
+         familyi={P\bibinitperiod},
+         given={Arthur\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ML}{%
+         family={Macmillan},
+         familyi={M\bibinitperiod},
+         given={London},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PAC1}
+    \strng{fullhash}{PAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1920}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{The Economics of Welfare}
+    \field{year}{1920}
+  \endentry
+
+  \entry{Pigou1936}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PAC}{%
+         family={Pigou},
+         familyi={P\bibinitperiod},
+         given={Arthur\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PAC1}
+    \strng{fullhash}{PAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1936}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{10}
+    \field{pages}{115\bibrangedash 132}
+    \field{title}{Mr. J. M. Keynes' General Theory of Employment, Interest and
+  Money}
+    \field{volume}{3}
+    \field{journaltitle}{Economica}
+    \field{year}{1936}
+  \endentry
+
   \entry{Pigou1925}{book}{}
     \name{author}{1}{}{%
       {{hash=PAC}{%
@@ -8483,8 +8660,8 @@
       {MacMillan}%
       {Co, London}%
     }
-    \strng{namehash}{PAC1}
-    \strng{fullhash}{PAC1}
+    \strng{namehash}{PAC2}
+    \strng{fullhash}{PAC2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1925}
@@ -10960,6 +11137,14 @@
          giveni={K\bibinitperiod},
       }}%
     }
+    \name{editor}{1}{}{%
+      {{hash=FJG}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Jena:\bibnamedelima Gustav},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
     \strng{namehash}{WK1}
     \strng{fullhash}{WK1}
     \field{labelnamesource}{author}
@@ -10969,7 +11154,6 @@
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \field{title}{Vorlesungen über Nationalökonomie, Band 2: Geld und Kredit}
-    \field{journaltitle}{Jena: Gustav Fischer}
     \field{year}{1922}
   \endentry
 

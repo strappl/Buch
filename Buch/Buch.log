@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  22 DEC 2022 19:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  30 DEC 2022 19:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -869,16 +869,12 @@ Package biblatex Info: Data encoding 'utf8' specified.
 \openout3 = `Buch-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-
-
-Package biblatex Warning: File 'Buch.bbl' is wrong format version - expected 3.
-2.
-
 Package biblatex Info: ... file 'Buch.bbl' found.
-(Buch.bbl)
+ (Buch.bbl)
 Package biblatex Info: Reference section=0 on input line 44.
 Package biblatex Info: Reference segment=0 on input line 44.
- [1
+
+[1
 
 {C:/Users/TRAPPL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2
 
@@ -886,7 +882,8 @@ Package biblatex Info: Reference segment=0 on input line 44.
 ]
 \openout2 = `dedic.aux'.
 
- (dedic.tex) [5
+
+(dedic.tex) [5
 
 ]
 \openout2 = `pref.aux'.
@@ -998,25 +995,25 @@ Overfull \hbox (11.9651pt too wide) has occurred while \output is active
 
 [27] [28] [29]
 
-LaTeX Warning: Reference `Klassik' on page 30 undefined on input line 74.
+LaTeX Warning: Reference `Klassik' on page 30 undefined on input line 75.
 
 
-LaTeX Warning: Reference `Marx' on page 30 undefined on input line 74.
+LaTeX Warning: Reference `Marx' on page 30 undefined on input line 75.
 
 
-LaTeX Warning: Reference `Post-Keynes' on page 30 undefined on input line 76.
+LaTeX Warning: Reference `Post-Keynes' on page 30 undefined on input line 77.
 
 [30] [31] [32]
 
-LaTeX Warning: Reference `Klassik' on page 33 undefined on input line 89.
+LaTeX Warning: Reference `Klassik' on page 33 undefined on input line 90.
 
 [33] [34] [35]
 
-LaTeX Warning: Reference `Post-Keynes' on page 36 undefined on input line 98.
+LaTeX Warning: Reference `Post-Keynes' on page 36 undefined on input line 99.
 
 [36]
 
-LaTeX Warning: Reference `Austria' on page 37 undefined on input line 103.
+LaTeX Warning: Reference `Austria' on page 37 undefined on input line 104.
 
 [37]) [38]
 \openout2 = `Teil_III.aux'.
@@ -1060,38 +1057,47 @@ t1): ^^RNon-monetarists
 
  (Kapitel_2_4.tex
 Kapitel 5.
+
+LaTeX Warning: Citation '.' on page 47 undefined on input line 19.
+
+
+Overfull \hbox (19.52429pt too wide) in paragraph at lines 19--20
+\T1/cmr/m/n/10 Adam Smith die Neo-klas-sik präg-te, näm-lich, dass individuell-
+nutzenmaximierendes
+ []
+
 [47
 
 
 
 
 
-] [48]) [49] [50]
+] [48] [49] [50] [51] [52]) [53]
 \openout2 = `Kapitel_3_4.aux'.
 
- (Kapitel_3_4.tex
+ (Kapitel_3_4.tex [54
+
+
+
+
+
+]
 Kapitel 6.
-[51
-
-
-
-
-
-] [52] [53]
+[55] [56] [57]
 Overfull \hbox (3.68094pt too wide) in paragraph at lines 35--36
 \T1/cmr/m/n/10 Geld-po-li-tik näm-lich auch ei-ne geld-po-li-ti-sche Fein-ab-st
 im-mung emp-feh-len. Statt-
  []
 
-[54] [55] [56]
+[58] [59] [60]
 
-LaTeX Warning: Reference `Neoliberalismus' on page 57 undefined on input line 4
+LaTeX Warning: Reference `Neoliberalismus' on page 61 undefined on input line 4
 8.
 
-[57]) [58] [59]
+[61]) [62] [63]
 \openout2 = `Kapitel_3_6.aux'.
 
- (Kapitel_3_6.tex [60
+ (Kapitel_3_6.tex [64
 
 
 
@@ -1100,33 +1106,33 @@ LaTeX Warning: Reference `Neoliberalismus' on page 57 undefined on input line 4
 ]
 Kapitel 7.
 
-LaTeX Warning: Reference `Behavioral' on page 61 undefined on input line 12.
+LaTeX Warning: Reference `Behavioral' on page 65 undefined on input line 12.
 
 
-LaTeX Warning: Reference `Post-Keynes' on page 61 undefined on input line 12.
+LaTeX Warning: Reference `Post-Keynes' on page 65 undefined on input line 12.
 
 
-LaTeX Warning: Reference `Austria' on page 61 undefined on input line 18.
+LaTeX Warning: Reference `Austria' on page 65 undefined on input line 18.
 
-[61] [62] [63] [64] [65]
+[65] [66] [67] [68] [69]
 
-LaTeX Warning: Reference `Behavioral' on page 66 undefined on input line 32.
+LaTeX Warning: Reference `Behavioral' on page 70 undefined on input line 32.
 
-[66] [67] [68] [69]
+[70] [71] [72] [73]
 
-LaTeX Warning: Reference `Behavioral' on page 70 undefined on input line 49.
+LaTeX Warning: Reference `Behavioral' on page 74 undefined on input line 49.
 
-[70]
+[74]
 
-LaTeX Warning: Reference `Behavioral' on page 71 undefined on input line 51.
+LaTeX Warning: Reference `Behavioral' on page 75 undefined on input line 51.
 
 
-LaTeX Warning: Reference `Post-Keynes' on page 71 undefined on input line 51.
+LaTeX Warning: Reference `Post-Keynes' on page 75 undefined on input line 51.
 
-[71] [72] [73] [74] [75] [76] [77]) [78] [79]
+[75] [76] [77] [78] [79] [80] [81]) [82] [83]
 \openout2 = `Kapitel_3_7.aux'.
 
- (Kapitel_3_7.tex [80
+ (Kapitel_3_7.tex [84
 
 
 
@@ -1134,9 +1140,9 @@ LaTeX Warning: Reference `Post-Keynes' on page 71 undefined on input line 51.
 
 ]
 Kapitel 8.
-[81] [82] [83] [84] [85] [86] [87] [88] [89]
+[85] [86] [87] [88] [89] [90] [91] [92] [93]
 
-LaTeX Warning: Reference `Behavioral' on page 90 undefined on input line 69.
+LaTeX Warning: Reference `Behavioral' on page 94 undefined on input line 69.
 
 
 Overfull \hbox (3.53186pt too wide) in paragraph at lines 69--70
@@ -1144,20 +1150,20 @@ Overfull \hbox (3.53186pt too wide) in paragraph at lines 69--70
 Nobelpreisträger,
  []
 
-[90] [91] [92] [93] [94]) [95] [96]
+[94] [95] [96] [97] [98]) [99] [100]
 \openout2 = `Teil_IV.aux'.
 
- (Teil_IV.tex [97
+ (Teil_IV.tex [101
 
 
 
 
 
-] [98] [99] [100]) [101]
+] [102] [103] [104])
+[105]
 \openout2 = `Kapitel_3_5.aux'.
 
-
-(Kapitel_3_5.tex [102
+ (Kapitel_3_5.tex [106
 
 
 
@@ -1165,12 +1171,12 @@ Nobelpreisträger,
 
 ]
 Kapitel 9.
-[103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
-[115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126]
-[127] [128]) [129]
+[107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118]
+[119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130]
+[131] [132]) [133]
 \openout2 = `Kapitel_4_1.aux'.
 
- (Kapitel_4_1.tex [130
+ (Kapitel_4_1.tex [134
 
 
 
@@ -1178,71 +1184,71 @@ Kapitel 9.
 
 ]
 Kapitel 10.
-[131] [132] [133] [134] [135] [136] [137] [138] [139] [140]
+[135] [136] [137] [138] [139] [140] [141] [142] [143] [144]
 Overfull \hbox (2.38959pt too wide) in paragraph at lines 61--62
 \T1/cmr/m/n/10 ana-ly-siert, zu-sam-men-ge-fasst und em-pi-risch un-ter-sucht. 
 Er kam zu dem Schluss,
  []
 
-[141] [142] [143] [144] [145] [146] [147] [148]
+[145] [146] [147] [148] [149] [150] [151] [152]
 
-LaTeX Warning: Reference `Post-Keynes' on page 149 undefined on input line 122.
+LaTeX Warning: Reference `Post-Keynes' on page 153 undefined on input line 122.
 
 
-[149] [150] [151] [152] [153] [154] [155] [156]
+[153] [154] [155] [156] [157] [158] [159] [160]
 Overfull \hbox (5.08704pt too wide) in paragraph at lines 174--175
 []\T1/cmr/m/n/10 Auÿerdem gibt es, vier-tens, das nicht-rationale, Soziologisch
 e- oder Fairness-
  []
 
-[157] [158] [159] [160] [161] [162] [163]
+[161] [162] [163] [164] [165] [166] [167]
 
-LaTeX Warning: Reference `Post-Keynes' on page 164 undefined on input line 210.
+LaTeX Warning: Reference `Post-Keynes' on page 168 undefined on input line 210.
 
 
-[164] [165] [166]
+[168] [169] [170]
 Overfull \hbox (23.55475pt too wide) in paragraph at lines 218--222
 []\T1/cmr/m/n/10 Die An-fän-ge ^^RMo-no-po-lis-ti-sche Kon-kur-renz^^P in ma-kr
 o-öko-no-mi-schen Mainstream-
  []
 
-[167] [168] [169] [170] [171] [172]) [173] [174]
+[171] [172] [173] [174] [175] [176]) [177] [178]
 \openout2 = `Kapitel_4_4.aux'.
 
  (Kapitel_4_4.tex
 Kapitel 11.
-[175
+[179
 
 
 
 
 
-] [176]
+] [180]
 Overfull \hbox (11.15549pt too wide) in paragraph at lines 22--23
 \T1/cmr/m/n/10 formal-mathematischen Real-Business-Cycle-Gleichgewichtsmodelle 
 mit Ele-
  []
 
-[177]
+[181]
 
-LaTeX Warning: Reference `Austria' on page 178 undefined on input line 32.
+LaTeX Warning: Reference `Austria' on page 182 undefined on input line 32.
 
-[178]
+[182]
 
-LaTeX Warning: Reference `Klassik' on page 179 undefined on input line 34.
+LaTeX Warning: Reference `Klassik' on page 183 undefined on input line 34.
 
-[179]
+[183]
 
-LaTeX Warning: Reference `Supply-Side-Economics' on page 180 undefined on input
+LaTeX Warning: Reference `Supply-Side-Economics' on page 184 undefined on input
  line 36.
 
-[180]
+[184]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 11.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
 eu-Keynesianern^^P []
  []
 
-[181]
+[185]
 Overfull \hbox (32.41003pt too wide) in paragraph at lines 46--47
 \T1/cmr/m/n/10 schrie-ben. Die ^^RVer-ehe-li-chung^^P zwi-schen der RBC-Methodi
 k und Neu-Keynesianischen
@@ -1254,41 +1260,41 @@ Overfull \hbox (14.64026pt too wide) in paragraph at lines 53--54
 em ^^RNeu-Klassischen^^P
  []
 
-[182]
+[186]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 11.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
 eu-Keynesianern^^P []
  []
 
-[183]
+[187]
 Overfull \hbox (22.88458pt too wide) in paragraph at lines 69--70
 \T1/cmr/m/n/10 2001 ^^Rpro-ba-b-ly the sin-gle most im-port-ant ma-cro-e-co-no-
 mic re-la-ti-on-ship^^P ([]Nobelpreis-
  []
 
-[184]
-Overfull \hbox (17.28116pt too wide) has occurred while \output is active
- \T1/cmr/m/n/9 11.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
-eu-Keynesianern^^P []
- []
-
-[185] [186]
-Overfull \hbox (17.28116pt too wide) has occurred while \output is active
- \T1/cmr/m/n/9 11.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
-eu-Keynesianern^^P []
- []
-
-[187] [188]
-
-LaTeX Warning: Reference `Austria' on page 189 undefined on input line 115.
-
-
+[188]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 11.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
 eu-Keynesianern^^P []
  []
 
 [189] [190]
+Overfull \hbox (17.28116pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 11.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
+eu-Keynesianern^^P []
+ []
+
+[191] [192]
+
+LaTeX Warning: Reference `Austria' on page 193 undefined on input line 115.
+
+
+Overfull \hbox (17.28116pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 11.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
+eu-Keynesianern^^P []
+ []
+
+[193] [194]
 Overfull \hbox (37.21808pt too wide) in paragraph at lines 130--131
 []\T1/cmr/m/n/10 Haushalte: Die Ag-gre-gier-te Nach-fra-ge wird mo-del-liert mi
 t-tels ^^RNeu-Keynesianischer
@@ -1300,25 +1306,25 @@ Overfull \hbox (17.28116pt too wide) has occurred while \output is active
 eu-Keynesianern^^P []
  []
 
-[191]
+[195]
 Overfull \hbox (4.42053pt too wide) in paragraph at lines 132--133
 []\T1/cmr/m/n/10 Zentralbank: De-ren Ver-hal-ten ist nicht mi-kro-fun-diert, ab
 er Regel-gebunden:
  []
 
-[192]
+[196]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 11.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
 eu-Keynesianern^^P []
  []
 
-[193] [194]
+[197] [198]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 11.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
 eu-Keynesianern^^P []
  []
 
-[195] [196] [197] [198] [199] [200] [201] [202] [203]
+[199] [200] [201] [202] [203] [204] [205] [206] [207]
 Overfull \hbox (10.46072pt too wide) in paragraph at lines 213--214
 []\T1/cmr/m/n/10 Keynesianismus: Ob-wohl die DSGE-Modelle meist nur ^^RNeu-Keyn
 esianische^^P-
@@ -1330,10 +1336,10 @@ Overfull \hbox (9.05829pt too wide) in paragraph at lines 216--217
 -Keynesianismus^^P
  []
 
-[204] [205] [206] [207] [208] [209] [210]) [211]
+[208] [209] [210] [211] [212] [213] [214]) [215]
 \openout2 = `Kapitel_4_5.aux'.
 
- (Kapitel_4_5.tex [212
+ (Kapitel_4_5.tex [216
 
 
 
@@ -1341,21 +1347,24 @@ Overfull \hbox (9.05829pt too wide) in paragraph at lines 216--217
 
 ]
 Kapitel 12.
-[213] [214]) [215]
+[217] [218]) [219]
 \openout2 = `Teil_IV_A.aux'.
 
- (Teil_IV_A.tex [216
+ (Teil_IV_A.tex [220
 
 
 
 
 
-] [217] [218])
+] [221] [222])
 \openout2 = `Kapitel_5_2b.aux'.
 
  (Kapitel_5_2b.tex
 Kapitel 13.
-) [219
+
+LaTeX Warning: Reference `Pigou' on page 223 undefined on input line 14.
+
+) [223
 
 
 
@@ -1364,7 +1373,7 @@ Kapitel 13.
 ]
 \openout2 = `Kapitel_5_2a.aux'.
 
- (Kapitel_5_2a.tex [220
+ (Kapitel_5_2a.tex [224
 
 
 
@@ -1372,21 +1381,21 @@ Kapitel 13.
 
 ]
 Kapitel 14.
-) [221]
+) [225]
 \openout2 = `Teil_VI.aux'.
 
- (Teil_VI.tex [222
+ (Teil_VI.tex [226
 
 
 
 
 
-] [223] [224])
+] [227] [228])
 \openout2 = `Kapitel_6_2.aux'.
 
  (Kapitel_6_2.tex
 Kapitel 15.
-) [225
+) [229
 
 
 
@@ -1395,7 +1404,7 @@ Kapitel 15.
 ]
 \openout2 = `Kapitel_6_3.aux'.
 
- (Kapitel_6_3.tex [226
+ (Kapitel_6_3.tex [230
 
 
 
@@ -1403,10 +1412,10 @@ Kapitel 15.
 
 ]
 Kapitel 16.
-) [227]
+) [231]
 \openout2 = `Kapitel_6_4.aux'.
 
- (Kapitel_6_4.tex [228
+ (Kapitel_6_4.tex [232
 
 
 
@@ -1414,10 +1423,10 @@ Kapitel 16.
 
 ]
 Kapitel 17.
-) [229]
+) [233]
 \openout2 = `Kapitel_6_6.aux'.
 
- (Kapitel_6_6.tex [230
+ (Kapitel_6_6.tex [234
 
 
 
@@ -1425,10 +1434,10 @@ Kapitel 17.
 
 ]
 Kapitel 18.
-) [231]
+) [235]
 \openout2 = `Kapitel_6_7.aux'.
 
- (Kapitel_6_7.tex [232
+ (Kapitel_6_7.tex [236
 
 
 
@@ -1436,7 +1445,7 @@ Kapitel 18.
 
 ]
 Kapitel 19.
-) [233] [234
+) [237] [238
 
 
 
@@ -1446,28 +1455,28 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 14.
  (C:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [235] [236]
-[237] [238] [239] [240] [241] [242] [243]
+) [239] [240]
+[241] [242] [243] [244] [245] [246] [247]
 Overfull \hbox (10.64754pt too wide) in paragraph at lines 115--115
 [][]\T1/cmr/m/n/10 Huggett, Mark (1993). ^^T  The Risk-Free Ra-te in Heterogene
 ous-Agent Incomplete-
  []
 
-[244] [245]
+[248] [249]
 Overfull \hbox (9.4879pt too wide) in paragraph at lines 115--115
 [][][]\T1/cmr/m/n/10 (1976). ^^T  Eco-no-me-tric Po-li-cy Eva-lua-ti-on: A Cri-
 ti-que^^S. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[246] [247] [248] [249] [250] [251] [252]
+[250] [251] [252] [253] [254] [255] [256] [257]
 Overfull \hbox (3.20612pt too wide) in paragraph at lines 115--115
 [][][]\T1/cmr/m/n/10 (1993). ^^T  Dis-creti-on ver-sus Po-li-cy Ru-les in Prac-
 ti-ce^^S. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[253] [254]
+[258]
 No file Buch.ind.
-[255] (Buch.aux (dedic.aux) (pref.aux) (Teil_II.aux) (Kapitel_2_1.aux)
+[259] (Buch.aux (dedic.aux) (pref.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux) (Kapitel_3_2.aux)
 (Kapitel_2_4.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux) (Kapitel_3_7.aux)
 (Teil_IV.aux) (Kapitel_3_5.aux) (Kapitel_4_1.aux) (Kapitel_4_4.aux)
@@ -1477,15 +1486,20 @@ No file Buch.ind.
 
 LaTeX Warning: There were undefined references.
 
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                Buch
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26432 strings out of 475385
- 556490 string characters out of 2786718
- 1254592 words of memory out of 3000000
- 47274 multiletter control sequences out of 15000+600000
+ 26499 strings out of 475385
+ 558034 string characters out of 2786718
+ 1256799 words of memory out of 3000000
+ 47341 multiletter control sequences out of 15000+600000
  482947 words of font info for 51 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  84i,14n,80p,5919b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1516,9 +1530,9 @@ eX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (267 pages, 1111025 bytes).
+Output written on Buch.pdf (271 pages, 1124372 bytes).
 PDF statistics:
- 1720 PDF objects out of 1728 (max. 8388607)
+ 1734 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
