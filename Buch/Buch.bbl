@@ -594,6 +594,31 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Atkinson2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AAB}{%
+         family={Atkinson},
+         familyi={A\bibinitperiod},
+         given={Anthony\bibnamedelima B.},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AAB1}
+    \strng{fullhash}{AAB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{157\bibrangedash 61}
+    \field{title}{The Restoration of Welfare Economics}
+    \field{volume}{101}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2011}
+  \endentry
+
   \entry{Audretsch2007}{article}{}
     \name{author}{3}{}{%
       {{hash=AD}{%
@@ -1467,6 +1492,31 @@
     \field{sortinithash}{B}
     \field{title}{An Introduction to the Principles of Morals and Legislation}
     \field{year}{1789}
+  \endentry
+
+  \entry{Bergson1938}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BA}{%
+         family={Bergson},
+         familyi={B\bibinitperiod},
+         given={Abram},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA1}
+    \strng{fullhash}{BA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1938}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{310\bibrangedash 334}
+    \field{title}{A Reformulation of Certain Aspects of Welfare Economics}
+    \field{volume}{52}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1938}
   \endentry
 
   \entry{Bernanke1983}{article}{}
@@ -5160,6 +5210,31 @@
     \field{year}{1934}
   \endentry
 
+  \entry{Hicks1940}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HJR}{%
+         family={Hicks},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJR1}
+    \strng{fullhash}{HJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1940}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{26}
+    \field{pages}{105\bibrangedash 124}
+    \field{title}{The Valuation of the Social Income}
+    \field{volume}{7}
+    \field{journaltitle}{Economica}
+    \field{year}{1940}
+  \endentry
+
   \entry{Hicks1934b}{article}{}
     \name{author}{2}{}{%
       {{hash=HJR}{%
@@ -5687,6 +5762,30 @@
     \field{year}{1995}
   \endentry
 
+  \entry{Kaldor1939}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KN}{%
+         family={Kaldor},
+         familyi={K\bibinitperiod},
+         given={Nicholas},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KN1}
+    \strng{fullhash}{KN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1939}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{549\bibrangedash 552}
+    \field{title}{Welfare Propositions of Economics and Interpersonal
+  Comparisons of Utility}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{1939}
+  \endentry
+
   \entry{Kaplan2018}{article}{}
     \name{author}{3}{}{%
       {{hash=KG}{%
@@ -6191,6 +6290,29 @@
     \field{year}{1982}
   \endentry
 
+  \entry{Lange1942}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LO}{%
+         family={Lange},
+         familyi={L\bibinitperiod},
+         given={Oscar},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LO1}
+    \strng{fullhash}{LO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1942}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{pages}{215\bibrangedash 228}
+    \field{title}{The Foundations of Welfare Economics}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1942}
+  \endentry
+
   \entry{Leibenstein1966}{article}{}
     \name{author}{1}{}{%
       {{hash=LH}{%
@@ -6295,35 +6417,6 @@
     \field{volume}{20}
     \field{journaltitle}{The Journal of Finance}
     \field{year}{1965}
-  \endentry
-
-  \entry{Robbins1932}{book}{}
-    \name{author}{1}{}{%
-      {{hash=LR}{%
-         family={Lionel},
-         familyi={L\bibinitperiod},
-         given={Robbins},
-         giveni={R\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=ML}{%
-         family={Macmillan},
-         familyi={M\bibinitperiod},
-         given={London},
-         giveni={L\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{LR1}
-    \strng{fullhash}{LR1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1932}
-    \field{labeldatesource}{}
-    \field{sortinit}{L}
-    \field{sortinithash}{L}
-    \field{title}{An Essay on the Nature and Significance of Economic Science}
-    \field{year}{1932}
   \endentry
 
   \entry{Plosser1983}{article}{}
@@ -8621,6 +8714,35 @@
     \field{year}{1920}
   \endentry
 
+  \entry{Pigou1933}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PAC}{%
+         family={Pigou},
+         familyi={P\bibinitperiod},
+         given={Arthur\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ML}{%
+         family={Macmillan},
+         familyi={M\bibinitperiod},
+         given={London},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PAC1}
+    \strng{fullhash}{PAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1933}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{The Theory of Unemployment}
+    \field{year}{1933}
+  \endentry
+
   \entry{Pigou1936}{article}{}
     \name{author}{1}{}{%
       {{hash=PAC}{%
@@ -8645,6 +8767,39 @@
     \field{volume}{3}
     \field{journaltitle}{Economica}
     \field{year}{1936}
+  \endentry
+
+  \entry{Pigou1941}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PAC}{%
+         family={Pigou},
+         familyi={P\bibinitperiod},
+         given={Arthur\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=M}{%
+         family={Macmillan},
+         familyi={M\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Co},
+         familyi={C\bibinitperiod},
+         given={London},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PAC1}
+    \strng{fullhash}{PAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1941}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Employment \& Equilibrium: A Theoretical Discussion}
+    \field{year}{1941}
   \endentry
 
   \entry{Pigou1925}{book}{}
@@ -8789,6 +8944,30 @@
     \field{year}{1995}
   \endentry
 
+  \entry{Rawls1971}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RJ}{%
+         family={Rawls},
+         familyi={R\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Belknap Press}%
+    }
+    \strng{namehash}{RJ1}
+    \strng{fullhash}{RJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1971}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{A Theory of Justice}
+    \field{year}{1971}
+  \endentry
+
   \entry{Rebelo1991}{article}{}
     \name{author}{1}{}{%
       {{hash=RS}{%
@@ -8849,6 +9028,35 @@
     \field{pages}{135\bibrangedash 157}
     \field{title}{Alfred Marshall (1842 - 1924}
     \field{year}{1989}
+  \endentry
+
+  \entry{Robbins1932}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RL}{%
+         family={Robbins},
+         familyi={R\bibinitperiod},
+         given={Lionel},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=ML}{%
+         family={Macmillan},
+         familyi={M\bibinitperiod},
+         given={London},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RL1}
+    \strng{fullhash}{RL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1932}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{An Essay on the Nature and Significance of Economic Science}
+    \field{year}{1932}
   \endentry
 
   \entry{Roberts1995}{article}{}
@@ -9370,8 +9578,8 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{RJ1}
-    \strng{fullhash}{RJ1}
+    \strng{namehash}{RJ2}
+    \strng{fullhash}{RJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1982}
@@ -9624,6 +9832,30 @@
     \field{year}{1998}
   \endentry
 
+  \entry{Samuelson1947}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SPA}{%
+         family={Samuelson},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard University Press}%
+    }
+    \strng{namehash}{SPA1}
+    \strng{fullhash}{SPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1947}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Foundations of Welfare Economics}
+    \field{year}{1947}
+  \endentry
+
   \entry{Samuelson1954}{article}{}
     \name{author}{1}{}{%
       {{hash=SPA}{%
@@ -9828,6 +10060,31 @@
     \field{sortinithash}{S}
     \field{title}{History of Economic Analysis}
     \field{year}{1954}
+  \endentry
+
+  \entry{Scitovsky1941}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ST}{%
+         family={Scitovsky},
+         familyi={S\bibinitperiod},
+         given={Tibor},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ST1}
+    \strng{fullhash}{ST1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1941}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{1}
+    \field{pages}{77\bibrangedash 88}
+    \field{title}{A Note on Welfare Propositions in Economics}
+    \field{volume}{9}
+    \field{journaltitle}{Review of Economic Studies}
+    \field{year}{1941}
   \endentry
 
   \entry{Selten1965}{article}{}
@@ -10484,6 +10741,31 @@
     \field{title}{The Influence of German Economics on the Work of Menger and
   Marshall}
     \field{year}{1990}
+  \endentry
+
+  \entry{Suzumura2016}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SK}{%
+         family={Suzumura},
+         familyi={S\bibinitperiod},
+         given={Kotaro},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SK1}
+    \strng{fullhash}{SK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{pages}{1\bibrangedash 45}
+    \field{title}{Pigou's "Old" Welfare Economics, Hicks's Farewell to
+  Welfarism, and Sen's Non-Consequentialist Economics of Well-Being and
+  Freedom}
+    \field{journaltitle}{Conference on Economic Thought of Cambridge}
+    \field{year}{2016}
   \endentry
 
   \entry{Svensson2000}{article}{}
