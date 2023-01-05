@@ -72,52 +72,52 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 60440 items.
+Reallocating 'field_info' (item size: 4) to 61420 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Warning--I didn't find a database entry for "."
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 395 entries,
+You've used 402 entries,
             6399 wiz_defined-function locations,
-            3461 strings with 58069 characters,
-and the built_in function-call counts, 2884943 in all, are:
-= -- 218868
-> -- 59675
-< -- 12372
-+ -- 80725
-- -- 31650
-* -- 212296
-:= -- 309274
+            3499 strings with 58892 characters,
+and the built_in function-call counts, 2936572 in all, are:
+= -- 223073
+> -- 60331
+< -- 12595
++ -- 81728
+- -- 31826
+* -- 216228
+:= -- 314487
 add.period$ -- 0
-call.type$ -- 395
-change.case$ -- 394
+call.type$ -- 402
+change.case$ -- 401
 chr.to.int$ -- 1119
-cite$ -- 788
-duplicate$ -- 268843
-empty$ -- 266431
-format.name$ -- 22955
-if$ -- 588709
+cite$ -- 802
+duplicate$ -- 273380
+empty$ -- 271454
+format.name$ -- 23323
+if$ -- 599707
 int.to.chr$ -- 0
-int.to.str$ -- 1231
+int.to.str$ -- 1255
 missing$ -- 0
-newline$ -- 11539
-num.names$ -- 19783
-pop$ -- 136955
+newline$ -- 11732
+num.names$ -- 20170
+pop$ -- 139356
 preamble$ -- 1
-purify$ -- 7991
+purify$ -- 8155
 quote$ -- 0
-skip$ -- 81967
+skip$ -- 83482
 stack$ -- 0
-substring$ -- 423397
-swap$ -- 60670
-text.length$ -- 10120
-text.prefix$ -- 395
+substring$ -- 431841
+swap$ -- 61714
+text.length$ -- 10274
+text.prefix$ -- 402
 top$ -- 1
-type$ -- 13418
+type$ -- 13656
 warning$ -- 0
-while$ -- 31836
+while$ -- 32346
 width$ -- 0
-write$ -- 11145
+write$ -- 11331
 (There was 1 warning)
