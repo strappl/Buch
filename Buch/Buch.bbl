@@ -1925,6 +1925,58 @@
     \field{year}{1987}
   \endentry
 
+  \entry{Black1948a}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BD}{%
+         family={Black},
+         familyi={B\bibinitperiod},
+         given={Duncan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BD2}
+    \strng{fullhash}{BD2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1948}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{23\bibrangedash 34}
+    \field{title}{On the Rationale of Group Decision Making}
+    \field{volume}{56}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1948}
+  \endentry
+
+  \entry{Black1948b}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BD}{%
+         family={Black},
+         familyi={B\bibinitperiod},
+         given={Duncan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BD2}
+    \strng{fullhash}{BD2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1948}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{3}
+    \field{pages}{245\bibrangedash 261}
+    \field{title}{The Decisions of a Committee using a Special Majority}
+    \field{volume}{16}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1948}
+  \endentry
+
   \entry{Black1992}{article}{}
     \name{author}{2}{}{%
       {{hash=BF}{%
@@ -2430,8 +2482,8 @@
          giveni={D\bibinitperiod},
       }}%
     }
-    \strng{namehash}{BD2}
-    \strng{fullhash}{BD2}
+    \strng{namehash}{BD3}
+    \strng{fullhash}{BD3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
@@ -4291,6 +4343,53 @@
     \field{volume}{9}
     \field{journaltitle}{IMF Staff Papers}
     \field{year}{1962}
+  \endentry
+
+  \entry{Fleurbaey2021}{inbook}{}
+    \name{author}{2}{}{%
+      {{hash=FM}{%
+         family={Fleurbaey},
+         familyi={F\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Salles},
+         familyi={S\bibinitperiod},
+         given={Maurice},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=FM}{%
+         family={Fleurbaey},
+         familyi={F\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Salles},
+         familyi={S\bibinitperiod},
+         given={Maurice},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer International Publishing}%
+    }
+    \strng{namehash}{FMSM1}
+    \strng{fullhash}{FMSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{Conversations on Social Choice and Welfare Theory - Vol.
+  1}
+    \field{pages}{1\bibrangedash 16}
+    \field{title}{A Brief History of Social Choice and Welfare Theory}
+    \field{year}{2021}
   \endentry
 
   \entry{Frey2003}{article}{}
@@ -10354,6 +10453,81 @@
   jetzt}
     \field{journaltitle}{Bonn Econ Discussion Papers, No. 2/2001}
     \field{year}{2001}
+  \endentry
+
+  \entry{Sen1970b}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Sen},
+         familyi={S\bibinitperiod},
+         given={Amartya},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labelyear}{1970}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{393\bibrangedash 409}
+    \field{volume}{38}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1970}
+  \endentry
+
+  \entry{Sen1970}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Sen},
+         familyi={S\bibinitperiod},
+         given={Amartya},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1970}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{1}
+    \field{pages}{152\bibrangedash 157}
+    \field{title}{The Impossibility of a Paretian Liberal}
+    \field{volume}{78}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1970}
+  \endentry
+
+  \entry{Sen1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Sen},
+         familyi={S\bibinitperiod},
+         given={Amartya},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{349\bibrangedash 378}
+    \field{title}{The Possibility of Social Choice}
+    \field{volume}{89}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1999}
   \endentry
 
   \entry{ShapiroStiglitz1984}{article}{}

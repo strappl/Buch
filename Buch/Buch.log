@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  5 JAN 2023 19:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  9 JAN 2023 16:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1078,29 +1078,29 @@ nutzenmaximierendes
  []
 
 [48] [49] [50] [51] [52] [53] [54] [55] [56]
-Overfull \hbox (44.82623pt too wide) in paragraph at lines 86--88
+Overfull \hbox (44.82623pt too wide) in paragraph at lines 87--89
 []\T1/cmr/m/n/10 Nobel-preis-REde im AER er-schie-nen! https://www.nobelprize.o
 rg/prizes/economic-
  []
 
 
-Overfull \hbox (7.39203pt too wide) in paragraph at lines 89--90
+Overfull \hbox (7.39203pt too wide) in paragraph at lines 90--91
 []\T1/cmr/m/n/10 Sen: https://www.nobelprize.org/prizes/economic-sciences/1998/
 sen/facts/ 
  []
 
-[57] [58]) [59]
+[57] [58]) [59] [60]
 \openout2 = `Kapitel_3_4.aux'.
 
- (Kapitel_3_4.tex [60
-
-
-
-
-
-]
+ (Kapitel_3_4.tex
 Kapitel 6.
-[61] [62] [63]
+[61
+
+
+
+
+
+] [62] [63]
 Overfull \hbox (3.68094pt too wide) in paragraph at lines 35--36
 \T1/cmr/m/n/10 Geld-po-li-tik näm-lich auch ei-ne geld-po-li-ti-sche Fein-ab-st
 im-mung emp-feh-len. Statt-
@@ -1473,19 +1473,19 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
  (C:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [245] [246]
-[247] [248] [249] [250] [251] [252] [253]
+[247] [248] [249] [250] [251] [252] [253] [254]
 Overfull \hbox (10.64754pt too wide) in paragraph at lines 115--115
 [][]\T1/cmr/m/n/10 Huggett, Mark (1993). ^^T  The Risk-Free Ra-te in Heterogene
 ous-Agent Incomplete-
  []
 
-[254] [255]
+[255] [256]
 Overfull \hbox (9.4879pt too wide) in paragraph at lines 115--115
 [][][]\T1/cmr/m/n/10 (1976). ^^T  Eco-no-me-tric Po-li-cy Eva-lua-ti-on: A Cri-
 ti-que^^S. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[256] [257] [258] [259] [260] [261] [262] [263] [264]
+[257] [258] [259] [260] [261] [262] [263] [264]
 Overfull \hbox (3.20612pt too wide) in paragraph at lines 115--115
 [][][]\T1/cmr/m/n/10 (1993). ^^T  Dis-creti-on ver-sus Po-li-cy Ru-les in Prac-
 ti-ce^^S. In: \T1/cmr/m/it/10 Carnegie-Rochester
@@ -1513,13 +1513,13 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26645 strings out of 475385
- 561977 string characters out of 2786718
- 1265840 words of memory out of 3000000
- 47487 multiletter control sequences out of 15000+600000
+ 26684 strings out of 475385
+ 563132 string characters out of 2786718
+ 1269765 words of memory out of 3000000
+ 47526 multiletter control sequences out of 15000+600000
  482947 words of font info for 51 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 84i,14n,80p,5919b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,14n,80p,5919b,2388s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
 t1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ecbi1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
@@ -1547,7 +1547,7 @@ eX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (278 pages, 1147210 bytes).
+Output written on Buch.pdf (278 pages, 1150875 bytes).
 PDF statistics:
  1759 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

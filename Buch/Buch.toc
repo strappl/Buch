@@ -18,9 +18,9 @@
 \contentsline {chapter}{\numberline {5}Die Neoklassik neben Keynes}{47}{}%
 \contentsline {section}{\numberline {5.1}Pigou: Die Neoklassik erfindet sich neu}{47}{}%
 \contentsline {section}{\numberline {5.2}Die moderne Wohlfahrtsökonomie}{52}{}%
-\contentsline {section}{\numberline {5.3}Die Cobb-Douglas-Produktionsfunktion}{57}{}%
-\contentsline {section}{\numberline {5.4}Solow: Technischer Fortschritt als Wachstumsquelle}{57}{}%
-\contentsline {section}{\numberline {5.5}Die Welt im Arrow-Debreu-Gleichgewicht}{58}{}%
+\contentsline {section}{\numberline {5.3}Die Cobb-Douglas-Produktionsfunktion}{58}{}%
+\contentsline {section}{\numberline {5.4}Solow: Technischer Fortschritt als Wachstumsquelle}{58}{}%
+\contentsline {section}{\numberline {5.5}Die Welt im Arrow-Debreu-Gleichgewicht}{59}{}%
 \contentsline {chapter}{\numberline {6}Der Monetarismus: Money Matters!}{61}{}%
 \contentsline {chapter}{\numberline {7}Neoklassische Finanzierungstheorie}{71}{}%
 \contentsline {section}{\numberline {7.1}Vorläufer der Finanzierungstheorie}{72}{}%
