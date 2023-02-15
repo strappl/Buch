@@ -9,10 +9,20 @@ Reallocating 'name_of_file' (item size: 1) to 10 items.
 A level-1 auxiliary file: dedic.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 A level-1 auxiliary file: pref.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: Teil_I.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_1_1.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_1_2.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_1_3.aux
 Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Teil_II.aux
 Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Kapitel_2_1.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_2_2.aux
 Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Kapitel_2_3.aux
 Reallocating 'name_of_file' (item size: 1) to 13 items.
@@ -41,10 +51,26 @@ Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Kapitel_4_5.aux
 Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Teil_IV_A.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_5_2.aux
 Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Kapitel_5_2b.aux
 Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Kapitel_5_2a.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: Teil_V.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_5_1.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Kapitel_5_1a.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: Kapitel_5_1b.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Kapitel_Neoliberal.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_5_3.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_4_6.aux
 Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Teil_VI.aux
 Reallocating 'name_of_file' (item size: 1) to 16 items.
@@ -72,52 +98,52 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 62400 items.
+Reallocating 'field_info' (item size: 4) to 66460 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Warning--I didn't find a database entry for "."
-Biblatex version: 3.16
+Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 409 entries,
-            6393 wiz_defined-function locations,
-            3534 strings with 59509 characters,
-and the built_in function-call counts, 2437904 in all, are:
-= -- 163076
-> -- 60971
-< -- 12764
-+ -- 61052
-- -- 32023
-* -- 180586
-:= -- 244867
+You've used 438 entries,
+            6399 wiz_defined-function locations,
+            3693 strings with 63041 characters,
+and the built_in function-call counts, 3181657 in all, are:
+= -- 237905
+> -- 72178
+< -- 13704
++ -- 94242
+- -- 40885
+* -- 231368
+:= -- 343603
 add.period$ -- 0
-call.type$ -- 409
-change.case$ -- 408
-chr.to.int$ -- 1119
-cite$ -- 816
-duplicate$ -- 229124
-empty$ -- 234028
-format.name$ -- 23712
-if$ -- 503955
+call.type$ -- 438
+change.case$ -- 437
+chr.to.int$ -- 1575
+cite$ -- 874
+duplicate$ -- 295806
+empty$ -- 292161
+format.name$ -- 25229
+if$ -- 644254
 int.to.chr$ -- 0
-int.to.str$ -- 1281
+int.to.str$ -- 1367
 missing$ -- 0
-newline$ -- 11930
-num.names$ -- 20501
-pop$ -- 139037
+newline$ -- 12664
+num.names$ -- 21786
+pop$ -- 151798
 preamble$ -- 1
-purify$ -- 8265
+purify$ -- 8654
 quote$ -- 0
-skip$ -- 84798
+skip$ -- 90508
 stack$ -- 0
-substring$ -- 296724
-swap$ -- 62754
-text.length$ -- 10431
-text.prefix$ -- 409
+substring$ -- 459232
+swap$ -- 67057
+text.length$ -- 11317
+text.prefix$ -- 438
 top$ -- 1
-type$ -- 13894
+type$ -- 14880
 warning$ -- 0
-while$ -- 27446
+while$ -- 35068
 width$ -- 0
-write$ -- 11522
+write$ -- 12227
 (There was 1 warning)
