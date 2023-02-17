@@ -1641,6 +1641,34 @@
     \field{year}{1789}
   \endentry
 
+  \entry{Berg2013}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VdBH}{%
+         prefix={Van\bibnamedelima den},
+         prefixi={V\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Berg},
+         familyi={B\bibinitperiod},
+         given={Hendrik},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BHVd1}
+    \strng{fullhash}{BHVd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{2\bibrangedash 23}
+    \field{title}{Growth theory after Keynes, Part I: the Unfortunate
+  Suppression of the Harrod-Domar-Model}
+    \field{volume}{7}
+    \field{journaltitle}{Journal of Philosophical Economics}
+    \field{year}{2013}
+  \endentry
+
   \entry{Bergson1938}{article}{}
     \name{author}{1}{}{%
       {{hash=BA}{%
@@ -2458,6 +2486,32 @@
     \field{title}{Issues in the Coordination of Monetary and Fiscal Policy}
     \field{journaltitle}{NBER Working Paper Series}
     \field{year}{1982}
+  \endentry
+
+  \entry{Boianovsky2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BM}{%
+         family={Boianovsky},
+         familyi={B\bibinitperiod},
+         given={Mauro},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BM3}
+    \strng{fullhash}{BM3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{477\bibrangedash 504}
+    \field{title}{Beyond Capital Fundamentalism: Harrod, Domar and the History
+  of Development Economics}
+    \field{volume}{42}
+    \field{journaltitle}{Cambridge Journal of Economics}
+    \field{year}{2018}
   \endentry
 
   \entry{Brouwer1912}{article}{}
@@ -3803,6 +3857,56 @@
     \field{volume}{67}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1977}
+  \endentry
+
+  \entry{Domar1946}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DED}{%
+         family={Domar},
+         familyi={D\bibinitperiod},
+         given={Evsey\bibnamedelima D.},
+         giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DED1}
+    \strng{fullhash}{DED1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1946}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{2}
+    \field{pages}{137\bibrangedash 147}
+    \field{title}{Capital Expansion, Rate of Growth, and Employment}
+    \field{volume}{14}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1946}
+  \endentry
+
+  \entry{Domar1947}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DED}{%
+         family={Domar},
+         familyi={D\bibinitperiod},
+         given={Evsey\bibnamedelima D.},
+         giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DED1}
+    \strng{fullhash}{DED1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1947}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1}
+    \field{pages}{34\bibrangedash 55}
+    \field{title}{Expansion and Employment}
+    \field{volume}{37}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1947}
   \endentry
 
   \entry{Douglas1976}{article}{}
@@ -5550,6 +5654,31 @@
     \field{volume}{27}
     \field{journaltitle}{The Journal of Finance}
     \field{year}{1972}
+  \endentry
+
+  \entry{Harrod1939}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HRF}{%
+         family={Harrod},
+         familyi={H\bibinitperiod},
+         given={Roy\bibnamedelima F.},
+         giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HRF1}
+    \strng{fullhash}{HRF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1939}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{193}
+    \field{pages}{14\bibrangedash 33}
+    \field{title}{An Essay in Dynamic Theory}
+    \field{volume}{49}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{1939}
   \endentry
 
   \entry{Harsanyi1994}{misc}{}
@@ -11448,6 +11577,56 @@
     \field{year}{2010}
   \endentry
 
+  \entry{Solow1956}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Solow},
+         familyi={S\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR2}
+    \strng{fullhash}{SR2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1956}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{1}
+    \field{pages}{65\bibrangedash 94}
+    \field{title}{A Contribution to the Theory of Economic Growth}
+    \field{volume}{70}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1956}
+  \endentry
+
+  \entry{Solow1957}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Solow},
+         familyi={S\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR2}
+    \strng{fullhash}{SR2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1957}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{312\bibrangedash 320}
+    \field{title}{Technical Change and the Aggregate Production Function}
+    \field{volume}{39}
+    \field{journaltitle}{The Review of Economics and Statistics}
+    \field{year}{1957}
+  \endentry
+
   \entry{Solow1980}{article}{}
     \name{author}{1}{}{%
       {{hash=SR}{%
@@ -11788,6 +11967,31 @@
     \field{volume}{90}
     \field{journaltitle}{American Economic Review}
     \field{year}{2000}
+  \endentry
+
+  \entry{Swan1956}{article}{}
+    \name{author}{1}{}{%
+      {{hash=STW}{%
+         family={Swan},
+         familyi={S\bibinitperiod},
+         given={Trevor\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{STW2}
+    \strng{fullhash}{STW2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1956}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{334\bibrangedash 361}
+    \field{title}{Economic Growth and Capital Accumulation}
+    \field{volume}{32}
+    \field{journaltitle}{Economic Record}
+    \field{year}{1956}
   \endentry
 
   \entry{Taylor1979}{article}{}

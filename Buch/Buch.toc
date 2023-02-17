@@ -119,20 +119,20 @@
 \contentsline {chapter}{\numberline {24}Post-Keynesianismus}{271}{}%
 \contentsline {section}{\numberline {24.1}Kalecki: Post-Keynesianer vor Keynes}{271}{}%
 \contentsline {section}{\numberline {24.2}Harrod \& Domar: Das erste Wachstumsmodell}{271}{}%
-\contentsline {section}{\numberline {24.3}Kaldor: Der Begründer des Post-Keynesianismus}{271}{}%
-\contentsline {section}{\numberline {24.4}Myrdal \& Sraffa}{271}{}%
-\contentsline {section}{\numberline {24.5}Linkskeynesianismus: Lernen \& Robinson}{271}{}%
-\contentsline {section}{\numberline {24.6}Minsky: Die Absurdität des Finanzmarktgleichgewichts}{272}{}%
-\contentsline {chapter}{\numberline {25}Exkurs: Behavioral Economics}{273}{}%
-\contentsline {section}{\numberline {25.1}Allais: Es begann mit einem Paradoxon}{273}{}%
-\contentsline {section}{\numberline {25.2}Kahneman und Tversky}{273}{}%
-\contentsline {section}{\numberline {25.3}Thaler}{273}{}%
-\contentsline {part}{Teil\ VII\hspace {\betweenumberspace }Was bringt die Zukunft?}{275}{}%
-\contentsline {chapter}{\numberline {26}Was lernte der Mainstream aus den Krisen}{277}{}%
-\contentsline {section}{\numberline {26.1}Rajan}{277}{}%
-\contentsline {chapter}{\numberline {27}Ungleichheit als wachsendes Problem}{279}{}%
-\contentsline {chapter}{\numberline {28}Armut als Herausforderung}{281}{}%
-\contentsline {section}{\numberline {28.1}Sen: Die Ökonomie der Wohlfahrt}{281}{}%
-\contentsline {section}{\numberline {28.2}Experimente gegen die Armut: Banerjee, Duflo \& Kremer}{281}{}%
-\contentsline {chapter}{\numberline {29}Ökonomie außerhalb der Demokratie?}{283}{}%
-\contentsline {chapter}{\numberline {30}Umweltfragen als existenzielle Fragen}{285}{}%
+\contentsline {section}{\numberline {24.3}Kaldor: Der Begründer des Post-Keynesianismus}{272}{}%
+\contentsline {section}{\numberline {24.4}Myrdal \& Sraffa}{273}{}%
+\contentsline {section}{\numberline {24.5}Linkskeynesianismus: Lernen \& Robinson}{273}{}%
+\contentsline {section}{\numberline {24.6}Minsky: Die Absurdität des Finanzmarktgleichgewichts}{273}{}%
+\contentsline {chapter}{\numberline {25}Exkurs: Behavioral Economics}{275}{}%
+\contentsline {section}{\numberline {25.1}Allais: Es begann mit einem Paradoxon}{275}{}%
+\contentsline {section}{\numberline {25.2}Kahneman und Tversky}{275}{}%
+\contentsline {section}{\numberline {25.3}Thaler}{275}{}%
+\contentsline {part}{Teil\ VII\hspace {\betweenumberspace }Was bringt die Zukunft?}{277}{}%
+\contentsline {chapter}{\numberline {26}Was lernte der Mainstream aus den Krisen}{279}{}%
+\contentsline {section}{\numberline {26.1}Rajan}{279}{}%
+\contentsline {chapter}{\numberline {27}Ungleichheit als wachsendes Problem}{281}{}%
+\contentsline {chapter}{\numberline {28}Armut als Herausforderung}{283}{}%
+\contentsline {section}{\numberline {28.1}Sen: Die Ökonomie der Wohlfahrt}{283}{}%
+\contentsline {section}{\numberline {28.2}Experimente gegen die Armut: Banerjee, Duflo \& Kremer}{283}{}%
+\contentsline {chapter}{\numberline {29}Ökonomie außerhalb der Demokratie?}{285}{}%
+\contentsline {chapter}{\numberline {30}Umweltfragen als existenzielle Fragen}{287}{}%
