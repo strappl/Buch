@@ -7154,6 +7154,62 @@
     \field{year}{1994}
   \endentry
 
+  \entry{Leontief1936}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LWW}{%
+         family={Leontief},
+         familyi={L\bibinitperiod},
+         given={Wassily\bibnamedelima W.},
+         giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LWW1}
+    \strng{fullhash}{LWW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1936}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{3}
+    \field{pages}{105\bibrangedash 125}
+    \field{title}{Quantitative Input and Output Relations in the Economic
+  Systems of the United States}
+    \field{volume}{18}
+    \field{journaltitle}{The Review of Economics and Statistics}
+    \field{year}{1936}
+  \endentry
+
+  \entry{Leontief1941}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LWW}{%
+         family={Leontief},
+         familyi={L\bibinitperiod},
+         given={Wassily\bibnamedelima W.},
+         giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PCHU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Cambridge/MA: Harvard\bibnamedelima University},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LWW1}
+    \strng{fullhash}{LWW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1941}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{The Structure of American Economy, 1919-1929}
+    \field{year}{1941}
+  \endentry
+
   \entry{Linss2017}{book}{}
     \name{author}{1}{}{%
       {{hash=LV}{%
@@ -10858,6 +10914,31 @@
     \field{year}{1954}
   \endentry
 
+  \entry{Samuelson1989}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SPA}{%
+         family={Samuelson},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SPA1}
+    \strng{fullhash}{SPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{91\bibrangedash 97}
+    \field{title}{Robert Solow: An Affectionate Portrait}
+    \field{volume}{3}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{1989}
+  \endentry
+
   \entry{Sargent1975}{article}{}
     \name{author}{1}{}{%
       {{hash=SNTJW}{%
@@ -11672,6 +11753,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1987}
+    \field{extradate}{1}
     \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
@@ -11679,6 +11761,38 @@
     \verb{url}
     \verb https://www.nobelprize.org/prizes/economic-sciences/1987/solow/lectur
     \verb e/
+    \endverb
+    \field{year}{1987}
+  \endentry
+
+  \entry{Solow1987a}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Solow},
+         familyi={S\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPB}{%
+         family={Nobel-Prize-Biographical},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR2}
+    \strng{fullhash}{SR2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Robert M. Solow - Biographical}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/1987/solow/biogra
+    \verb phical/
     \endverb
     \field{year}{1987}
   \endentry
