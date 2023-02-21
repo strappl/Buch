@@ -3821,6 +3821,37 @@
     \field{urlyear}{2022}
   \endentry
 
+  \entry{Dimand2009}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DRW}{%
+         family={Dimand},
+         familyi={D\bibinitperiod},
+         given={Robert\bibnamedelima W.},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=SBJ}{%
+         family={Spencer},
+         familyi={S\bibinitperiod},
+         given={Barbara\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DRWSBJ1}
+    \strng{fullhash}{DRWSBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1}
+    \field{pages}{107\bibrangedash 126}
+    \field{title}{Trevor Swan and the Neoclassical Growth Model}
+    \field{volume}{41}
+    \field{journaltitle}{History of Political Economy}
+    \field{year}{2009}
+  \endentry
+
   \entry{Dixit1977}{article}{}
     \name{author}{2}{}{%
       {{hash=DAK}{%
@@ -7427,21 +7458,21 @@
       {{hash=LRE}{%
          family={Lucas},
          familyi={L\bibinitperiod},
-         given={Robert\bibnamedelima E.},
+         given={Robert\bibnamedelima E},
          giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
       }}%
     }
-    \strng{namehash}{LRE2}
-    \strng{fullhash}{LRE2}
+    \strng{namehash}{LRE1}
+    \strng{fullhash}{LRE1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1990}
     \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
-    \field{number}{2}
+    \field{issue}{2}
     \field{pages}{92\bibrangedash 96}
-    \field{title}{Doesn't Capital Flow from Rich to Poor Countries?}
+    \field{title}{Why Doesn't Capital Flow from Rich to Poor Countries?}
     \field{volume}{80}
     \field{journaltitle}{American Economic Review}
     \field{year}{1990}
@@ -7490,7 +7521,10 @@
     \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
+    \field{issue}{1}
+    \field{pages}{1\bibrangedash 14}
     \field{title}{Macroeconomic Priorities}
+    \field{volume}{93}
     \field{journaltitle}{American Economic Review}
     \field{year}{2003}
   \endentry
@@ -10912,31 +10946,6 @@
     \field{volume}{36}
     \field{journaltitle}{The Review of Economics and Statistics}
     \field{year}{1954}
-  \endentry
-
-  \entry{Samuelson1989}{article}{}
-    \name{author}{1}{}{%
-      {{hash=SPA}{%
-         family={Samuelson},
-         familyi={S\bibinitperiod},
-         given={Paul\bibnamedelima A.},
-         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{SPA1}
-    \strng{fullhash}{SPA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1989}
-    \field{labeldatesource}{}
-    \field{sortinit}{S}
-    \field{sortinithash}{S}
-    \field{number}{3}
-    \field{pages}{91\bibrangedash 97}
-    \field{title}{Robert Solow: An Affectionate Portrait}
-    \field{volume}{3}
-    \field{journaltitle}{Journal of Economic Perspectives}
-    \field{year}{1989}
   \endentry
 
   \entry{Sargent1975}{article}{}
