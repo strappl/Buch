@@ -35,7 +35,7 @@
 \contentsline {section}{\numberline {9.3}Bäume, die in den Himmel wachsen: Die Neoklassische Wachstumstheorie}{67}{}%
 \contentsline {subsection}{\numberline {9.3.1}Die Cobb-Douglas-Produktionsfunktion}{69}{}%
 \contentsline {subsection}{\numberline {9.3.2}Solow: Technischer Fortschritt als Wachstumsquelle}{70}{}%
-\contentsline {section}{\numberline {9.4}Die Welt im Arrow-Debreu-Gleichgewicht}{74}{}%
+\contentsline {section}{\numberline {9.4}Die Welt im Arrow-Debreu-Gleichgewicht}{75}{}%
 \contentsline {chapter}{\numberline {10}Der Monetarismus: Money Matters!}{77}{}%
 \contentsline {chapter}{\numberline {11}Neoklassische Finanzierungstheorie}{87}{}%
 \contentsline {section}{\numberline {11.1}Vorläufer der Finanzierungstheorie}{88}{}%

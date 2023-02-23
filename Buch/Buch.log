@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  21 FEB 2023 15:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  22 FEB 2023 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1094,18 +1094,18 @@ Overfull \hbox (3.03738pt too wide) has occurred while \output is active
 stheorie []
  []
 
-[73] [74]) [75]
+[73] [74]) [75] [76]
 \openout2 = `Kapitel_3_4.aux'.
 
- (Kapitel_3_4.tex [76
-
-
-
-
-
-]
+ (Kapitel_3_4.tex
 Kapitel 10.
-[77] [78] [79]
+[77
+
+
+
+
+
+] [78] [79]
 Overfull \hbox (3.68094pt too wide) in paragraph at lines 35--36
 \T1/cmr/m/n/10 Geld-po-li-tik näm-lich auch ei-ne geld-po-li-ti-sche Fein-ab-st
 im-mung emp-feh-len. Statt-
@@ -1568,13 +1568,13 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27365 strings out of 475385
- 583233 string characters out of 2786718
- 1321454 words of memory out of 3000000
- 48116 multiletter control sequences out of 15000+600000
+ 27397 strings out of 475385
+ 584093 string characters out of 2786718
+ 1323427 words of memory out of 3000000
+ 48148 multiletter control sequences out of 15000+600000
  482947 words of font info for 51 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 84i,14n,80p,5919b,2631s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,14n,80p,5919b,2655s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
 t1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ecbi1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
@@ -1603,9 +1603,9 @@ eX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1
 ts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (331 pages, 1272997 bytes).
+Output written on Buch.pdf (331 pages, 1276026 bytes).
 PDF statistics:
- 1956 PDF objects out of 2073 (max. 8388607)
+ 1955 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

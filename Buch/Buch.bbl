@@ -2794,6 +2794,32 @@
     \field{year}{1987}
   \endentry
 
+  \entry{Cass1965}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CD}{%
+         family={Cass},
+         familyi={C\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CD2}
+    \strng{fullhash}{CD2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1965}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{233\bibrangedash 240}
+    \field{title}{Optimum Growth in an Aggregative Model of Capital
+  Accumulation}
+    \field{volume}{32}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1965}
+  \endentry
+
   \entry{Cass1983}{article}{}
     \name{author}{2}{}{%
       {{hash=CD}{%
@@ -3325,8 +3351,8 @@
          giveni={M\bibinitperiod},
       }}%
     }
-    \strng{namehash}{CD2}
-    \strng{fullhash}{CD2}
+    \strng{namehash}{CD3}
+    \strng{fullhash}{CD3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2005}
@@ -3354,8 +3380,8 @@
          giveni={M\bibinitperiod},
       }}%
     }
-    \strng{namehash}{CD2}
-    \strng{fullhash}{CD2}
+    \strng{namehash}{CD3}
+    \strng{fullhash}{CD3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2006}
@@ -3406,8 +3432,8 @@
          giveni={D\bibinitperiod},
       }}%
     }
-    \strng{namehash}{CD3}
-    \strng{fullhash}{CD3}
+    \strng{namehash}{CD4}
+    \strng{fullhash}{CD4}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
@@ -6793,6 +6819,31 @@
     \field{year}{2017}
   \endentry
 
+  \entry{Koopmans1965}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KT}{%
+         family={Koopmans},
+         familyi={K\bibinitperiod},
+         given={Tjalling},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KT1}
+    \strng{fullhash}{KT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1965}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{225\bibrangedash 287}
+    \field{title}{On the Concept of Optimal Growth, The Econometric Approach to
+  Development Planning}
+    \field{journaltitle}{Econometric Approach to Development Dlanning, 1
+  Ausgabe, North Holland, Amsterdam}
+    \field{year}{1965}
+  \endentry
+
   \entry{Kremer2018}{misc}{}
     \name{author}{1}{}{%
       {{hash=KD}{%
@@ -7357,8 +7408,8 @@
          giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
       }}%
     }
-    \strng{namehash}{LRE1}
-    \strng{fullhash}{LRE1}
+    \strng{namehash}{LRE3}
+    \strng{fullhash}{LRE3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1972}
@@ -7382,8 +7433,8 @@
          giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
       }}%
     }
-    \strng{namehash}{LRE1}
-    \strng{fullhash}{LRE1}
+    \strng{namehash}{LRE3}
+    \strng{fullhash}{LRE3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1976}
@@ -7416,8 +7467,8 @@
   B\bibinitperiod},
       }}%
     }
-    \strng{namehash}{LRE1}
-    \strng{fullhash}{LRE1}
+    \strng{namehash}{LRE3}
+    \strng{fullhash}{LRE3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1987}
@@ -7487,8 +7538,8 @@
          giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
       }}%
     }
-    \strng{namehash}{LRE2}
-    \strng{fullhash}{LRE2}
+    \strng{namehash}{LRE4}
+    \strng{fullhash}{LRE4}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1994}
@@ -7513,8 +7564,8 @@
          giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
       }}%
     }
-    \strng{namehash}{LRE1}
-    \strng{fullhash}{LRE1}
+    \strng{namehash}{LRE3}
+    \strng{fullhash}{LRE3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2003}
@@ -7719,6 +7770,31 @@
     \field{volume}{28}
     \field{journaltitle}{Journal of Economic Literature}
     \field{year}{1990}
+  \endentry
+
+  \entry{Mankiw1995}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MNG}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         given={N.\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNG1}
+    \strng{fullhash}{MNG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{275\bibrangedash 326}
+    \field{title}{The Growth of Nations}
+    \field{volume}{1995}
+    \field{journaltitle}{Brookings Papers on Economic Activity}
+    \field{year}{1995}
   \endentry
 
   \entry{Mankiw2002}{article}{}
@@ -9973,6 +10049,31 @@
     \field{volume}{85}
     \field{journaltitle}{American Economic Review}
     \field{year}{1995}
+  \endentry
+
+  \entry{Ramsey1928}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RFP}{%
+         family={Ramsey},
+         familyi={R\bibinitperiod},
+         given={Frank\bibnamedelima P.},
+         giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RFP1}
+    \strng{fullhash}{RFP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1928}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{152}
+    \field{pages}{543\bibrangedash 559}
+    \field{title}{A Mathematical Theory of Saving}
+    \field{volume}{38}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{1928}
   \endentry
 
   \entry{Rawls1971}{book}{}
