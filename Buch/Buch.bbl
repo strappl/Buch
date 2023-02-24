@@ -1611,8 +1611,8 @@
     \field{sortinithash}{B}
     \field{title}{Gary Becker - Biographical}
     \verb{url}
-    \verb hhttps://www.nobelprize.org/prizes/economic-sciences/1992/becker/biog
-    \verb raphical/
+    \verb https://www.nobelprize.org/prizes/economic-sciences/1992/becker/biogr
+    \verb aphical/
     \endverb
     \field{year}{1992}
   \endentry
@@ -3723,6 +3723,37 @@
     \field{year}{1952}
   \endentry
 
+  \entry{Debreu1983}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DG}{%
+         family={Debreu},
+         familyi={D\bibinitperiod},
+         given={Gerard},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPB}{%
+         family={Nobel-Prize-Biographical},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DG1}
+    \strng{fullhash}{DG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Gerard Debreu - Biographical}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/1983/debreu/biogr
+    \verb aphical/
+    \endverb
+    \field{year}{1983}
+  \endentry
+
   \entry{DelNegro2015}{article}{}
     \name{author}{3}{}{%
       {{hash=DNM}{%
@@ -5628,6 +5659,35 @@
     \field{year}{2023}
   \endentry
 
+  \entry{Cassel1918}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GC}{%
+         family={Gustav},
+         familyi={G\bibinitperiod},
+         given={Cassel},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=DLA}{%
+         family={Deichert},
+         familyi={D\bibinitperiod},
+         given={Leipzig:\bibnamedelima A.},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GC1}
+    \strng{fullhash}{GC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1918}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Theoretische Sozialökonomie}
+    \field{year}{1918}
+  \endentry
+
   \entry{Hall2008}{article}{}
     \name{author}{2}{}{%
       {{hash=HRE}{%
@@ -7049,6 +7109,38 @@
     \field{volume}{129}
     \field{journaltitle}{Schmollers Jahrbuch}
     \field{year}{2009}
+  \endentry
+
+  \entry{Kurz1993}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KHD}{%
+         family={Kurz},
+         familyi={K\bibinitperiod},
+         given={Heinz\bibnamedelima D.},
+         giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Neri},
+         familyi={N\bibinitperiod},
+         given={Salvadori},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KHDNS1}
+    \strng{fullhash}{KHDNS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{1}
+    \field{pages}{129\bibrangedash 160}
+    \field{title}{Von Neumann's growth model and the "classical" tradition}
+    \field{volume}{1}
+    \field{journaltitle}{The European Journal of the History of Economic
+  Thougth}
+    \field{year}{1993}
   \endentry
 
   \entry{Kydland1977}{article}{}
@@ -9019,6 +9111,66 @@
     \field{year}{2020}
   \endentry
 
+  \entry{Neumann1937}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=NJv}{%
+         family={Neumann},
+         familyi={N\bibinitperiod},
+         given={John\bibnamedelima von},
+         giveni={J\bibinitperiod\bibinitdelim v\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MK}{%
+         family={Menger},
+         familyi={M\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Leipzig und Wien: Franz Deuticke}%
+    }
+    \strng{namehash}{NJv1}
+    \strng{fullhash}{NJv1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{booktitle}{Ergebnisse eines mathematischen Kolloquiums, Heft 8}
+    \field{pages}{73\bibrangedash 83}
+    \field{title}{Über ein ökonomisches Gleichungssystem und eine
+  Verallgemeinerung des Brouwerschen Fixpunksatzes}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+  \endentry
+
+  \entry{Neumann1945}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NJv}{%
+         family={Neumann},
+         familyi={N\bibinitperiod},
+         given={John\bibnamedelima von},
+         giveni={J\bibinitperiod\bibinitdelim v\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NJv1}
+    \strng{fullhash}{NJv1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1945}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 9}
+    \field{title}{A Model of General Economic Equilibrium}
+    \field{volume}{13}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1945}
+  \endentry
+
   \entry{VonNeumann1928}{article}{}
     \name{author}{1}{}{%
       {{hash=vNJ}{%
@@ -9030,8 +9182,8 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{NJv1}
-    \strng{fullhash}{NJv1}
+    \strng{namehash}{NJv2}
+    \strng{fullhash}{NJv2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1928}
@@ -11106,6 +11258,40 @@
     \field{year}{1960}
   \endentry
 
+  \entry{Schlesinger1934}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SK}{%
+         family={Schlesinger},
+         familyi={S\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MK}{%
+         family={Menger},
+         familyi={M\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Leipzig und Wien: Franz Deuticke}%
+    }
+    \strng{namehash}{SK1}
+    \strng{fullhash}{SK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Ergebnisse eines mathematischen Kolloquiums, Heft 6}
+    \field{pages}{10\bibrangedash 11}
+    \field{title}{Über die Produktionsgleichungen der ökonomischen Wertlehre}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+  \endentry
+
   \entry{Scholes1997}{misc}{}
     \name{author}{1}{}{%
       {{hash=SMS}{%
@@ -12150,8 +12336,8 @@
          giveni={K\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SK1}
-    \strng{fullhash}{SK1}
+    \strng{namehash}{SK2}
+    \strng{fullhash}{SK2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
@@ -12718,6 +12904,78 @@
     \field{year}{1944[1953]}
   \endentry
 
+  \entry{Wald1935}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=WA}{%
+         family={Wald},
+         familyi={W\bibinitperiod},
+         given={Abraham},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MK}{%
+         family={Menger},
+         familyi={M\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Leipzig und Wien: Franz Deuticke}%
+    }
+    \strng{namehash}{WA1}
+    \strng{fullhash}{WA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{extradate}{1}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{Ergebnisse eines mathematischen Kolloquiums, Heft 7}
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{Über die Produktionsgleichungen der ökonomischen Wertlehre
+  (II)}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+  \endentry
+
+  \entry{Wald1934}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=WA}{%
+         family={Wald},
+         familyi={W\bibinitperiod},
+         given={Abraham},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MK}{%
+         family={Menger},
+         familyi={M\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Leipzig und Wien: Franz Deuticke}%
+    }
+    \strng{namehash}{WA1}
+    \strng{fullhash}{WA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{extradate}{2}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{Ergebnisse eines mathematischen Kolloquiums, Heft 6}
+    \field{pages}{12\bibrangedash 18}
+    \field{title}{Über die eindeutige positive Lösbarkeit der neuen
+  Produktionsgleichungen (I)}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+  \endentry
+
   \entry{Mundell2006}{article}{}
     \name{author}{1}{}{%
       {{hash=WL}{%
@@ -12872,6 +13130,31 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Weintraub1983}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WER}{%
+         family={Weintraub},
+         familyi={W\bibinitperiod},
+         given={E\bibnamedelima Roy},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WER1}
+    \strng{fullhash}{WER1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 39}
+    \field{title}{On the Existence of a Competitive Equilibrium: 1930-1954}
+    \field{volume}{21}
+    \field{journaltitle}{Journal of Economic Literature}
+    \field{year}{1983}
+  \endentry
+
   \entry{Weiss1980}{article}{}
     \name{author}{1}{}{%
       {{hash=WA}{%
@@ -12881,8 +13164,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{WA1}
-    \strng{fullhash}{WA1}
+    \strng{namehash}{WA2}
+    \strng{fullhash}{WA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1980}
@@ -12996,8 +13279,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{WA2}
-    \strng{fullhash}{WA2}
+    \strng{namehash}{WA3}
+    \strng{fullhash}{WA3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
