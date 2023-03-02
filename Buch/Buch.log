@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  24 FEB 2023 19:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  2 MAR 2023 19:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -898,6 +898,11 @@ Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                - Invalid format of field 'date' 
 (biblatex)                - Invalid format of field 'date'.
 
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Weintraub2011':
+(biblatex)                - Invalid format of field 'month'.
+
 )
 Package biblatex Info: Reference section=0 on input line 44.
 Package biblatex Info: Reference segment=0 on input line 44.
@@ -1118,18 +1123,18 @@ Overfull \hbox (3.03738pt too wide) has occurred while \output is active
 stheorie []
  []
 
-[73] [74] [75] [76]) [77]
+[73] [74] [75] [76] [77]) [78]
 \openout2 = `Kapitel_3_4.aux'.
 
- (Kapitel_3_4.tex [78
-
-
-
-
-
-]
+ (Kapitel_3_4.tex
 Kapitel 10.
-[79] [80] [81]
+[79
+
+
+
+
+
+] [80] [81]
 Overfull \hbox (3.68094pt too wide) in paragraph at lines 35--36
 \T1/cmr/m/n/10 Geld-po-li-tik näm-lich auch ei-ne geld-po-li-ti-sche Fein-ab-st
 im-mung emp-feh-len. Statt-
@@ -1554,27 +1559,21 @@ Overfull \hbox (9.4879pt too wide) in paragraph at lines 115--115
 ti-que^^S. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-
+[308]
 Overfull \hbox (9.66925pt too wide) in paragraph at lines 115--115
 \T1/cmtt/m/n/10 20211102093357 / http % 3A % 2F % 2Fwww . ggdc . net % 2Fmaddis
 on % 2Foriindex .
  []
 
-[308] [309] [310] [311] [312] [313] [314] [315] [316]
+[309] [310] [311] [312] [313] [314] [315] [316]
 Overfull \hbox (9.8573pt too wide) in paragraph at lines 115--115
 [][][]\T1/cmr/m/n/10 (1987b). \T1/cmr/m/it/10 Ro-bert M. So-low - Bio-gra-phi-c
 al\T1/cmr/m/n/10 . Hrsg. von Nobel-Prize-Biographical.
  []
 
-
-Overfull \hbox (3.20612pt too wide) in paragraph at lines 115--115
-[][][]\T1/cmr/m/n/10 (1993). ^^T  Dis-creti-on ver-sus Po-li-cy Ru-les in Prac-
-ti-ce^^S. In: \T1/cmr/m/it/10 Carnegie-Rochester
- []
-
-[317] [318]
+[317] [318] [319]
 No file Buch.ind.
-[319] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[320] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_2_4.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux)
@@ -1592,13 +1591,13 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27469 strings out of 475385
- 586049 string characters out of 2786718
- 1328626 words of memory out of 3000000
- 48220 multiletter control sequences out of 15000+600000
+ 27510 strings out of 475385
+ 587165 string characters out of 2786718
+ 1331179 words of memory out of 3000000
+ 48261 multiletter control sequences out of 15000+600000
  482947 words of font info for 51 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 84i,14n,80p,5919b,2706s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,14n,80p,5919b,2737s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
 t1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ecbi1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
@@ -1627,9 +1626,9 @@ eX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1
 ts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (333 pages, 1283435 bytes).
+Output written on Buch.pdf (334 pages, 1288623 bytes).
 PDF statistics:
- 1961 PDF objects out of 2073 (max. 8388607)
+ 1966 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

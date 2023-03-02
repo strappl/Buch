@@ -665,6 +665,37 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Arrow1954}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AKJ}{%
+         family={Arrow},
+         familyi={A\bibinitperiod},
+         given={Kenneth\bibnamedelima J},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Debreu},
+         familyi={D\bibinitperiod},
+         given={Gerard},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AKJDG1}
+    \strng{fullhash}{AKJDG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1954}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{265\bibrangedash 290}
+    \field{title}{Existence of an Equilibrium for a Competitive Economy}
+    \field{volume}{22}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1954}
+  \endentry
+
   \entry{Atkinson2011}{article}{}
     \name{author}{1}{}{%
       {{hash=AAB}{%
@@ -3723,7 +3754,32 @@
     \field{year}{1952}
   \endentry
 
-  \entry{Debreu1983}{misc}{}
+  \entry{Debreu1959}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DG}{%
+         family={Debreu},
+         familyi={D\bibinitperiod},
+         given={Gerard},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {New Haven}%
+      {London: Yale University Press}%
+    }
+    \strng{namehash}{DG1}
+    \strng{fullhash}{DG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1959}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{The Theory of Value}
+    \field{year}{1959}
+  \endentry
+
+  \entry{Debreu1983b}{misc}{}
     \name{author}{1}{}{%
       {{hash=DG}{%
          family={Debreu},
@@ -3733,25 +3789,24 @@
       }}%
     }
     \name{editor}{1}{}{%
-      {{hash=NPB}{%
-         family={Nobel-Prize-Biographical},
-         familyi={N\bibinithyphendelim P\bibinithyphendelim B\bibinitperiod},
+      {{hash=NPL}{%
+         family={Nobel-Prize-Lecture},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim L\bibinitperiod},
       }}%
     }
     \strng{namehash}{DG1}
     \strng{fullhash}{DG1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{1983}
+    \field{labelyear}{1982}
     \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
-    \field{title}{Gerard Debreu - Biographical}
+    \field{title}{Economic Theory in the Mathematical Mode}
     \verb{url}
-    \verb https://www.nobelprize.org/prizes/economic-sciences/1983/debreu/biogr
-    \verb aphical/
+    \verb https://www.nobelprize.org/uploads/2018/06/debreu-lecture.pdf
     \endverb
-    \field{year}{1983}
+    \field{year}{1982}
   \endentry
 
   \entry{DelNegro2015}{article}{}
@@ -6569,6 +6624,28 @@
     \field{year}{1995}
   \endentry
 
+  \entry{Kakutani1941}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KS}{%
+         family={Kakutani},
+         familyi={K\bibinitperiod},
+         given={Shizuo},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KS1}
+    \strng{fullhash}{KS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1941}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{A Generalization of Brouwer’s Fixed Point Theorem}
+    \field{journaltitle}{Duke Mathematical Journal}
+    \field{year}{1941}
+  \endentry
+
   \entry{Kaldor1939}{article}{}
     \name{author}{1}{}{%
       {{hash=KN}{%
@@ -6867,8 +6944,8 @@
          giveni={O\bibinitperiod},
       }}%
     }
-    \strng{namehash}{KS1}
-    \strng{fullhash}{KS1}
+    \strng{namehash}{KS2}
+    \strng{fullhash}{KS2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
@@ -8218,6 +8295,32 @@
     \field{volume}{106}
     \field{journaltitle}{American Economic Review}
     \field{year}{2016}
+  \endentry
+
+  \entry{McKenzie1954}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ML}{%
+         family={McKenzie},
+         familyi={M\bibinitperiod},
+         given={Lionel},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML1}
+    \strng{fullhash}{ML1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1954}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{147\bibrangedash 161}
+    \field{title}{On Equilibrium in Graham's Model of World Trade and other
+  Competitive Systems}
+    \field{volume}{22}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1954}
   \endentry
 
   \entry{McCallum1999}{article}{}
@@ -13153,6 +13256,33 @@
     \field{volume}{21}
     \field{journaltitle}{Journal of Economic Literature}
     \field{year}{1983}
+  \endentry
+
+  \entry{Weintraub2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WER}{%
+         family={Weintraub},
+         familyi={W\bibinitperiod},
+         given={E.\bibnamedelima Roy},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WER2}
+    \strng{fullhash}{WER2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{2}
+    \field{pages}{199\bibrangedash 215}
+    \field{title}{Retrospectives: Lionel W. McKenzie and the Proof of the
+  Existence of a Competitive Equilibrium}
+    \field{volume}{25}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Weiss1980}{article}{}
