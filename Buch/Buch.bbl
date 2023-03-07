@@ -3754,6 +3754,30 @@
     \field{year}{1952}
   \endentry
 
+  \entry{Debreu1952}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DG}{%
+         family={Debreu},
+         familyi={D\bibinitperiod},
+         given={Gerard},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DG1}
+    \strng{fullhash}{DG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1952}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{pages}{886\bibrangedash 893}
+    \field{title}{A Social Equilibrium Existence Theorem}
+    \field{volume}{38}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{1952}
+  \endentry
+
   \entry{Debreu1959}{book}{}
     \name{author}{1}{}{%
       {{hash=DG}{%
@@ -6050,6 +6074,30 @@
     \field{year}{1934}
   \endentry
 
+  \entry{Hicks1939}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HJR}{%
+         family={Hicks},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford: Clarendon Press}%
+    }
+    \strng{namehash}{HJR1}
+    \strng{fullhash}{HJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1939}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Value and Capital}
+    \field{year}{1939}
+  \endentry
+
   \entry{Hicks1940}{article}{}
     \name{author}{1}{}{%
       {{hash=HJR}{%
@@ -6641,7 +6689,9 @@
     \field{labeldatesource}{}
     \field{sortinit}{K}
     \field{sortinithash}{K}
+    \field{pages}{457\bibrangedash 459}
     \field{title}{A Generalization of Brouwer’s Fixed Point Theorem}
+    \field{volume}{8}
     \field{journaltitle}{Duke Mathematical Journal}
     \field{year}{1941}
   \endentry
@@ -8754,6 +8804,31 @@
     \field{year}{1989}
   \endentry
 
+  \entry{Morgenstern1941}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MO}{%
+         family={Morgenstern},
+         familyi={M\bibinitperiod},
+         given={Oskar},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MO1}
+    \strng{fullhash}{MO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1941}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{361\bibrangedash 393}
+    \field{title}{Professor Hicks on value and capital}
+    \field{volume}{49}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1941}
+  \endentry
+
   \entry{Morgenstern1976}{article}{}
     \name{author}{1}{}{%
       {{hash=MO}{%
@@ -9238,15 +9313,15 @@
     \strng{fullhash}{NJv1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
+    \field{labelyear}{1935--1936}
+    \field{labeldatesource}{}
     \field{sortinit}{N}
     \field{sortinithash}{N}
     \field{booktitle}{Ergebnisse eines mathematischen Kolloquiums, Heft 8}
     \field{pages}{73\bibrangedash 83}
     \field{title}{Über ein ökonomisches Gleichungssystem und eine
   Verallgemeinerung des Brouwerschen Fixpunksatzes}
-    \warn{\item Invalid format of field 'date' \item Invalid format of field
-  'date'}
+    \field{year}{1935--1936}
   \endentry
 
   \entry{Neumann1945}{article}{}
@@ -11385,14 +11460,14 @@
     \strng{fullhash}{SK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
+    \field{labelyear}{1933--34}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{booktitle}{Ergebnisse eines mathematischen Kolloquiums, Heft 6}
     \field{pages}{10\bibrangedash 11}
     \field{title}{Über die Produktionsgleichungen der ökonomischen Wertlehre}
-    \warn{\item Invalid format of field 'date' \item Invalid format of field
-  'date'}
+    \field{year}{1933--34}
   \endentry
 
   \entry{Scholes1997}{misc}{}
@@ -13007,42 +13082,6 @@
     \field{year}{1944[1953]}
   \endentry
 
-  \entry{Wald1935}{incollection}{}
-    \name{author}{1}{}{%
-      {{hash=WA}{%
-         family={Wald},
-         familyi={W\bibinitperiod},
-         given={Abraham},
-         giveni={A\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=MK}{%
-         family={Menger},
-         familyi={M\bibinitperiod},
-         given={Karl},
-         giveni={K\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Leipzig und Wien: Franz Deuticke}%
-    }
-    \strng{namehash}{WA1}
-    \strng{fullhash}{WA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{extradate}{1}
-    \field{labeldatesource}{nodate}
-    \field{sortinit}{W}
-    \field{sortinithash}{W}
-    \field{booktitle}{Ergebnisse eines mathematischen Kolloquiums, Heft 7}
-    \field{pages}{1\bibrangedash 6}
-    \field{title}{Über die Produktionsgleichungen der ökonomischen Wertlehre
-  (II)}
-    \warn{\item Invalid format of field 'date' \item Invalid format of field
-  'date'}
-  \endentry
-
   \entry{Wald1934}{incollection}{}
     \name{author}{1}{}{%
       {{hash=WA}{%
@@ -13067,16 +13106,50 @@
     \strng{fullhash}{WA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{extradate}{2}
-    \field{labeldatesource}{nodate}
+    \field{labelyear}{1933-34}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \field{booktitle}{Ergebnisse eines mathematischen Kolloquiums, Heft 6}
     \field{pages}{12\bibrangedash 18}
     \field{title}{Über die eindeutige positive Lösbarkeit der neuen
   Produktionsgleichungen (I)}
-    \warn{\item Invalid format of field 'date' \item Invalid format of field
-  'date'}
+    \field{year}{1933-34}
+  \endentry
+
+  \entry{Wald1935}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=WA}{%
+         family={Wald},
+         familyi={W\bibinitperiod},
+         given={Abraham},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MK}{%
+         family={Menger},
+         familyi={M\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Leipzig und Wien: Franz Deuticke}%
+    }
+    \strng{namehash}{WA1}
+    \strng{fullhash}{WA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1934--35}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{Ergebnisse eines mathematischen Kolloquiums, Heft 7}
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{Über die Produktionsgleichungen der ökonomischen Wertlehre
+  (II)}
+    \field{year}{1934--35}
   \endentry
 
   \entry{Mundell2006}{article}{}
@@ -13282,7 +13355,6 @@
     \field{volume}{25}
     \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{2011}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Weiss1980}{article}{}

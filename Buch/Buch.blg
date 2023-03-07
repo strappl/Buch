@@ -98,57 +98,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 70520 items.
+Reallocating 'field_info' (item size: 4) to 70940 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
-I was expecting a `,' or a `}'---line 9529 of file Literatur.bib
- :  
- :  volume = {8},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Biblatex version: 3.18
 Reallocating 'str_pool' (item size: 1) to 130000 items.
+Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 468 entries,
+You've used 471 entries,
             6399 wiz_defined-function locations,
-            3857 strings with 66602 characters,
-and the built_in function-call counts, 3378193 in all, are:
-= -- 251543
-> -- 77884
-< -- 14630
-+ -- 100787
-- -- 44357
-* -- 244903
-:= -- 364596
+            3870 strings with 66851 characters,
+and the built_in function-call counts, 3381022 in all, are:
+= -- 252431
+> -- 75751
+< -- 14631
++ -- 98837
+- -- 42235
+* -- 245807
+:= -- 363492
 add.period$ -- 0
-call.type$ -- 468
-change.case$ -- 467
-chr.to.int$ -- 1756
-cite$ -- 934
-duplicate$ -- 314588
-empty$ -- 310113
-format.name$ -- 26869
-if$ -- 683509
+call.type$ -- 471
+change.case$ -- 470
+chr.to.int$ -- 1599
+cite$ -- 940
+duplicate$ -- 315752
+empty$ -- 311324
+format.name$ -- 27029
+if$ -- 686134
 int.to.chr$ -- 0
-int.to.str$ -- 1476
+int.to.str$ -- 1488
 missing$ -- 0
-newline$ -- 13488
-num.names$ -- 23311
-pop$ -- 162098
+newline$ -- 13564
+num.names$ -- 23477
+pop$ -- 163007
 preamble$ -- 1
-purify$ -- 9214
+purify$ -- 9280
 quote$ -- 0
-skip$ -- 96655
+skip$ -- 97171
 stack$ -- 0
-substring$ -- 484236
-swap$ -- 71617
-text.length$ -- 12061
-text.prefix$ -- 468
+substring$ -- 485300
+swap$ -- 71900
+text.length$ -- 12069
+text.prefix$ -- 471
 top$ -- 1
-type$ -- 15900
+type$ -- 16002
 warning$ -- 0
-while$ -- 37242
+while$ -- 37294
 width$ -- 0
-write$ -- 13021
-(There was 1 error message)
+write$ -- 13094
