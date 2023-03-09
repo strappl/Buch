@@ -988,6 +988,34 @@
     \field{year}{1900}
   \endentry
 
+  \entry{Bachinger2005}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BHKuM}{%
+         family={Bachinger},
+         familyi={B\bibinitperiod},
+         suffix={Karl und\bibnamedelima Matis},
+         suffixi={K\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+         given={Herbert},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wien}%
+    }
+    \strng{namehash}{BKuMH1}
+    \strng{fullhash}{BKuMH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Konzeptionen der Sozioökonomischen Entwicklung, Teil 1, 3.
+  Auflage}
+    \field{year}{2005}
+  \endentry
+
   \entry{Ball1990}{article}{}
     \name{author}{2}{}{%
       {{hash=BL}{%
@@ -6403,6 +6431,40 @@
     \field{year}{1973}
   \endentry
 
+  \entry{Hauser1989}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=HK}{%
+         family={Häuser},
+         familyi={H\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=JS}{%
+         family={Joachim},
+         familyi={J\bibinitperiod},
+         given={Starbatty},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {München: Nikol-Verlag}%
+    }
+    \strng{namehash}{HK2}
+    \strng{fullhash}{HK2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{Klassiker des Ökonomischen Denkens, Teil 1}
+    \field{pages}{225\bibrangedash 244}
+    \field{title}{Friedrich List (1789-1846)}
+    \field{year}{1989}
+  \endentry
+
   \entry{Ikeda2000}{article}{}
     \name{author}{1}{}{%
       {{hash=IY}{%
@@ -7585,6 +7647,54 @@
     \field{sortinithash}{L}
     \field{title}{The Good Society}
     \field{year}{1937}
+  \endentry
+
+  \entry{List1840}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LF}{%
+         family={List},
+         familyi={L\bibinitperiod},
+         given={Friedrich},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Basel, Tübingen}%
+    }
+    \strng{namehash}{LF1}
+    \strng{fullhash}{LF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1840 (1927)}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Das natürliche System der politischen Oekonomie}
+    \field{year}{1840 (1927)}
+  \endentry
+
+  \entry{List1841}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LF}{%
+         family={List},
+         familyi={L\bibinitperiod},
+         given={Friedrich},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Tübingen, J. G. Cotta'scher Verlag}%
+    }
+    \strng{namehash}{LF1}
+    \strng{fullhash}{LF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1841}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Das nationale System der politischen Oekonomie}
+    \field{year}{1841}
   \endentry
 
   \entry{Plosser1983}{article}{}
@@ -10488,7 +10598,7 @@
     \field{sortinithash}{R}
     \field{booktitle}{Klassiker des Ökonomischen Denkens, Teil 2}
     \field{pages}{135\bibrangedash 157}
-    \field{title}{Alfred Marshall (1842 - 1924}
+    \field{title}{Alfred Marshall (1842 - 1924)}
     \field{year}{1989}
   \endentry
 
