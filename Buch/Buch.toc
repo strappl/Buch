@@ -19,7 +19,7 @@
 \contentsline {chapter}{\numberline {5}Auf dem Historikerweg}{27}{}%
 \contentsline {section}{\numberline {5.1}Vorläufer der Historischen Schule}{28}{}%
 \contentsline {section}{\numberline {5.2}Ältere Historische Schule}{31}{}%
-\contentsline {section}{\numberline {5.3}Jüngere Historische Schule}{31}{}%
+\contentsline {section}{\numberline {5.3}Jüngere Historische Schule}{32}{}%
 \contentsline {chapter}{\numberline {6}Die Vollendung der Ökonomie?}{33}{}%
 \contentsline {section}{\numberline {6.1}Marshall: Der Beginn der modernen Ökonomie}{33}{}%
 \contentsline {section}{\numberline {6.2}Edgeworth und Pareto: Die Lösung des Nutzenproblems, die bis heute hinkt}{38}{}%

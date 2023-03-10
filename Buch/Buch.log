@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  9 MAR 2023 15:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  10 MAR 2023 13:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -992,18 +992,18 @@ Kapitel 5.
 
 
 
-] [28] [29] [30]) [31]
+] [28] [29] [30] [31]) [32]
 \openout2 = `Kapitel_2_3.aux'.
 
- (Kapitel_2_3.tex [32
-
-
-
-
-
-]
+ (Kapitel_2_3.tex
 Kapitel 6.
-[33] [34] [35] [36] [37] [38]
+[33
+
+
+
+
+
+] [34] [35] [36] [37] [38]
 Overfull \hbox (11.9651pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 6.2 Edgeworth und Pareto: Die Lösung des Nutzenproblems, die bis
  heute hinkt []
@@ -1563,22 +1563,18 @@ No file Buch.ind.
 (Kapitel_5_1a.aux) (Kapitel_5_1b.aux) (Kapitel_Neoliberal.aux) (Kapitel_5_3.aux
 ) (Kapitel_4_6.aux) (Teil_VI.aux) (Kapitel_6_2.aux) (Kapitel_6_3.aux)
 (Kapitel_6_4.aux) (Kapitel_6_6.aux) (Kapitel_6_7.aux))
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27584 strings out of 475385
- 588931 string characters out of 2786718
- 1335783 words of memory out of 3000000
- 48336 multiletter control sequences out of 15000+600000
+ 27585 strings out of 475385
+ 588944 string characters out of 2786718
+ 1335816 words of memory out of 3000000
+ 48337 multiletter control sequences out of 15000+600000
  482171 words of font info for 50 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 84i,14n,80p,5919b,2797s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,14n,80p,5919b,2798s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
 t1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ecbi1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
@@ -1606,7 +1602,7 @@ s/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public
 mr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (340 pages, 1308629 bytes).
+Output written on Buch.pdf (340 pages, 1311153 bytes).
 PDF statistics:
  1982 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
