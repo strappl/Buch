@@ -1016,6 +1016,31 @@
     \field{year}{2005}
   \endentry
 
+  \entry{Balabkins1993}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BNW}{%
+         family={Balabkins},
+         familyi={B\bibinitperiod},
+         given={Nicholas\bibnamedelima W.},
+         giveni={N\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BNW1}
+    \strng{fullhash}{BNW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{3/1}
+    \field{pages}{27\bibrangedash 42}
+    \field{title}{Gustav Schmoller and the Emergence of Welfare Capitalism}
+    \field{volume}{1/2}
+    \field{journaltitle}{History of Economic Ideas}
+    \field{year}{1993}
+  \endentry
+
   \entry{Ball1990}{article}{}
     \name{author}{2}{}{%
       {{hash=BL}{%
@@ -6218,6 +6243,30 @@
     \field{year}{1934}
   \endentry
 
+  \entry{Hildebrand1948}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HB}{%
+         family={Hildebrand},
+         familyi={H\bibinitperiod},
+         given={Bruno},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Frankfurt am Main: Literarische Anstalt J. Rütten}%
+    }
+    \strng{namehash}{HB1}
+    \strng{fullhash}{HB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1848}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Die Nationalökonomie der Gegenwart und Zukunft}
+    \field{year}{1848}
+  \endentry
+
   \entry{Holler2005}{book}{}
     \name{author}{2}{}{%
       {{hash=HMJ}{%
@@ -10431,6 +10480,33 @@
     \field{year}{2000}
   \endentry
 
+  \entry{Plumpe1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PW}{%
+         family={Plumpe},
+         familyi={P\bibinitperiod},
+         given={Werner},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PW1}
+    \strng{fullhash}{PW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{2}
+    \field{pages}{252\bibrangedash 275}
+    \field{title}{Gustav von Schmoller und der Institutionalismus: Zur
+  Bedeutung der historischen Schule der Nationalökonomie für die moderne
+  Wirtschaftsgeschichtsschreibung}
+    \field{volume}{25}
+    \field{journaltitle}{Geschichte und Gesellschaft}
+    \field{year}{1999}
+  \endentry
+
   \entry{Pratt1964}{article}{}
     \name{author}{1}{}{%
       {{hash=PJW}{%
@@ -10947,6 +11023,55 @@
     \verb e/
     \endverb
     \field{year}{2018}
+  \endentry
+
+  \entry{Roscher1843}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RW}{%
+         family={Roscher},
+         familyi={R\bibinitperiod},
+         given={Wilhelm},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Druck und Verlag der Dieterichschen Buchhandlung}%
+    }
+    \strng{namehash}{RW1}
+    \strng{fullhash}{RW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1843}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Grundriss zu Vorlesungen über die Staatswirthschaft: Nach
+  geschichtlicher Methode}
+    \field{year}{1843}
+  \endentry
+
+  \entry{Roscher1854}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RW}{%
+         family={Roscher},
+         familyi={R\bibinitperiod},
+         given={Wilhelm},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Stuttgart: Verlag der J. G. Cotta'schen Buchhandlung}%
+    }
+    \strng{namehash}{RW1}
+    \strng{fullhash}{RW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1854--1894}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{System der Volkswirthschaft, 5 Bände}
+    \field{year}{1854--1894}
   \endentry
 
   \entry{Rosner2012}{book}{}
@@ -13676,6 +13801,32 @@
     \field{volume}{44}
     \field{journaltitle}{Review of Economic Studies}
     \field{year}{1977}
+  \endentry
+
+  \entry{Wischermann1993}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WC}{%
+         family={Wischermann},
+         familyi={W\bibinitperiod},
+         given={Clemens},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WC1}
+    \strng{fullhash}{WC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{2}
+    \field{pages}{239\bibrangedash 258}
+    \field{title}{Der Property–Rights–Ansatz und die "neue"
+  Wirtschaftsgeschichte}
+    \field{volume}{19}
+    \field{journaltitle}{Geschichte und Gesellschaft}
+    \field{year}{1993}
   \endentry
 
   \entry{Woodford1990b}{article}{}
