@@ -2737,6 +2737,32 @@
     \field{year}{1889}
   \endentry
 
+  \entry{Caldwell2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CBJ}{%
+         family={Caldwell},
+         familyi={C\bibinitperiod},
+         given={Bruce\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CBJ1}
+    \strng{fullhash}{CBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{649\bibrangedash 654}
+    \field{title}{There Really Was a German Historical School of Economics: A
+  Comment on Heath Pearson}
+    \field{volume}{33}
+    \field{journaltitle}{History of Political Economy}
+    \field{year}{2001}
+  \endentry
+
   \entry{Calvo1983}{article}{}
     \name{author}{1}{}{%
       {{hash=CGA}{%
@@ -8387,6 +8413,31 @@
     \field{year}{1890}
   \endentry
 
+  \entry{Marx1962}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MKuEF}{%
+         family={Marx},
+         familyi={M\bibinitperiod},
+         given={Karl und Engels\bibnamedelima Friedrich},
+         giveni={K\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim
+  E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Berlin: Karl Dietz Verlag, Band 19}%
+    }
+    \strng{namehash}{MKuEF1}
+    \strng{fullhash}{MKuEF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Werke}
+    \field{year}{1962}
+  \endentry
+
   \entry{Maslow1943}{article}{}
     \name{author}{1}{}{%
       {{hash=MA}{%
@@ -9924,6 +9975,31 @@
     \field{year}{1968}
   \endentry
 
+  \entry{Pearson1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PH}{%
+         family={Pearson},
+         familyi={P\bibinitperiod},
+         given={Heath},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PH1}
+    \strng{fullhash}{PH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{3}
+    \field{pages}{547\bibrangedash 562}
+    \field{title}{Was There Really a German Historical School of Economics?}
+    \field{volume}{31}
+    \field{journaltitle}{History of Political Economy}
+    \field{year}{1999}
+  \endentry
+
   \entry{Persky1992}{article}{}
     \name{author}{1}{}{%
       {{hash=PJ}{%
@@ -10642,6 +10718,34 @@
     \field{journaltitle}{Journal of Political Economy}
     \field{month}{06}
     \field{year}{1991}
+  \endentry
+
+  \entry{Richter1996}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RR}{%
+         family={Richter},
+         familyi={R\bibinitperiod},
+         given={Rudolf},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RR1}
+    \strng{fullhash}{RR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{4}
+    \field{pages}{567\bibrangedash 592}
+    \field{title}{Bridging Old and New Institutional Economics: Gustav
+  Schmoller, the Leader of the Younger German Historical School, Seen With
+  Neoinstitutionalists' Eyes}
+    \field{volume}{152}
+    \field{journaltitle}{Journal of Institutional and Theoretical Economics
+  (JITE) / Zeitschrift für die gesamte Staatswissenschaft}
+    \field{year}{1996}
   \endentry
 
   \entry{Rieter1989}{incollection}{}
@@ -11705,6 +11809,105 @@
     \field{year}{1933--34}
   \endentry
 
+  \entry{Schmoller1870}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SG}{%
+         family={Schmoller},
+         familyi={S\bibinitperiod},
+         given={Gustav},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Halle}%
+    }
+    \strng{namehash}{SG1}
+    \strng{fullhash}{SG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1870}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Zur Geschichte der deutschen Kleingewerbe im 19. Jahrhundert,
+  Statistische und nationalökonomische Untersuchungen}
+    \field{year}{1870}
+  \endentry
+
+  \entry{Schmoller1879}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SG}{%
+         family={Schmoller},
+         familyi={S\bibinitperiod},
+         given={Gustav},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Straßburg}%
+    }
+    \strng{namehash}{SG1}
+    \strng{fullhash}{SG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1879}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Die Straßburger Tucher- und Weberzunft}
+    \field{year}{1879}
+  \endentry
+
+  \entry{Schmoller1900}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SG}{%
+         family={Schmoller},
+         familyi={S\bibinitperiod},
+         given={Gustav},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Leipzig: Duncker \& Humblot}%
+    }
+    \strng{namehash}{SG1}
+    \strng{fullhash}{SG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1900}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Grundriß der Allgemeinen Volkswirtschaftslehre, 1.,
+  größerer Teil}
+    \field{year}{1900}
+  \endentry
+
+  \entry{Schmoller1904}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SG}{%
+         family={Schmoller},
+         familyi={S\bibinitperiod},
+         given={Gustav},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {München und Leipzig: Duncker \& Humblot}%
+    }
+    \strng{namehash}{SG1}
+    \strng{fullhash}{SG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1904 (1919)}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Grundriß der allgemeinen Volkswirtschaftslehre, 2. Teil
+  ergänzt und vermehrt}
+    \field{year}{1904 (1919)}
+  \endentry
+
   \entry{Scholes1997}{misc}{}
     \name{author}{1}{}{%
       {{hash=SMS}{%
@@ -11803,24 +12006,24 @@
       }}%
     }
     \name{editor}{1}{}{%
-      {{hash=PNYOU}{%
-         family={Press},
-         familyi={P\bibinitperiod},
-         given={New York: Oxford\bibnamedelima University},
-         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
-  O\bibinitperiod\bibinitdelim U\bibinitperiod},
+      {{hash=FAUT}{%
+         family={Francis)},
+         familyi={F\bibinitperiod},
+         given={Allen \& Unwin (Taylor\bibnamedelima \&},
+         giveni={A\bibinitperiod\bibinitdelim \bibinitperiod\bibinitdelim
+  U\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim \bibinitperiod},
       }}%
     }
     \strng{namehash}{SJA1}
     \strng{fullhash}{SJA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{1954}
+    \field{labelyear}{1954 (2006)}
     \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{title}{History of Economic Analysis}
-    \field{year}{1954}
+    \field{year}{1954 (2006)}
   \endentry
 
   \entry{Scitovsky1941}{article}{}
@@ -13801,6 +14004,40 @@
     \field{volume}{44}
     \field{journaltitle}{Review of Economic Studies}
     \field{year}{1977}
+  \endentry
+
+  \entry{Winkel1989}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=WH}{%
+         family={Winkel},
+         familyi={W\bibinitperiod},
+         given={Harald},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=JS}{%
+         family={Joachim},
+         familyi={J\bibinitperiod},
+         given={Starbatty},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {München: Nikol-Verlag}%
+    }
+    \strng{namehash}{WH1}
+    \strng{fullhash}{WH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{Klassiker des Ökonomischen Denkens, Teil 2}
+    \field{pages}{97\bibrangedash 118}
+    \field{title}{Gustav von Schmoller (1838-1917)}
+    \field{year}{1989}
   \endentry
 
   \entry{Wischermann1993}{article}{}

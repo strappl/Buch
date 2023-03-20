@@ -98,51 +98,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 72340 items.
+Reallocating 'field_info' (item size: 4) to 73600 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 481 entries,
+You've used 490 entries,
             6399 wiz_defined-function locations,
-            3927 strings with 68228 characters,
-and the built_in function-call counts, 3438115 in all, are:
-= -- 256642
-> -- 76788
-< -- 15070
-+ -- 100090
-- -- 42482
-* -- 249381
-:= -- 368550
+            3973 strings with 69441 characters,
+and the built_in function-call counts, 3486009 in all, are:
+= -- 260269
+> -- 77188
+< -- 15385
++ -- 100682
+- -- 42267
+* -- 252724
+:= -- 372645
 add.period$ -- 0
-call.type$ -- 481
-change.case$ -- 480
-chr.to.int$ -- 1599
-cite$ -- 960
-duplicate$ -- 321858
-empty$ -- 316690
-format.name$ -- 27533
-if$ -- 698562
+call.type$ -- 490
+change.case$ -- 489
+chr.to.int$ -- 1575
+cite$ -- 978
+duplicate$ -- 327012
+empty$ -- 321479
+format.name$ -- 27988
+if$ -- 709315
 int.to.chr$ -- 0
-int.to.str$ -- 1522
+int.to.str$ -- 1553
 missing$ -- 0
-newline$ -- 13819
-num.names$ -- 24143
-pop$ -- 166392
+newline$ -- 14048
+num.names$ -- 24679
+pop$ -- 169422
 preamble$ -- 1
-purify$ -- 9626
+purify$ -- 9873
 quote$ -- 0
-skip$ -- 99766
+skip$ -- 101816
 stack$ -- 0
-substring$ -- 491914
-swap$ -- 73419
-text.length$ -- 12294
-text.prefix$ -- 481
+substring$ -- 497858
+swap$ -- 74697
+text.length$ -- 12483
+text.prefix$ -- 490
 top$ -- 1
-type$ -- 16342
+type$ -- 16648
 warning$ -- 0
-while$ -- 37890
+while$ -- 38395
 width$ -- 0
-write$ -- 13339
+write$ -- 13559
