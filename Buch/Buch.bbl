@@ -6956,6 +6956,30 @@
     \field{year}{1996}
   \endentry
 
+  \entry{Keynes1919}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KJM}{%
+         family={Keynes},
+         familyi={K\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {London: Macmillan}%
+    }
+    \strng{namehash}{KJM1}
+    \strng{fullhash}{KJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1919}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{The Economic Consequences of the Peace}
+    \field{year}{1919}
+  \endentry
+
   \entry{Keynes1924}{article}{}
     \name{author}{1}{}{%
       {{hash=KJM}{%
@@ -6979,6 +7003,30 @@
     \field{volume}{34}
     \field{journaltitle}{The Economic Journal}
     \field{year}{1924}
+  \endentry
+
+  \entry{Keynes1930}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KJM}{%
+         family={Keynes},
+         familyi={K\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {London: Macmillan}%
+    }
+    \strng{namehash}{KJM1}
+    \strng{fullhash}{KJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1930}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{A Treatise on Money}
+    \field{year}{1930}
   \endentry
 
   \entry{Keynes1936a}{article}{}
@@ -8640,6 +8688,31 @@
     \field{sortinithash}{M}
     \field{title}{Grundsätze der Volkswirthschaftslehre}
     \field{year}{1871}
+  \endentry
+
+  \entry{Menger1883}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MC}{%
+         family={Menger},
+         familyi={M\bibinitperiod},
+         given={Carl},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Duncker \& Humblot}%
+    }
+    \strng{namehash}{MC1}
+    \strng{fullhash}{MC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1883}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Untersuchungen über die Methode der Socialwissenschaften und
+  der Politischen Ökonomie insbesondere}
+    \field{year}{1883}
   \endentry
 
   \entry{Merton1973}{article}{}
