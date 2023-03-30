@@ -13817,6 +13817,31 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Weintraub1979}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WER}{%
+         family={Weintraub},
+         familyi={W\bibinitperiod},
+         given={E.\bibnamedelima Roy},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{WER1}
+    \strng{fullhash}{WER1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Microfoundations: The Compatibility of Microeconomics and
+  Macroeconomics}
+    \field{year}{1979}
+  \endentry
+
   \entry{Weintraub1983}{article}{}
     \name{author}{1}{}{%
       {{hash=WER}{%
@@ -13826,8 +13851,8 @@
          giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
     }
-    \strng{namehash}{WER1}
-    \strng{fullhash}{WER1}
+    \strng{namehash}{WER2}
+    \strng{fullhash}{WER2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1983}
@@ -13851,8 +13876,8 @@
          giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
     }
-    \strng{namehash}{WER2}
-    \strng{fullhash}{WER2}
+    \strng{namehash}{WER3}
+    \strng{fullhash}{WER3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}

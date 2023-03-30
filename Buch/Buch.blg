@@ -98,51 +98,64 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 74020 items.
+Reallocating 'field_info' (item size: 4) to 74160 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
+Repeated entry---line 9635 of file Literatur.bib
+ : @book{Keynes1936
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9649 of file Literatur.bib
+ : @book{Keynes1919
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9663 of file Literatur.bib
+ : @book{Keynes1930
+ :                 ,
+I'm skipping whatever remains of this entry
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 493 entries,
+You've used 494 entries,
             6399 wiz_defined-function locations,
-            3984 strings with 69673 characters,
-and the built_in function-call counts, 3502737 in all, are:
-= -- 261483
-> -- 77506
-< -- 15502
-+ -- 101013
-- -- 42345
-* -- 253812
-:= -- 374144
+            3987 strings with 69771 characters,
+and the built_in function-call counts, 3509063 in all, are:
+= -- 261973
+> -- 77622
+< -- 15551
++ -- 101136
+- -- 42371
+* -- 254220
+:= -- 374699
 add.period$ -- 0
-call.type$ -- 493
-change.case$ -- 492
+call.type$ -- 494
+change.case$ -- 493
 chr.to.int$ -- 1575
-cite$ -- 984
-duplicate$ -- 328710
-empty$ -- 323086
-format.name$ -- 28150
-if$ -- 712982
+cite$ -- 986
+duplicate$ -- 329306
+empty$ -- 323687
+format.name$ -- 28204
+if$ -- 714385
 int.to.chr$ -- 0
-int.to.str$ -- 1568
+int.to.str$ -- 1573
 missing$ -- 0
-newline$ -- 14120
-num.names$ -- 24877
-pop$ -- 170442
+newline$ -- 14144
+num.names$ -- 24953
+pop$ -- 170782
 preamble$ -- 1
-purify$ -- 9960
+purify$ -- 9999
 quote$ -- 0
-skip$ -- 102551
+skip$ -- 102836
 stack$ -- 0
-substring$ -- 499846
-swap$ -- 75111
-text.length$ -- 12552
-text.prefix$ -- 493
+substring$ -- 500694
+swap$ -- 75259
+text.length$ -- 12575
+text.prefix$ -- 494
 top$ -- 1
-type$ -- 16750
+type$ -- 16784
 warning$ -- 0
-while$ -- 38560
+while$ -- 38615
 width$ -- 0
-write$ -- 13628
+write$ -- 13651
+(There were 3 error messages)
