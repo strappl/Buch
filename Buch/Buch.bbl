@@ -3502,6 +3502,31 @@
     \field{year}{2006}
   \endentry
 
+  \entry{Coase1960}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CRH}{%
+         family={Coase},
+         familyi={C\bibinitperiod},
+         given={Ronald\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRH1}
+    \strng{fullhash}{CRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1960}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 44}
+    \field{title}{The Problem of Social Cost}
+    \field{volume}{3}
+    \field{journaltitle}{The Journal of Law and Economics}
+    \field{year}{1960}
+  \endentry
+
   \entry{Cobb1928}{article}{}
     \name{author}{2}{}{%
       {{hash=CCW}{%
@@ -4679,6 +4704,32 @@
     \verb https://www.bis.org/review/r170214a.pdf
     \endverb
     \field{year}{2017}
+  \endentry
+
+  \entry{Fishback2010}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FP}{%
+         family={Fishback},
+         familyi={F\bibinitperiod},
+         given={Price},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FP1}
+    \strng{fullhash}{FP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{3}
+    \field{pages}{385\bibrangedash 413}
+    \field{title}{US Monetary and Fiscal Policy in the 1930s}
+    \field{volume}{26}
+    \field{journaltitle}{Oxford Review of Economic Policy}
+    \field{month}{10}
+    \field{year}{2010}
   \endentry
 
   \entry{Fisher1906}{book}{}
@@ -6809,6 +6860,31 @@
     \field{year}{1995}
   \endentry
 
+  \entry{Kahn1931}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KRF}{%
+         family={Kahn},
+         familyi={K\bibinitperiod},
+         given={Richard\bibnamedelima F.},
+         giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KRF1}
+    \strng{fullhash}{KRF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1931}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{162}
+    \field{pages}{173\bibrangedash 198}
+    \field{title}{The Relation of Home Investment to Unemployment}
+    \field{volume}{41}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{1931}
+  \endentry
+
   \entry{Kakutani1941}{article}{}
     \name{author}{1}{}{%
       {{hash=KS}{%
@@ -6855,6 +6931,31 @@
   Comparisons of Utility}
     \field{journaltitle}{The Economic Journal}
     \field{year}{1939}
+  \endentry
+
+  \entry{Kalecki1935}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KM}{%
+         family={Kalecki},
+         familyi={K\bibinitperiod},
+         given={Michal},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KM1}
+    \strng{fullhash}{KM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1935}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{3}
+    \field{pages}{327\bibrangedash 344}
+    \field{title}{A Macrodynamic Theory of Business Cycles}
+    \field{volume}{3}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1935}
   \endentry
 
   \entry{Kaplan2018}{article}{}
@@ -7029,6 +7130,31 @@
     \field{year}{1930}
   \endentry
 
+  \entry{Keynes1936}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KJM}{%
+         family={Keynes},
+         familyi={K\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {London: Macmillan [dt. Fassung, Duncker und Humblot, Berlin, 10.
+  Auflage]}%
+    }
+    \strng{namehash}{KJM1}
+    \strng{fullhash}{KJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1936 [2006]}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{The General Theory of Employment, Interest and Money}
+    \field{year}{1936 [2006]}
+  \endentry
+
   \entry{Keynes1936a}{article}{}
     \name{author}{1}{}{%
       {{hash=KJM}{%
@@ -7043,7 +7169,6 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1936}
-    \field{extradate}{1}
     \field{labeldatesource}{}
     \field{sortinit}{K}
     \field{sortinithash}{K}
@@ -7053,31 +7178,6 @@
   Statistician}
     \field{volume}{99}
     \field{journaltitle}{Journal of the Royal Statistical Society}
-    \field{year}{1936}
-  \endentry
-
-  \entry{Keynes1936}{book}{}
-    \name{author}{1}{}{%
-      {{hash=KJM}{%
-         family={Keynes},
-         familyi={K\bibinitperiod},
-         given={John\bibnamedelima M.},
-         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {London: Macmillan}%
-    }
-    \strng{namehash}{KJM1}
-    \strng{fullhash}{KJM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1936}
-    \field{extradate}{2}
-    \field{labeldatesource}{}
-    \field{sortinit}{K}
-    \field{sortinithash}{K}
-    \field{title}{The General Theory of Employment, Interest and Money}
     \field{year}{1936}
   \endentry
 
@@ -8164,6 +8264,29 @@
     \field{volume}{89}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{1985}
+  \endentry
+
+  \entry{Mankiw2006}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MNG}{%
+         family={Mankiw},
+         familyi={M\bibinitperiod},
+         given={N.\bibnamedelima Gregory},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNG1}
+    \strng{fullhash}{MNG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{4}
+    \field{pages}{29\bibrangedash 46}
+    \field{title}{The Macroeconomist as Scientist and Engineer}
+    \field{volume}{20}
+    \field{journaltitle}{Journal of Economic Perspectives}
   \endentry
 
   \entry{Mankiw1985b}{article}{}
@@ -10572,6 +10695,31 @@
     \field{year}{1925}
   \endentry
 
+  \entry{Pigou1943}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PA}{%
+         family={Pigou},
+         familyi={P\bibinitperiod},
+         given={Arthur},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PA1}
+    \strng{fullhash}{PA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1943}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{212}
+    \field{pages}{343\bibrangedash 351}
+    \field{title}{The Classical Stationary State}
+    \field{volume}{53}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{1943}
+  \endentry
+
   \entry{Pissarides1985}{article}{}
     \name{author}{1}{}{%
       {{hash=PCA}{%
@@ -11734,6 +11882,31 @@
     \field{sortinithash}{S}
     \field{title}{Economics}
     \field{year}{1998}
+  \endentry
+
+  \entry{Samuelson1946}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SPA}{%
+         family={Samuelson},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SPA1}
+    \strng{fullhash}{SPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1946}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{187\bibrangedash 200}
+    \field{title}{Lord Keynes and the General Theory}
+    \field{volume}{14}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1946}
   \endentry
 
   \entry{Samuelson1947}{book}{}
