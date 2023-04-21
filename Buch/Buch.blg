@@ -98,54 +98,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 75140 items.
+Reallocating 'field_info' (item size: 4) to 75560 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Too many commas in name 1 of "London: Macmillan [dt. Fassung, Duncker und Humblot, Berlin, 10. Auflage]" for entry Keynes1936
-while executing---line 2815 of file biblatex.bst
-You've used 501 entries,
+You've used 504 entries,
             6399 wiz_defined-function locations,
-            4028 strings with 70465 characters,
-and the built_in function-call counts, 3545673 in all, are:
-= -- 264523
-> -- 78251
-< -- 15753
-+ -- 101838
-- -- 42546
-* -- 256831
-:= -- 378053
+            4041 strings with 70660 characters,
+and the built_in function-call counts, 3578435 in all, are:
+= -- 267470
+> -- 78460
+< -- 15778
++ -- 102509
+- -- 42624
+* -- 259685
+:= -- 381960
 add.period$ -- 0
-call.type$ -- 501
-change.case$ -- 500
+call.type$ -- 504
+change.case$ -- 503
 chr.to.int$ -- 1581
-cite$ -- 1000
-duplicate$ -- 333064
-empty$ -- 327337
-format.name$ -- 28545
-if$ -- 722274
+cite$ -- 1006
+duplicate$ -- 335594
+empty$ -- 330517
+format.name$ -- 28727
+if$ -- 728930
 int.to.chr$ -- 0
-int.to.str$ -- 1590
+int.to.str$ -- 1602
 missing$ -- 0
-newline$ -- 14316
-num.names$ -- 25301
-pop$ -- 173100
+newline$ -- 14419
+num.names$ -- 25394
+pop$ -- 174218
 preamble$ -- 1
-purify$ -- 10138
+purify$ -- 10134
 quote$ -- 0
-skip$ -- 104247
+skip$ -- 104596
 stack$ -- 0
-substring$ -- 505053
-swap$ -- 76262
-text.length$ -- 12726
-text.prefix$ -- 501
+substring$ -- 511847
+swap$ -- 76668
+text.length$ -- 12799
+text.prefix$ -- 504
 top$ -- 1
-type$ -- 17022
+type$ -- 17124
 warning$ -- 0
-while$ -- 39002
+while$ -- 39364
 width$ -- 0
-write$ -- 13816
-(There was 1 error message)
+write$ -- 13916

@@ -6126,6 +6126,68 @@
     \field{year}{1982}
   \endentry
 
+  \entry{Hayek1931}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HFA}{%
+         family={Hayek},
+         familyi={H\bibinitperiod},
+         given={Friedrich\bibnamedelima A.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=uFVW}{%
+         prefix={und},
+         prefixi={u\bibinitperiod},
+         family={Finanzen},
+         familyi={F\bibinitperiod},
+         given={Verlag\bibnamedelima Wirtschaft},
+         giveni={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HFA1}
+    \strng{fullhash}{HFA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1931}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Preise und Produktion}
+    \field{year}{1931}
+  \endentry
+
+  \entry{Hayek1944}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HFA}{%
+         family={Hayek},
+         familyi={H\bibinitperiod},
+         given={Friedrich\bibnamedelima A.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=oCPU}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Chicago\bibnamedelima Press},
+         familyi={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={University},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HFA1}
+    \strng{fullhash}{HFA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1944}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Road to Serfdom}
+    \field{year}{1944}
+  \endentry
+
   \entry{Hegner2000}{book}{}
     \name{author}{1}{}{%
       {{hash=HJ}{%
@@ -7139,9 +7201,17 @@
          giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {London: Macmillan [dt. Fassung, Duncker und Humblot, Berlin, 10.
-  Auflage]}%
+    \name{editor}{1}{}{%
+      {{hash=dFDuHBALM}{%
+         prefix={[dt. Fassung. Duncker\bibnamedelima und},
+         prefixi={d\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  D\bibinitperiod\bibinitdelim u\bibinitperiod},
+         family={Humblot. Berlin 10.\bibnamedelima Auflage]},
+         familyi={H\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  \bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={London:\bibnamedelima Macmillan},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
     }
     \strng{namehash}{KJM1}
     \strng{fullhash}{KJM1}
@@ -7985,8 +8055,8 @@
          giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
       }}%
     }
-    \strng{namehash}{LRE3}
-    \strng{fullhash}{LRE3}
+    \strng{namehash}{LRE1}
+    \strng{fullhash}{LRE1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1976}
@@ -12019,6 +12089,40 @@
     \field{sortinithash}{S}
     \field{title}{The Strategy of Conflict}
     \field{year}{1960}
+  \endentry
+
+  \entry{Scherf1989}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SH}{%
+         family={Scherf},
+         familyi={S\bibinitperiod},
+         given={Harald},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=JS}{%
+         family={Joachim},
+         familyi={J\bibinitperiod},
+         given={Starbatty},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {München: Nikol-Verlag}%
+    }
+    \strng{namehash}{SH1}
+    \strng{fullhash}{SH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Klassiker des Ökonomischen Denkens, Teil 2}
+    \field{pages}{273\bibrangedash 291}
+    \field{title}{John Maynard Keynes (1883 - 1946)}
+    \field{year}{1989}
   \endentry
 
   \entry{Schlesinger1934}{incollection}{}
