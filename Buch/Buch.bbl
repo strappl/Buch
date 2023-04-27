@@ -7143,6 +7143,30 @@
     \field{year}{1919}
   \endentry
 
+  \entry{Keynes1921}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KJM}{%
+         family={Keynes},
+         familyi={K\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {London: Macmillan}%
+    }
+    \strng{namehash}{KJM1}
+    \strng{fullhash}{KJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1921}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{A Treatise on Probability}
+    \field{year}{1921}
+  \endentry
+
   \entry{Keynes1924}{article}{}
     \name{author}{1}{}{%
       {{hash=KJM}{%

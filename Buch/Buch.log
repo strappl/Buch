@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  26 APR 2023 19:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  27 APR 2023 19:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1037,10 +1037,17 @@ Kapitel 7.
 
 
 
-] [64] [65] [66] [67] [68] [69] [70] [71]) [72]
+] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74]) [75]
 \openout2 = `Kapitel_3_2.aux'.
 
- (Kapitel_3_2.tex
+
+(Kapitel_3_2.tex [76
+
+
+
+
+
+]
 Kapitel 8.
 
 Overfull \hbox (14.36255pt too wide) in paragraph at lines 41--43
@@ -1048,18 +1055,12 @@ Overfull \hbox (14.36255pt too wide) in paragraph at lines 41--43
 t1): ^^RNon-monetarists
  []
 
-[73
-
-
-
-
-
-]) [74]
+[77]) [78]
 \openout2 = `Kapitel_2_4.aux'.
 
  (Kapitel_2_4.tex
 Kapitel 9.
-[75
+[79
 
 
 
@@ -1071,19 +1072,7 @@ Overfull \hbox (19.52429pt too wide) in paragraph at lines 22--23
 nutzenmaximierendes
  []
 
-[76] [77] [78] [79] [80] [81] [82] [83] [84]
-Overfull \hbox (3.03738pt too wide) has occurred while \output is active
- \T1/cmr/m/n/9 9.3 Bäume, die in den Himmel wachsen: Die Neoklassische Wachstum
-stheorie []
- []
-
-[85] [86]
-Overfull \hbox (3.03738pt too wide) has occurred while \output is active
- \T1/cmr/m/n/9 9.3 Bäume, die in den Himmel wachsen: Die Neoklassische Wachstum
-stheorie []
- []
-
-[87] [88]
+[80] [81] [82] [83] [84] [85] [86] [87] [88]
 Overfull \hbox (3.03738pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 9.3 Bäume, die in den Himmel wachsen: Die Neoklassische Wachstum
 stheorie []
@@ -1095,33 +1084,45 @@ Overfull \hbox (3.03738pt too wide) has occurred while \output is active
 stheorie []
  []
 
-[91] [92] [93] [94]
+[91] [92]
+Overfull \hbox (3.03738pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 9.3 Bäume, die in den Himmel wachsen: Die Neoklassische Wachstum
+stheorie []
+ []
+
+[93] [94]
+Overfull \hbox (3.03738pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 9.3 Bäume, die in den Himmel wachsen: Die Neoklassische Wachstum
+stheorie []
+ []
+
+[95] [96] [97] [98]
 Overfull \hbox (4.764pt too wide) in paragraph at lines 128--129
 \T1/cmr/m/n/10 McKenzie-Modell^^P. Meist wird es nur als ^^RArrow-Debreu-Gleich
 gewichtsmodell^^P
  []
 
-[95] [96] [97]) [98]
+[99] [100] [101]) [102]
 \openout2 = `Kapitel_3_4.aux'.
 
  (Kapitel_3_4.tex
 Kapitel 10.
-[99
+[103
 
 
 
 
 
-] [100] [101]
+] [104] [105]
 Overfull \hbox (3.68094pt too wide) in paragraph at lines 35--36
 \T1/cmr/m/n/10 Geld-po-li-tik näm-lich auch ei-ne geld-po-li-ti-sche Fein-ab-st
 im-mung emp-feh-len. Statt-
  []
 
-[102] [103] [104] [105]) [106] [107]
+[106] [107] [108] [109]) [110] [111]
 \openout2 = `Kapitel_3_6.aux'.
 
- (Kapitel_3_6.tex [108
+ (Kapitel_3_6.tex [112
 
 
 
@@ -1129,11 +1130,11 @@ im-mung emp-feh-len. Statt-
 
 ]
 Kapitel 11.
-[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
-[121] [122] [123] [124] [125]) [126] [127]
+[113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124]
+[125] [126] [127] [128] [129]) [130] [131]
 \openout2 = `Kapitel_3_7.aux'.
 
- (Kapitel_3_7.tex [128
+ (Kapitel_3_7.tex [132
 
 
 
@@ -1141,26 +1142,26 @@ Kapitel 11.
 
 ]
 Kapitel 12.
-[129] [130] [131] [132] [133] [134] [135] [136] [137]
+[133] [134] [135] [136] [137] [138] [139] [140] [141]
 Overfull \hbox (3.53186pt too wide) in paragraph at lines 70--71
 []\T1/cmr/m/n/10 Reinhard Sel-ten, bis heu-te der ein-zi-ge deut-sche Ökonomie-
 Nobelpreisträger,
  []
 
-[138] [139] [140] [141] [142]) [143] [144]
+[142] [143] [144] [145] [146]) [147] [148]
 \openout2 = `Teil_IV.aux'.
 
- (Teil_IV.tex [145
+ (Teil_IV.tex [149
 
 
 
 
 
-] [146] [147]
-[148]) [149]
+] [150] [151]
+[152]) [153]
 \openout2 = `Kapitel_3_5.aux'.
 
- (Kapitel_3_5.tex [150
+ (Kapitel_3_5.tex [154
 
 
 
@@ -1168,12 +1169,12 @@ Nobelpreisträger,
 
 ]
 Kapitel 13.
-[151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162]
-[163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [174]
-[175] [176]) [177]
+[155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166]
+[167] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178]
+[179] [180]) [181]
 \openout2 = `Kapitel_4_1.aux'.
 
- (Kapitel_4_1.tex [178
+ (Kapitel_4_1.tex [182
 
 
 
@@ -1181,49 +1182,49 @@ Kapitel 13.
 
 ]
 Kapitel 14.
-[179] [180] [181] [182] [183] [184] [185] [186] [187] [188]
+[183] [184] [185] [186] [187] [188] [189] [190] [191] [192]
 Overfull \hbox (2.38959pt too wide) in paragraph at lines 61--62
 \T1/cmr/m/n/10 ana-ly-siert, zu-sam-men-ge-fasst und em-pi-risch un-ter-sucht. 
 Er kam zu dem Schluss,
  []
 
-[189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200]
-[201] [202] [203] [204]
+[193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203] [204]
+[205] [206] [207] [208]
 Overfull \hbox (5.08704pt too wide) in paragraph at lines 174--175
 []\T1/cmr/m/n/10 Auÿerdem gibt es, vier-tens, das nicht-rationale, Soziologisch
 e- oder Fairness-
  []
 
-[205] [206] [207] [208] [209] [210] [211] [212] [213] [214]
+[209] [210] [211] [212] [213] [214] [215] [216] [217] [218]
 Overfull \hbox (23.55475pt too wide) in paragraph at lines 218--222
 []\T1/cmr/m/n/10 Die An-fän-ge ^^RMo-no-po-lis-ti-sche Kon-kur-renz^^P in ma-kr
 o-öko-no-mi-schen Mainstream-
  []
 
-[215] [216] [217] [218] [219] [220]) [221] [222]
+[219] [220] [221] [222] [223] [224]) [225] [226]
 \openout2 = `Kapitel_4_4.aux'.
 
  (Kapitel_4_4.tex
 Kapitel 15.
-[223
+[227
 
 
 
 
 
-] [224]
+] [228]
 Overfull \hbox (11.15549pt too wide) in paragraph at lines 22--23
 \T1/cmr/m/n/10 formal-mathematischen Real-Business-Cycle-Gleichgewichtsmodelle 
 mit Ele-
  []
 
-[225] [226] [227] [228]
+[229] [230] [231] [232]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 15.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
 eu-Keynesianern^^P []
  []
 
-[229]
+[233]
 Overfull \hbox (32.41003pt too wide) in paragraph at lines 46--47
 \T1/cmr/m/n/10 schrie-ben. Die ^^RVer-ehe-li-chung^^P zwi-schen der RBC-Methodi
 k und Neu-Keynesianischen
@@ -1235,37 +1236,37 @@ Overfull \hbox (14.64026pt too wide) in paragraph at lines 53--54
 em ^^RNeu-Klassischen^^P
  []
 
-[230]
+[234]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 15.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
 eu-Keynesianern^^P []
  []
 
-[231]
+[235]
 Overfull \hbox (22.88458pt too wide) in paragraph at lines 69--70
 \T1/cmr/m/n/10 2001 ^^Rpro-ba-b-ly the sin-gle most im-port-ant ma-cro-e-co-no-
 mic re-la-ti-on-ship^^P ([]Nobelpreis-
  []
 
-[232]
-Overfull \hbox (17.28116pt too wide) has occurred while \output is active
- \T1/cmr/m/n/9 15.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
-eu-Keynesianern^^P []
- []
-
-[233] [234]
-Overfull \hbox (17.28116pt too wide) has occurred while \output is active
- \T1/cmr/m/n/9 15.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
-eu-Keynesianern^^P []
- []
-
-[235] [236]
+[236]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 15.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
 eu-Keynesianern^^P []
  []
 
 [237] [238]
+Overfull \hbox (17.28116pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 15.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
+eu-Keynesianern^^P []
+ []
+
+[239] [240]
+Overfull \hbox (17.28116pt too wide) has occurred while \output is active
+ \T1/cmr/m/n/9 15.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
+eu-Keynesianern^^P []
+ []
+
+[241] [242]
 Overfull \hbox (37.21808pt too wide) in paragraph at lines 130--131
 []\T1/cmr/m/n/10 Haushalte: Die Ag-gre-gier-te Nach-fra-ge wird mo-del-liert mi
 t-tels ^^RNeu-Keynesianischer
@@ -1277,40 +1278,40 @@ Overfull \hbox (17.28116pt too wide) has occurred while \output is active
 eu-Keynesianern^^P []
  []
 
-[239]
+[243]
 Overfull \hbox (4.42053pt too wide) in paragraph at lines 132--133
 []\T1/cmr/m/n/10 Zentralbank: De-ren Ver-hal-ten ist nicht mi-kro-fun-diert, ab
 er Regel-gebunden:
  []
 
-[240]
+[244]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 15.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
 eu-Keynesianern^^P []
  []
 
-[241] [242]
+[245] [246]
 Overfull \hbox (17.28116pt too wide) has occurred while \output is active
  \T1/cmr/m/n/9 15.1 DSGE: Die Zweckehe zwischen ^^RNeuen Klassikern^^P und ^^RN
 eu-Keynesianern^^P []
  []
 
-[243] [244] [245] [246] [247] [248] [249] [250] [251]
+[247] [248] [249] [250] [251] [252] [253] [254] [255]
 Overfull \hbox (10.46072pt too wide) in paragraph at lines 213--214
 []\T1/cmr/m/n/10 Keynesianismus: Ob-wohl die DSGE-Modelle meist nur ^^RNeu-Keyn
 esianische^^P-
  []
 
-[252]
+[256]
 Overfull \hbox (9.05829pt too wide) in paragraph at lines 216--217
 []\T1/cmr/m/n/10 Neue Klas-si-sche Ma-kro-öko-no-mie: Zu-sam-men mit dem ^^RNeu
 -Keynesianismus^^P
  []
 
-[253] [254] [255] [256] [257] [258]) [259]
+[257] [258] [259] [260] [261] [262]) [263]
 \openout2 = `Kapitel_4_5.aux'.
 
- (Kapitel_4_5.tex [260
+ (Kapitel_4_5.tex [264
 
 
 
@@ -1318,21 +1319,21 @@ Overfull \hbox (9.05829pt too wide) in paragraph at lines 216--217
 
 ]
 Kapitel 16.
-[261] [262]) [263]
+[265] [266]) [267]
 \openout2 = `Teil_IV_A.aux'.
 
- (Teil_IV_A.tex [264
+ (Teil_IV_A.tex [268
 
 
 
 
 
-] [265] [266])
+] [269] [270])
 \openout2 = `Kapitel_5_2.aux'.
 
  (Kapitel_5_2.tex
 Kapitel 17.
-) [267
+) [271
 
 
 
@@ -1341,7 +1342,7 @@ Kapitel 17.
 ]
 \openout2 = `Kapitel_5_2b.aux'.
 
- (Kapitel_5_2b.tex [268
+ (Kapitel_5_2b.tex [272
 
 
 
@@ -1349,10 +1350,10 @@ Kapitel 17.
 
 ]
 Kapitel 18.
-) [269]
+) [273]
 \openout2 = `Kapitel_5_2a.aux'.
 
- (Kapitel_5_2a.tex [270
+ (Kapitel_5_2a.tex [274
 
 
 
@@ -1360,30 +1361,30 @@ Kapitel 18.
 
 ]
 Kapitel 19.
-) [271]
+) [275]
 \openout2 = `Teil_V.aux'.
 
- (Teil_V.tex [272
+ (Teil_V.tex [276
 
 
 
 
 
-] [273] [274])
+] [277] [278])
 \openout2 = `Kapitel_5_1.aux'.
 
  (Kapitel_5_1.tex
 Kapitel 20.
-[275
+[279
 
 
 
 
 
-] [276]) [277]
+] [280]) [281]
 \openout2 = `Kapitel_5_1a.aux'.
 
- (Kapitel_5_1a.tex [278
+ (Kapitel_5_1a.tex [282
 
 
 
@@ -1391,21 +1392,21 @@ Kapitel 20.
 
 ]
 Kapitel 21.
-) [279] [280]
+) [283] [284]
 \openout2 = `Kapitel_5_1b.aux'.
 
  (Kapitel_5_1b.tex
 Kapitel 22.
-[281
+[285
 
 
 
 
 
-] [282] [283] [284] [285] [286]) [287]
+] [286] [287] [288] [289] [290]) [291]
 \openout2 = `Kapitel_Neoliberal.aux'.
 
- (Kapitel_Neoliberal.tex [288
+ (Kapitel_Neoliberal.tex [292
 
 
 
@@ -1413,27 +1414,27 @@ Kapitel 22.
 
 ]
 Kapitel 23.
-[289] [290]
+[293] [294]
 Overfull \hbox (57.0568pt too wide) in paragraph at lines 33--34
 \T1/cmr/m/n/10 ten-den-zi-ell ge-nau das Ge-gen-teil ver-wen-det (sie-he: https
 ://www.montpelerin.org/statement-
  []
 
-[291] [292] [293] [294] [295]) [296]
+[295] [296] [297] [298] [299]) [300]
 \openout2 = `Kapitel_5_3.aux'.
 
  (Kapitel_5_3.tex
 Kapitel 24.
-[297
+[301
 
 
 
 
 
-] [298]) [299]
+] [302]) [303]
 \openout2 = `Kapitel_4_6.aux'.
 
- (Kapitel_4_6.tex [300
+ (Kapitel_4_6.tex [304
 
 
 
@@ -1441,21 +1442,21 @@ Kapitel 24.
 
 ]
 Kapitel 25.
-) [301]
+) [305]
 \openout2 = `Teil_VI.aux'.
 
- (Teil_VI.tex [302
+ (Teil_VI.tex [306
 
 
 
 
 
-] [303] [304])
+] [307] [308])
 \openout2 = `Kapitel_6_2.aux'.
 
  (Kapitel_6_2.tex
 Kapitel 26.
-) [305
+) [309
 
 
 
@@ -1464,7 +1465,7 @@ Kapitel 26.
 ]
 \openout2 = `Kapitel_6_3.aux'.
 
- (Kapitel_6_3.tex [306
+ (Kapitel_6_3.tex [310
 
 
 
@@ -1472,10 +1473,10 @@ Kapitel 26.
 
 ]
 Kapitel 27.
-) [307]
+) [311]
 \openout2 = `Kapitel_6_4.aux'.
 
- (Kapitel_6_4.tex [308
+ (Kapitel_6_4.tex [312
 
 
 
@@ -1483,10 +1484,10 @@ Kapitel 27.
 
 ]
 Kapitel 28.
-) [309]
+) [313]
 \openout2 = `Kapitel_6_6.aux'.
 
- (Kapitel_6_6.tex [310
+ (Kapitel_6_6.tex [314
 
 
 
@@ -1494,10 +1495,10 @@ Kapitel 28.
 
 ]
 Kapitel 29.
-) [311]
+) [315]
 \openout2 = `Kapitel_6_7.aux'.
 
- (Kapitel_6_7.tex [312
+ (Kapitel_6_7.tex [316
 
 
 
@@ -1505,7 +1506,7 @@ Kapitel 29.
 
 ]
 Kapitel 30.
-) [313] [314
+) [317] [318
 
 
 
@@ -1515,46 +1516,46 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 14.
  (C:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [315] [316]
-[317] [318] [319] [320] [321] [322] [323] [324] [325]
+) [319] [320]
+[321] [322] [323] [324] [325] [326] [327] [328] [329]
 Overfull \hbox (10.64754pt too wide) in paragraph at lines 115--115
 [][]\T1/cmr/m/n/10 Huggett, Mark (1993). ^^T  The Risk-Free Ra-te in Heterogene
 ous-Agent Incomplete-
  []
 
-[326] [327]
+[330] [331]
 Overfull \hbox (16.31282pt too wide) in paragraph at lines 115--115
 [][]\T1/cmr/m/n/10 Kirzner, Is-rael (1967). ^^T  Di-ver-gent Ap-proa-ches in Li
 -ber-ta-ri-an Eco-no-mic Thougth^^S.
  []
 
-[328]
+[332]
 Overfull \hbox (9.66925pt too wide) in paragraph at lines 115--115
 \T1/cmtt/m/n/10 20211102093357 / http % 3A % 2F % 2Fwww . ggdc . net % 2Fmaddis
 on % 2Foriindex .
  []
 
-[329] [330] [331] [332] [333] [334] [335] [336] [337]
+[333] [334] [335] [336] [337] [338] [339] [340] [341]
 Overfull \hbox (9.8573pt too wide) in paragraph at lines 115--115
 [][][]\T1/cmr/m/n/10 (1987b). \T1/cmr/m/it/10 Ro-bert M. So-low - Bio-gra-phi-c
 al\T1/cmr/m/n/10 . Hrsg. von Nobel-Prize-Biographical.
  []
 
-[338]
+[342]
 Overfull \hbox (3.20612pt too wide) in paragraph at lines 115--115
 [][][]\T1/cmr/m/n/10 (1993). ^^T  Dis-creti-on ver-sus Po-li-cy Ru-les in Prac-
 ti-ce^^S. In: \T1/cmr/m/it/10 Carnegie-Rochester
  []
 
-[339] [340]
+[343] [344]
 Overfull \hbox (99.84798pt too wide) in paragraph at lines 115--115
 [][]\T1/cmr/m/n/10 Wischermann, Cle-mens (1993). ^^T  Der Pro-per-ty^^URights^^
 UAnsatz und die "neue"Wirtschaftsgeschichte^^S.
  []
 
-[341]
+[345]
 No file Buch.ind.
-[342] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[346] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_2_4.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux)
@@ -1564,22 +1565,18 @@ No file Buch.ind.
 (Kapitel_5_1a.aux) (Kapitel_5_1b.aux) (Kapitel_Neoliberal.aux) (Kapitel_5_3.aux
 ) (Kapitel_4_6.aux) (Teil_VI.aux) (Kapitel_6_2.aux) (Kapitel_6_3.aux)
 (Kapitel_6_4.aux) (Kapitel_6_6.aux) (Kapitel_6_7.aux))
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'Buch.run.xml'.
 \openout1 = `Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27831 strings out of 475385
- 595497 string characters out of 2786718
- 1351963 words of memory out of 3000000
- 48583 multiletter control sequences out of 15000+600000
+ 27855 strings out of 475385
+ 595920 string characters out of 2786718
+ 1352513 words of memory out of 3000000
+ 48607 multiletter control sequences out of 15000+600000
  482171 words of font info for 50 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 84i,14n,80p,5966b,2986s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,14n,80p,5966b,3008s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
 t1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ecbi1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
@@ -1607,9 +1604,9 @@ s/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public
 mr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (356 pages, 1363962 bytes).
+Output written on Buch.pdf (360 pages, 1373850 bytes).
 PDF statistics:
- 2034 PDF objects out of 2073 (max. 8388607)
+ 2046 PDF objects out of 2073 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
