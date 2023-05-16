@@ -455,9 +455,6 @@
          giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {JSTOR}%
-    }
     \strng{namehash}{AASLH1}
     \strng{fullhash}{AASLH1}
     \field{labelnamesource}{author}
@@ -3858,6 +3855,35 @@
     \field{year}{1952}
   \endentry
 
+  \entry{DeVroey2016}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DVM}{%
+         family={De\bibnamedelima Vroey},
+         familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+         given={Michel},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PCU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Cambridge\bibnamedelima University},
+         giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DVM1}
+    \strng{fullhash}{DVM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{A History of Macroeconomics from Keynes to Lucas and Beyond}
+    \field{year}{2016}
+  \endentry
+
   \entry{Debreu1952}{article}{}
     \name{author}{1}{}{%
       {{hash=DG}{%
@@ -6275,9 +6301,6 @@
          giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {JSTOR}%
-    }
     \strng{namehash}{HJR1}
     \strng{fullhash}{HJR1}
     \field{labelnamesource}{author}
@@ -6286,8 +6309,10 @@
     \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
+    \field{issue}{2}
     \field{pages}{147\bibrangedash 159}
-    \field{title}{Mr. Keynes and the "Classics": A suggested Interpretation}
+    \field{title}{Mr. Keynes and the "Classics"; A suggested Interpretation}
+    \field{volume}{5}
     \field{journaltitle}{Econometrica}
     \field{year}{1937}
   \endentry
@@ -7693,7 +7718,7 @@
     \field{sortinithash}{K}
     \field{number}{1}
     \field{pages}{129\bibrangedash 160}
-    \field{title}{Von Neumann's growth model and the "classical" tradition}
+    \field{title}{Von Neumann's Growth Model and the "Classical" Tradition}
     \field{volume}{1}
     \field{journaltitle}{The European Journal of the History of Economic
   Thougth}
@@ -9374,7 +9399,7 @@
     \field{sortinithash}{M}
     \field{number}{3}
     \field{pages}{361\bibrangedash 393}
-    \field{title}{Professor Hicks on value and capital}
+    \field{title}{Professor Hicks on Value and Capital}
     \field{volume}{49}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1941}
@@ -10289,6 +10314,31 @@
     \field{volume}{94}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1986}
+  \endentry
+
+  \entry{Patinkin1990}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PD}{%
+         family={Patinkin},
+         familyi={P\bibinitperiod},
+         given={Don},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PD1}
+    \strng{fullhash}{PD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{172}
+    \field{pages}{119\bibrangedash 134}
+    \field{title}{In Defence of IS-LM}
+    \field{volume}{43}
+    \field{journaltitle}{PSL Quarterly Review}
+    \field{year}{1990}
   \endentry
 
   \entry{Pauly1968}{article}{}
@@ -11999,36 +12049,6 @@
     \field{year}{2006}
   \endentry
 
-  \entry{Samuelson1998}{book}{}
-    \name{author}{1}{}{%
-      {{hash=SNWDP}{%
-         family={Samuelson},
-         familyi={S\bibinitperiod},
-         suffix={Paul},
-         suffixi={P\bibinitperiod},
-         given={Nordhaus William\bibnamedelima D.},
-         giveni={N\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
-  D\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=MH}{%
-         family={MCGraw-Hill},
-         familyi={M\bibinithyphendelim H\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{SPNWD1}
-    \strng{fullhash}{SPNWD1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1998}
-    \field{labeldatesource}{}
-    \field{sortinit}{S}
-    \field{sortinithash}{S}
-    \field{title}{Economics}
-    \field{year}{1998}
-  \endentry
-
   \entry{Samuelson1946}{article}{}
     \name{author}{1}{}{%
       {{hash=SPA}{%
@@ -12107,6 +12127,35 @@
     \field{volume}{36}
     \field{journaltitle}{The Review of Economics and Statistics}
     \field{year}{1954}
+  \endentry
+
+  \entry{Samuelson1998}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SP}{%
+         family={Samuelson},
+         familyi={S\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MHNY}{%
+         family={MCGraw-Hill},
+         familyi={M\bibinithyphendelim H\bibinitperiod},
+         given={New\bibnamedelima York:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SP1}
+    \strng{fullhash}{SP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1948}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Economics}
+    \field{year}{1948}
   \endentry
 
   \entry{Sargent1975}{article}{}
@@ -14194,12 +14243,38 @@
     \field{year}{1979}
   \endentry
 
+  \entry{Weintraub2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WER}{%
+         family={Weintraub},
+         familyi={W\bibinitperiod},
+         given={E.\bibnamedelima Roy},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WER1}
+    \strng{fullhash}{WER1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{2}
+    \field{pages}{199\bibrangedash 215}
+    \field{title}{Retrospectives: Lionel W. McKenzie and the Proof of the
+  Existence of a Competitive Equilibrium}
+    \field{volume}{25}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2011}
+  \endentry
+
   \entry{Weintraub1983}{article}{}
     \name{author}{1}{}{%
       {{hash=WER}{%
          family={Weintraub},
          familyi={W\bibinitperiod},
-         given={E\bibnamedelima Roy},
+         given={Eliot\bibnamedelima Roy},
          giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
     }
@@ -14217,32 +14292,6 @@
     \field{volume}{21}
     \field{journaltitle}{Journal of Economic Literature}
     \field{year}{1983}
-  \endentry
-
-  \entry{Weintraub2011}{article}{}
-    \name{author}{1}{}{%
-      {{hash=WER}{%
-         family={Weintraub},
-         familyi={W\bibinitperiod},
-         given={E.\bibnamedelima Roy},
-         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{WER3}
-    \strng{fullhash}{WER3}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2011}
-    \field{labeldatesource}{}
-    \field{sortinit}{W}
-    \field{sortinithash}{W}
-    \field{number}{2}
-    \field{pages}{199\bibrangedash 215}
-    \field{title}{Retrospectives: Lionel W. McKenzie and the Proof of the
-  Existence of a Competitive Equilibrium}
-    \field{volume}{25}
-    \field{journaltitle}{Journal of Economic Perspectives}
-    \field{year}{2011}
   \endentry
 
   \entry{Weiss1980}{article}{}
