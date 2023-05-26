@@ -10688,6 +10688,32 @@
     \field{year}{1961}
   \endentry
 
+  \entry{Phillips1958}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PAW}{%
+         family={Phillips},
+         familyi={P\bibinitperiod},
+         given={A.\bibnamedelima William},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PAW1}
+    \strng{fullhash}{PAW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1958}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{100}
+    \field{pages}{283\bibrangedash 299}
+    \field{title}{The Relation between Unemployment and the Rate of Change of
+  Money Wage Rates in the United Kingdom, 1861-1957}
+    \field{volume}{25}
+    \field{journaltitle}{Economica}
+    \field{year}{1958}
+  \endentry
+
   \entry{Pierenkemper2012}{book}{}
     \name{author}{1}{}{%
       {{hash=PT}{%
@@ -12127,6 +12153,37 @@
     \field{volume}{36}
     \field{journaltitle}{The Review of Economics and Statistics}
     \field{year}{1954}
+  \endentry
+
+  \entry{Samuelson1960}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SPA}{%
+         family={Samuelson},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SRM}{%
+         family={Solow},
+         familyi={S\bibinitperiod},
+         given={Robert\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SPASRM1}
+    \strng{fullhash}{SPASRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1960}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{177\bibrangedash 194}
+    \field{title}{Analytical Aspects of Anti-Inflation Policy}
+    \field{volume}{50}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1960}
   \endentry
 
   \entry{Samuelson1998}{book}{}
