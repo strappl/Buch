@@ -498,6 +498,38 @@
     \field{year}{1953}
   \endentry
 
+  \entry{Ando1965}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Ando},
+         familyi={A\bibinitperiod},
+         given={Albert},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Modigliani},
+         familyi={M\bibinitperiod},
+         given={Franco},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AAMF1}
+    \strng{fullhash}{AAMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1965}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4}
+    \field{pages}{693\bibrangedash 728}
+    \field{title}{The Relative Stability of Monetary Velocity and the
+  Investment Multiplier}
+    \field{volume}{55}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1965}
+  \endentry
+
   \entry{Appelbaum2019}{book}{}
     \name{author}{1}{}{%
       {{hash=AB}{%
@@ -3884,6 +3916,81 @@
     \field{year}{2016}
   \endentry
 
+  \entry{DeVroey2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DVM}{%
+         family={De\bibnamedelima Vroey},
+         familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+         given={Michel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DPG}{%
+         family={Duarte},
+         familyi={D\bibinitperiod},
+         given={Pedro\bibnamedelima G.},
+         giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DVMDPG1}
+    \strng{fullhash}{DVMDPG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1}
+    \field{pages}{965\bibrangedash 995}
+    \field{title}{In Search of Lost Time: The Neoclassical Synthesis}
+    \field{volume}{13}
+    \field{journaltitle}{The BE Journal of Macroeconomics}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Deaton2005}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DA}{%
+         family={Deaton},
+         familyi={D\bibinitperiod},
+         given={Angus},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=iDSPURP}{%
+         prefix={in},
+         prefixi={i\bibinitperiod},
+         family={Development\bibnamedelima Studies},
+         familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Princeton University: Research\bibnamedelima Program},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=fHC}{%
+         prefix={for},
+         prefixi={f\bibinitperiod},
+         family={Health},
+         familyi={H\bibinitperiod},
+         given={Center},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=W}{%
+         family={Wellbeing},
+         familyi={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DA1}
+    \strng{fullhash}{DA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Franco Modigliani and the Life Cycle Theory of Consumption}
+    \field{year}{2005}
+  \endentry
+
   \entry{Debreu1952}{article}{}
     \name{author}{1}{}{%
       {{hash=DG}{%
@@ -5231,6 +5338,38 @@
     \field{year}{1976}
   \endentry
 
+  \entry{Friedman1963b}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=FM}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         given={Milton},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Meiselman},
+         familyi={M\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Englewood Cliffs: Prentice-Hall}%
+    }
+    \strng{namehash}{FMMD1}
+    \strng{fullhash}{FMMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1963}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{Commission on Money and Credit: Stabilization Policies}
+    \field{title}{The Relative Stability of Monetary Velocity and the
+  Investment Multiplier in the United States, 1897-1958}
+    \field{year}{1963}
+  \endentry
+
   \entry{Friedman1980}{book}{}
     \name{author}{1}{}{%
       {{hash=FRMF}{%
@@ -6008,6 +6147,119 @@
     \field{year}{1972}
   \endentry
 
+  \entry{Hansen1941}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HAH}{%
+         family={Hansen},
+         familyi={H\bibinitperiod},
+         given={Alvin\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=CNYN}{%
+         family={Co.},
+         familyi={C\bibinitperiod},
+         given={New York: Norton\bibnamedelima \&},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  N\bibinitperiod\bibinitdelim \bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HAH1}
+    \strng{fullhash}{HAH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1941}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Fiscal Policy and Business Cycles}
+    \field{year}{1941}
+  \endentry
+
+  \entry{Hansen1945}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HAH}{%
+         family={Hansen},
+         familyi={H\bibinitperiod},
+         given={Alvin\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HAH1}
+    \strng{fullhash}{HAH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1945}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{3}
+    \field{pages}{382\bibrangedash 387}
+    \field{title}{Three Methods of Expansion through Fiscal Policy}
+    \field{volume}{35}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1945}
+  \endentry
+
+  \entry{Hansen1949}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HAH}{%
+         family={Hansen},
+         familyi={H\bibinitperiod},
+         given={Alvin\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MHC}{%
+         family={McGraw-Hill},
+         familyi={M\bibinithyphendelim H\bibinitperiod},
+         given={Cambridge:},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HAH1}
+    \strng{fullhash}{HAH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1949}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Monetary Theory and Fiscal Policy}
+    \field{year}{1949}
+  \endentry
+
+  \entry{Hansen1953}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HAH}{%
+         family={Hansen},
+         familyi={H\bibinitperiod},
+         given={Alvin\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MHC}{%
+         family={McGraw-Hill},
+         familyi={M\bibinithyphendelim H\bibinitperiod},
+         given={Cambridge:},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HAH1}
+    \strng{fullhash}{HAH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1953}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{A Guide to Keynes}
+    \field{year}{1953}
+  \endentry
+
   \entry{Harrod1939}{article}{}
     \name{author}{1}{}{%
       {{hash=HRF}{%
@@ -6364,6 +6616,31 @@
     \field{volume}{7}
     \field{journaltitle}{Economica}
     \field{year}{1940}
+  \endentry
+
+  \entry{Hicks1980}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HJR}{%
+         family={Hicks},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJR1}
+    \strng{fullhash}{HJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{2}
+    \field{pages}{139\bibrangedash 154}
+    \field{title}{IS-LM: An Explanation}
+    \field{volume}{3}
+    \field{journaltitle}{Journal of Post Keynesian Economics}
+    \field{year}{1980}
   \endentry
 
   \entry{Hicks1934b}{article}{}
@@ -7402,6 +7679,60 @@
     \field{year}{1984}
   \endentry
 
+  \entry{Klein1950}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KLR}{%
+         family={Klein},
+         familyi={K\bibinitperiod},
+         given={Lawrence\bibnamedelima R.},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {New York: John Wiley}%
+    }
+    \strng{namehash}{KLR1}
+    \strng{fullhash}{KLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1950}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Economic Fluctuations in the United States, 1921-1941}
+    \field{year}{1950}
+  \endentry
+
+  \entry{Klein1955}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KLR}{%
+         family={Klein},
+         familyi={K\bibinitperiod},
+         given={Lawrence\bibnamedelima R.},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=CANHP}{%
+         family={Company},
+         familyi={C\bibinitperiod},
+         given={Amsterdam: North-Holland\bibnamedelima Publishing},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinithyphendelim
+  H\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KLR1}
+    \strng{fullhash}{KLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1955}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{An Econometric Model of the United States, 1929-1952}
+    \field{year}{1955}
+  \endentry
+
   \entry{Knight1921}{book}{}
     \name{author}{1}{}{%
       {{hash=KFH}{%
@@ -7882,6 +8213,36 @@
     \field{volume}{56}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1966}
+  \endentry
+
+  \entry{Leijonhufvud1968}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LA}{%
+         family={Leijonhufvud},
+         familyi={L\bibinitperiod},
+         given={Axel},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=POOU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Oxford: Oxford\bibnamedelima University},
+         giveni={O\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim
+  U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LA1}
+    \strng{fullhash}{LA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1968}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{On Keynesian Economics and the Economics of Keynes}
+    \field{year}{1968}
   \endentry
 
   \entry{Leonard1994}{article}{}
@@ -9196,6 +9557,87 @@
     \field{year}{2000}
   \endentry
 
+  \entry{Modigliani1944}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MF}{%
+         family={Modigliani},
+         familyi={M\bibinitperiod},
+         given={Franco},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MF1}
+    \strng{fullhash}{MF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1944}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{issue}{1}
+    \field{pages}{45\bibrangedash 88}
+    \field{title}{Liquidity Preference and the Theory of Interest and Money}
+    \field{volume}{12}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1944}
+  \endentry
+
+  \entry{Modigliani1977}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MF}{%
+         family={Modigliani},
+         familyi={M\bibinitperiod},
+         given={Franco},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MF1}
+    \strng{fullhash}{MF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{issue}{2}
+    \field{pages}{1\bibrangedash 17}
+    \field{title}{The Monetarist Controversy or, Should We Forsake
+  Stabilization Policies?}
+    \field{volume}{67}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1977}
+  \endentry
+
+  \entry{Modigliani1985}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MF}{%
+         family={Modigliani},
+         familyi={M\bibinitperiod},
+         given={Franco},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPL}{%
+         family={Nobel-Prize-Lecture},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MF1}
+    \strng{fullhash}{MF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Life Cycle, Individual Thrift and the Wealth of Nations}
+    \verb{url}
+    \verb https://www.nobelprize.org/uploads/2018/06/modigliani-lecture.pdf
+    \endverb
+    \field{year}{1985}
+  \endentry
+
   \entry{Modigliani1954}{incollection}{}
     \name{author}{2}{}{%
       {{hash=MF}{%
@@ -10314,6 +10756,36 @@
     \field{volume}{94}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1986}
+  \endentry
+
+  \entry{Patinkin1956}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PD}{%
+         family={Patinkin},
+         familyi={P\bibinitperiod},
+         given={Don},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PER}{%
+         family={Peterson},
+         familyi={P\bibinitperiod},
+         given={Evanston:\bibnamedelima Row},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PD1}
+    \strng{fullhash}{PD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1956}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Money, Interest and Prices: An Integration of Monetary and
+  Value Theory}
+    \field{year}{1956}
   \endentry
 
   \entry{Patinkin1990}{article}{}
@@ -12073,6 +12545,32 @@
     \field{volume}{96}
     \field{journaltitle}{American Economic Review}
     \field{year}{2006}
+  \endentry
+
+  \entry{Samuelson1939}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SPA}{%
+         family={Samuelson},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SPA1}
+    \strng{fullhash}{SPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1939}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{75\bibrangedash 78}
+    \field{title}{Interactions between the Multiplier Analysis and the
+  Principle of Acceleration}
+    \field{volume}{21}
+    \field{journaltitle}{The Review of Economics and Statistics}
+    \field{year}{1939}
   \endentry
 
   \entry{Samuelson1946}{article}{}
