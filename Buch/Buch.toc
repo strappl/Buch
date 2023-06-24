@@ -205,80 +205,82 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {19}Neue Politische Ökonomie}{289}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {19.1}Social Choice Theory}{289}{}%
+\contentsline {section}{\numberline {19.1}Downs: Das Medianwähler-Modell}{291}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {19.2}Buchanan: Die Public-Choice Theorie}{289}{}%
+\contentsline {section}{\numberline {19.2}Arrow: Social Choice Theory}{291}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {19.3}Politik als Optimierungsaufgabe}{289}{}%
+\contentsline {section}{\numberline {19.3}Buchanan: Die Public-Choice Theorie}{291}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Ökonomie abseits des Mainstreams}{291}{}%
+\contentsline {section}{\numberline {19.4}Politik als Optimierungsaufgabe}{291}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {20}Österreichische Schule}{293}{}%
+\contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Ökonomie abseits des Mainstreams}{293}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {20.1}Wieser: Der Schüler Mengers}{294}{}%
+\contentsline {chapter}{\numberline {20}Österreichische Schule}{295}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {20.2}Mises: Der Hauptvertreter}{294}{}%
+\contentsline {section}{\numberline {20.1}Wieser: Der Schüler Mengers}{296}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {20.3}Hayek: Weg vom Mainstream, aber rein in die Politik}{294}{}%
+\contentsline {section}{\numberline {20.2}Mises: Der Hauptvertreter}{296}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {20.4}Rothbard, Kirzner \& die Tea Party}{294}{}%
+\contentsline {section}{\numberline {20.3}Hayek: Weg vom Mainstream, aber rein in die Politik}{296}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {20.5}Schumpeter: Der ganz eigene Weg}{294}{}%
+\contentsline {section}{\numberline {20.4}Rothbard, Kirzner \& die Tea Party}{296}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {20.6}Die Stockholmer Schule}{295}{}%
+\contentsline {section}{\numberline {20.5}Schumpeter: Der ganz eigene Weg}{296}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {21}Schumpeter: Der ganz eigene Weg}{297}{}%
+\contentsline {section}{\numberline {20.6}Die Stockholmer Schule}{297}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {21.1}Vorläufer Zyklentheorie: Kondratieff}{297}{}%
+\contentsline {chapter}{\numberline {21}Schumpeter: Der ganz eigene Weg}{299}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {21.2}Die schöpferische Zerstörung}{297}{}%
+\contentsline {section}{\numberline {21.1}Vorläufer Zyklentheorie: Kondratieff}{299}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {22}Supply-Side-Economics}{299}{}%
+\contentsline {section}{\numberline {21.2}Die schöpferische Zerstörung}{299}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {23}Neoliberalismus}{307}{}%
+\contentsline {chapter}{\numberline {22}Supply-Side-Economics}{301}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {23.1}Den Neoliberalismus gibt es nicht!}{307}{}%
+\contentsline {chapter}{\numberline {23}Neoliberalismus}{309}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {23.2}Ordoliberalismus}{314}{}%
+\contentsline {section}{\numberline {23.1}Den Neoliberalismus gibt es nicht!}{309}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {24}"'Echte"' Keynes-Anhänger und der Post-Keynesianismus}{315}{}%
+\contentsline {section}{\numberline {23.2}Ordoliberalismus}{316}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {24.1}Kalecki: Post-Keynesianer vor Keynes}{315}{}%
+\contentsline {chapter}{\numberline {24}"'Echte"' Keynes-Anhänger und der Post-Keynesianismus}{317}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {24.2}Axel Leijonhufvud: Vater der Ungleichgewichtstheorie}{315}{}%
+\contentsline {section}{\numberline {24.1}Kalecki: Post-Keynesianer vor Keynes}{317}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {24.3}Harrod \& Domar: Das erste Wachstumsmodell}{315}{}%
+\contentsline {section}{\numberline {24.2}Axel Leijonhufvud: Vater der Ungleichgewichtstheorie}{317}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {24.4}Kaldor: Der Begründer des Post-Keynesianismus}{317}{}%
+\contentsline {section}{\numberline {24.3}Harrod \& Domar: Das erste Wachstumsmodell}{317}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {24.5}Myrdal \& Sraffa}{317}{}%
+\contentsline {section}{\numberline {24.4}Kaldor: Der Begründer des Post-Keynesianismus}{319}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {24.6}Linkskeynesianismus: Lernen \& Robinson}{317}{}%
+\contentsline {section}{\numberline {24.5}Myrdal \& Sraffa}{319}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {24.7}Minsky: Die Absurdität des Finanzmarktgleichgewichts}{317}{}%
+\contentsline {section}{\numberline {24.6}Linkskeynesianismus: Lernen \& Robinson}{319}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {25}Exkurs: Behavioral Economics}{319}{}%
+\contentsline {section}{\numberline {24.7}Minsky: Die Absurdität des Finanzmarktgleichgewichts}{319}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {25.1}Allais: Es begann mit einem Paradoxon}{319}{}%
+\contentsline {chapter}{\numberline {25}Exkurs: Behavioral Economics}{321}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {25.2}Kahneman und Tversky}{319}{}%
+\contentsline {section}{\numberline {25.1}Allais: Es begann mit einem Paradoxon}{321}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {25.3}Thaler}{319}{}%
+\contentsline {section}{\numberline {25.2}Kahneman und Tversky}{321}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Teil\ VII\hspace {\betweenumberspace }Was bringt die Zukunft?}{321}{}%
+\contentsline {section}{\numberline {25.3}Thaler}{321}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {26}Was lernte der Mainstream aus den Krisen}{323}{}%
+\contentsline {part}{Teil\ VII\hspace {\betweenumberspace }Was bringt die Zukunft?}{323}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {26.1}Rajan}{323}{}%
+\contentsline {chapter}{\numberline {26}Was lernte der Mainstream aus den Krisen}{325}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {27}Ungleichheit als wachsendes Problem}{325}{}%
+\contentsline {section}{\numberline {26.1}Rajan}{325}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {28}Armut als Herausforderung}{327}{}%
+\contentsline {chapter}{\numberline {27}Ungleichheit als wachsendes Problem}{327}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {28.1}Sen: Die Ökonomie der Wohlfahrt}{327}{}%
+\contentsline {chapter}{\numberline {28}Armut als Herausforderung}{329}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {28.2}Experimente gegen die Armut: Banerjee, Duflo \& Kremer}{327}{}%
+\contentsline {section}{\numberline {28.1}Sen: Die Ökonomie der Wohlfahrt}{329}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {29}Ökonomie außerhalb der Demokratie?}{329}{}%
+\contentsline {section}{\numberline {28.2}Experimente gegen die Armut: Banerjee, Duflo \& Kremer}{329}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {30}Umweltfragen als existenzielle Fragen}{331}{}%
+\contentsline {chapter}{\numberline {29}Ökonomie außerhalb der Demokratie?}{331}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {30}Umweltfragen als existenzielle Fragen}{333}{}%

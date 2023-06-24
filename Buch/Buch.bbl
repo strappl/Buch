@@ -10581,6 +10581,31 @@
     \field{year}{2007}
   \endentry
 
+  \entry{Nordhaus1975}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NWD}{%
+         family={Nordhaus},
+         familyi={N\bibinitperiod},
+         given={William\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NWD1}
+    \strng{fullhash}{NWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1975}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{2}
+    \field{pages}{169\bibrangedash 190}
+    \field{title}{The Political Business Cycle}
+    \field{volume}{42}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1975}
+  \endentry
+
   \entry{Nordhaus2008}{article}{}
     \name{author}{1}{}{%
       {{hash=NWD}{%
@@ -14645,6 +14670,35 @@
     \field{year}{1944[1953]}
   \endentry
 
+  \entry{Wagner1892}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WA}{%
+         family={Wagner},
+         familyi={W\bibinitperiod},
+         given={Adolph},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=VCW}{%
+         family={Verlagshandlung},
+         familyi={V\bibinitperiod},
+         given={C.F.\bibnamedelima Winter'sche},
+         giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WA1}
+    \strng{fullhash}{WA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1892}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Grundlegung der Politischen Ökonomie}
+    \field{year}{1892}
+  \endentry
+
   \entry{Wald1934}{incollection}{}
     \name{author}{1}{}{%
       {{hash=WA}{%
@@ -14665,8 +14719,8 @@
     \list{publisher}{1}{%
       {Leipzig und Wien: Franz Deuticke}%
     }
-    \strng{namehash}{WA1}
-    \strng{fullhash}{WA1}
+    \strng{namehash}{WA2}
+    \strng{fullhash}{WA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1933-34}
@@ -14700,8 +14754,8 @@
     \list{publisher}{1}{%
       {Leipzig und Wien: Franz Deuticke}%
     }
-    \strng{namehash}{WA1}
-    \strng{fullhash}{WA1}
+    \strng{namehash}{WA2}
+    \strng{fullhash}{WA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1934--35}
@@ -14954,8 +15008,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{WA2}
-    \strng{fullhash}{WA2}
+    \strng{namehash}{WA3}
+    \strng{fullhash}{WA3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1980}
@@ -15069,8 +15123,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{WA3}
-    \strng{fullhash}{WA3}
+    \strng{namehash}{WA4}
+    \strng{fullhash}{WA4}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
