@@ -98,51 +98,62 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 79760 items.
+Reallocating 'field_info' (item size: 4) to 81160 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
-Biblatex version: 3.16
+I was expecting a `,' or a `}'---line 11257 of file Literatur.bib
+ :  
+ :  title = {An Empirical Study of Politico Economic Interaction in the United States},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 11277 of file Literatur.bib
+ :  
+ :  title = {A Politico Economic Model of the United Kingdom},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 534 entries,
-            6393 wiz_defined-function locations,
-            4174 strings with 73706 characters,
-and the built_in function-call counts, 3120661 in all, are:
-= -- 205149
-> -- 83062
-< -- 16540
-+ -- 81462
-- -- 45224
-* -- 227644
-:= -- 313364
+You've used 544 entries,
+            6399 wiz_defined-function locations,
+            4228 strings with 74720 characters,
+and the built_in function-call counts, 3856040 in all, are:
+= -- 288361
+> -- 84023
+< -- 16848
++ -- 109932
+- -- 45499
+* -- 280180
+:= -- 411684
 add.period$ -- 0
-call.type$ -- 534
-change.case$ -- 533
+call.type$ -- 544
+change.case$ -- 543
 chr.to.int$ -- 1677
-cite$ -- 1066
-duplicate$ -- 294117
-empty$ -- 299257
-format.name$ -- 30420
-if$ -- 642567
+cite$ -- 1086
+duplicate$ -- 361463
+empty$ -- 356647
+format.name$ -- 30982
+if$ -- 785715
 int.to.chr$ -- 0
-int.to.str$ -- 1711
+int.to.str$ -- 1748
 missing$ -- 0
-newline$ -- 15241
-num.names$ -- 26784
-pop$ -- 181250
+newline$ -- 15526
+num.names$ -- 27322
+pop$ -- 188093
 preamble$ -- 1
-purify$ -- 10562
+purify$ -- 10781
 quote$ -- 0
-skip$ -- 110208
+skip$ -- 112324
 stack$ -- 0
-substring$ -- 369488
-swap$ -- 80957
-text.length$ -- 13543
-text.prefix$ -- 534
+substring$ -- 552404
+swap$ -- 82447
+text.length$ -- 13773
+text.prefix$ -- 544
 top$ -- 1
-type$ -- 18144
+type$ -- 18484
 warning$ -- 0
-while$ -- 34913
+while$ -- 42425
 width$ -- 0
-write$ -- 14708
+write$ -- 14983
+(There were 2 error messages)

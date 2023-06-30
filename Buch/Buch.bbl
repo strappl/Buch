@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -2114,38 +2114,6 @@
     \field{year}{1996}
   \endentry
 
-  \entry{BohmBawerk1888}{book}{}
-    \name{author}{1}{}{%
-      {{hash=BBE}{%
-         family={Böhm-Bawerk},
-         familyi={B\bibinithyphendelim B\bibinitperiod},
-         given={Eugen},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=dWUBIV}{%
-         prefix={der},
-         prefixi={d\bibinitperiod},
-         family={Wagner'schen Universitäts-Buchhandlung},
-         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
-  B\bibinitperiod},
-         given={Innsbruck:\bibnamedelima Verlag},
-         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BBE1}
-    \strng{fullhash}{BBE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1889}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
-    \field{year}{1889}
-  \endentry
-
   \entry{Bils1987}{article}{}
     \name{author}{1}{}{%
       {{hash=BM}{%
@@ -2221,6 +2189,38 @@
     \field{volume}{16}
     \field{journaltitle}{Econometrica}
     \field{year}{1948}
+  \endentry
+
+  \entry{Black1958}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BD}{%
+         family={Black},
+         familyi={B\bibinitperiod},
+         given={Duncan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=uNYCUPL}{%
+         prefix={und},
+         prefixi={u\bibinitperiod},
+         family={New York: Cambridge University\bibnamedelima Press},
+         familyi={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={London},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BD2}
+    \strng{fullhash}{BD2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1958}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{The Theory of Committees and Elections}
+    \field{year}{1958}
   \endentry
 
   \entry{Black1992}{article}{}
@@ -2737,6 +2737,45 @@
     \field{year}{1968}
   \endentry
 
+  \entry{Buchanan1962}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BJM}{%
+         family={Buchanan},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Tullock},
+         familyi={T\bibinitperiod},
+         given={Gordon},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=oMPAAU}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Michigan\bibnamedelima Press},
+         familyi={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Ann Arbor:\bibnamedelima University},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJMTG1}
+    \strng{fullhash}{BJMTG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{The Calculus of Consent: Logical Foundations of
+  Constitutional Democracy}
+    \field{year}{1962}
+  \endentry
+
   \entry{BBK2016}{book}{}
     \name{author}{1}{}{%
       {{hash=BD}{%
@@ -2764,6 +2803,38 @@
     \field{sortinithash}{B}
     \field{title}{Notenbank für Deutschland}
     \field{year}{2016}
+  \endentry
+
+  \entry{BohmBawerk1888}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BBE}{%
+         family={Böhm-Bawerk},
+         familyi={B\bibinithyphendelim B\bibinitperiod},
+         given={Eugen},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dWUBIV}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Wagner'schen Universitäts-Buchhandlung},
+         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
+  B\bibinitperiod},
+         given={Innsbruck:\bibnamedelima Verlag},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBE1}
+    \strng{fullhash}{BBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1889}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
+    \field{year}{1889}
   \endentry
 
   \entry{Caldwell2001}{article}{}
@@ -4382,6 +4453,66 @@
     \field{year}{2008}
   \endentry
 
+  \entry{Downs1957b}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DA}{%
+         family={Downs},
+         familyi={D\bibinitperiod},
+         given={Anthony},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=HNY}{%
+         family={Harper},
+         familyi={H\bibinitperiod},
+         given={New\bibnamedelima York:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=R}{%
+         family={Row},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DA2}
+    \strng{fullhash}{DA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1957}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{An Economic Theory of Democracy}
+    \field{year}{1957}
+  \endentry
+
+  \entry{Downs1957}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DA}{%
+         family={Downs},
+         familyi={D\bibinitperiod},
+         given={Anthony},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DA2}
+    \strng{fullhash}{DA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1957}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{2}
+    \field{pages}{135\bibrangedash 150}
+    \field{title}{An Economic Theory of Political Action in a Democracy}
+    \field{volume}{65}
+    \field{journaltitle}{Journal of political economy}
+    \field{year}{1957}
+  \endentry
+
   \entry{Easterlin1974}{incollection}{}
     \name{author}{1}{}{%
       {{hash=ERA}{%
@@ -5941,6 +6072,31 @@
     \field{year}{1995}
   \endentry
 
+  \entry{Grofman2004}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GB}{%
+         family={Grofman},
+         familyi={G\bibinitperiod},
+         given={Bernard},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GB1}
+    \strng{fullhash}{GB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{1-2}
+    \field{pages}{31\bibrangedash 51}
+    \field{title}{Reflections on Public Choice}
+    \field{volume}{118}
+    \field{journaltitle}{Public Choice}
+    \field{year}{2004}
+  \endentry
+
   \entry{Grossekettler1989}{incollection}{}
     \name{author}{1}{}{%
       {{hash=GH}{%
@@ -6596,6 +6752,34 @@
     \field{year}{1966}
   \endentry
 
+  \entry{Hibbs1977}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HDA}{%
+         family={Hibbs},
+         familyi={H\bibinitperiod},
+         given={Douglas\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{HDA1}
+    \strng{fullhash}{HDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{4}
+    \field{pages}{1467\bibrangedash 1487}
+    \field{title}{Political Parties and Macroeconomic Policy}
+    \field{volume}{71}
+    \field{journaltitle}{American political science review}
+    \field{year}{1977}
+  \endentry
+
   \entry{Hicks1934}{article}{}
     \name{author}{1}{}{%
       {{hash=HJR}{%
@@ -6868,6 +7052,31 @@
     \field{title}{Der Neoliberalismus wird achtzig}
     \field{journaltitle}{Frankfurter Allgemeine Zeitung}
     \field{year}{2018}
+  \endentry
+
+  \entry{Hotelling1929}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HH}{%
+         family={Hotelling},
+         familyi={H\bibinitperiod},
+         given={Harold},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HH1}
+    \strng{fullhash}{HH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1929}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{153}
+    \field{pages}{41\bibrangedash 57}
+    \field{title}{Stability in Competition}
+    \field{volume}{39}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{1929}
   \endentry
 
   \entry{Huggett1993}{article}{}
@@ -7983,6 +8192,31 @@
     \field{volume}{30}
     \field{journaltitle}{Brookings Papers on Economic Activity}
     \field{year}{1999}
+  \endentry
+
+  \entry{Krueger1974}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KAO}{%
+         family={Krueger},
+         familyi={K\bibinitperiod},
+         given={Anne\bibnamedelima O.},
+         giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KAO1}
+    \strng{fullhash}{KAO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1974}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{3}
+    \field{pages}{291\bibrangedash 303}
+    \field{title}{The Political Economy of the Rent-Seeking Society}
+    \field{volume}{64}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1974}
   \endentry
 
   \entry{Kuhn1951}{misc}{}
@@ -13098,6 +13332,31 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Schumpeter1942}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SJA}{%
+         family={Schumpeter},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {New York: Harper}%
+      {Brothers}%
+    }
+    \strng{namehash}{SJA1}
+    \strng{fullhash}{SJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1942}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Socialism, Capitalism and Democracy}
+    \field{year}{1942}
+  \endentry
+
   \entry{Schumpeter1954}{book}{}
     \name{author}{1}{}{%
       {{hash=SJA}{%
@@ -15022,6 +15281,35 @@
     \field{volume}{88}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1980}
+  \endentry
+
+  \entry{Wicksell1896}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WK}{%
+         family={Wicksell},
+         familyi={W\bibinitperiod},
+         given={Knut},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=FJG}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Jena:\bibnamedelima Gustav},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WK1}
+    \strng{fullhash}{WK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1896}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Finanztheoretische Untersuchungen}
+    \field{year}{1896}
   \endentry
 
   \entry{Wicksel1898}{book}{}
