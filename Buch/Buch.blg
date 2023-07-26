@@ -98,62 +98,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 81160 items.
+Reallocating 'field_info' (item size: 4) to 82140 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
-I was expecting a `,' or a `}'---line 11257 of file Literatur.bib
- :  
- :  title = {An Empirical Study of Politico Economic Interaction in the United States},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 11277 of file Literatur.bib
- :  
- :  title = {A Politico Economic Model of the United Kingdom},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 544 entries,
+You've used 551 entries,
             6399 wiz_defined-function locations,
-            4228 strings with 74720 characters,
-and the built_in function-call counts, 3856040 in all, are:
-= -- 288361
-> -- 84023
-< -- 16848
-+ -- 109932
-- -- 45499
-* -- 280180
-:= -- 411684
+            4262 strings with 75534 characters,
+and the built_in function-call counts, 3897364 in all, are:
+= -- 291272
+> -- 84741
+< -- 17015
++ -- 110946
+- -- 45753
+* -- 283282
+:= -- 415964
 add.period$ -- 0
-call.type$ -- 544
-change.case$ -- 543
+call.type$ -- 551
+change.case$ -- 550
 chr.to.int$ -- 1677
-cite$ -- 1086
-duplicate$ -- 361463
-empty$ -- 356647
-format.name$ -- 30982
-if$ -- 785715
+cite$ -- 1100
+duplicate$ -- 365939
+empty$ -- 360511
+format.name$ -- 31417
+if$ -- 794296
 int.to.chr$ -- 0
-int.to.str$ -- 1748
+int.to.str$ -- 1771
 missing$ -- 0
-newline$ -- 15526
-num.names$ -- 27322
-pop$ -- 188093
+newline$ -- 15727
+num.names$ -- 27633
+pop$ -- 190487
 preamble$ -- 1
-purify$ -- 10781
+purify$ -- 10884
 quote$ -- 0
-skip$ -- 112324
+skip$ -- 113633
 stack$ -- 0
-substring$ -- 552404
-swap$ -- 82447
-text.length$ -- 13773
-text.prefix$ -- 544
+substring$ -- 557363
+swap$ -- 83501
+text.length$ -- 13944
+text.prefix$ -- 551
 top$ -- 1
-type$ -- 18484
+type$ -- 18722
 warning$ -- 0
-while$ -- 42425
+while$ -- 42955
 width$ -- 0
-write$ -- 14983
-(There were 2 error messages)
+write$ -- 15177

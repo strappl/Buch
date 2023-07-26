@@ -440,6 +440,146 @@
     \field{year}{1973}
   \endentry
 
+  \entry{Alesina1987}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AA1}
+    \strng{fullhash}{AA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{651\bibrangedash 678}
+    \field{title}{Macroeconomic Policy in a Two-Party System as a Repeated
+  Game}
+    \field{volume}{102}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1987}
+  \endentry
+
+  \entry{Alesina1988}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AA1}
+    \strng{fullhash}{AA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1988}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4}
+    \field{pages}{796\bibrangedash 805}
+    \field{title}{Credibility and Policy Convergence in a Two-Party System with
+  Rational Voters}
+    \field{volume}{78}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1988}
+  \endentry
+
+  \entry{Alesina1989}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AA1}
+    \strng{fullhash}{AA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{8}
+    \field{pages}{55\bibrangedash 98}
+    \field{title}{Politics and Business Cycles in Industrial Democracies}
+    \field{volume}{4}
+    \field{journaltitle}{Economic policy}
+    \field{year}{1989}
+  \endentry
+
+  \entry{Alesina1992}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RN}{%
+         family={Roubini},
+         familyi={R\bibinitperiod},
+         given={Nouriel},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AARN1}
+    \strng{fullhash}{AARN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4}
+    \field{pages}{663\bibrangedash 688}
+    \field{title}{Political Cycles in OECD Economies}
+    \field{volume}{59}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Alesina1988b}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sachs},
+         familyi={S\bibinitperiod},
+         given={Jeffrey},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AASJ1}
+    \strng{fullhash}{AASJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1988}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{1}
+    \field{pages}{63\bibrangedash 82}
+    \field{title}{Political Parties and the Business Cycle in the United
+  States, 1948--1984}
+    \field{volume}{20}
+    \field{journaltitle}{Journal of Money, Credit, and Banking}
+    \field{year}{1988}
+  \endentry
+
   \entry{Alesina1993}{article}{}
     \name{author}{2}{}{%
       {{hash=AA}{%
@@ -759,8 +899,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{AA1}
-    \strng{fullhash}{AA1}
+    \strng{namehash}{AA2}
+    \strng{fullhash}{AA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2001}
@@ -5238,6 +5378,71 @@
     \field{volume}{116}
     \field{journaltitle}{Public Choice}
     \field{year}{2003}
+  \endentry
+
+  \entry{Schneider1978b}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FBS}{%
+         family={Frey},
+         familyi={F\bibinitperiod},
+         given={Bruno\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Schneider},
+         familyi={S\bibinitperiod},
+         given={Friedrich},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FBSSF1}
+    \strng{fullhash}{FBSSF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{2}
+    \field{pages}{243\bibrangedash 253}
+    \field{title}{A Politico Economic Model of the United Kingdom}
+    \field{volume}{88}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{1978}
+  \endentry
+
+  \entry{Schneider1978a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FBS}{%
+         family={Frey},
+         familyi={F\bibinitperiod},
+         given={Bruno\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Schneider},
+         familyi={S\bibinitperiod},
+         given={Friedrich},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FBSSF1}
+    \strng{fullhash}{FBSSF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{2}
+    \field{pages}{174\bibrangedash 183}
+    \field{title}{An Empirical Study of Politico Economic Interaction in the
+  United States}
+    \field{volume}{60}
+    \field{journaltitle}{Review of Economics and Statistics}
+    \field{year}{1978}
   \endentry
 
   \entry{Friedman1963}{book}{}
