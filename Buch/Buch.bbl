@@ -2877,6 +2877,42 @@
     \field{year}{1968}
   \endentry
 
+  \entry{Musgrave1999}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BJM}{%
+         family={Buchanan},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MRA}{%
+         family={Musgrave},
+         familyi={M\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PM}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={MIT},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJMMRA1}
+    \strng{fullhash}{BJMMRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Public Finance and Public Choice: Two Contrasting Visions of
+  the State}
+    \field{year}{1999}
+  \endentry
+
   \entry{Buchanan1962}{book}{}
     \name{author}{2}{}{%
       {{hash=BJM}{%
@@ -3198,6 +3234,35 @@
     \field{volume}{91}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1983}
+  \endentry
+
+  \entry{Cassel1918}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CG}{%
+         family={Cassel},
+         familyi={C\bibinitperiod},
+         given={Gustav},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=DLA}{%
+         family={Deichert},
+         familyi={D\bibinitperiod},
+         given={Leipzig:\bibnamedelima A.},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CG1}
+    \strng{fullhash}{CG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1918}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Theoretische Sozialökonomie}
+    \field{year}{1918}
   \endentry
 
   \entry{Cassidy2015}{misc}{}
@@ -6471,35 +6536,6 @@
     \field{year}{2023}
   \endentry
 
-  \entry{Cassel1918}{book}{}
-    \name{author}{1}{}{%
-      {{hash=GC}{%
-         family={Gustav},
-         familyi={G\bibinitperiod},
-         given={Cassel},
-         giveni={C\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=DLA}{%
-         family={Deichert},
-         familyi={D\bibinitperiod},
-         given={Leipzig:\bibnamedelima A.},
-         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{GC1}
-    \strng{fullhash}{GC1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1918}
-    \field{labeldatesource}{}
-    \field{sortinit}{G}
-    \field{sortinithash}{G}
-    \field{title}{Theoretische Sozialökonomie}
-    \field{year}{1918}
-  \endentry
-
   \entry{Hall2008}{article}{}
     \name{author}{2}{}{%
       {{hash=HRE}{%
@@ -8843,6 +8879,36 @@
     \field{year}{1941}
   \endentry
 
+  \entry{Lindhal1928}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LE}{%
+         family={Lindhal},
+         familyi={L\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=UBLG}{%
+         family={Universitets-Bokhandelen},
+         familyi={U\bibinithyphendelim B\bibinitperiod},
+         given={Lund:\bibnamedelima Gleerupska},
+         giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LE1}
+    \strng{fullhash}{LE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1928}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Die Gerechtigkeit der Besteuerung, Eine Analyse der
+  Steuerprinzipien auf der Grundlage der Grenznutzentheorie,}
+    \field{year}{1928}
+  \endentry
+
   \entry{Linss2017}{book}{}
     \name{author}{1}{}{%
       {{hash=LV}{%
@@ -10548,6 +10614,85 @@
     \verb ure/
     \endverb
     \field{year}{1999}
+  \endentry
+
+  \entry{Musgrave1939}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRA}{%
+         family={Musgrave},
+         familyi={M\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRA4}
+    \strng{fullhash}{MRA4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1939}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{213\bibrangedash 237}
+    \field{title}{The Voluntary Exchange Theory of Public Economy}
+    \field{volume}{53}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1939}
+  \endentry
+
+  \entry{Musgrave1956}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRA}{%
+         family={Musgrave},
+         familyi={M\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRA4}
+    \strng{fullhash}{MRA4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1956}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{333\bibrangedash 343}
+    \field{title}{A Multiple Theory of Budget Determination}
+    \field{volume}{17}
+    \field{journaltitle}{FinanzArchiv}
+    \field{year}{1956}
+  \endentry
+
+  \entry{Musgrave1959}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MRA}{%
+         family={Musgrave},
+         familyi={M\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MHNY}{%
+         family={MacGraw-Hill},
+         familyi={M\bibinithyphendelim H\bibinitperiod},
+         given={New\bibnamedelima York:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRA4}
+    \strng{fullhash}{MRA4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1959}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The Theory of Public Finance: A Study in Public Economy}
+    \field{year}{1959}
   \endentry
 
   \entry{Muth1961}{article}{}
@@ -12334,6 +12479,34 @@
     \field{year}{2005}
   \endentry
 
+  \entry{Rogoff1986}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RK}{%
+         family={Rogoff},
+         familyi={R\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sibert},
+         familyi={S\bibinitperiod},
+         given={Anne},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RKSA1}
+    \strng{fullhash}{RKSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Elections and Macroeconomic Policy Cycles}
+    \field{journaltitle}{NBER Working Paper No. 1838}
+    \field{year}{1986}
+  \endentry
+
   \entry{Romer1998}{article}{}
     \name{author}{2}{}{%
       {{hash=RCD}{%
@@ -13143,9 +13316,6 @@
          giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {The MIT Press}%
-    }
     \strng{namehash}{SPA1}
     \strng{fullhash}{SPA1}
     \field{labelnamesource}{author}
@@ -13157,12 +13327,59 @@
     \field{number}{4}
     \field{pages}{387\bibrangedash 389}
     \field{title}{The Pure Theory of Public Expenditure}
-    \verb{url}
-    \verb http://www.jstor.org/stable/1925895
-    \endverb
     \field{volume}{36}
     \field{journaltitle}{The Review of Economics and Statistics}
     \field{year}{1954}
+  \endentry
+
+  \entry{Samuelson1955}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SPA}{%
+         family={Samuelson},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SPA1}
+    \strng{fullhash}{SPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1955}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{4}
+    \field{pages}{350\bibrangedash 356}
+    \field{title}{Diagrammatic Exposition of a Theory of Public Expenditure}
+    \field{volume}{37}
+    \field{journaltitle}{The Review of Economics and Statistics}
+    \field{year}{1955}
+  \endentry
+
+  \entry{Samuelson1958}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SPA}{%
+         family={Samuelson},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SPA1}
+    \strng{fullhash}{SPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1958}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{4}
+    \field{pages}{332\bibrangedash 338}
+    \field{title}{Aspects of Public Expenditure Theories}
+    \field{volume}{37}
+    \field{journaltitle}{The Review of Economics and Statistics}
+    \field{year}{1958}
   \endentry
 
   \entry{Samuelson1960}{article}{}
@@ -13225,6 +13442,32 @@
     \field{year}{1948}
   \endentry
 
+  \entry{Sandmo1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Sandmo},
+         familyi={S\bibinitperiod},
+         given={Agnar},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{1}
+    \field{pages}{165\bibrangedash 180}
+    \field{title}{Asymmetric Information and Public Economics: The
+  Mirrlees-Vickrey Nobel Prize}
+    \field{volume}{13}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{1999}
+  \endentry
+
   \entry{Sargent1975}{article}{}
     \name{author}{1}{}{%
       {{hash=SNTJW}{%
@@ -13255,6 +13498,35 @@
     \field{volume}{83}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1975}
+  \endentry
+
+  \entry{Sax1887}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SE}{%
+         family={Sax},
+         familyi={S\bibinitperiod},
+         given={Emil},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=HWA}{%
+         family={Hölder},
+         familyi={H\bibinitperiod},
+         given={Wien:\bibnamedelima Alfred},
+         giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SE1}
+    \strng{fullhash}{SE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1887}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Grundlegung der theoretischen Staatswirtschaft}
+    \field{year}{1887}
   \endentry
 
   \entry{Schelling1960}{book}{}
@@ -13698,8 +13970,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SA1}
-    \strng{fullhash}{SA1}
+    \strng{namehash}{SA2}
+    \strng{fullhash}{SA2}
     \field{labelnamesource}{author}
     \field{labelyear}{1970}
     \field{extradate}{1}
@@ -13722,8 +13994,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SA1}
-    \strng{fullhash}{SA1}
+    \strng{namehash}{SA2}
+    \strng{fullhash}{SA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1970}
@@ -13748,8 +14020,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SA1}
-    \strng{fullhash}{SA1}
+    \strng{namehash}{SA2}
+    \strng{fullhash}{SA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1999}
@@ -13956,6 +14228,27 @@
     \field{volume}{107}
     \field{journaltitle}{American Economic Review}
     \field{year}{2017}
+  \endentry
+
+  \entry{Sinn2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SHW}{%
+         family={Sinn},
+         familyi={S\bibinitperiod},
+         given={Hans-Werner},
+         giveni={H\bibinithyphendelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SHW1}
+    \strng{fullhash}{SHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Please bring me the New York Times: On the European Roots of
+  Richard Abel Musgrave}
+    \field{journaltitle}{CESifo Working Paper No. 2050}
   \endentry
 
   \entry{Skousen2005}{book}{}
@@ -14507,6 +14800,32 @@
     \field{title}{The Influence of German Economics on the Work of Menger and
   Marshall}
     \field{year}{1990}
+  \endentry
+
+  \entry{Sturn2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SR}{%
+         family={Sturn},
+         familyi={S\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SR3}
+    \strng{fullhash}{SR3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{587\bibrangedash 595}
+    \field{title}{Richard Abel Musgrave 1910 – 2007}
+    \field{volume}{14}
+    \field{journaltitle}{The European Journal of the History of Economic
+  Thought}
+    \field{year}{2007}
   \endentry
 
   \entry{Suzumura2016}{article}{}
