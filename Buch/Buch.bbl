@@ -2877,6 +2877,31 @@
     \field{year}{1968}
   \endentry
 
+  \entry{Buchanan1965}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BJM}{%
+         family={Buchanan},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJM1}
+    \strng{fullhash}{BJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1965}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{125}
+    \field{pages}{1\bibrangedash 14}
+    \field{title}{An Economic Theory of Clubs}
+    \field{volume}{32}
+    \field{journaltitle}{Economica}
+    \field{year}{1965}
+  \endentry
+
   \entry{Musgrave1999}{book}{}
     \name{author}{2}{}{%
       {{hash=BJM}{%
@@ -4782,6 +4807,31 @@
     \field{title}{Mathematical Psychics: An Essay on the Application of
   Mathematics to the Moral Sciences}
     \field{year}{1881}
+  \endentry
+
+  \entry{Edgeworth1897}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EFY}{%
+         family={Edgeworth},
+         familyi={E\bibinitperiod},
+         given={Francis\bibnamedelima Y.},
+         giveni={F\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EFY1}
+    \strng{fullhash}{EFY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1897}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{28}
+    \field{pages}{550\bibrangedash 571}
+    \field{title}{The Pure Theory of Taxation}
+    \field{volume}{7}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{1897}
   \endentry
 
   \entry{Eisermann1989}{incollection}{}
@@ -10085,6 +10135,31 @@
     \field{year}{2009}
   \endentry
 
+  \entry{Mirrlees1971}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MJA}{%
+         family={Mirrlees},
+         familyi={M\bibinitperiod},
+         given={James.\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJA1}
+    \strng{fullhash}{MJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1971}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{175\bibrangedash 208}
+    \field{title}{An Exploration in the Theory of Optimum Income Taxation}
+    \field{volume}{38}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1971}
+  \endentry
+
   \entry{Mishkin2000}{article}{}
     \name{author}{1}{}{%
       {{hash=MFS}{%
@@ -10693,6 +10768,31 @@
     \field{sortinithash}{M}
     \field{title}{The Theory of Public Finance: A Study in Public Economy}
     \field{year}{1959}
+  \endentry
+
+  \entry{Musgrave1981}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRA}{%
+         family={Musgrave},
+         familyi={M\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRA4}
+    \strng{fullhash}{MRA4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{29\bibrangedash 42}
+    \field{title}{Der gegenwärtige Stand der Theorie der Besteuerung}
+    \field{volume}{39}
+    \field{journaltitle}{FinanzArchiv}
+    \field{year}{1981}
   \endentry
 
   \entry{Muth1961}{article}{}
@@ -11340,6 +11440,31 @@
     \field{volume}{59}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{2012}
+  \endentry
+
+  \entry{Ostrom1990}{book}{}
+    \name{author}{1}{}{%
+      {{hash=OE}{%
+         family={Ostrom},
+         familyi={O\bibinitperiod},
+         given={Elinor},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{OE1}
+    \strng{fullhash}{OE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{Governing the Commons: The Evolution of Institutions for
+  Collective Action}
+    \field{year}{1990}
   \endentry
 
   \entry{Pareto1896}{book}{}
@@ -14683,6 +14808,31 @@
     \field{year}{1976}
   \endentry
 
+  \entry{Stiglitz1982}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJE}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         given={Joseph\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJE1}
+    \strng{fullhash}{SJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{213\bibrangedash 240}
+    \field{title}{Self-Selection and Pareto Efficient Taxation}
+    \field{volume}{17}
+    \field{journaltitle}{Journal of Public Economics}
+    \field{year}{1982}
+  \endentry
+
   \entry{Stiglitz1984}{article}{}
     \name{author}{1}{}{%
       {{hash=SJE}{%
@@ -15391,6 +15541,60 @@
     \field{title}{Neoliberalism as Concept}
     \field{journaltitle}{Economy and Society}
     \field{year}{2015}
+  \endentry
+
+  \entry{Vickrey1945}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VW}{%
+         family={Vickrey},
+         familyi={V\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VW1}
+    \strng{fullhash}{VW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1945}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{issue}{4}
+    \field{pages}{319\bibrangedash 333}
+    \field{title}{Measuring Marginal Utility by Reactions to Risk}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1945}
+  \endentry
+
+  \entry{Vickrey1947}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VW}{%
+         family={Vickrey},
+         familyi={V\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PNYR}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={New York:\bibnamedelima Ronald},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VW1}
+    \strng{fullhash}{VW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1947}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Agenda for Progressive Taxation}
+    \field{year}{1947}
   \endentry
 
   \entry{Vickrey1961}{article}{}

@@ -100,51 +100,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 83820 items.
+Reallocating 'field_info' (item size: 4) to 84940 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 563 entries,
+You've used 571 entries,
             6399 wiz_defined-function locations,
-            4319 strings with 76879 characters,
-and the built_in function-call counts, 3973845 in all, are:
-= -- 297084
-> -- 85810
-< -- 17276
-+ -- 112556
-- -- 46095
-* -- 289166
-:= -- 423960
+            4354 strings with 77539 characters,
+and the built_in function-call counts, 4019376 in all, are:
+= -- 300394
+> -- 86518
+< -- 17477
++ -- 113410
+- -- 46298
+* -- 292573
+:= -- 428367
 add.period$ -- 0
-call.type$ -- 563
-change.case$ -- 562
+call.type$ -- 571
+change.case$ -- 570
 chr.to.int$ -- 1677
-cite$ -- 1124
-duplicate$ -- 373299
-empty$ -- 367949
-format.name$ -- 32094
-if$ -- 810313
+cite$ -- 1140
+duplicate$ -- 377717
+empty$ -- 372493
+format.name$ -- 32509
+if$ -- 820047
 int.to.chr$ -- 0
-int.to.str$ -- 1812
+int.to.str$ -- 1840
 missing$ -- 0
-newline$ -- 16041
-num.names$ -- 28159
-pop$ -- 194638
+newline$ -- 16243
+num.names$ -- 28548
+pop$ -- 197329
 preamble$ -- 1
-purify$ -- 11029
+purify$ -- 11158
 quote$ -- 0
-skip$ -- 115732
+skip$ -- 117250
 stack$ -- 0
-substring$ -- 568573
-swap$ -- 85112
-text.length$ -- 14224
-text.prefix$ -- 563
+substring$ -- 574681
+swap$ -- 86219
+text.length$ -- 14400
+text.prefix$ -- 571
 top$ -- 1
-type$ -- 19130
+type$ -- 19402
 warning$ -- 0
-while$ -- 43823
+while$ -- 44299
 width$ -- 0
-write$ -- 15479
+write$ -- 15673
