@@ -480,6 +480,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1988}
+    \field{extradate}{1}
     \field{labeldatesource}{}
     \field{sortinit}{A}
     \field{sortinithash}{A}
@@ -489,6 +490,31 @@
   Rational Voters}
     \field{volume}{78}
     \field{journaltitle}{The American Economic Review}
+    \field{year}{1988}
+  \endentry
+
+  \entry{Alesina1988c}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AA1}
+    \strng{fullhash}{AA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1988}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{pages}{13\bibrangedash 52}
+    \field{title}{Macroeconomics and Politics}
+    \field{volume}{3}
+    \field{journaltitle}{NBER Macroeconomics Annual}
     \field{year}{1988}
   \endentry
 
@@ -7286,6 +7312,38 @@
     \field{year}{1848}
   \endentry
 
+  \entry{Hirschman1973}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HAO}{%
+         family={Hirschman},
+         familyi={H\bibinitperiod},
+         given={Albert\bibnamedelima O.},
+         giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rothschild},
+         familyi={R\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HAORM1}
+    \strng{fullhash}{HAORM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{4}
+    \field{pages}{544\bibrangedash 566}
+    \field{title}{The Changing Tolerance for Income Inequality in the Course of
+  Economic Development: With a Mathematical Appendix}
+    \field{volume}{87}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1973}
+  \endentry
+
   \entry{Holler2005}{book}{}
     \name{author}{2}{}{%
       {{hash=HMJ}{%
@@ -10185,6 +10243,30 @@
     \field{year}{2000}
   \endentry
 
+  \entry{Mitchell1988}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MWC}{%
+         family={Mitchell},
+         familyi={M\bibinitperiod},
+         given={William\bibnamedelima C.},
+         giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MWC1}
+    \strng{fullhash}{MWC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1988}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{101\bibrangedash 119}
+    \field{title}{Virginia, Rochester, and Bloomington: Twenty-Five Years of
+  Public Choice and Political Science}
+    \field{journaltitle}{Public Choice}
+    \field{year}{1988}
+  \endentry
+
   \entry{Modigliani1944}{article}{}
     \name{author}{1}{}{%
       {{hash=MF}{%
@@ -11467,6 +11549,76 @@
     \field{year}{1990}
   \endentry
 
+  \entry{Ostrom1971}{article}{}
+    \name{author}{2}{}{%
+      {{hash=OV}{%
+         family={Ostrom},
+         familyi={O\bibinitperiod},
+         given={Vincent},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=OE}{%
+         family={Ostrom},
+         familyi={O\bibinitperiod},
+         given={Elinor},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OVOE1}
+    \strng{fullhash}{OVOE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1971}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{2}
+    \field{pages}{203\bibrangedash 216}
+    \field{title}{Public Choice: A Different Approach to the Study of Public
+  Administration}
+    \field{volume}{31}
+    \field{journaltitle}{Public Administration Review}
+    \field{year}{1971}
+  \endentry
+
+  \entry{Ostrom1961}{article}{}
+    \name{author}{3}{}{%
+      {{hash=OV}{%
+         family={Ostrom},
+         familyi={O\bibinitperiod},
+         given={Vincent},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=TCM}{%
+         family={Tiebout},
+         familyi={T\bibinitperiod},
+         given={Charles\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Warren},
+         familyi={W\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OVTCMWR1}
+    \strng{fullhash}{OVTCMWR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1961}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{4}
+    \field{pages}{831\bibrangedash 842}
+    \field{title}{The Organization of Government in Metropolitan Areas: A
+  Theoretical Inquiry}
+    \field{volume}{55}
+    \field{journaltitle}{American Political Science Review}
+    \field{year}{1961}
+  \endentry
+
   \entry{Pareto1896}{book}{}
     \name{author}{1}{}{%
       {{hash=PV}{%
@@ -12476,6 +12628,36 @@
     \field{pages}{135\bibrangedash 157}
     \field{title}{Alfred Marshall (1842 - 1924)}
     \field{year}{1989}
+  \endentry
+
+  \entry{Riker1962}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RWH}{%
+         family={Riker},
+         familyi={R\bibinitperiod},
+         given={William\bibnamedelima H.},
+         giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PNHYU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={New Haven: Yale\bibnamedelima University},
+         giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  Y\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RWH1}
+    \strng{fullhash}{RWH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{The Theory of Political Coalitions}
+    \field{year}{1962}
   \endentry
 
   \entry{Robbins1932}{book}{}
