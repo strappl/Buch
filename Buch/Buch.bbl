@@ -6418,6 +6418,42 @@
     \field{year}{1995}
   \endentry
 
+  \entry{Tullock1981}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=GB}{%
+         family={Grofman},
+         familyi={G\bibinitperiod},
+         given={Bernand},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=TG}{%
+         family={Tullock},
+         familyi={T\bibinitperiod},
+         given={Gordon},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Blacksburg: Public Choice Center}%
+    }
+    \strng{namehash}{GB1}
+    \strng{fullhash}{GB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{Towards a Science of Politics: Essays in Honor of Duncan
+  Black}
+    \field{pages}{12–\bibrangedash 57}
+    \field{title}{The Theory of Commitees and Elections: The Legacy of Duncan
+  Black}
+    \field{year}{1981}
+  \endentry
+
   \entry{Grofman2004}{article}{}
     \name{author}{1}{}{%
       {{hash=GB}{%
@@ -6427,8 +6463,8 @@
          giveni={B\bibinitperiod},
       }}%
     }
-    \strng{namehash}{GB1}
-    \strng{fullhash}{GB1}
+    \strng{namehash}{GB2}
+    \strng{fullhash}{GB2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2004}
