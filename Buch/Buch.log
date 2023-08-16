@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  11 AUG 2023 19:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.16)  16 AUG 2023 19:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1390,16 +1390,16 @@ l-ler-dings das Medianwähler-
  []
 
 [299] [300] [301] [302] [303] [304] [305] [306] [307] [308] [309] [310]
-[311] [312]) [313]
+[311] [312] [313]) [314]
 \openout2 = `Teil_V.aux'.
 
- (Teil_V.tex [314
+ (Teil_V.tex [315
 
 
 
 
 
-] [315] [316])
+] [316])
 \openout2 = `Kapitel_5_1.aux'.
 
  (Kapitel_5_1.tex
@@ -1602,13 +1602,13 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28517 strings out of 475385
- 613028 string characters out of 2786718
- 1391270 words of memory out of 3000000
- 49269 multiletter control sequences out of 15000+600000
+ 28529 strings out of 475385
+ 613324 string characters out of 2786718
+ 1391864 words of memory out of 3000000
+ 49281 multiletter control sequences out of 15000+600000
  482171 words of font info for 50 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 84i,14n,80p,6846b,3525s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,14n,80p,6846b,3534s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
 t1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ecbi1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
@@ -1636,9 +1636,9 @@ s/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public
 mr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (401 pages, 1515774 bytes).
+Output written on Buch.pdf (401 pages, 1520192 bytes).
 PDF statistics:
- 2174 PDF objects out of 2487 (max. 8388607)
+ 2175 PDF objects out of 2487 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

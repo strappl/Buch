@@ -104,11 +104,11 @@
 \contentsline {section}{\numberline {18.3}Acemoglu: Kein Wohlstand ohne Institutionen}{292}{}%
 \contentsline {chapter}{\numberline {19}Neue Politische Ökonomie}{293}{}%
 \contentsline {section}{\numberline {19.1}Black: Das Medianwähler-Modell}{299}{}%
-\contentsline {section}{\numberline {19.2}Downs: Wahlergebnisse als Marktergebnisse}{300}{}%
+\contentsline {section}{\numberline {19.2}Downs: Wahlergebnisse als Marktergebnisse}{301}{}%
 \contentsline {section}{\numberline {19.3}Buchanan: Die Public-Choice Theorie}{302}{}%
-\contentsline {section}{\numberline {19.4}Riker: Politische Ökonomie als quantitative, Positive Theorie}{302}{}%
-\contentsline {section}{\numberline {19.5}Der Politische Wirtschaftszyklus}{302}{}%
-\contentsline {section}{\numberline {19.6}Moderne Politische Ökonomie: Die Unabhängigkeit von Zentralbanken}{308}{}%
+\contentsline {section}{\numberline {19.4}Riker: Politische Ökonomie als quantitative, Positive Theorie}{304}{}%
+\contentsline {section}{\numberline {19.5}Der Politische Wirtschaftszyklus}{304}{}%
+\contentsline {section}{\numberline {19.6}Moderne Politische Ökonomie: Die Unabhängigkeit von Zentralbanken}{309}{}%
 \contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Ökonomie abseits des Mainstreams}{315}{}%
 \contentsline {chapter}{\numberline {20}Österreichische Schule}{317}{}%
 \contentsline {section}{\numberline {20.1}Wieser: Der Schüler Mengers}{318}{}%

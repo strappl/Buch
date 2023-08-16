@@ -12495,6 +12495,39 @@
     \field{year}{1964}
   \endentry
 
+  \entry{Pressman1999}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PS}{%
+         family={Pressman},
+         familyi={P\bibinitperiod},
+         given={Steven},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=L}{%
+         family={London},
+         familyi={L\bibinitperiod},
+      }}%
+      {{hash=RNY}{%
+         family={Routledge},
+         familyi={R\bibinitperiod},
+         given={New\bibnamedelima York:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PS1}
+    \strng{fullhash}{PS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Fifty Major Economists}
+    \field{year}{1999}
+  \endentry
+
   \entry{Ramey1995}{article}{}
     \name{author}{2}{}{%
       {{hash=RG}{%
