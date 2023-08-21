@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -1211,6 +1211,37 @@
     \field{year}{2005}
   \endentry
 
+  \entry{Backhaus2005}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BJG}{%
+         family={Backhaus},
+         familyi={B\bibinitperiod},
+         given={Jürgen\bibnamedelima G.},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=WRE}{%
+         family={Wagner},
+         familyi={W\bibinitperiod},
+         given={Richard\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJGWRE1}
+    \strng{fullhash}{BJGWRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{pages}{20\bibrangedash 32}
+    \field{title}{From Continental Public Finance to Public Choice: Mapping
+  Continuity}
+    \field{volume}{37}
+    \field{journaltitle}{History of Political Economy}
+    \field{year}{2005}
+  \endentry
+
   \entry{Balabkins1993}{article}{}
     \name{author}{1}{}{%
       {{hash=BNW}{%
@@ -2280,6 +2311,38 @@
     \field{year}{1996}
   \endentry
 
+  \entry{BohmBawerk1888}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BBE}{%
+         family={Böhm-Bawerk},
+         familyi={B\bibinithyphendelim B\bibinitperiod},
+         given={Eugen},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dWUBIV}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Wagner'schen Universitäts-Buchhandlung},
+         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
+  B\bibinitperiod},
+         given={Innsbruck:\bibnamedelima Verlag},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBE1}
+    \strng{fullhash}{BBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1889}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
+    \field{year}{1889}
+  \endentry
+
   \entry{Bils1987}{article}{}
     \name{author}{1}{}{%
       {{hash=BM}{%
@@ -2903,6 +2966,41 @@
     \field{year}{1968}
   \endentry
 
+  \entry{Buchanan1978}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BJMuBJuWRE}{%
+         family={Buchanan},
+         familyi={B\bibinitperiod},
+         given={James M. und Burton John und Wagner Richard\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  u\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  J\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim
+  W\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PNYA}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={New York:\bibnamedelima Academic},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJMuBJuWRE1}
+    \strng{fullhash}{BJMuBJuWRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{The Consequences of Mr. Keynes, Institute of Economic
+  Affairs}
+    \field{year}{1977}
+  \endentry
+
   \entry{Buchanan1965}{article}{}
     \name{author}{1}{}{%
       {{hash=BJM}{%
@@ -3003,6 +3101,40 @@
     \field{year}{1962}
   \endentry
 
+  \entry{Buchanan1977}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BREJMuW}{%
+         family={Buchanan},
+         familyi={B\bibinitperiod},
+         suffix={James M. und\bibnamedelima Wagner},
+         suffixi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  u\bibinitperiod\bibinitdelim W\bibinitperiod},
+         given={Richard\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PNYA}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={New York:\bibnamedelima Academic},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJMuWRE1}
+    \strng{fullhash}{BJMuWRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Democracy in Deficit: The Political Legacy of Lord Keynes}
+    \field{year}{1977}
+  \endentry
+
   \entry{BBK2016}{book}{}
     \name{author}{1}{}{%
       {{hash=BD}{%
@@ -3030,38 +3162,6 @@
     \field{sortinithash}{B}
     \field{title}{Notenbank für Deutschland}
     \field{year}{2016}
-  \endentry
-
-  \entry{BohmBawerk1888}{book}{}
-    \name{author}{1}{}{%
-      {{hash=BBE}{%
-         family={Böhm-Bawerk},
-         familyi={B\bibinithyphendelim B\bibinitperiod},
-         given={Eugen},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=dWUBIV}{%
-         prefix={der},
-         prefixi={d\bibinitperiod},
-         family={Wagner'schen Universitäts-Buchhandlung},
-         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
-  B\bibinitperiod},
-         given={Innsbruck:\bibnamedelima Verlag},
-         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BBE1}
-    \strng{fullhash}{BBE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1889}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
-    \field{year}{1889}
   \endentry
 
   \entry{Caldwell2001}{article}{}
@@ -13102,6 +13202,32 @@
     \verb e/
     \endverb
     \field{year}{2018}
+  \endentry
+
+  \entry{Romer1988}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RT}{%
+         family={Romer},
+         familyi={R\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RT1}
+    \strng{fullhash}{RT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1988}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{4}
+    \field{pages}{165\bibrangedash 179}
+    \field{title}{Nobel Laureate: On James Buchanan's Contributions to Public
+  Economics}
+    \field{volume}{2}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{1988}
   \endentry
 
   \entry{Roscher1843}{book}{}
