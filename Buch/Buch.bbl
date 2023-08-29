@@ -15884,6 +15884,56 @@
     \field{year}{1961}
   \endentry
 
+  \entry{Tullock1959}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TG}{%
+         family={Tullock},
+         familyi={T\bibinitperiod},
+         given={Gordon},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TG1}
+    \strng{fullhash}{TG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1959}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{6}
+    \field{pages}{571\bibrangedash 579}
+    \field{title}{Problems of Majority Voting}
+    \field{volume}{67}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1959}
+  \endentry
+
+  \entry{Tullock1967}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TG}{%
+         family={Tullock},
+         familyi={T\bibinitperiod},
+         given={Gordon},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TG1}
+    \strng{fullhash}{TG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1967}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{3}
+    \field{pages}{224\bibrangedash 232}
+    \field{title}{The Welfare Costs of Tariffs, Monopolies, and Theft}
+    \field{volume}{5}
+    \field{journaltitle}{Western Economic Journal}
+    \field{year}{1967}
+  \endentry
+
   \entry{Lucas2013}{misc}{}
     \name{author}{1}{}{%
       {{hash=UH}{%

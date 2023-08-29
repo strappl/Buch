@@ -106,43 +106,43 @@
 \contentsline {section}{\numberline {19.1}Black: Das Medianwähler-Modell}{299}{}%
 \contentsline {section}{\numberline {19.2}Downs: Wahlergebnisse als Marktergebnisse}{301}{}%
 \contentsline {section}{\numberline {19.3}Buchanan: Die Public-Choice Theorie}{302}{}%
-\contentsline {section}{\numberline {19.4}Riker: Politische Ökonomie als quantitative, Positive Theorie}{308}{}%
-\contentsline {section}{\numberline {19.5}Die Ostroms}{308}{}%
-\contentsline {section}{\numberline {19.6}Der Politische Wirtschaftszyklus}{308}{}%
-\contentsline {section}{\numberline {19.7}Moderne Politische Ökonomie: Die Unabhängigkeit von Zentralbanken}{313}{}%
-\contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Ökonomie abseits des Mainstreams}{319}{}%
-\contentsline {chapter}{\numberline {20}Österreichische Schule}{321}{}%
-\contentsline {section}{\numberline {20.1}Wieser: Der Schüler Mengers}{322}{}%
-\contentsline {section}{\numberline {20.2}Mises: Der Hauptvertreter}{322}{}%
-\contentsline {section}{\numberline {20.3}Hayek: Weg vom Mainstream, aber rein in die Politik}{322}{}%
-\contentsline {section}{\numberline {20.4}Rothbard, Kirzner \& die Tea Party}{322}{}%
-\contentsline {section}{\numberline {20.5}Schumpeter: Der ganz eigene Weg}{322}{}%
-\contentsline {section}{\numberline {20.6}Die Stockholmer Schule}{323}{}%
-\contentsline {chapter}{\numberline {21}Schumpeter: Der ganz eigene Weg}{325}{}%
-\contentsline {section}{\numberline {21.1}Vorläufer Zyklentheorie: Kondratieff}{325}{}%
-\contentsline {section}{\numberline {21.2}Die schöpferische Zerstörung}{325}{}%
-\contentsline {chapter}{\numberline {22}Supply-Side-Economics}{327}{}%
-\contentsline {chapter}{\numberline {23}Neoliberalismus}{335}{}%
-\contentsline {section}{\numberline {23.1}Den Neoliberalismus gibt es nicht!}{335}{}%
-\contentsline {section}{\numberline {23.2}Ordoliberalismus}{342}{}%
-\contentsline {chapter}{\numberline {24}"'Echte"' Keynes-Anhänger und der Post-Keynesianismus}{343}{}%
-\contentsline {section}{\numberline {24.1}Kalecki: Post-Keynesianer vor Keynes}{343}{}%
-\contentsline {section}{\numberline {24.2}Axel Leijonhufvud: Vater der Ungleichgewichtstheorie}{343}{}%
-\contentsline {section}{\numberline {24.3}Harrod \& Domar: Das erste Wachstumsmodell}{343}{}%
-\contentsline {section}{\numberline {24.4}Kaldor: Der Begründer des Post-Keynesianismus}{345}{}%
-\contentsline {section}{\numberline {24.5}Myrdal \& Sraffa}{345}{}%
-\contentsline {section}{\numberline {24.6}Linkskeynesianismus: Lernen \& Robinson}{345}{}%
-\contentsline {section}{\numberline {24.7}Minsky: Die Absurdität des Finanzmarktgleichgewichts}{345}{}%
-\contentsline {chapter}{\numberline {25}Exkurs: Behavioral Economics}{347}{}%
-\contentsline {section}{\numberline {25.1}Allais: Es begann mit einem Paradoxon}{347}{}%
-\contentsline {section}{\numberline {25.2}Kahneman und Tversky}{347}{}%
-\contentsline {section}{\numberline {25.3}Thaler}{347}{}%
-\contentsline {part}{Teil\ VII\hspace {\betweenumberspace }Was bringt die Zukunft?}{349}{}%
-\contentsline {chapter}{\numberline {26}Was lernte der Mainstream aus den Krisen}{351}{}%
-\contentsline {section}{\numberline {26.1}Rajan}{351}{}%
-\contentsline {chapter}{\numberline {27}Ungleichheit als wachsendes Problem}{353}{}%
-\contentsline {chapter}{\numberline {28}Armut als Herausforderung}{355}{}%
-\contentsline {section}{\numberline {28.1}Sen: Die Ökonomie der Wohlfahrt}{355}{}%
-\contentsline {section}{\numberline {28.2}Experimente gegen die Armut: Banerjee, Duflo \& Kremer}{355}{}%
-\contentsline {chapter}{\numberline {29}Ökonomie außerhalb der Demokratie?}{357}{}%
-\contentsline {chapter}{\numberline {30}Umweltfragen als existenzielle Fragen}{359}{}%
+\contentsline {section}{\numberline {19.4}Riker: Politische Ökonomie als quantitative, Positive Theorie}{310}{}%
+\contentsline {section}{\numberline {19.5}Die Ostroms}{310}{}%
+\contentsline {section}{\numberline {19.6}Der Politische Wirtschaftszyklus}{310}{}%
+\contentsline {section}{\numberline {19.7}Moderne Politische Ökonomie: Die Unabhängigkeit von Zentralbanken}{315}{}%
+\contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Ökonomie abseits des Mainstreams}{321}{}%
+\contentsline {chapter}{\numberline {20}Österreichische Schule}{323}{}%
+\contentsline {section}{\numberline {20.1}Wieser: Der Schüler Mengers}{324}{}%
+\contentsline {section}{\numberline {20.2}Mises: Der Hauptvertreter}{324}{}%
+\contentsline {section}{\numberline {20.3}Hayek: Weg vom Mainstream, aber rein in die Politik}{324}{}%
+\contentsline {section}{\numberline {20.4}Rothbard, Kirzner \& die Tea Party}{324}{}%
+\contentsline {section}{\numberline {20.5}Schumpeter: Der ganz eigene Weg}{324}{}%
+\contentsline {section}{\numberline {20.6}Die Stockholmer Schule}{325}{}%
+\contentsline {chapter}{\numberline {21}Schumpeter: Der ganz eigene Weg}{327}{}%
+\contentsline {section}{\numberline {21.1}Vorläufer Zyklentheorie: Kondratieff}{327}{}%
+\contentsline {section}{\numberline {21.2}Die schöpferische Zerstörung}{327}{}%
+\contentsline {chapter}{\numberline {22}Supply-Side-Economics}{329}{}%
+\contentsline {chapter}{\numberline {23}Neoliberalismus}{337}{}%
+\contentsline {section}{\numberline {23.1}Den Neoliberalismus gibt es nicht!}{337}{}%
+\contentsline {section}{\numberline {23.2}Ordoliberalismus}{344}{}%
+\contentsline {chapter}{\numberline {24}"'Echte"' Keynes-Anhänger und der Post-Keynesianismus}{345}{}%
+\contentsline {section}{\numberline {24.1}Kalecki: Post-Keynesianer vor Keynes}{345}{}%
+\contentsline {section}{\numberline {24.2}Axel Leijonhufvud: Vater der Ungleichgewichtstheorie}{345}{}%
+\contentsline {section}{\numberline {24.3}Harrod \& Domar: Das erste Wachstumsmodell}{345}{}%
+\contentsline {section}{\numberline {24.4}Kaldor: Der Begründer des Post-Keynesianismus}{347}{}%
+\contentsline {section}{\numberline {24.5}Myrdal \& Sraffa}{347}{}%
+\contentsline {section}{\numberline {24.6}Linkskeynesianismus: Lernen \& Robinson}{347}{}%
+\contentsline {section}{\numberline {24.7}Minsky: Die Absurdität des Finanzmarktgleichgewichts}{347}{}%
+\contentsline {chapter}{\numberline {25}Exkurs: Behavioral Economics}{349}{}%
+\contentsline {section}{\numberline {25.1}Allais: Es begann mit einem Paradoxon}{349}{}%
+\contentsline {section}{\numberline {25.2}Kahneman und Tversky}{349}{}%
+\contentsline {section}{\numberline {25.3}Thaler}{349}{}%
+\contentsline {part}{Teil\ VII\hspace {\betweenumberspace }Was bringt die Zukunft?}{351}{}%
+\contentsline {chapter}{\numberline {26}Was lernte der Mainstream aus den Krisen}{353}{}%
+\contentsline {section}{\numberline {26.1}Rajan}{353}{}%
+\contentsline {chapter}{\numberline {27}Ungleichheit als wachsendes Problem}{355}{}%
+\contentsline {chapter}{\numberline {28}Armut als Herausforderung}{357}{}%
+\contentsline {section}{\numberline {28.1}Sen: Die Ökonomie der Wohlfahrt}{357}{}%
+\contentsline {section}{\numberline {28.2}Experimente gegen die Armut: Banerjee, Duflo \& Kremer}{357}{}%
+\contentsline {chapter}{\numberline {29}Ökonomie außerhalb der Demokratie?}{359}{}%
+\contentsline {chapter}{\numberline {30}Umweltfragen als existenzielle Fragen}{361}{}%
