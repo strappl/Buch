@@ -10012,6 +10012,37 @@
     \field{year}{1962}
   \endentry
 
+  \entry{Maske2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MK}{%
+         family={Maske},
+         familyi={M\bibinitperiod},
+         given={Kellie},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Durden},
+         familyi={D\bibinitperiod},
+         given={Garey},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MKDG1}
+    \strng{fullhash}{MKDG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1/2}
+    \field{pages}{191\bibrangedash 220}
+    \field{title}{The Contributions and Impact of Professor William H. Riker}
+    \field{volume}{117}
+    \field{journaltitle}{Public Choice}
+    \field{year}{2003}
+  \endentry
+
   \entry{Maslow1943}{article}{}
     \name{author}{1}{}{%
       {{hash=MA}{%

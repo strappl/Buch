@@ -106,10 +106,9 @@
 \contentsline {section}{\numberline {19.1}Black: Das Medianwähler-Modell}{299}{}%
 \contentsline {section}{\numberline {19.2}Downs: Wahlergebnisse als Marktergebnisse}{301}{}%
 \contentsline {section}{\numberline {19.3}Buchanan: Die Public-Choice Theorie}{302}{}%
-\contentsline {section}{\numberline {19.4}Riker: Politische Ökonomie als quantitative, Positive Theorie}{310}{}%
-\contentsline {section}{\numberline {19.5}Die Ostroms}{310}{}%
-\contentsline {section}{\numberline {19.6}Der Politische Wirtschaftszyklus}{310}{}%
-\contentsline {section}{\numberline {19.7}Moderne Politische Ökonomie: Die Unabhängigkeit von Zentralbanken}{315}{}%
+\contentsline {section}{\numberline {19.4}Alternative Ansätze der Neuen Politischen Ökonomie: Riker, Olson und die Ostroms }{309}{}%
+\contentsline {section}{\numberline {19.5}Der Politische Wirtschaftszyklus}{310}{}%
+\contentsline {section}{\numberline {19.6}Moderne Politische Ökonomie: Die Unabhängigkeit von Zentralbanken}{315}{}%
 \contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Ökonomie abseits des Mainstreams}{321}{}%
 \contentsline {chapter}{\numberline {20}Österreichische Schule}{323}{}%
 \contentsline {section}{\numberline {20.1}Wieser: Der Schüler Mengers}{324}{}%
