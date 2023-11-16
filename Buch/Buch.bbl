@@ -10469,6 +10469,28 @@
     \field{year}{1974}
   \endentry
 
+  \entry{Mineo2020}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ML}{%
+         family={Mineo},
+         familyi={M\bibinitperiod},
+         given={Liz},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML2}
+    \strng{fullhash}{ML2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Recalling a pioneer of modern political economy}
+    \field{journaltitle}{The Harvard Gazette}
+    \field{year}{2020}
+  \endentry
+
   \entry{Mirowski2009}{book}{}
     \name{author}{1}{}{%
       {{hash=MDPP}{%
