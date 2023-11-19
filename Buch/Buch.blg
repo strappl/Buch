@@ -98,51 +98,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 88440 items.
+Reallocating 'field_info' (item size: 4) to 88720 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
-Biblatex version: 3.18
+Biblatex version: 3.16
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 596 entries,
-            6399 wiz_defined-function locations,
-            4478 strings with 80496 characters,
-and the built_in function-call counts, 4199024 in all, are:
-= -- 314139
-> -- 89782
-< -- 18105
-+ -- 118069
-- -- 47964
-* -- 306316
-:= -- 447810
+You've used 598 entries,
+            6393 wiz_defined-function locations,
+            4486 strings with 80717 characters,
+and the built_in function-call counts, 3469929 in all, are:
+= -- 228427
+> -- 89968
+< -- 18124
++ -- 88316
+- -- 48051
+* -- 254627
+:= -- 347669
 add.period$ -- 0
-call.type$ -- 596
-change.case$ -- 595
+call.type$ -- 598
+change.case$ -- 597
 chr.to.int$ -- 1701
-cite$ -- 1190
-duplicate$ -- 394231
-empty$ -- 389421
-format.name$ -- 33963
-if$ -- 856829
+cite$ -- 1194
+duplicate$ -- 327921
+empty$ -- 334085
+format.name$ -- 34105
+if$ -- 716223
 int.to.chr$ -- 0
-int.to.str$ -- 1918
+int.to.str$ -- 1923
 missing$ -- 0
-newline$ -- 16951
-num.names$ -- 29675
-pop$ -- 206024
+newline$ -- 17017
+num.names$ -- 29725
+pop$ -- 202988
 preamble$ -- 1
-purify$ -- 11538
+purify$ -- 11536
 quote$ -- 0
-skip$ -- 121915
+skip$ -- 122152
 stack$ -- 0
-substring$ -- 601918
-swap$ -- 89872
-text.length$ -- 15017
-text.prefix$ -- 596
+substring$ -- 411468
+swap$ -- 90147
+text.length$ -- 15073
+text.prefix$ -- 598
 top$ -- 1
-type$ -- 20252
+type$ -- 20320
 warning$ -- 0
-while$ -- 46279
+while$ -- 38954
 width$ -- 0
-write$ -- 16356
+write$ -- 16420
