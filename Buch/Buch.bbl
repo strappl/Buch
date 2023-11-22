@@ -553,6 +553,40 @@
     \field{year}{2019}
   \endentry
 
+  \entry{Alesina1995}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Gatti},
+         familyi={G\bibinitperiod},
+         given={Roberta},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{AAGR1}
+    \strng{fullhash}{AAGR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{196\bibrangedash 200}
+    \field{title}{Independent Central Banks: Low Inflation at No Cost?}
+    \field{volume}{85}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1995}
+  \endentry
+
   \entry{Alesina1992}{article}{}
     \name{author}{2}{}{%
       {{hash=AA}{%
@@ -5474,6 +5508,31 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Fischer1995}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FS}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Stanley},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FS1}
+    \strng{fullhash}{FS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{2}
+    \field{pages}{201\bibrangedash 206}
+    \field{title}{Central-Bank Independence Revisited}
+    \field{volume}{85}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1995}
+  \endentry
+
   \entry{Fischer2017}{misc}{}
     \name{author}{1}{}{%
       {{hash=FS}{%
@@ -6579,6 +6638,70 @@
     \field{volume}{115}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{2007}
+  \endentry
+
+  \entry{Goodhart1994a}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GCAE}{%
+         family={Goodhart},
+         familyi={G\bibinitperiod},
+         given={Charles A.\bibnamedelima E.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GCAE1}
+    \strng{fullhash}{GCAE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{1}
+    \field{pages}{101\bibrangedash 114}
+    \field{title}{Game Theory for Central Bankers: A Report to the Governor of
+  the Bank of England}
+    \field{volume}{32}
+    \field{journaltitle}{Journal of Economic Literature}
+    \field{year}{1994}
+  \endentry
+
+  \entry{Goodhart1994b}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GCAE}{%
+         family={Goodhart},
+         familyi={G\bibinitperiod},
+         given={Charles A.\bibnamedelima E.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GCAE1}
+    \strng{fullhash}{GCAE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{eprint}
+    \verb https://academic.oup.com/ej/article-pdf/104/427/1424/27040484/ej1424.
+    \verb pdf
+    \endverb
+    \field{number}{427}
+    \field{pages}{1424\bibrangedash 1436}
+    \field{title}{What Should Central Banks Do? What Should Be Their
+  Macroeconomic Objectives and Operations?}
+    \verb{url}
+    \verb https://doi.org/10.2307/2235461
+    \endverb
+    \field{volume}{104}
+    \field{journaltitle}{The Economic Journal}
+    \field{month}{11}
+    \field{year}{1994}
   \endentry
 
   \entry{Gossen1854}{book}{}
@@ -11734,6 +11857,31 @@
     \field{year}{1975}
   \endentry
 
+  \entry{Nordhaus1994}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NWD}{%
+         family={Nordhaus},
+         familyi={N\bibinitperiod},
+         given={William\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NWD1}
+    \strng{fullhash}{NWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{pages}{139\bibrangedash 216}
+    \field{title}{Policy Games: Coordination and Independence in Monetary and
+  Fiscal Policies}
+    \field{volume}{2}
+    \field{journaltitle}{Brookings Papers on Economic Activity}
+    \field{year}{1994}
+  \endentry
+
   \entry{Nordhaus2008}{article}{}
     \name{author}{1}{}{%
       {{hash=NWD}{%
@@ -15659,6 +15807,31 @@
     \field{volume}{71}
     \field{journaltitle}{American Economic Review}
     \field{year}{1981}
+  \endentry
+
+  \entry{Stiglitz1998}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Stiglitz},
+         familyi={S\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{199\bibrangedash 226}
+    \field{title}{Central Banking in a Democratic Society}
+    \field{volume}{146}
+    \field{journaltitle}{De economist}
+    \field{year}{1998}
   \endentry
 
   \entry{Streissler1990}{incollection}{}
