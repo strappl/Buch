@@ -512,6 +512,40 @@
     \field{year}{1989}
   \endentry
 
+  \entry{Alesina1991}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Drazen},
+         familyi={D\bibinitperiod},
+         given={Allan},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{AADA1}
+    \strng{fullhash}{AADA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{5}
+    \field{pages}{1170\bibrangedash 1188}
+    \field{title}{Why are Stabilizations Delayed?}
+    \field{volume}{81}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1991}
+  \endentry
+
   \entry{Alesina2019}{book}{}
     \name{author}{3}{}{%
       {{hash=AA}{%
@@ -680,6 +714,37 @@
     \field{volume}{25}
     \field{journaltitle}{Journal of Money, Credit and Banking}
     \field{year}{1993}
+  \endentry
+
+  \entry{Alesina1990}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Tabellini},
+         familyi={T\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AATG1}
+    \strng{fullhash}{AATG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{403\bibrangedash 414}
+    \field{title}{A Positive Theory of Fiscal Deficits and Government Debt}
+    \field{volume}{57}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1990}
   \endentry
 
   \entry{Allais1953}{article}{}
@@ -1579,6 +1644,32 @@
     \field{volume}{2}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{1976}
+  \endentry
+
+  \entry{Barro1979}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BRJ}{%
+         family={Barro},
+         familyi={B\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRJ2}
+    \strng{fullhash}{BRJ2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{issue}{1}
+    \field{number}{5}
+    \field{pages}{940\bibrangedash 971}
+    \field{title}{On the Determination of the Public Debt}
+    \field{volume}{87}
+    \field{journaltitle}{Journal of political Economy}
+    \field{year}{1979}
   \endentry
 
   \entry{Barro1983b}{article}{}
@@ -12497,6 +12588,39 @@
     \field{volume}{39}
     \field{journaltitle}{Carnegie-Rochester Conference Series on Public Policy}
     \field{year}{1993}
+  \endentry
+
+  \entry{Persson1989}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PT}{%
+         family={Persson},
+         familyi={P\bibinitperiod},
+         given={Torsten},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SLEO}{%
+         family={Svensson},
+         familyi={S\bibinitperiod},
+         given={Lars E.\bibnamedelima O.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PTSLEO1}
+    \strng{fullhash}{PTSLEO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{2}
+    \field{pages}{325\bibrangedash 345}
+    \field{title}{Why a Stubborn Conservative Would Run a Deficit: Policy with
+  Time-Inconsistent Preferences}
+    \field{volume}{104}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1989}
   \endentry
 
   \entry{Phelps1967}{article}{}
