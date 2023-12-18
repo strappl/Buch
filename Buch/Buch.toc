@@ -110,8 +110,8 @@
 \contentsline {section}{\numberline {19.5}Der Politische Wirtschaftszyklus}{314}{}%
 \contentsline {section}{\numberline {19.6}Moderne Politische Ökonomie: Die Unabhängigkeit von Zentralbanken}{320}{}%
 \contentsline {section}{\numberline {19.7}Politische Ökonomie in der Gegenwart: Austerität vs. Fiskalpolitik}{328}{}%
-\contentsline {section}{\numberline {19.8}Ungleichheit, Politische Instabilität und Wachstum}{331}{}%
-\contentsline {section}{\numberline {19.9}Politische Ökonomie als Vereinigung des State of the Art}{331}{}%
+\contentsline {section}{\numberline {19.8}Ungleichheit, Politische Instabilität und Wachstum}{332}{}%
+\contentsline {section}{\numberline {19.9}Politische Ökonomie als Vereinigung des State of the Art}{332}{}%
 \contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Ökonomie abseits des Mainstreams}{333}{}%
 \contentsline {chapter}{\numberline {20}Österreichische Schule}{335}{}%
 \contentsline {section}{\numberline {20.1}Wieser: Der Schüler Mengers}{336}{}%

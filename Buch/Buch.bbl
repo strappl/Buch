@@ -44,6 +44,44 @@
     \field{year}{1992}
   \endentry
 
+  \entry{Aghion1999}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AP}{%
+         family={Aghion},
+         familyi={A\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CE}{%
+         family={Caroli},
+         familyi={C\bibinitperiod},
+         given={Eve},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GPC}{%
+         family={Garcia-Penalosa},
+         familyi={G\bibinithyphendelim P\bibinitperiod},
+         given={Cecilia},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{APCEGPC1}
+    \strng{fullhash}{APCEGPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4}
+    \field{pages}{1615\bibrangedash 1660}
+    \field{title}{Inequality and Economic Growth: The Perspective of the New
+  Growth Theories}
+    \field{volume}{37}
+    \field{journaltitle}{Journal of Economic literature}
+    \field{year}{1999}
+  \endentry
+
   \entry{Aghion2005}{article}{}
     \name{author}{3}{}{%
       {{hash=AP}{%
@@ -619,6 +657,133 @@
     \field{volume}{85}
     \field{journaltitle}{The American Economic Review}
     \field{year}{1995}
+  \endentry
+
+  \entry{Perotti1995b}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Perotti},
+         familyi={P\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AAPR1}
+    \strng{fullhash}{AAPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 31}
+    \field{title}{The Political Economy of Budget Deficits}
+    \field{volume}{42}
+    \field{journaltitle}{IMF Staff Papers}
+    \field{year}{1995}
+  \endentry
+
+  \entry{Alesina1996}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Perotti},
+         familyi={P\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AAPR1}
+    \strng{fullhash}{AAPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{6}
+    \field{pages}{1203\bibrangedash 1228}
+    \field{title}{Income Distribution, Political Instability, and Investment}
+    \field{volume}{40}
+    \field{journaltitle}{European Economic Review}
+    \field{year}{1996}
+  \endentry
+
+  \entry{Alesina1994a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Perotti},
+         familyi={P\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AAPR1}
+    \strng{fullhash}{AAPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{351\bibrangedash 371}
+    \field{title}{The Political Economy of Growth: A Critical Survey of the
+  Recent Literature}
+    \field{volume}{8}
+    \field{journaltitle}{The World Bank Economic Review}
+    \field{year}{1996}
+  \endentry
+
+  \entry{Alesina1994}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Rodrik},
+         familyi={R\bibinitperiod},
+         given={Dani},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AARD1}
+    \strng{fullhash}{AARD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{465\bibrangedash 490}
+    \field{title}{Distributive Politics and Economic Growth}
+    \field{volume}{109}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1994}
   \endentry
 
   \entry{Alesina1992}{article}{}
@@ -4715,6 +4880,37 @@
     \field{year}{1982}
   \endentry
 
+  \entry{Deininger1996}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DK}{%
+         family={Deininger},
+         familyi={D\bibinitperiod},
+         given={Klaus},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Squire},
+         familyi={S\bibinitperiod},
+         given={Lyn},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DKSL1}
+    \strng{fullhash}{DKSL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{3}
+    \field{pages}{565\bibrangedash 591}
+    \field{title}{A New Data Set Measuring Income Inequality}
+    \field{volume}{10}
+    \field{journaltitle}{The World Bank Economic Review}
+    \field{year}{1996}
+  \endentry
+
   \entry{DelNegro2015}{article}{}
     \name{author}{3}{}{%
       {{hash=DNM}{%
@@ -7923,6 +8119,31 @@
     \field{volume}{39}
     \field{journaltitle}{The Economic Journal}
     \field{year}{1929}
+  \endentry
+
+  \entry{Hsieh2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HCT}{%
+         family={Hsieh},
+         familyi={H\bibinitperiod},
+         given={Chang-Tai},
+         giveni={C\bibinithyphendelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HCT1}
+    \strng{fullhash}{HCT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{9}
+    \field{pages}{1659\bibrangedash 1676}
+    \field{title}{Bargaining over Reform}
+    \field{volume}{44}
+    \field{journaltitle}{European Economic Review}
+    \field{year}{2000}
   \endentry
 
   \entry{Huggett1993}{article}{}
@@ -14258,6 +14479,38 @@
     \field{volume}{90}
     \field{journaltitle}{Quarterly Journal of Economics}
     \field{year}{1976}
+  \endentry
+
+  \entry{Roubini1989}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RN}{%
+         family={Roubini},
+         familyi={R\bibinitperiod},
+         given={Nouriel},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SJD}{%
+         family={Sachs},
+         familyi={S\bibinitperiod},
+         given={Jeffrey\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RNSJD1}
+    \strng{fullhash}{RNSJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{5}
+    \field{pages}{903\bibrangedash 933}
+    \field{title}{Political and Economic Determinants of Budget Deficits in the
+  Industrial Democracies}
+    \field{volume}{33}
+    \field{journaltitle}{European Economic Review}
+    \field{year}{1989}
   \endentry
 
   \entry{Rubinstein2003}{misc}{}
