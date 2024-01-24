@@ -49,8 +49,6 @@ Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Kapitel_4_1.aux
 Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Kapitel_4_4.aux
-Reallocating 'name_of_file' (item size: 1) to 16 items.
-A level-1 auxiliary file: Kapitel_4_5.aux
 Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Teil_IV_A.aux
 Reallocating 'name_of_file' (item size: 1) to 17 items.
@@ -73,6 +71,8 @@ Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Kapitel_4_6.aux
 Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Teil_VI.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_4_5.aux
 Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Kapitel_6_2.aux
 Reallocating 'name_of_file' (item size: 1) to 16 items.
@@ -98,7 +98,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 91380 items.
+Reallocating 'field_info' (item size: 4) to 92780 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
@@ -106,45 +106,45 @@ Warning--I didn't find a database entry for "."
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 616 entries,
+You've used 626 entries,
             6399 wiz_defined-function locations,
-            4581 strings with 82930 characters,
-and the built_in function-call counts, 4331553 in all, are:
-= -- 323981
-> -- 91924
-< -- 18656
-+ -- 121326
-- -- 48736
-* -- 316396
-:= -- 461709
+            4630 strings with 84115 characters,
+and the built_in function-call counts, 4398835 in all, are:
+= -- 328929
+> -- 93070
+< -- 18918
++ -- 123156
+- -- 49180
+* -- 321492
+:= -- 469042
 add.period$ -- 0
-call.type$ -- 616
-change.case$ -- 615
+call.type$ -- 626
+change.case$ -- 625
 chr.to.int$ -- 1707
-cite$ -- 1230
-duplicate$ -- 407940
-empty$ -- 401680
-format.name$ -- 35233
-if$ -- 884325
+cite$ -- 1250
+duplicate$ -- 415211
+empty$ -- 407702
+format.name$ -- 35933
+if$ -- 898097
 int.to.chr$ -- 0
-int.to.str$ -- 1975
+int.to.str$ -- 2004
 missing$ -- 0
-newline$ -- 17557
-num.names$ -- 30597
-pop$ -- 212938
+newline$ -- 17863
+num.names$ -- 31031
+pop$ -- 216468
 preamble$ -- 1
-purify$ -- 11900
+purify$ -- 12058
 quote$ -- 0
-skip$ -- 125882
+skip$ -- 127806
 stack$ -- 0
-substring$ -- 619691
-swap$ -- 93005
-text.length$ -- 15523
-text.prefix$ -- 616
+substring$ -- 628356
+swap$ -- 94553
+text.length$ -- 15795
+text.prefix$ -- 626
 top$ -- 1
-type$ -- 20932
+type$ -- 21272
 warning$ -- 0
-while$ -- 47919
+while$ -- 48825
 width$ -- 0
-write$ -- 16942
+write$ -- 17238
 (There was 1 warning)

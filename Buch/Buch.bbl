@@ -550,6 +550,32 @@
     \field{year}{1989}
   \endentry
 
+  \entry{Alesina2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AA1}
+    \strng{fullhash}{AA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{3\bibrangedash 20}
+    \field{title}{The Political Economy of the Budget Surplus in the United
+  States}
+    \field{volume}{14}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2000}
+  \endentry
+
   \entry{Alesina1991}{article}{}
     \name{author}{2}{}{%
       {{hash=AA}{%
@@ -690,7 +716,7 @@
     \field{year}{1995}
   \endentry
 
-  \entry{Alesina1996}{article}{}
+  \entry{Perotti1996}{article}{}
     \name{author}{2}{}{%
       {{hash=AA}{%
          family={Alesina},
@@ -711,6 +737,38 @@
     \field{labeltitlesource}{title}
     \field{labelyear}{1996}
     \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{401\bibrangedash 407}
+    \field{title}{Fiscal Discipline and the Budget Process}
+    \field{volume}{86}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1996}
+  \endentry
+
+  \entry{Alesina1996}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Perotti},
+         familyi={P\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AAPR1}
+    \strng{fullhash}{AAPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{extradate}{2}
     \field{labeldatesource}{}
     \field{sortinit}{A}
     \field{sortinithash}{A}
@@ -742,7 +800,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1996}
-    \field{extradate}{2}
+    \field{extradate}{3}
     \field{labeldatesource}{}
     \field{sortinit}{A}
     \field{sortinithash}{A}
@@ -753,6 +811,38 @@
     \field{volume}{8}
     \field{journaltitle}{The World Bank Economic Review}
     \field{year}{1996}
+  \endentry
+
+  \entry{Perotti1997}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Perotti},
+         familyi={P\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AAPR1}
+    \strng{fullhash}{AAPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{210\bibrangedash 248}
+    \field{title}{Fiscal Adjustments in OECD Countries: Composition and
+  Macroeconomic Effects}
+    \field{volume}{44}
+    \field{journaltitle}{NBER Staff Papers}
+    \field{year}{1997}
   \endentry
 
   \entry{Alesina1994}{article}{}
@@ -4570,6 +4660,36 @@
     \field{volume}{7}
     \field{journaltitle}{Journal of Financial Economics}
     \field{year}{1979}
+  \endentry
+
+  \entry{Cukierman1989}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CA}{%
+         family={Cukierman},
+         familyi={C\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MAH}{%
+         family={Meltzer},
+         familyi={M\bibinitperiod},
+         given={Allan\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CAMAH1}
+    \strng{fullhash}{CAMAH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{713\bibrangedash 732}
+    \field{title}{A Political Theory of Government Debt and deficits in a
+  Neo-Ricardian Framework}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1989}
   \endentry
 
   \entry{Curdia2016}{article}{}
@@ -10830,6 +10950,43 @@
     \field{year}{1973}
   \endentry
 
+  \entry{Milesi2002}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MFGM}{%
+         family={Milesi-Ferretti},
+         familyi={M\bibinithyphendelim F\bibinitperiod},
+         given={Gian\bibnamedelima Maria},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Perotti},
+         familyi={P\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rostagno},
+         familyi={R\bibinitperiod},
+         given={Massimo},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFGMPRRM1}
+    \strng{fullhash}{MFGMPRRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{609\bibrangedash 657}
+    \field{title}{Electoral Systems and Public Spending}
+    \field{volume}{117}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{2002}
+  \endentry
+
   \entry{Milgrom1979}{article}{}
     \name{author}{1}{}{%
       {{hash=MPR}{%
@@ -12735,6 +12892,34 @@
     \field{year}{1999}
   \endentry
 
+  \entry{Perotti1995}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PR}{%
+         family={Perotti},
+         familyi={P\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Alesina},
+         familyi={A\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PRAA1}
+    \strng{fullhash}{PRAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Fiscal Expansion and Adjustments in OECD Countries}
+    \field{journaltitle}{Department of Economics Discussion Papers, 754}
+    \field{year}{1995}
+  \endentry
+
   \entry{Persky1992}{article}{}
     \name{author}{1}{}{%
       {{hash=PJ}{%
@@ -12811,6 +12996,43 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Persson2000}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PT}{%
+         family={Persson},
+         familyi={P\bibinitperiod},
+         given={Torsten},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Gerard},
+         familyi={G\bibinitperiod},
+         given={Roland},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Tabellini},
+         familyi={T\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PTGRTG1}
+    \strng{fullhash}{PTGRTG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{6}
+    \field{pages}{1121\bibrangedash 1161}
+    \field{title}{Comparative Politics and Public Finance}
+    \field{volume}{108}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{2000}
+  \endentry
+
   \entry{Persson1989}{article}{}
     \name{author}{2}{}{%
       {{hash=PT}{%
@@ -12842,6 +13064,69 @@
     \field{volume}{104}
     \field{journaltitle}{The Quarterly Journal of Economics}
     \field{year}{1989}
+  \endentry
+
+  \entry{Persson1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PT}{%
+         family={Persson},
+         familyi={P\bibinitperiod},
+         given={Torsten},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Tabellini},
+         familyi={T\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PTTG1}
+    \strng{fullhash}{PTTG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{4--6}
+    \field{pages}{699\bibrangedash 735}
+    \field{title}{The Size and Scope of Government: Comparative Politics with
+  Rational Politicians}
+    \field{volume}{43}
+    \field{journaltitle}{European Economic Review}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Persson2004}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PT}{%
+         family={Persson},
+         familyi={P\bibinitperiod},
+         given={Torsten},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Tabellini},
+         familyi={T\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PTTG1}
+    \strng{fullhash}{PTTG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1}
+    \field{pages}{25\bibrangedash 45}
+    \field{title}{Constitutional Rules and Fiscal Policy Outcomes}
+    \field{volume}{94}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2004}
   \endentry
 
   \entry{Phelps1967}{article}{}
@@ -17785,6 +18070,32 @@
     \field{volume}{3}
     \field{journaltitle}{American Economic Journal: Macroeconomics}
     \field{year}{2011}
+  \endentry
+
+  \entry{Yared2019}{article}{}
+    \name{author}{1}{}{%
+      {{hash=YP}{%
+         family={Yared},
+         familyi={Y\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YP1}
+    \strng{fullhash}{YP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{number}{2}
+    \field{pages}{115\bibrangedash 140}
+    \field{title}{Rising Government Debt: Causes and Solutions for a
+  Decades-old Trend}
+    \field{volume}{33}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2019}
   \endentry
 
   \entry{Yellen1984}{article}{}
