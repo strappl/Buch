@@ -9554,6 +9554,90 @@
     \field{year}{1993}
   \endentry
 
+  \entry{Kuznets1937}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KS}{%
+         family={Kuznets},
+         familyi={K\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=N}{%
+         family={NBER},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KS3}
+    \strng{fullhash}{KS3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1937}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{National Income and Capital Formation, 1919-1935}
+    \field{year}{1937}
+  \endentry
+
+  \entry{Kuznets1955}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KS}{%
+         family={Kuznets},
+         familyi={K\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{KS3}
+    \strng{fullhash}{KS3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1955}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 28}
+    \field{title}{Economic Growth and Income Inequality}
+    \field{volume}{45}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1955}
+  \endentry
+
+  \entry{Kuznets1967}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KS}{%
+         family={Kuznets},
+         familyi={K\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=UY}{%
+         family={University},
+         familyi={U\bibinitperiod},
+         given={Yale},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KS3}
+    \strng{fullhash}{KS3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1967}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Modern Economic Growth: Rate, Structure, and Spread}
+    \field{year}{1967}
+  \endentry
+
   \entry{Kydland1977}{article}{}
     \name{author}{2}{}{%
       {{hash=KFE}{%
@@ -11197,6 +11281,70 @@
     \field{year}{2000}
   \endentry
 
+  \entry{Mitchell1913}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MWC}{%
+         family={Mitchell},
+         familyi={M\bibinitperiod},
+         given={Wesley\bibnamedelima C.},
+         giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=UoCPB}{%
+         prefix={University\bibnamedelima of},
+         prefixi={U\bibinitperiod\bibinitdelim o\bibinitperiod},
+         family={California\bibnamedelima Press},
+         familyi={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Berkeley},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MWC1}
+    \strng{fullhash}{MWC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1913}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Business Cycles}
+    \field{year}{1913}
+  \endentry
+
+  \entry{Mitchell1946}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MWC}{%
+         family={Mitchell},
+         familyi={M\bibinitperiod},
+         given={Wesley\bibnamedelima C.},
+         giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BAF}{%
+         family={Burns},
+         familyi={B\bibinitperiod},
+         given={Arthur\bibnamedelima F.},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=N}{%
+         family={NBER},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MWCBAF1}
+    \strng{fullhash}{MWCBAF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1946}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Measuring Business Cycles}
+    \field{year}{1946}
+  \endentry
+
   \entry{Mitchell1988}{article}{}
     \name{author}{1}{}{%
       {{hash=MWC}{%
@@ -11206,8 +11354,8 @@
          giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MWC1}
-    \strng{fullhash}{MWC1}
+    \strng{namehash}{MWC2}
+    \strng{fullhash}{MWC2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1988}
@@ -12193,6 +12341,41 @@
     \field{sortinithash}{N}
     \field{title}{Theory of Games and Economic Behavior}
     \field{year}{1944}
+  \endentry
+
+  \entry{Nobelpreis-Komitee1971}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=NK}{%
+         family={Nobelpreis-Komitee},
+         familyi={N\bibinithyphendelim K\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=iotBoSPiESiMoANA}{%
+         prefix={information on the Bank of Sweden Prize in Economic Sciences
+  in Memory\bibnamedelima of},
+         prefixi={i\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim
+  t\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  o\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim
+  E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  i\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim o\bibinitperiod},
+         family={Alfred\bibnamedelima Nobel},
+         familyi={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Advanced},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NK1}
+    \strng{fullhash}{NK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1971}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Simon Kuznets - Facts}
+    \field{year}{1971}
   \endentry
 
   \entry{Nobelpreis-Komitee2001}{misc}{}
