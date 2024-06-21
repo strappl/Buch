@@ -1289,6 +1289,31 @@
     \field{year}{1954}
   \endentry
 
+  \entry{Aspromourgos1986}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AT}{%
+         family={Aspromourgos},
+         familyi={A\bibinitperiod},
+         given={Tony},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AT1}
+    \strng{fullhash}{AT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{265\bibrangedash 270}
+    \field{title}{On the Origins of the Term ‘Neoclassical’}
+    \field{volume}{10}
+    \field{journaltitle}{Cambridge Journal of Economics}
+    \field{year}{1986}
+  \endentry
+
   \entry{Atkinson2011}{article}{}
     \name{author}{1}{}{%
       {{hash=AAB}{%
@@ -3141,12 +3166,12 @@
     \strng{fullhash}{BM2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{1962 (1984)}
+    \field{labelyear}{1962 (1997)}
     \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{title}{Economic Theory in Retrospect (4. Auflage, 1984}
-    \field{year}{1962 (1984)}
+    \field{title}{Economic Theory in Retrospect (5. Auflage, 1997}
+    \field{year}{1962 (1997)}
   \endentry
 
   \entry{Blaug1973}{article}{}
@@ -4488,6 +4513,35 @@
     \field{year}{2007}
   \endentry
 
+  \entry{Commons1934}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CJR}{%
+         family={Commons},
+         familyi={C\bibinitperiod},
+         given={John\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MNY}{%
+         family={MacMillan},
+         familyi={M\bibinitperiod},
+         given={New\bibnamedelima York:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJR1}
+    \strng{fullhash}{CJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1934}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Institutional Economics: Its Place in Political Economy}
+    \field{year}{1934}
+  \endentry
+
   \entry{Condorcet1785}{book}{}
     \name{author}{1}{}{%
       {{hash=MdCMJ}{%
@@ -5455,6 +5509,61 @@
     \field{volume}{65}
     \field{journaltitle}{Journal of political economy}
     \field{year}{1957}
+  \endentry
+
+  \entry{Duesenberry1949}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DJS}{%
+         family={Duesenberry},
+         familyi={D\bibinitperiod},
+         given={James\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PCHU}{%
+         family={Presse},
+         familyi={P\bibinitperiod},
+         given={Cambridge: Harvard\bibnamedelima University},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJS1}
+    \strng{fullhash}{DJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1949}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Income, Saving and the Theory of Consumer Behavior}
+    \field{year}{1949}
+  \endentry
+
+  \entry{Dugger1979}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DWM}{%
+         family={Dugger},
+         familyi={D\bibinitperiod},
+         given={William\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DWM1}
+    \strng{fullhash}{DWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{3}
+    \field{pages}{424\bibrangedash 431}
+    \field{title}{The Origins of Thorstein Veblen's Thought}
+    \field{volume}{60}
+    \field{journaltitle}{Social Science Quarterly}
+    \field{year}{1979}
   \endentry
 
   \entry{Easterlin1974}{incollection}{}
@@ -7510,6 +7619,31 @@
     \field{year}{1972}
   \endentry
 
+  \entry{Hamilton1919}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HWH}{%
+         family={Hamilton},
+         familyi={H\bibinitperiod},
+         given={Walton\bibnamedelima H.},
+         giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HWH1}
+    \strng{fullhash}{HWH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1919}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{1}
+    \field{pages}{309\bibrangedash 318}
+    \field{title}{The Institutional Approach to Economic Theory}
+    \field{volume}{9}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1919}
+  \endentry
+
   \entry{Hansen1941}{book}{}
     \name{author}{1}{}{%
       {{hash=HAH}{%
@@ -8155,6 +8289,59 @@
     \field{volume}{87}
     \field{journaltitle}{The Quarterly Journal of Economics}
     \field{year}{1973}
+  \endentry
+
+  \entry{Hodgson1998b}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HGM}{%
+         family={Hodgson},
+         familyi={H\bibinitperiod},
+         given={Geoffrey\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HGM1}
+    \strng{fullhash}{HGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{issue}{07}
+    \field{pages}{415\bibrangedash 431}
+    \field{title}{On the Evolution of Thorstein Veblen's Evolutionary
+  Economics}
+    \field{volume}{22}
+    \field{journaltitle}{Cambridge Journal of Economics}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Hodgson1998}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HGM}{%
+         family={Hodgson},
+         familyi={H\bibinitperiod},
+         given={Geoffrey\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HGM1}
+    \strng{fullhash}{HGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{1}
+    \field{pages}{166\bibrangedash 192}
+    \field{title}{The Approach of Institutional Economics}
+    \field{volume}{36}
+    \field{journaltitle}{Journal of Economic Literature}
+    \field{year}{1998}
   \endentry
 
   \entry{Holler2005}{book}{}
@@ -17309,6 +17496,60 @@
     \field{year}{1965}
   \endentry
 
+  \entry{Veblen1898}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VT}{%
+         family={Veblen},
+         familyi={V\bibinitperiod},
+         given={Thorstein},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VT1}
+    \strng{fullhash}{VT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1898}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{4}
+    \field{pages}{373\bibrangedash 397}
+    \field{title}{Why is Economics not an Evolutionary Science?}
+    \field{volume}{12}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1898}
+  \endentry
+
+  \entry{Veblen1899}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VT}{%
+         family={Veblen},
+         familyi={V\bibinitperiod},
+         given={Thorstein},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MNY}{%
+         family={MacMillan},
+         familyi={M\bibinitperiod},
+         given={New\bibnamedelima York:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VT1}
+    \strng{fullhash}{VT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1899}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{The Theory of the Leisure Class}
+    \field{year}{1899}
+  \endentry
+
   \entry{Veblen1909}{article}{}
     \name{author}{1}{}{%
       {{hash=VT}{%
@@ -17332,6 +17573,65 @@
     \field{volume}{17}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1909}
+  \endentry
+
+  \entry{Veblen1914}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VT}{%
+         family={Veblen},
+         familyi={V\bibinitperiod},
+         given={Thorstein},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MNY}{%
+         family={MacMillan},
+         familyi={M\bibinitperiod},
+         given={New\bibnamedelima York:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VT1}
+    \strng{fullhash}{VT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1914}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{The Instinct of Workmanship and the State of the Industrial
+  Arts}
+    \field{year}{1914}
+  \endentry
+
+  \entry{Veblen1919}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VT}{%
+         family={Veblen},
+         familyi={V\bibinitperiod},
+         given={Thorstein},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=HNY}{%
+         family={Huebsch},
+         familyi={H\bibinitperiod},
+         given={New\bibnamedelima York:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VT1}
+    \strng{fullhash}{VT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1919}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{The Place of Science in Modern Civilisation and Other Essays}
+    \field{year}{1919}
   \endentry
 
   \entry{Venugopal2015}{article}{}
