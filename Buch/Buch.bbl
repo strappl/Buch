@@ -3731,6 +3731,32 @@
     \field{year}{1983}
   \endentry
 
+  \entry{Cangiani2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CM}{%
+         family={Cangiani},
+         familyi={C\bibinitperiod},
+         given={Michele},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CM1}
+    \strng{fullhash}{CM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{177\bibrangedash 198}
+    \field{title}{Karl Polanyi's Institutional Theory: Market Society and its
+  "Disembedded" Economy}
+    \field{volume}{45}
+    \field{journaltitle}{Journal of Economic Issues}
+    \field{year}{2011}
+  \endentry
+
   \entry{Cansier1989}{incollection}{}
     \name{author}{1}{}{%
       {{hash=CD}{%
@@ -5787,6 +5813,48 @@
     \field{year}{2000}
   \endentry
 
+  \entry{Erlei2016}{book}{}
+    \name{author}{3}{}{%
+      {{hash=EM}{%
+         family={Erlei},
+         familyi={E\bibinitperiod},
+         given={Mathias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Leschke},
+         familyi={L\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sauerland},
+         familyi={S\bibinitperiod},
+         given={Dirk},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=SSPA}{%
+         family={Stuttgart: Schaeffer-Poeschl},
+         familyi={S\bibinitperiod\bibinitdelim S\bibinithyphendelim
+  P\bibinitperiod},
+         given={3.\bibnamedelima Auflage},
+         giveni={\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EMLMSD1}
+    \strng{fullhash}{EMLMSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{Institutionen-Ökonomik}
+    \field{year}{2016}
+  \endentry
+
   \entry{Fama1970}{article}{}
     \name{author}{1}{}{%
       {{hash=FEF}{%
@@ -6316,6 +6384,47 @@
     \field{pages}{1\bibrangedash 16}
     \field{title}{A Brief History of Social Choice and Welfare Theory}
     \field{year}{2021}
+  \endentry
+
+  \entry{Frerichs2024}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=FS}{%
+         family={Frerichs},
+         familyi={F\bibinitperiod},
+         given={Sabine},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=CM}{%
+         family={Cangiani},
+         familyi={C\bibinitperiod},
+         given={Michele},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Thomasberger},
+         familyi={T\bibinitperiod},
+         given={Claus},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{FS2}
+    \strng{fullhash}{FS2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{The Routledge Handbook on Karl Polanyi}
+    \field{edition}{1}
+    \field{pages}{266\bibrangedash 277}
+    \field{title}{Polanyi's Institutionalism Between the Lines}
+    \field{year}{2024}
   \endentry
 
   \entry{Frey2003}{article}{}
@@ -10991,6 +11100,31 @@
     \field{year}{1943}
   \endentry
 
+  \entry{Maucourant1995}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MJ}{%
+         family={Maucourant},
+         familyi={M\bibinitperiod},
+         given={Jérôme},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJ1}
+    \strng{fullhash}{MJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{00569422}
+    \field{pages}{1\bibrangedash 21}
+    \field{title}{The Substantive Economy of Money : Karl Polanyi in the
+  Tradition of "Old Institutionalism"}
+    \field{journaltitle}{HAL Open Science}
+    \field{year}{1995}
+  \endentry
+
   \entry{McClelland1961}{book}{}
     \name{author}{1}{}{%
       {{hash=MD}{%
@@ -11361,8 +11495,8 @@
   C\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim P\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MJ1}
-    \strng{fullhash}{MJ1}
+    \strng{namehash}{MJ2}
+    \strng{fullhash}{MJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1974}
@@ -11938,8 +12072,8 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MJ2}
-    \strng{fullhash}{MJ2}
+    \strng{namehash}{MJ3}
+    \strng{fullhash}{MJ3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1966}
@@ -14055,6 +14189,39 @@
     \field{volume}{25}
     \field{journaltitle}{Geschichte und Gesellschaft}
     \field{year}{1999}
+  \endentry
+
+  \entry{Polanyi1944}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PK}{%
+         family={Polanyi},
+         familyi={P\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=FNY}{%
+         family={Farrar},
+         familyi={F\bibinitperiod},
+         given={New\bibnamedelima York/Toronto:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=R}{%
+         family={Rinehart},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PK1}
+    \strng{fullhash}{PK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1944}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{The Great Transformation}
+    \field{year}{1944}
   \endentry
 
   \entry{Pratt1964}{article}{}
@@ -17550,6 +17717,36 @@
     \field{year}{1899}
   \endentry
 
+  \entry{Veblen1904}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VT}{%
+         family={Veblen},
+         familyi={V\bibinitperiod},
+         given={Thorstein},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=BNJT}{%
+         family={Books},
+         familyi={B\bibinitperiod},
+         given={New Jersey:\bibnamedelima Transaction},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VT1}
+    \strng{fullhash}{VT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1904}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{The Theory of Business Enterprise}
+    \field{year}{1904}
+  \endentry
+
   \entry{Veblen1909}{article}{}
     \name{author}{1}{}{%
       {{hash=VT}{%
@@ -17573,36 +17770,6 @@
     \field{volume}{17}
     \field{journaltitle}{Journal of Political Economy}
     \field{year}{1909}
-  \endentry
-
-  \entry{Veblen1914}{book}{}
-    \name{author}{1}{}{%
-      {{hash=VT}{%
-         family={Veblen},
-         familyi={V\bibinitperiod},
-         given={Thorstein},
-         giveni={T\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=MNY}{%
-         family={MacMillan},
-         familyi={M\bibinitperiod},
-         given={New\bibnamedelima York:},
-         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{VT1}
-    \strng{fullhash}{VT1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1914}
-    \field{labeldatesource}{}
-    \field{sortinit}{V}
-    \field{sortinithash}{V}
-    \field{title}{The Instinct of Workmanship and the State of the Industrial
-  Arts}
-    \field{year}{1914}
   \endentry
 
   \entry{Veblen1919}{book}{}
@@ -17632,6 +17799,37 @@
     \field{sortinithash}{V}
     \field{title}{The Place of Science in Modern Civilisation and Other Essays}
     \field{year}{1919}
+  \endentry
+
+  \entry{Veblen1923}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VT}{%
+         family={Veblen},
+         familyi={V\bibinitperiod},
+         given={Thorstein},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NYBWHI}{%
+         family={New York: B. W.\bibnamedelima Huebsch},
+         familyi={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  B\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={Inc.},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VT1}
+    \strng{fullhash}{VT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1923}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Absentee Ownership and Business Enterprise in Recent Times:
+  The Case of America}
+    \field{year}{1923}
   \endentry
 
   \entry{Venugopal2015}{article}{}
