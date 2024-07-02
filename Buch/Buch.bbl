@@ -1848,6 +1848,31 @@
     \field{year}{1988}
   \endentry
 
+  \entry{Barbash1989}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Barbash},
+         familyi={B\bibinitperiod},
+         given={Jack},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{5}
+    \field{pages}{44\bibrangedash 49}
+    \field{title}{John R. Commons: Pioneer of Labor Economics}
+    \field{volume}{112}
+    \field{journaltitle}{Monthly Labor Review}
+    \field{year}{1989}
+  \endentry
+
   \entry{Barro1971}{article}{}
     \name{author}{1}{}{%
       {{hash=BHIRJG}{%
@@ -2388,8 +2413,8 @@
     \list{publisher}{1}{%
       {Nachdruck 1823: London: W. Pickering}%
     }
-    \strng{namehash}{BJ1}
-    \strng{fullhash}{BJ1}
+    \strng{namehash}{BJ2}
+    \strng{fullhash}{BJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1789}
@@ -4537,6 +4562,35 @@
     \field{volume}{21}
     \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{2007}
+  \endentry
+
+  \entry{Commons1924}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CJR}{%
+         family={Commons},
+         familyi={C\bibinitperiod},
+         given={John\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=MNY}{%
+         family={MacMillan},
+         familyi={M\bibinitperiod},
+         given={New\bibnamedelima York:},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJR1}
+    \strng{fullhash}{CJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1924}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{The Legal Foundations of Capitalism}
+    \field{year}{1924}
   \endentry
 
   \entry{Commons1934}{book}{}
@@ -8453,6 +8507,32 @@
     \field{year}{1998}
   \endentry
 
+  \entry{Hodgson2003}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HGM}{%
+         family={Hodgson},
+         familyi={H\bibinitperiod},
+         given={Geoffrey\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HGM1}
+    \strng{fullhash}{HGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{3}
+    \field{pages}{547\bibrangedash 576}
+    \field{title}{John R. Commons and the Foundations of Institutional
+  Economics}
+    \field{volume}{37}
+    \field{journaltitle}{Journal of Economic Issues}
+    \field{year}{2003}
+  \endentry
+
   \entry{Holler2005}{book}{}
     \name{author}{2}{}{%
       {{hash=HMJ}{%
@@ -8963,6 +9043,21 @@
     \field{sortinithash}{J}
     \field{title}{Theory of Political Economy}
     \field{year}{1871}
+  \endentry
+
+  \entry{Watkins}{online}{}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{John Rogers Commons and his Economic Policies}
+    \verb{url}
+    \verb https://www.sjsu.edu/faculty/watkins/commons.htm
+    \endverb
+    \field{day}{01}
+    \field{month}{07}
+    \field{year}{2024}
   \endentry
 
   \entry{Johnson1960}{article}{}
