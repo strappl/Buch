@@ -4482,6 +4482,31 @@
     \field{year}{2006}
   \endentry
 
+  \entry{Coase1937}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CRH}{%
+         family={Coase},
+         familyi={C\bibinitperiod},
+         given={Ronald\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRH1}
+    \strng{fullhash}{CRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1937}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{16}
+    \field{pages}{389\bibrangedash 405}
+    \field{title}{The Nature of the Firm}
+    \field{volume}{4}
+    \field{journaltitle}{Economica}
+    \field{year}{1937}
+  \endentry
+
   \entry{Coase1960}{article}{}
     \name{author}{1}{}{%
       {{hash=CRH}{%
@@ -4505,6 +4530,37 @@
     \field{volume}{3}
     \field{journaltitle}{The Journal of Law and Economics}
     \field{year}{1960}
+  \endentry
+
+  \entry{Coase1991a}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CRH}{%
+         family={Coase},
+         familyi={C\bibinitperiod},
+         given={Ronald\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPB}{%
+         family={Nobel-Prize-Biographical},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRH1}
+    \strng{fullhash}{CRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Ronald H. Coase - Biographical}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/1991/coase/biogra
+    \verb phical/
+    \endverb
+    \field{year}{1991}
   \endentry
 
   \entry{Cobb1928}{article}{}
@@ -14581,6 +14637,32 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Riker1980}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RWH}{%
+         family={Riker},
+         familyi={R\bibinitperiod},
+         given={William\bibnamedelima H.},
+         giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RWH1}
+    \strng{fullhash}{RWH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{2}
+    \field{pages}{432–446}
+    \field{title}{Implications from the Disequilibrium of Majority Rule for the
+  Study of Institutions}
+    \field{volume}{74}
+    \field{journaltitle}{American Political Science Review}
+    \field{year}{1980}
+  \endentry
+
   \entry{Robbins1932}{book}{}
     \name{author}{1}{}{%
       {{hash=RL}{%
@@ -16063,6 +16145,36 @@
     \field{year}{1997}
   \endentry
 
+  \entry{Schotter1981}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Schotter},
+         familyi={S\bibinitperiod},
+         given={Andrewn},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=CECUP}{%
+         family={Cambridge},
+         familyi={C\bibinitperiod},
+         given={England: Cambridge University\bibnamedelima Press},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  U\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA2}
+    \strng{fullhash}{SA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{198}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{The Economic Theory of Social Institutions}
+    \field{year}{198}
+  \endentry
+
   \entry{Schultz1961}{article}{}
     \name{author}{1}{}{%
       {{hash=STW}{%
@@ -16282,8 +16394,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SA2}
-    \strng{fullhash}{SA2}
+    \strng{namehash}{SA3}
+    \strng{fullhash}{SA3}
     \field{labelnamesource}{author}
     \field{labelyear}{1970}
     \field{extradate}{1}
@@ -16306,8 +16418,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SA2}
-    \strng{fullhash}{SA2}
+    \strng{namehash}{SA3}
+    \strng{fullhash}{SA3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1970}
@@ -16332,8 +16444,8 @@
          giveni={A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SA2}
-    \strng{fullhash}{SA2}
+    \strng{namehash}{SA3}
+    \strng{fullhash}{SA3}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1999}
@@ -18026,6 +18138,38 @@
     \field{volume}{16}
     \field{journaltitle}{The Journal of Finance}
     \field{year}{1961}
+  \endentry
+
+  \entry{Voigt2009}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VS}{%
+         family={Voigt},
+         familyi={V\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PWFAU}{%
+         family={Paderborn: W.\bibnamedelima Fink},
+         familyi={P\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+         suffix={UTB},
+         suffixi={U\bibinitperiod},
+         given={2.\bibnamedelima Auflage},
+         giveni={\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VS1}
+    \strng{fullhash}{VS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Institutionen-ökonomik}
+    \field{year}{2009}
   \endentry
 
   \entry{Morgenstern1944}{book}{}
