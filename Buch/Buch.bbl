@@ -1258,6 +1258,32 @@
     \field{year}{1963}
   \endentry
 
+  \entry{Arrow1969}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AKJ}{%
+         family={Arrow},
+         familyi={A\bibinitperiod},
+         given={Kenneth\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AKJ1}
+    \strng{fullhash}{AKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1969}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{pages}{59\bibrangedash 73}
+    \field{title}{The Organization of Economic Activity: Issues Pertinent to
+  the Choice of Market versus Nonmarket Allocation}
+    \field{volume}{1}
+    \field{journaltitle}{The Analysis and Evaluation of Public Expenditure: The
+  PPB System}
+    \field{year}{1969}
+  \endentry
+
   \entry{Arrow1954}{article}{}
     \name{author}{2}{}{%
       {{hash=AKJ}{%
@@ -4552,6 +4578,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1991}
+    \field{extradate}{1}
     \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
@@ -4559,6 +4586,38 @@
     \verb{url}
     \verb https://www.nobelprize.org/prizes/economic-sciences/1991/coase/biogra
     \verb phical/
+    \endverb
+    \field{year}{1991}
+  \endentry
+
+  \entry{Coase1991}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CRH}{%
+         family={Coase},
+         familyi={C\bibinitperiod},
+         given={Ronald\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPL}{%
+         family={Nobel-Prize-Lecture},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRH1}
+    \strng{fullhash}{CRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{The Institutional Structure of Production}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/1991/coase/lectur
+    \verb e/
     \endverb
     \field{year}{1991}
   \endentry
