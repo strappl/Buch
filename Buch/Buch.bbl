@@ -4533,6 +4533,30 @@
     \field{year}{1937}
   \endentry
 
+  \entry{Coase1959}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CRH}{%
+         family={Coase},
+         familyi={C\bibinitperiod},
+         given={Ronald\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRH1}
+    \strng{fullhash}{CRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1959}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{1\bibrangedash 40}
+    \field{title}{The Federal Communications Commission}
+    \field{volume}{2}
+    \field{journaltitle}{The Journal of Law and Economics}
+    \field{year}{1959}
+  \endentry
+
   \entry{Coase1960}{article}{}
     \name{author}{1}{}{%
       {{hash=CRH}{%
@@ -11540,6 +11564,43 @@
     \field{year}{1883}
   \endentry
 
+  \entry{Mergio2016}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MJM}{%
+         family={Mergio},
+         familyi={M\bibinitperiod},
+         given={Jose\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rocafort},
+         familyi={R\bibinitperiod},
+         given={Alba},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AAJP}{%
+         family={Aznar-Alarcon},
+         familyi={A\bibinithyphendelim A\bibinitperiod},
+         given={Juan\bibnamedelima Pedro},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJMRAAAJP1}
+    \strng{fullhash}{MJMRAAAJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{397\bibrangedash 413}
+    \field{title}{Bibliometric Overvoew of Business and Economics Research}
+    \field{volume}{17}
+    \field{journaltitle}{Journal of Business Economics and Management}
+    \field{year}{2016}
+  \endentry
+
   \entry{Merton1973}{article}{}
     \name{author}{1}{}{%
       {{hash=MR}{%
@@ -16039,6 +16100,32 @@
     \field{pages}{273\bibrangedash 291}
     \field{title}{John Maynard Keynes (1883 - 1946)}
     \field{year}{1989}
+  \endentry
+
+  \entry{Schlafly2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SAL}{%
+         family={Schlafly},
+         familyi={S\bibinitperiod},
+         given={Andrew\bibnamedelima L.},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SAL1}
+    \strng{fullhash}{SAL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{45\bibrangedash 47}
+    \field{title}{The Coase Theorem: The Greatest Economic Insight of the 20th
+  Century}
+    \field{volume}{12}
+    \field{journaltitle}{Journal of American Physicians and Surgeons}
+    \field{year}{2007}
   \endentry
 
   \entry{Schlesinger1934}{incollection}{}
