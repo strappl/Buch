@@ -98,51 +98,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 97820 items.
+Reallocating 'field_info' (item size: 4) to 98940 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 663 entries,
+You've used 671 entries,
             6399 wiz_defined-function locations,
-            4808 strings with 88111 characters,
-and the built_in function-call counts, 4671235 in all, are:
-= -- 350586
-> -- 96900
-< -- 19823
-+ -- 129063
-- -- 50680
-* -- 342809
-:= -- 498086
+            4849 strings with 89164 characters,
+and the built_in function-call counts, 4745155 in all, are:
+= -- 356924
+> -- 97684
+< -- 20045
++ -- 130705
+- -- 50941
+* -- 348727
+:= -- 506305
 add.period$ -- 0
-call.type$ -- 663
-change.case$ -- 662
+call.type$ -- 671
+change.case$ -- 670
 chr.to.int$ -- 1755
-cite$ -- 1324
-duplicate$ -- 439400
-empty$ -- 434066
-format.name$ -- 38028
-if$ -- 954802
+cite$ -- 1340
+duplicate$ -- 445760
+empty$ -- 441016
+format.name$ -- 38529
+if$ -- 970108
 int.to.chr$ -- 0
-int.to.str$ -- 2146
+int.to.str$ -- 2172
 missing$ -- 0
-newline$ -- 18908
-num.names$ -- 32727
-pop$ -- 229383
+newline$ -- 19161
+num.names$ -- 33109
+pop$ -- 232274
 preamble$ -- 1
-purify$ -- 12587
+purify$ -- 12731
 quote$ -- 0
-skip$ -- 134531
+skip$ -- 136094
 stack$ -- 0
-substring$ -- 672690
-swap$ -- 99776
-text.length$ -- 16677
-text.prefix$ -- 663
+substring$ -- 686073
+swap$ -- 100984
+text.length$ -- 16879
+text.prefix$ -- 671
 top$ -- 1
-type$ -- 22530
+type$ -- 22802
 warning$ -- 0
-while$ -- 51722
+while$ -- 52532
 width$ -- 0
-write$ -- 18246
+write$ -- 18491
