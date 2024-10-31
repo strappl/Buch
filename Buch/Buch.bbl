@@ -9821,6 +9821,44 @@
     \field{year}{1937}
   \endentry
 
+  \entry{Kim2006}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KEH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={E.\bibnamedelima Han},
+         giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Morse},
+         familyi={M\bibinitperiod},
+         given={Adair},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zingales},
+         familyi={Z\bibinitperiod},
+         given={Luigi},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KEHMAZL1}
+    \strng{fullhash}{KEHMAZL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{4}
+    \field{pages}{189\bibrangedash –202}
+    \field{title}{What Has Mattered to Economics Since 1970}
+    \field{volume}{20}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{Kirzner1967}{article}{}
     \name{author}{1}{}{%
       {{hash=KI}{%

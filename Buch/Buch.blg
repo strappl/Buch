@@ -98,51 +98,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 98940 items.
+Reallocating 'field_info' (item size: 4) to 99080 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 671 entries,
+You've used 672 entries,
             6399 wiz_defined-function locations,
-            4849 strings with 89164 characters,
-and the built_in function-call counts, 4745155 in all, are:
-= -- 356924
-> -- 97684
-< -- 20045
-+ -- 130705
-- -- 50941
-* -- 348727
-:= -- 506305
+            4855 strings with 89285 characters,
+and the built_in function-call counts, 4754322 in all, are:
+= -- 357652
+> -- 97827
+< -- 20077
++ -- 130978
+- -- 51003
+* -- 349461
+:= -- 507371
 add.period$ -- 0
-call.type$ -- 671
-change.case$ -- 670
-chr.to.int$ -- 1755
-cite$ -- 1340
-duplicate$ -- 445760
-empty$ -- 441016
-format.name$ -- 38529
-if$ -- 970108
+call.type$ -- 672
+change.case$ -- 671
+chr.to.int$ -- 1756
+cite$ -- 1342
+duplicate$ -- 446702
+empty$ -- 441796
+format.name$ -- 38616
+if$ -- 971949
 int.to.chr$ -- 0
-int.to.str$ -- 2172
+int.to.str$ -- 2174
 missing$ -- 0
-newline$ -- 19161
-num.names$ -- 33109
-pop$ -- 232274
+newline$ -- 19199
+num.names$ -- 33150
+pop$ -- 232650
 preamble$ -- 1
-purify$ -- 12731
+purify$ -- 12750
 quote$ -- 0
-skip$ -- 136094
+skip$ -- 136296
 stack$ -- 0
-substring$ -- 686073
-swap$ -- 100984
-text.length$ -- 16879
-text.prefix$ -- 671
+substring$ -- 687455
+swap$ -- 101166
+text.length$ -- 16912
+text.prefix$ -- 672
 top$ -- 1
-type$ -- 22802
+type$ -- 22836
 warning$ -- 0
-while$ -- 52532
+while$ -- 52659
 width$ -- 0
-write$ -- 18491
+write$ -- 18528
