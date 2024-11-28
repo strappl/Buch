@@ -7265,6 +7265,38 @@
     \field{year}{1991}
   \endentry
 
+  \entry{Jensen2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FJ}{%
+         family={Fuller},
+         familyi={F\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JMC}{%
+         family={Jensen},
+         familyi={J\bibinitperiod},
+         given={Michael\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FJJMC1}
+    \strng{fullhash}{FJJMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{1}
+    \field{pages}{59\bibrangedash 63}
+    \field{title}{Just Say No to Wall Street: Putting a Stop to the Earnings
+  Game}
+    \field{volume}{22}
+    \field{journaltitle}{Journal of Applied Corporate Finance}
+    \field{year}{2010}
+  \endentry
+
   \entry{Gali2011a}{article}{}
     \name{author}{1}{}{%
       {{hash=GJ}{%
@@ -10048,6 +10080,37 @@
     \field{year}{1965}
   \endentry
 
+  \entry{Kraus1973}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KA}{%
+         family={Kraus},
+         familyi={K\bibinitperiod},
+         given={Alan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LRH}{%
+         family={Litzenberger},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KALRH1}
+    \strng{fullhash}{KALRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{4}
+    \field{pages}{911\bibrangedash 922}
+    \field{title}{A State-Preference Model of Optimal Financial Leverage}
+    \field{volume}{28}
+    \field{journaltitle}{The Journal of Finance}
+    \field{year}{1973}
+  \endentry
+
   \entry{Kremer2018}{misc}{}
     \name{author}{1}{}{%
       {{hash=KD}{%
@@ -12824,6 +12887,31 @@
     \field{year}{1961}
   \endentry
 
+  \entry{Myers1984}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MSC}{%
+         family={Myers},
+         familyi={M\bibinitperiod},
+         given={Stewart\bibnamedelima C.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MSC1}
+    \strng{fullhash}{MSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{574\bibrangedash 592}
+    \field{title}{The Capital Structure Puzzle}
+    \field{volume}{39}
+    \field{journaltitle}{The Journal of Finance}
+    \field{year}{1984}
+  \endentry
+
   \entry{Myerson1978}{article}{}
     \name{author}{1}{}{%
       {{hash=MRB}{%
@@ -15516,6 +15604,28 @@
     \field{sortinithash}{R}
     \field{title}{System der Volkswirthschaft, 5 Bände}
     \field{year}{1854--1894}
+  \endentry
+
+  \entry{Rosenwald2024}{periodical}{}
+    \name{editor}{1}{}{%
+      {{hash=RMS}{%
+         family={Rosenwald},
+         familyi={R\bibinitperiod},
+         given={Michael\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RMS1}
+    \strng{fullhash}{RMS1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Michael C. Jensen, 84, Who Helped Reshape Modern Capitalism,
+  Dies. New York Times}
+    \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
   \endentry
 
   \entry{Rosner2012}{book}{}
