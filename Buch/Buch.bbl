@@ -484,6 +484,31 @@
     \field{year}{1984}
   \endentry
 
+  \entry{Alchian1965}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AAA}{%
+         family={Alchian},
+         familyi={A\bibinitperiod},
+         given={Armen\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AAA1}
+    \strng{fullhash}{AAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1965}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{issue}{4}
+    \field{pages}{816\bibrangedash 829}
+    \field{title}{Some Economics of Property Rights}
+    \field{volume}{30}
+    \field{journaltitle}{Il politico}
+    \field{year}{1965}
+  \endentry
+
   \entry{Alchian1972}{article}{}
     \name{author}{2}{}{%
       {{hash=AAA}{%
@@ -1125,6 +1150,47 @@
     \field{volume}{21}
     \field{journaltitle}{Econometrica}
     \field{year}{1953}
+  \endentry
+
+  \entry{Allen2024}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ADW}{%
+         family={Allen},
+         familyi={A\bibinitperiod},
+         given={Douglas\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADW1}
+    \strng{fullhash}{ADW1}
+    \field{labelnamesource}{author}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+  \endentry
+
+  \entry{Allen2022}{online}{}
+    \name{author}{1}{}{%
+      {{hash=ADW}{%
+         family={Allen},
+         familyi={A\bibinitperiod},
+         given={Douglas\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADW1}
+    \strng{fullhash}{ADW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Yoram Barzel (1931-2022)}
+    \verb{url}
+    \verb https://www.sfu.ca/~allen/yoram.html
+    \endverb
+    \field{year}{2022}
   \endentry
 
   \entry{Amadae1999}{article}{}
@@ -2165,6 +2231,56 @@
     \field{volume}{12}
     \field{journaltitle}{Journal of Monetary Economics}
     \field{year}{1983}
+  \endentry
+
+  \entry{Barzel1977}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BY}{%
+         family={Barzel},
+         familyi={B\bibinitperiod},
+         given={Yoram},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BY1}
+    \strng{fullhash}{BY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{291\bibrangedash 307}
+    \field{title}{Some Fallacies in the Interpretation of Information Costs}
+    \field{volume}{20}
+    \field{journaltitle}{The Journal of Law and Economics}
+    \field{year}{1977}
+  \endentry
+
+  \entry{Barzel1982}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BY}{%
+         family={Barzel},
+         familyi={B\bibinitperiod},
+         given={Yoram},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BY1}
+    \strng{fullhash}{BY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{27\bibrangedash 48}
+    \field{title}{Measurement Cost and the Organization of Markets}
+    \field{volume}{25}
+    \field{journaltitle}{The Journal of Law and Economics}
+    \field{year}{1982}
   \endentry
 
   \entry{Baumol1946}{article}{}
@@ -4184,6 +4300,57 @@
     \field{title}{The Theory of Monopolistic Competition: A Re-Orientation of
   the Theory of Value}
     \field{year}{1933}
+  \endentry
+
+  \entry{Cheung1983}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CSNS}{%
+         family={Cheung},
+         familyi={C\bibinitperiod},
+         given={Steven N.\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CSNS1}
+    \strng{fullhash}{CSNS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 21}
+    \field{title}{The Contractual Nature of the Firm}
+    \field{volume}{26}
+    \field{journaltitle}{The Journal of Law & Economics}
+    \field{year}{1983}
+  \endentry
+
+  \entry{Cheung1974}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CS}{%
+         family={Cheung},
+         familyi={C\bibinitperiod},
+         given={Steven},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CS1}
+    \strng{fullhash}{CS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1974}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{53\bibrangedash 71}
+    \field{title}{A Theory of Price Control}
+    \field{volume}{17}
+    \field{journaltitle}{The Journal of Law and Economics}
+    \field{year}{1974}
   \endentry
 
   \entry{Christiano2016}{article}{}
@@ -6264,6 +6431,70 @@
     \field{volume}{33}
     \field{journaltitle}{Journal of Financial Economics}
     \field{year}{1993}
+  \endentry
+
+  \entry{Fama1983b}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FEF}{%
+         family={Fama},
+         familyi={F\bibinitperiod},
+         given={Eugene\bibnamedelima F.},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=JMC}{%
+         family={Jensen},
+         familyi={J\bibinitperiod},
+         given={Michael\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FEFJMC1}
+    \strng{fullhash}{FEFJMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{2}
+    \field{pages}{327\bibrangedash 349}
+    \field{title}{Agency Problems and Residual Claims}
+    \field{volume}{26}
+    \field{journaltitle}{The Journal of Law and Economics}
+    \field{year}{1983}
+  \endentry
+
+  \entry{Fama1983a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FEF}{%
+         family={Fama},
+         familyi={F\bibinitperiod},
+         given={Eugene\bibnamedelima F.},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=JMC}{%
+         family={Jensen},
+         familyi={J\bibinitperiod},
+         given={Michael\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FEFJMC1}
+    \strng{fullhash}{FEFJMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{2}
+    \field{pages}{301\bibrangedash 325}
+    \field{title}{Separation of Ownership and Control}
+    \field{volume}{26}
+    \field{journaltitle}{The Journal of Law and Economics}
+    \field{year}{1983}
   \endentry
 
   \entry{Fehr2000}{article}{}
@@ -13390,6 +13621,42 @@
     \field{sortinithash}{N}
     \field{title}{Mechanism Design Theory}
     \field{year}{2007}
+  \endentry
+
+  \entry{Nobelpreis-Komitee2016}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=NK}{%
+         family={Nobelpreis-Komitee},
+         familyi={N\bibinithyphendelim K\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=iotBoSPiESiMoANA}{%
+         prefix={information on the Bank of Sweden Prize in Economic Sciences
+  in Memory\bibnamedelima of},
+         prefixi={i\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim
+  t\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  o\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim
+  E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  i\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim o\bibinitperiod},
+         family={Alfred\bibnamedelima Nobel},
+         familyi={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Advanced},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NK1}
+    \strng{fullhash}{NK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Oliver Hart and Bengt Holmström: The long and the short of
+  Contracts}
+    \field{year}{2016}
   \endentry
 
   \entry{Nordhaus1975}{article}{}
