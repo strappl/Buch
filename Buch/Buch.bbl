@@ -509,6 +509,32 @@
     \field{year}{1965}
   \endentry
 
+  \entry{Alchian1984}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AAA}{%
+         family={Alchian},
+         familyi={A\bibinitperiod},
+         given={Armen\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AAA1}
+    \strng{fullhash}{AAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{H. 1}
+    \field{pages}{34\bibrangedash 49}
+    \field{title}{Specificity, Specialization, and Coalitions}
+    \field{volume}{140}
+    \field{journaltitle}{Zeitschrift f{\"u}r die gesamte
+  Staatswissenschaft/Journal of Institutional and Theoretical Economics}
+    \field{year}{1984}
+  \endentry
+
   \entry{Alchian1972}{article}{}
     \name{author}{2}{}{%
       {{hash=AAA}{%
@@ -1152,23 +1178,6 @@
     \field{year}{1953}
   \endentry
 
-  \entry{Allen2024}{article}{}
-    \name{author}{1}{}{%
-      {{hash=ADW}{%
-         family={Allen},
-         familyi={A\bibinitperiod},
-         given={Douglas\bibnamedelima W.},
-         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{ADW1}
-    \strng{fullhash}{ADW1}
-    \field{labelnamesource}{author}
-    \field{labeldatesource}{nodate}
-    \field{sortinit}{A}
-    \field{sortinithash}{A}
-  \endentry
-
   \entry{Allen2022}{online}{}
     \name{author}{1}{}{%
       {{hash=ADW}{%
@@ -1191,6 +1200,32 @@
     \verb https://www.sfu.ca/~allen/yoram.html
     \endverb
     \field{year}{2022}
+  \endentry
+
+  \entry{Allen2024}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ADW}{%
+         family={Allen},
+         familyi={A\bibinitperiod},
+         given={Douglas\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADW1}
+    \strng{fullhash}{ADW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{issue}{e15}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{Barzel Yoram: Commemorating the Life of an Institutional
+  Economist}
+    \field{volume}{20}
+    \field{journaltitle}{Journal of Institutional Economics}
+    \field{year}{2024}
   \endentry
 
   \entry{Amadae1999}{article}{}
@@ -4302,6 +4337,32 @@
     \field{year}{1933}
   \endentry
 
+  \entry{Cheung1973}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CSNS}{%
+         family={Cheung},
+         familyi={C\bibinitperiod},
+         given={Steven N.\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CSNS1}
+    \strng{fullhash}{CSNS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{11\bibrangedash 33}
+    \field{title}{The Fable of the Bees: An Economic Investigation}
+    \field{volume}{16}
+    \field{journaltitle}{The Journal of Law and Economics}
+    \field{year}{1973}
+  \endentry
+
   \entry{Cheung1983}{article}{}
     \name{author}{1}{}{%
       {{hash=CSNS}{%
@@ -4324,7 +4385,7 @@
     \field{pages}{1\bibrangedash 21}
     \field{title}{The Contractual Nature of the Firm}
     \field{volume}{26}
-    \field{journaltitle}{The Journal of Law & Economics}
+    \field{journaltitle}{The Journal of Law and Economics}
     \field{year}{1983}
   \endentry
 
@@ -5665,6 +5726,32 @@
     \field{year}{1967}
   \endentry
 
+  \entry{Demsetz2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DH}{%
+         family={Demsetz},
+         familyi={D\bibinitperiod},
+         given={Harold},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DH1}
+    \strng{fullhash}{DH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 13}
+    \field{title}{The Problem of Social Cost: What Problem? A Critique of the
+  Reasoning of AC Pigou and RH Coase}
+    \field{volume}{7}
+    \field{journaltitle}{Review of Law \& Economics}
+    \field{year}{2011}
+  \endentry
+
   \entry{Diamond1982}{article}{}
     \name{author}{1}{}{%
       {{hash=DPA}{%
@@ -6053,6 +6140,31 @@
     \field{volume}{65}
     \field{journaltitle}{Journal of political economy}
     \field{year}{1957}
+  \endentry
+
+  \entry{Dreze1995}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DJH}{%
+         family={Dreze},
+         familyi={D\bibinitperiod},
+         given={Jacques\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJH1}
+    \strng{fullhash}{DJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{2}
+    \field{pages}{111\bibrangedash 130}
+    \field{title}{Forty Years of Public Economics: A Personal Perspective}
+    \field{volume}{9}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{1995}
   \endentry
 
   \entry{Duesenberry1949}{book}{}
@@ -10113,13 +10225,12 @@
     \field{labeldatesource}{}
     \field{sortinit}{K}
     \field{sortinithash}{K}
-    \field{number}{4}
+    \field{issue}{4}
     \field{pages}{189\bibrangedash –202}
     \field{title}{What Has Mattered to Economics Since 1970}
     \field{volume}{20}
     \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{2006}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Kirzner1967}{article}{}
@@ -10171,6 +10282,44 @@
     \field{sortinithash}{K}
     \field{title}{Conversations with Economists}
     \field{year}{1984}
+  \endentry
+
+  \entry{Klein1978}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KB}{%
+         family={Klein},
+         familyi={K\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CRG}{%
+         family={Crawford},
+         familyi={C\bibinitperiod},
+         given={Robert\bibnamedelima G.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=AAA}{%
+         family={Alchian},
+         familyi={A\bibinitperiod},
+         given={Armen\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KBCRGAAA1}
+    \strng{fullhash}{KBCRGAAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{2}
+    \field{pages}{297\bibrangedash 326}
+    \field{title}{Vertical Integration, Appropriable Rents, and the Competitive
+  Contracting Process}
+    \field{volume}{21}
+    \field{journaltitle}{The Journal of Law and Economics}
+    \field{year}{1978}
   \endentry
 
   \entry{Klein1950}{article}{}
@@ -17436,6 +17585,56 @@
     \field{year}{2017}
   \endentry
 
+  \entry{Simon1955}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SHA}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={Herbert\bibnamedelima A.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SHA1}
+    \strng{fullhash}{SHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1955}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{pages}{99\bibrangedash 118}
+    \field{title}{A Behavioral Model of Rational Choice}
+    \field{volume}{69}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{year}{1955}
+  \endentry
+
+  \entry{Simon1959}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SH}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={Herbert},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SH2}
+    \strng{fullhash}{SH2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1959}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{1}
+    \field{pages}{253\bibrangedash 283}
+    \field{title}{Theories of Decision-Making in Economics and Behavioral
+  Science}
+    \field{volume}{49}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1959}
+  \endentry
+
   \entry{Sinn2007}{article}{}
     \name{author}{1}{}{%
       {{hash=SHW}{%
@@ -19523,6 +19722,152 @@
   Ausgabe 29.02.2020}
     \field{journaltitle}{derStandard}
     \field{year}{2020}
+  \endentry
+
+  \entry{Williamson1968}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WOE}{%
+         family={Williamson},
+         familyi={W\bibinitperiod},
+         given={Oliver\bibnamedelima E.},
+         giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WOE1}
+    \strng{fullhash}{WOE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1968}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{1}
+    \field{pages}{18\bibrangedash 36}
+    \field{title}{Economies as an Antitrust Defense: The Welfare Tradeoffs}
+    \field{volume}{58}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1968}
+  \endentry
+
+  \entry{Williamson1971}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WOE}{%
+         family={Williamson},
+         familyi={W\bibinitperiod},
+         given={Oliver\bibnamedelima E.},
+         giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WOE1}
+    \strng{fullhash}{WOE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1971}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{2}
+    \field{pages}{112\bibrangedash 123}
+    \field{title}{The Vertical Integration of Production: Market Failure
+  Considerations}
+    \field{volume}{61}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1971}
+  \endentry
+
+  \entry{Williamson1975}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WOE}{%
+         family={Williamson},
+         familyi={W\bibinitperiod},
+         given={Oliver\bibnamedelima E.},
+         giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=TFPNY}{%
+         family={The Free\bibnamedelima Press},
+         familyi={T\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+         given={New\bibnamedelima York},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WOE1}
+    \strng{fullhash}{WOE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1975}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Markets and Hierarchies: Analysis and Antitrust Implications,
+  A Study in the Economics of Internal Organization}
+    \field{year}{1975}
+  \endentry
+
+  \entry{Williamson2009}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WOE}{%
+         family={Williamson},
+         familyi={W\bibinitperiod},
+         given={Oliver\bibnamedelima E.},
+         giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPL}{%
+         family={Nobel-Prize-Lecture},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WOE1}
+    \strng{fullhash}{WOE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Biographie: Williamson, Oliver E}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/2009/williamson/b
+    \verb iographical/
+    \endverb
+    \field{year}{2009}
+  \endentry
+
+  \entry{Williamson2009a}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=WOE}{%
+         family={Williamson},
+         familyi={W\bibinitperiod},
+         given={Oliver\bibnamedelima E.},
+         giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPL}{%
+         family={Nobel-Prize-Lecture},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WOE1}
+    \strng{fullhash}{WOE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Transaction Cost Economics: The Natural Progression}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/2009/williamson/l
+    \verb ecture/
+    \endverb
+    \field{year}{2009}
   \endentry
 
   \entry{Wilson1967}{article}{}
