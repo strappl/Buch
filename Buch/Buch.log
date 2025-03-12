@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2024.6.13)  9 FEB 2025 20:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2025.3.10)  10 MAR 2025 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -163,17 +163,17 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \mc@col@check@num=\count272
 )
 (C:\Users\TRAPPL\AppData\Roaming\MiKTeX\tex/latex/footmisc\footmisc.sty
-Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+Package: footmisc 2024/12/24 v6.0g a miscellany of footnote facilities
 \FN@temptoken=\toks17
 \footnotemargin=\dimen173
 \@outputbox@depth=\dimen174
-Package footmisc Info: Declaring symbol style bringhurst on input line 695.
-Package footmisc Info: Declaring symbol style chicago on input line 703.
-Package footmisc Info: Declaring symbol style wiley on input line 712.
-Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+Package footmisc Info: Declaring symbol style bringhurst on input line 699.
+Package footmisc Info: Declaring symbol style chicago on input line 707.
+Package footmisc Info: Declaring symbol style wiley on input line 716.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 727.
 
-Package footmisc Info: Declaring symbol style lamport* on input line 743.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+Package footmisc Info: Declaring symbol style lamport* on input line 747.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 768
 .
 )
 (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
@@ -194,11 +194,11 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
 (C:\Users\TRAPPL\AppData\Roaming\MiKTeX\tex/latex/babel-german\ngerman.ldf
-Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+Language: ngerman 2024/12/10 v2.15 German support for babel (post-1996 orthogra
 phy)
 
 (C:\Users\TRAPPL\AppData\Roaming\MiKTeX\tex/latex/babel-german\ngermanb.ldf
-Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+Language: ngermanb 2024/12/10 v2.15 German support for babel (post-1996 orthogr
 aphy)
 Package babel Info: Making " an active character on input line 122.
 )))
@@ -207,7 +207,7 @@ Package babel Info: Importing font and identification data for ngerman
 (babel)             from babel-de.ini. Reported on input line 11.
 )
 (C:\Users\TRAPPL\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.sty
-Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 
 (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
@@ -222,7 +222,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \csq@ltx@everypar=\toks18
 
 (C:\Users\TRAPPL\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.def
-File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
@@ -249,7 +249,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 (C:\Users\TRAPPL\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -1646,10 +1646,10 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29578 strings out of 475385
- 640680 string characters out of 2786719
- 1459405 words of memory out of 3000000
- 50330 multiletter control sequences out of 15000+600000
+ 29597 strings out of 475385
+ 640927 string characters out of 2786719
+ 1459651 words of memory out of 3000000
+ 50349 multiletter control sequences out of 15000+600000
  482171 words of font info for 50 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  84i,14n,80p,7746b,4338s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1680,9 +1680,9 @@ s/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public
 mr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (462 pages, 1725602 bytes).
+Output written on Buch.pdf (462 pages, 1726573 bytes).
 PDF statistics:
- 2371 PDF objects out of 2487 (max. 8388607)
+ 2374 PDF objects out of 2487 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
