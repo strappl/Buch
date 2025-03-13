@@ -97,58 +97,58 @@
 \contentsline {section}{\numberline {17.2}Die Ursprünge des "`Neuen Institutionalismus"': Wozu gibt es Unternehmen?}{294}{}%
 \contentsline {section}{\numberline {17.3}Private Eigentumsrechte statt Staatseingriffe: Das Coase-Theorem}{298}{}%
 \contentsline {subsection}{\numberline {17.3.1}Transaktionskostentheorie}{304}{}%
-\contentsline {subsection}{\numberline {17.3.2}Von der Theorie der Unternehmen zum Principal-Agent-Problem}{306}{}%
-\contentsline {subsection}{\numberline {17.3.3}Der Property-Rights-Ansatz und die Vertragstheorie}{313}{}%
-\contentsline {section}{\numberline {17.4}North: Die Entstehung und Entwicklung von Institutionen und Staaten}{320}{}%
-\contentsline {section}{\numberline {17.5}Acemoglu: Kein Wohlstand ohne Institutionen}{320}{}%
-\contentsline {chapter}{\numberline {18}Neue Politische Ökonomie}{321}{}%
-\contentsline {section}{\numberline {18.1}Black: Das Medianwähler-Modell}{329}{}%
-\contentsline {section}{\numberline {18.2}Downs: Wahlergebnisse als Marktergebnisse}{331}{}%
-\contentsline {section}{\numberline {18.3}Buchanan: Die Public-Choice Theorie}{332}{}%
-\contentsline {section}{\numberline {18.4}Alternative Ansätze der Neuen Politischen Ökonomie: Riker, Olson und die Ostroms }{339}{}%
-\contentsline {section}{\numberline {18.5}Der Politische Wirtschaftszyklus}{342}{}%
-\contentsline {section}{\numberline {18.6}Moderne Politische Ökonomie: Die Unabhängigkeit von Zentralbanken}{348}{}%
-\contentsline {section}{\numberline {18.7}Politische Ökonomie in der Gegenwart: Die Dominanz der Austerität}{356}{}%
-\contentsline {section}{\numberline {18.8}Ungleichheit, Politische Instabilität und Wachstum}{364}{}%
-\contentsline {section}{\numberline {18.9}Politische Ökonomie als Vereinigung des State of the Art}{364}{}%
-\contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Ökonomie abseits des Mainstreams}{365}{}%
-\contentsline {chapter}{\numberline {19}Österreichische Schule}{367}{}%
-\contentsline {section}{\numberline {19.1}Wieser: Der Schüler Mengers}{368}{}%
-\contentsline {section}{\numberline {19.2}Mises: Der Hauptvertreter}{368}{}%
-\contentsline {section}{\numberline {19.3}Hayek: Weg vom Mainstream, aber rein in die Politik}{368}{}%
-\contentsline {section}{\numberline {19.4}Rothbard, Kirzner \& die Tea Party}{368}{}%
-\contentsline {section}{\numberline {19.5}Schumpeter: Der ganz eigene Weg}{368}{}%
-\contentsline {section}{\numberline {19.6}Die Stockholmer Schule}{369}{}%
-\contentsline {chapter}{\numberline {20}Schumpeter: Der ganz eigene Weg}{371}{}%
-\contentsline {section}{\numberline {20.1}Vorläufer Zyklentheorie: Kondratieff}{371}{}%
-\contentsline {section}{\numberline {20.2}Die schöpferische Zerstörung}{371}{}%
-\contentsline {chapter}{\numberline {21}Supply-Side-Economics}{373}{}%
-\contentsline {chapter}{\numberline {22}Neoliberalismus}{381}{}%
-\contentsline {section}{\numberline {22.1}Den Neoliberalismus gibt es nicht!}{381}{}%
-\contentsline {section}{\numberline {22.2}Ordoliberalismus}{388}{}%
-\contentsline {chapter}{\numberline {23}"'Echte"' Keynes-Anhänger und der Post-Keynesianismus}{389}{}%
-\contentsline {section}{\numberline {23.1}Kalecki: Post-Keynesianer vor Keynes}{389}{}%
-\contentsline {section}{\numberline {23.2}Axel Leijonhufvud: Vater der Ungleichgewichtstheorie}{389}{}%
-\contentsline {section}{\numberline {23.3}Harrod \& Domar: Das erste Wachstumsmodell}{389}{}%
-\contentsline {section}{\numberline {23.4}Kaldor: Der Begründer des Post-Keynesianismus}{391}{}%
-\contentsline {section}{\numberline {23.5}Myrdal \& Sraffa}{391}{}%
-\contentsline {section}{\numberline {23.6}Linkskeynesianismus: Lernen \& Robinson}{391}{}%
-\contentsline {section}{\numberline {23.7}Minsky: Die Absurdität des Finanzmarktgleichgewichts}{391}{}%
-\contentsline {chapter}{\numberline {24}Exkurs: Behavioral Economics}{393}{}%
-\contentsline {section}{\numberline {24.1}Simon: Bounded Rationality}{393}{}%
-\contentsline {section}{\numberline {24.2}Allais: Es begann mit einem Paradoxon}{393}{}%
-\contentsline {section}{\numberline {24.3}Kahneman und Tversky}{393}{}%
-\contentsline {section}{\numberline {24.4}Thaler}{393}{}%
-\contentsline {part}{Teil\ VII\hspace {\betweenumberspace }Was bringt die Zukunft?}{395}{}%
-\contentsline {chapter}{\numberline {25}Sisyphus-Ökonomie}{397}{}%
-\contentsline {section}{\numberline {25.1}Die Great Recession}{398}{}%
-\contentsline {section}{\numberline {25.2}Nach der Great Recession: Die Grenzen der Geldpolitik und Austerität}{398}{}%
-\contentsline {section}{\numberline {25.3}Covid19-Krise: Die Wiederauferstehung der Fiskalpolitik?}{399}{}%
-\contentsline {chapter}{\numberline {26}Was lernte der Mainstream aus den Krisen}{401}{}%
-\contentsline {section}{\numberline {26.1}Rajan}{401}{}%
-\contentsline {chapter}{\numberline {27}Ungleichheit als wachsendes Problem}{403}{}%
-\contentsline {chapter}{\numberline {28}Armut als Herausforderung}{405}{}%
-\contentsline {section}{\numberline {28.1}Sen: Die Ökonomie der Wohlfahrt}{405}{}%
-\contentsline {section}{\numberline {28.2}Experimente gegen die Armut: Banerjee, Duflo \& Kremer}{405}{}%
-\contentsline {chapter}{\numberline {29}Ökonomie außerhalb der Demokratie?}{407}{}%
-\contentsline {chapter}{\numberline {30}Umweltfragen als existenzielle Fragen}{409}{}%
+\contentsline {subsection}{\numberline {17.3.2}Von der Theorie der Unternehmen zum Principal-Agent-Problem}{309}{}%
+\contentsline {subsection}{\numberline {17.3.3}Der Property-Rights-Ansatz und die Vertragstheorie}{315}{}%
+\contentsline {section}{\numberline {17.4}North: Die Entstehung und Entwicklung von Institutionen und Staaten}{322}{}%
+\contentsline {section}{\numberline {17.5}Acemoglu: Kein Wohlstand ohne Institutionen}{322}{}%
+\contentsline {chapter}{\numberline {18}Neue Politische Ökonomie}{323}{}%
+\contentsline {section}{\numberline {18.1}Black: Das Medianwähler-Modell}{331}{}%
+\contentsline {section}{\numberline {18.2}Downs: Wahlergebnisse als Marktergebnisse}{333}{}%
+\contentsline {section}{\numberline {18.3}Buchanan: Die Public-Choice Theorie}{334}{}%
+\contentsline {section}{\numberline {18.4}Alternative Ansätze der Neuen Politischen Ökonomie: Riker, Olson und die Ostroms }{341}{}%
+\contentsline {section}{\numberline {18.5}Der Politische Wirtschaftszyklus}{344}{}%
+\contentsline {section}{\numberline {18.6}Moderne Politische Ökonomie: Die Unabhängigkeit von Zentralbanken}{350}{}%
+\contentsline {section}{\numberline {18.7}Politische Ökonomie in der Gegenwart: Die Dominanz der Austerität}{358}{}%
+\contentsline {section}{\numberline {18.8}Ungleichheit, Politische Instabilität und Wachstum}{366}{}%
+\contentsline {section}{\numberline {18.9}Politische Ökonomie als Vereinigung des State of the Art}{366}{}%
+\contentsline {part}{Teil\ VI\hspace {\betweenumberspace }Ökonomie abseits des Mainstreams}{367}{}%
+\contentsline {chapter}{\numberline {19}Österreichische Schule}{369}{}%
+\contentsline {section}{\numberline {19.1}Wieser: Der Schüler Mengers}{370}{}%
+\contentsline {section}{\numberline {19.2}Mises: Der Hauptvertreter}{370}{}%
+\contentsline {section}{\numberline {19.3}Hayek: Weg vom Mainstream, aber rein in die Politik}{370}{}%
+\contentsline {section}{\numberline {19.4}Rothbard, Kirzner \& die Tea Party}{370}{}%
+\contentsline {section}{\numberline {19.5}Schumpeter: Der ganz eigene Weg}{370}{}%
+\contentsline {section}{\numberline {19.6}Die Stockholmer Schule}{371}{}%
+\contentsline {chapter}{\numberline {20}Schumpeter: Der ganz eigene Weg}{373}{}%
+\contentsline {section}{\numberline {20.1}Vorläufer Zyklentheorie: Kondratieff}{373}{}%
+\contentsline {section}{\numberline {20.2}Die schöpferische Zerstörung}{373}{}%
+\contentsline {chapter}{\numberline {21}Supply-Side-Economics}{375}{}%
+\contentsline {chapter}{\numberline {22}Neoliberalismus}{383}{}%
+\contentsline {section}{\numberline {22.1}Den Neoliberalismus gibt es nicht!}{383}{}%
+\contentsline {section}{\numberline {22.2}Ordoliberalismus}{390}{}%
+\contentsline {chapter}{\numberline {23}"'Echte"' Keynes-Anhänger und der Post-Keynesianismus}{391}{}%
+\contentsline {section}{\numberline {23.1}Kalecki: Post-Keynesianer vor Keynes}{391}{}%
+\contentsline {section}{\numberline {23.2}Axel Leijonhufvud: Vater der Ungleichgewichtstheorie}{391}{}%
+\contentsline {section}{\numberline {23.3}Harrod \& Domar: Das erste Wachstumsmodell}{391}{}%
+\contentsline {section}{\numberline {23.4}Kaldor: Der Begründer des Post-Keynesianismus}{393}{}%
+\contentsline {section}{\numberline {23.5}Myrdal \& Sraffa}{393}{}%
+\contentsline {section}{\numberline {23.6}Linkskeynesianismus: Lernen \& Robinson}{393}{}%
+\contentsline {section}{\numberline {23.7}Minsky: Die Absurdität des Finanzmarktgleichgewichts}{393}{}%
+\contentsline {chapter}{\numberline {24}Exkurs: Behavioral Economics}{395}{}%
+\contentsline {section}{\numberline {24.1}Simon: Bounded Rationality}{395}{}%
+\contentsline {section}{\numberline {24.2}Allais: Es begann mit einem Paradoxon}{395}{}%
+\contentsline {section}{\numberline {24.3}Kahneman und Tversky}{395}{}%
+\contentsline {section}{\numberline {24.4}Thaler}{395}{}%
+\contentsline {part}{Teil\ VII\hspace {\betweenumberspace }Was bringt die Zukunft?}{397}{}%
+\contentsline {chapter}{\numberline {25}Sisyphus-Ökonomie}{399}{}%
+\contentsline {section}{\numberline {25.1}Die Great Recession}{400}{}%
+\contentsline {section}{\numberline {25.2}Nach der Great Recession: Die Grenzen der Geldpolitik und Austerität}{400}{}%
+\contentsline {section}{\numberline {25.3}Covid19-Krise: Die Wiederauferstehung der Fiskalpolitik?}{401}{}%
+\contentsline {chapter}{\numberline {26}Was lernte der Mainstream aus den Krisen}{403}{}%
+\contentsline {section}{\numberline {26.1}Rajan}{403}{}%
+\contentsline {chapter}{\numberline {27}Ungleichheit als wachsendes Problem}{405}{}%
+\contentsline {chapter}{\numberline {28}Armut als Herausforderung}{407}{}%
+\contentsline {section}{\numberline {28.1}Sen: Die Ökonomie der Wohlfahrt}{407}{}%
+\contentsline {section}{\numberline {28.2}Experimente gegen die Armut: Banerjee, Duflo \& Kremer}{407}{}%
+\contentsline {chapter}{\numberline {29}Ökonomie außerhalb der Demokratie?}{409}{}%
+\contentsline {chapter}{\numberline {30}Umweltfragen als existenzielle Fragen}{411}{}%

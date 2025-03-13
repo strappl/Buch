@@ -13631,6 +13631,36 @@
     \field{year}{1944}
   \endentry
 
+  \entry{Nobelopreiskomitee2009}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={Nobelopreiskomitee},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPPI}{%
+         family={Nobel-Prize-Popular-Information},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim
+  P\bibinithyphendelim I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Mutual dependence behind hierarchical organizations}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/2009/popular-info
+    \verb rmation/
+    \endverb
+    \field{year}{2009}
+  \endentry
+
   \entry{Nobelpreis-Komitee1971}{misc}{}
     \name{author}{1}{}{%
       {{hash=NK}{%
@@ -16035,13 +16065,15 @@
     \strng{fullhash}{RMS1}
     \field{labelnamesource}{editor}
     \field{labeltitlesource}{title}
-    \field{labeldatesource}{nodate}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{title}{Michael C. Jensen, 84, Who Helped Reshape Modern Capitalism,
   Dies. New York Times}
-    \warn{\item Invalid format of field 'date' \item Invalid format of field
-  'date'}
+    \field{day}{26}
+    \field{month}{04}
+    \field{year}{2024}
   \endentry
 
   \entry{Rosner2012}{book}{}
@@ -19804,6 +19836,37 @@
     \field{title}{Markets and Hierarchies: Analysis and Antitrust Implications,
   A Study in the Economics of Internal Organization}
     \field{year}{1975}
+  \endentry
+
+  \entry{Williamson1985}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WOE}{%
+         family={Williamson},
+         familyi={W\bibinitperiod},
+         given={Oliver\bibnamedelima E.},
+         giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=TFPNY}{%
+         family={The Free\bibnamedelima Press},
+         familyi={T\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+         given={New\bibnamedelima York},
+         giveni={N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WOE1}
+    \strng{fullhash}{WOE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{The Economic Institutions of Capitalism: Firms, Markets,
+  Relational Contracting}
+    \field{year}{1985}
   \endentry
 
   \entry{Williamson2009}{misc}{}
