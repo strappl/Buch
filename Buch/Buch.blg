@@ -98,51 +98,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 103000 items.
+Reallocating 'field_info' (item size: 4) to 103840 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 700 entries,
+You've used 706 entries,
             6399 wiz_defined-function locations,
-            4988 strings with 92515 characters,
-and the built_in function-call counts, 4954661 in all, are:
-= -- 373007
-> -- 101381
-< -- 20755
-+ -- 135439
-- -- 52761
-* -- 365414
-:= -- 528480
+            5021 strings with 93267 characters,
+and the built_in function-call counts, 4996850 in all, are:
+= -- 376194
+> -- 102065
+< -- 20917
++ -- 136616
+- -- 53023
+* -- 368585
+:= -- 533166
 add.period$ -- 0
-call.type$ -- 700
-change.case$ -- 699
+call.type$ -- 706
+change.case$ -- 705
 chr.to.int$ -- 1827
-cite$ -- 1398
-duplicate$ -- 463497
-empty$ -- 461395
-format.name$ -- 40176
-if$ -- 1013621
+cite$ -- 1410
+duplicate$ -- 468037
+empty$ -- 465136
+format.name$ -- 40596
+if$ -- 1022217
 int.to.chr$ -- 0
-int.to.str$ -- 2264
+int.to.str$ -- 2279
 missing$ -- 0
-newline$ -- 19962
-num.names$ -- 34388
-pop$ -- 242198
+newline$ -- 20141
+num.names$ -- 34646
+pop$ -- 244340
 preamble$ -- 1
-purify$ -- 13130
+purify$ -- 13223
 quote$ -- 0
-skip$ -- 141379
+skip$ -- 142531
 stack$ -- 0
-substring$ -- 719676
-swap$ -- 105164
-text.length$ -- 17591
-text.prefix$ -- 700
+substring$ -- 725332
+swap$ -- 106076
+text.length$ -- 17759
+text.prefix$ -- 706
 top$ -- 1
-type$ -- 23788
+type$ -- 23992
 warning$ -- 0
-while$ -- 54606
+while$ -- 55187
 width$ -- 0
-write$ -- 19263
+write$ -- 19436

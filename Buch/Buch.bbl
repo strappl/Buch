@@ -119,6 +119,38 @@
     \field{year}{1999}
   \endentry
 
+  \entry{Aghion2011}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AP}{%
+         family={Aghion},
+         familyi={A\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Holden},
+         familyi={H\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{APHR1}
+    \strng{fullhash}{APHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{181\bibrangedash 197}
+    \field{title}{Incomplete Contracts and the Theory of the Firm: What Have We
+  Learned Over the Past 25 Years?}
+    \field{volume}{25}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2011}
+  \endentry
+
   \entry{Aghion2005}{article}{}
     \name{author}{3}{}{%
       {{hash=AP}{%
@@ -6142,31 +6174,6 @@
     \field{year}{1957}
   \endentry
 
-  \entry{Dreze1995}{article}{}
-    \name{author}{1}{}{%
-      {{hash=DJH}{%
-         family={Dreze},
-         familyi={D\bibinitperiod},
-         given={Jacques\bibnamedelima H.},
-         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{DJH1}
-    \strng{fullhash}{DJH1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1995}
-    \field{labeldatesource}{}
-    \field{sortinit}{D}
-    \field{sortinithash}{D}
-    \field{number}{2}
-    \field{pages}{111\bibrangedash 130}
-    \field{title}{Forty Years of Public Economics: A Personal Perspective}
-    \field{volume}{9}
-    \field{journaltitle}{Journal of Economic Perspectives}
-    \field{year}{1995}
-  \endentry
-
   \entry{Duesenberry1949}{book}{}
     \name{author}{1}{}{%
       {{hash=DJS}{%
@@ -8711,6 +8718,101 @@
     \field{year}{1988}
   \endentry
 
+  \entry{Hart2016}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HOD}{%
+         family={Hart},
+         familyi={H\bibinitperiod},
+         given={Oliver\bibnamedelima D.},
+         giveni={O\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PLD}{%
+         family={Prize\bibnamedelima Lecture},
+         familyi={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+         suffix={December\bibnamedelima 8},
+         suffixi={D\bibinitperiod\bibinitdelim \bibinitperiod},
+         given={2016},
+         giveni={\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HOD1}
+    \strng{fullhash}{HOD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{371\bibrangedash 397}
+    \field{title}{Incomplete Contracts and Control}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Hart1986}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HOD}{%
+         family={Hart},
+         familyi={H\bibinitperiod},
+         given={Oliver\bibnamedelima D.},
+         giveni={O\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=GSJ}{%
+         family={Grossman},
+         familyi={G\bibinitperiod},
+         given={Sanford\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HODGSJ1}
+    \strng{fullhash}{HODGSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{issue}{4}
+    \field{pages}{691\bibrangedash 719}
+    \field{title}{The Costs and Benefits of Ownership: A Theory of Vertical and
+  Lateral Integration}
+    \field{volume}{94}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1986}
+  \endentry
+
+  \entry{Hart1990}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HOD}{%
+         family={Hart},
+         familyi={H\bibinitperiod},
+         given={Oliver\bibnamedelima D.},
+         giveni={O\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Moore},
+         familyi={M\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HODMJ1}
+    \strng{fullhash}{HODMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{issue}{6}
+    \field{pages}{1119 \bibrangedash  1158}
+    \field{title}{Property Rights and the Nature of the Firm}
+    \field{volume}{98}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1990}
+  \endentry
+
   \entry{Hart1982}{article}{}
     \name{author}{1}{}{%
       {{hash=HO}{%
@@ -9272,6 +9374,120 @@
     \field{sortinithash}{H}
     \field{title}{Einführung in die Spieltheorie}
     \field{year}{2005}
+  \endentry
+
+  \entry{Holmstrom1979}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HB}{%
+         family={Holmstr{\"o}m},
+         familyi={H\bibinitperiod},
+         given={Bengt},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HB2}
+    \strng{fullhash}{HB2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{74\bibrangedash 91}
+    \field{title}{Moral Hazard and Observability}
+    \field{journaltitle}{The Bell Journal of Economics}
+    \field{year}{1979}
+  \endentry
+
+  \entry{Holmstrom1987}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HB}{%
+         family={Holmstr{\"o}m},
+         familyi={H\bibinitperiod},
+         given={Bengt},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Milgrom},
+         familyi={M\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HBMP1}
+    \strng{fullhash}{HBMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{303\bibrangedash 328}
+    \field{title}{Aggregation and Linearity in the Provision of Intertemporal
+  Incentives}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1987}
+  \endentry
+
+  \entry{Holmstrom1991}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HB}{%
+         family={Holmstr{\"o}m},
+         familyi={H\bibinitperiod},
+         given={Bengt},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Milgrom},
+         familyi={M\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HBMP1}
+    \strng{fullhash}{HBMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{Special\_Issue}
+    \field{pages}{24\bibrangedash 52}
+    \field{title}{Multitask Principal-Agent Analyses: Incentive Contracts,
+  Asset Ownership, and Job Design}
+    \field{volume}{7}
+    \field{journaltitle}{The Journal of Law, Economics, and Organization}
+    \field{year}{1991}
+  \endentry
+
+  \entry{Holmstrom1994}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HB}{%
+         family={Holmstr{\"o}m},
+         familyi={H\bibinitperiod},
+         given={Bengt},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Milgrom},
+         familyi={M\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HBMP1}
+    \strng{fullhash}{HBMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{972\bibrangedash 991}
+    \field{title}{The Firm as an Incentive System}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1994}
   \endentry
 
   \entry{Horn2018}{article}{}
@@ -13833,8 +14049,8 @@
     \field{labeldatesource}{}
     \field{sortinit}{N}
     \field{sortinithash}{N}
-    \field{title}{Oliver Hart and Bengt Holmström: The long and the short of
-  Contracts}
+    \field{title}{Oliver Hart and Bengt Holmstr{\"o}m: The long and the short
+  of Contracts}
     \field{year}{2016}
   \endentry
 
@@ -19889,7 +20105,6 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{extradate}{1}
     \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
@@ -19897,38 +20112,6 @@
     \verb{url}
     \verb https://www.nobelprize.org/prizes/economic-sciences/2009/williamson/b
     \verb iographical/
-    \endverb
-    \field{year}{2009}
-  \endentry
-
-  \entry{Williamson2009a}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=WOE}{%
-         family={Williamson},
-         familyi={W\bibinitperiod},
-         given={Oliver\bibnamedelima E.},
-         giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=NPL}{%
-         family={Nobel-Prize-Lecture},
-         familyi={N\bibinithyphendelim P\bibinithyphendelim L\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{WOE1}
-    \strng{fullhash}{WOE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2009}
-    \field{extradate}{2}
-    \field{labeldatesource}{}
-    \field{sortinit}{W}
-    \field{sortinithash}{W}
-    \field{title}{Transaction Cost Economics: The Natural Progression}
-    \verb{url}
-    \verb https://www.nobelprize.org/prizes/economic-sciences/2009/williamson/l
-    \verb ecture/
     \endverb
     \field{year}{2009}
   \endentry
