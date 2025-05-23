@@ -98,51 +98,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 103840 items.
+Reallocating 'field_info' (item size: 4) to 104120 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 706 entries,
+You've used 708 entries,
             6399 wiz_defined-function locations,
-            5021 strings with 93267 characters,
-and the built_in function-call counts, 4996850 in all, are:
-= -- 376194
-> -- 102065
-< -- 20917
-+ -- 136616
-- -- 53023
-* -- 368585
-:= -- 533166
+            5033 strings with 93499 characters,
+and the built_in function-call counts, 5010797 in all, are:
+= -- 377271
+> -- 102263
+< -- 20964
++ -- 136898
+- -- 53092
+* -- 369716
+:= -- 534619
 add.period$ -- 0
-call.type$ -- 706
-change.case$ -- 705
+call.type$ -- 708
+change.case$ -- 707
 chr.to.int$ -- 1827
-cite$ -- 1410
-duplicate$ -- 468037
-empty$ -- 465136
-format.name$ -- 40596
-if$ -- 1022217
+cite$ -- 1414
+duplicate$ -- 469283
+empty$ -- 466493
+format.name$ -- 40716
+if$ -- 1025155
 int.to.chr$ -- 0
-int.to.str$ -- 2279
+int.to.str$ -- 2285
 missing$ -- 0
-newline$ -- 20141
-num.names$ -- 34646
-pop$ -- 244340
+newline$ -- 20197
+num.names$ -- 34734
+pop$ -- 245022
 preamble$ -- 1
-purify$ -- 13223
+purify$ -- 13252
 quote$ -- 0
-skip$ -- 142531
+skip$ -- 142899
 stack$ -- 0
-substring$ -- 725332
-swap$ -- 106076
-text.length$ -- 17759
-text.prefix$ -- 706
+substring$ -- 727511
+swap$ -- 106371
+text.length$ -- 17807
+text.prefix$ -- 708
 top$ -- 1
-type$ -- 23992
+type$ -- 24060
 warning$ -- 0
-while$ -- 55187
+while$ -- 55333
 width$ -- 0
-write$ -- 19436
+write$ -- 19490

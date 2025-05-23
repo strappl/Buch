@@ -8311,6 +8311,37 @@
     \field{year}{1991}
   \endentry
 
+  \entry{Grossman1983}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GSJ}{%
+         family={Grossman},
+         familyi={G\bibinitperiod},
+         given={Sanford\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HOD}{%
+         family={Hart},
+         familyi={H\bibinitperiod},
+         given={Oliver\bibnamedelima D.},
+         giveni={O\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GSJHOD1}
+    \strng{fullhash}{GSJHOD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{issue}{1}
+    \field{pages}{7\bibrangedash 46}
+    \field{title}{An Analysis of the Principal-Agent Problem}
+    \field{volume}{51}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1983}
+  \endentry
+
   \entry{Grossman1980}{article}{}
     \name{author}{2}{}{%
       {{hash=GSJ}{%
@@ -12733,6 +12764,32 @@
     \field{volume}{38}
     \field{journaltitle}{The Review of Economic Studies}
     \field{year}{1971}
+  \endentry
+
+  \entry{Mirrlees1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MJA}{%
+         family={Mirrlees},
+         familyi={M\bibinitperiod},
+         given={James\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJA2}
+    \strng{fullhash}{MJA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1975 (1999)}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{3\bibrangedash 21}
+    \field{title}{The Theory of Moral Hazard and Unobservable Behaviour: Part
+  I}
+    \field{volume}{66}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1975 (1999)}
   \endentry
 
   \entry{Mishkin2000}{article}{}
