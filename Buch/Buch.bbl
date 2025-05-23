@@ -8869,6 +8869,47 @@
     \field{year}{1982}
   \endentry
 
+  \entry{Hart1997}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HO}{%
+         family={Hart},
+         familyi={H\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Shleifer},
+         familyi={S\bibinitperiod},
+         given={Andrei},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VRW}{%
+         family={Vishny},
+         familyi={V\bibinitperiod},
+         given={Robert\bibnamedelima W},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{HOSAVRW1}
+    \strng{fullhash}{HOSAVRW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{4}
+    \field{pages}{1127\bibrangedash 1161}
+    \field{title}{The Proper Scope of Government: Theory and an Application to
+  Prisons}
+    \field{volume}{112}
+    \field{journaltitle}{The quarterly journal of economics}
+    \field{year}{1997}
+  \endentry
+
   \entry{Hayek1931}{book}{}
     \name{author}{1}{}{%
       {{hash=HFA}{%
@@ -17890,6 +17931,37 @@
     \field{year}{2017}
   \endentry
 
+  \entry{Shleifer1997}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SA}{%
+         family={Shleifer},
+         familyi={S\bibinitperiod},
+         given={Andrei},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VRW}{%
+         family={Vishny},
+         familyi={V\bibinitperiod},
+         given={Robert\bibnamedelima W.},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SAVRW1}
+    \strng{fullhash}{SAVRW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{737\bibrangedash 783}
+    \field{title}{A Survey of Corporate Governance}
+    \field{volume}{52}
+    \field{journaltitle}{The Journal of Finance}
+    \field{year}{1997}
+  \endentry
+
   \entry{Simon1955}{article}{}
     \name{author}{1}{}{%
       {{hash=SHA}{%
@@ -18871,6 +18943,31 @@
     \field{year}{1826}
   \endentry
 
+  \entry{Tirole1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJ}{%
+         family={Tirole},
+         familyi={T\bibinitperiod},
+         given={Jean},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJ1}
+    \strng{fullhash}{TJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{4}
+    \field{pages}{741\bibrangedash 781}
+    \field{title}{Incomplete Contracts: Where do we Stand?}
+    \field{volume}{67}
+    \field{journaltitle}{Econometrica}
+    \field{year}{1999}
+  \endentry
+
   \entry{Tobin1958}{article}{}
     \name{author}{1}{}{%
       {{hash=TJ}{%
@@ -18880,8 +18977,8 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{TJ1}
-    \strng{fullhash}{TJ1}
+    \strng{namehash}{TJ2}
+    \strng{fullhash}{TJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1958}
@@ -18908,8 +19005,8 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{TJ1}
-    \strng{fullhash}{TJ1}
+    \strng{namehash}{TJ2}
+    \strng{fullhash}{TJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1970}
@@ -18933,8 +19030,8 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{TJ1}
-    \strng{fullhash}{TJ1}
+    \strng{namehash}{TJ2}
+    \strng{fullhash}{TJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1972}
@@ -18959,8 +19056,8 @@
     \list{publisher}{1}{%
       {Brookings Institution Press}%
     }
-    \strng{namehash}{TJ1}
-    \strng{fullhash}{TJ1}
+    \strng{namehash}{TJ2}
+    \strng{fullhash}{TJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1980}
@@ -18990,8 +19087,8 @@
     \list{publisher}{1}{%
       {American Economic Association}%
     }
-    \strng{namehash}{TJ1}
-    \strng{fullhash}{TJ1}
+    \strng{namehash}{TJ2}
+    \strng{fullhash}{TJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1985}
@@ -19015,8 +19112,8 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{TJ1}
-    \strng{fullhash}{TJ1}
+    \strng{namehash}{TJ2}
+    \strng{fullhash}{TJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1993}
@@ -19044,8 +19141,8 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{TJ1}
-    \strng{fullhash}{TJ1}
+    \strng{namehash}{TJ2}
+    \strng{fullhash}{TJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2005 (1987)}

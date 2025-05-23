@@ -98,51 +98,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 104120 items.
+Reallocating 'field_info' (item size: 4) to 104540 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 708 entries,
+You've used 711 entries,
             6399 wiz_defined-function locations,
-            5033 strings with 93499 characters,
-and the built_in function-call counts, 5010797 in all, are:
-= -- 377271
-> -- 102263
-< -- 20964
-+ -- 136898
-- -- 53092
-* -- 369716
-:= -- 534619
+            5049 strings with 93863 characters,
+and the built_in function-call counts, 5032282 in all, are:
+= -- 378896
+> -- 102611
+< -- 21050
++ -- 137458
+- -- 53223
+* -- 371366
+:= -- 536922
 add.period$ -- 0
-call.type$ -- 708
-change.case$ -- 707
+call.type$ -- 711
+change.case$ -- 710
 chr.to.int$ -- 1827
-cite$ -- 1414
-duplicate$ -- 469283
-empty$ -- 466493
-format.name$ -- 40716
-if$ -- 1025155
+cite$ -- 1420
+duplicate$ -- 471503
+empty$ -- 468433
+format.name$ -- 40924
+if$ -- 1029583
 int.to.chr$ -- 0
-int.to.str$ -- 2285
+int.to.str$ -- 2294
 missing$ -- 0
-newline$ -- 20197
-num.names$ -- 34734
-pop$ -- 245022
+newline$ -- 20293
+num.names$ -- 34875
+pop$ -- 246077
 preamble$ -- 1
-purify$ -- 13252
+purify$ -- 13310
 quote$ -- 0
-skip$ -- 142899
+skip$ -- 143521
 stack$ -- 0
-substring$ -- 727511
-swap$ -- 106371
-text.length$ -- 17807
-text.prefix$ -- 708
+substring$ -- 730468
+swap$ -- 106856
+text.length$ -- 17887
+text.prefix$ -- 711
 top$ -- 1
-type$ -- 24060
+type$ -- 24162
 warning$ -- 0
-while$ -- 55333
+while$ -- 55606
 width$ -- 0
-write$ -- 19490
+write$ -- 19583
