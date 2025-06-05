@@ -64,7 +64,8 @@
 \contentsline {section}{\numberline {14.1}Die moderne Theorie der öffentlichen Wirtschaft}{199}{}%
 \contentsline {section}{\numberline {14.2}Öffentliche Güter}{203}{}%
 \contentsline {section}{\numberline {14.3}Informationsasymmetrie}{205}{}%
-\contentsline {section}{\numberline {14.4}Die Kostenkrankheit und angreifbare Märkte}{209}{}%
+\contentsline {section}{\numberline {14.4}Regulierungsökonomik}{209}{}%
+\contentsline {section}{\numberline {14.5}Die Kostenkrankheit und angreifbare Märkte}{209}{}%
 \contentsline {chapter}{\numberline {15}Neu-Keynesianismus}{215}{}%
 \contentsline {section}{\numberline {15.1}Phelps: Mikrofoundation der Makroökonomie}{217}{}%
 \contentsline {section}{\numberline {15.2}Der "'Kern"' des Neukeynesianismus}{222}{}%
@@ -100,9 +101,8 @@
 \contentsline {subsection}{\numberline {17.3.2}Der Property-Rights-Ansatz}{310}{}%
 \contentsline {subsection}{\numberline {17.3.3}Transaktionskostentheorie}{317}{}%
 \contentsline {section}{\numberline {17.4}Die moderne Vertragstheorie}{322}{}%
-\contentsline {section}{\numberline {17.5}Stigler, Tirole?}{326}{}%
-\contentsline {section}{\numberline {17.6}North: Die Entstehung und Entwicklung von Institutionen und Staaten}{326}{}%
-\contentsline {section}{\numberline {17.7}Acemoglu: Kein Wohlstand ohne Institutionen}{326}{}%
+\contentsline {section}{\numberline {17.5}North \& Acemoglu: Der "`makroökonomische"' Neue Institutionalismus}{326}{}%
+\contentsline {section}{\numberline {17.6}Acemoglu: Kein Wohlstand ohne Institutionen}{326}{}%
 \contentsline {chapter}{\numberline {18}Neue Politische Ökonomie}{329}{}%
 \contentsline {section}{\numberline {18.1}Black: Das Medianwähler-Modell}{337}{}%
 \contentsline {section}{\numberline {18.2}Downs: Wahlergebnisse als Marktergebnisse}{339}{}%

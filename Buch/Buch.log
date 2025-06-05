@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2025.5.13)  23 MAY 2025 15:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2025.5.13)  5 JUN 2025 16:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1188,23 +1188,23 @@ Kapitel 13.
 Kapitel 14.
 [197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208]
 [209] [210] [211] [212]
-Overfull \hbox (2.38959pt too wide) in paragraph at lines 78--79
+Overfull \hbox (2.38959pt too wide) in paragraph at lines 84--85
 \T1/cmr/m/n/10 ana-ly-siert, zu-sam-men-ge-fasst und em-pi-risch un-ter-sucht. 
 Er kam zu dem Schluss,
  []
 
-) [213]
+) [213] [214]
 \openout2 = `Kapitel_4_1.aux'.
 
- (Kapitel_4_1.tex [214
-
-
-
-
-
-]
+ (Kapitel_4_1.tex
 Kapitel 15.
-[215] [216]
+[215
+
+
+
+
+
+] [216]
 Overfull \hbox (18.58008pt too wide) in paragraph at lines 29--30
 \T1/cmr/m/n/10 Man fin-det wohl kaum einen Na-men, der den Über-gang zum ^^RNeu
 -Keynesianismus^^P
@@ -1370,7 +1370,7 @@ Overfull \hbox (2.6673pt too wide) in paragraph at lines 90--91
  []
 
 [308] [309] [310] [311] [312] [313] [314] [315] [316] [317] [318] [319]
-[320] [321] [322] [323] [324] [325]) [326] [327]
+[320] [321] [322] [323] [324] [325] [326]) [327]
 \openout2 = `Kapitel_5_2a.aux'.
 
  (Kapitel_5_2a.tex [328
@@ -1628,8 +1628,9 @@ Overfull \hbox (99.84798pt too wide) in paragraph at lines 116--116
 UAnsatz und die "neue"Wirtschaftsgeschichte^^S.
  []
 
+[456]
 No file Buch.ind.
-[456] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
+[457] (Buch.aux (dedic.aux) (pref.aux) (Teil_I.aux) (Kapitel_1_1.aux)
 (Kapitel_1_2.aux) (Kapitel_1_3.aux) (Teil_II.aux) (Kapitel_2_1.aux)
 (Kapitel_2_2.aux) (Kapitel_2_3.aux) (Teil_III.aux) (Kapitel_3_1.aux)
 (Kapitel_3_2.aux) (Kapitel_2_4.aux) (Kapitel_3_4.aux) (Kapitel_3_6.aux)
@@ -1644,13 +1645,13 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29709 strings out of 475385
- 643931 string characters out of 2786719
- 1467303 words of memory out of 3000000
- 50461 multiletter control sequences out of 15000+600000
+ 29716 strings out of 475385
+ 644138 string characters out of 2786719
+ 1467894 words of memory out of 3000000
+ 50468 multiletter control sequences out of 15000+600000
  482171 words of font info for 50 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 84i,14n,80p,7746b,4423s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,14n,80p,7746b,4427s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
 t1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ecbi1000.pk> <C:\Users\TRAPPL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
@@ -1678,9 +1679,9 @@ s/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public
 mr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (470 pages, 1751254 bytes).
+Output written on Buch.pdf (471 pages, 1752617 bytes).
 PDF statistics:
- 2400 PDF objects out of 2487 (max. 8388607)
+ 2402 PDF objects out of 2487 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

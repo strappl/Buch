@@ -572,7 +572,7 @@
       {{hash=AAA}{%
          family={Alchian},
          familyi={A\bibinitperiod},
-         given={Armen\bibnamedelima A},
+         given={Armen\bibnamedelima A.},
          giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
       {{hash=DH}{%
@@ -613,8 +613,8 @@
          giveni={H\bibinitperiod},
       }}%
     }
-    \strng{namehash}{AAADH2}
-    \strng{fullhash}{AAADH2}
+    \strng{namehash}{AAADH1}
+    \strng{fullhash}{AAADH1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1973}
@@ -19774,6 +19774,36 @@
     \field{sortinithash}{W}
     \field{title}{The Modern World-System I-IV}
     \field{year}{1974}
+  \endentry
+
+  \entry{Wallis1986}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=WJJ}{%
+         family={Wallis},
+         familyi={W\bibinitperiod},
+         given={John\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ND}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJJND1}
+    \strng{fullhash}{WJJND1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{Long-Term Factors in American Economic Growth}
+    \field{pages}{95\bibrangedash 162}
+    \field{title}{Measuring the Transaction Sector in the American Economy,
+  1870-1970}
+    \field{year}{1986}
   \endentry
 
   \entry{Walras1874}{book}{}
