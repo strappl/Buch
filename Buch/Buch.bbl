@@ -5452,6 +5452,36 @@
     \field{year}{1979}
   \endentry
 
+  \entry{North1971}{book}{}
+    \name{author}{2}{}{%
+      {{hash=DLE}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={Lance\bibnamedelima E.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=NDC}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge: Cambridge University Press}%
+    }
+    \strng{namehash}{DLENDC1}
+    \strng{fullhash}{DLENDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1971}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Institutional Change and American Economic Growth}
+    \field{year}{1971}
+  \endentry
+
   \entry{DeFinetti1952}{article}{}
     \name{author}{1}{}{%
       {{hash=DFB}{%
@@ -10106,6 +10136,30 @@
     \field{year}{1995}
   \endentry
 
+  \entry{Jung2025}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JC}{%
+         family={Jung},
+         familyi={J\bibinitperiod},
+         given={Cyril},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JC1}
+    \strng{fullhash}{JC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2025}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{pages}{1\bibrangedash 21}
+    \field{title}{Economic History and Development: Douglass North's
+  Disillusionment with simplistic, Market-Oriented Policies, 1950s-1990s}
+    \field{journaltitle}{Journal of the History of Economic Thought}
+    \field{year}{2025}
+  \endentry
+
   \entry{Kahn1931}{article}{}
     \name{author}{1}{}{%
       {{hash=KRF}{%
@@ -12474,6 +12528,78 @@
     \field{year}{1999}
   \endentry
 
+  \entry{Menard2014}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=MC}{%
+         family={M{\'e}nard},
+         familyi={M\bibinitperiod},
+         given={Claude},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SMM}{%
+         family={Shirley},
+         familyi={S\bibinitperiod},
+         given={Mary\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=TG}{%
+         family={Tullock},
+         familyi={T\bibinitperiod},
+         given={Gordon},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press, Cambridge}%
+    }
+    \strng{namehash}{MCSMM1}
+    \strng{fullhash}{MCSMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Institutions, property rights, and economic growth: the
+  legacy of Douglass North}
+    \field{pages}{11–\bibrangedash 29}
+    \field{title}{The Contribution of Douglass North to New Institutional
+  Economics}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Menard2010}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=MC}{%
+         family={M{\'e}nard},
+         familyi={M\bibinitperiod},
+         given={Claude},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Shirley},
+         familyi={S\bibinitperiod},
+         given={Mary},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MCSM1}
+    \strng{fullhash}{MCSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Annual Meeting of the International Society for New
+  Institutional Economics, Sterling, Scotland}
+    \field{title}{From Intuition to Institutionalization: A History of New
+  Institutional Economics}
+    \field{year}{2010}
+  \endentry
+
   \entry{Menger1871}{book}{}
     \name{author}{1}{}{%
       {{hash=MC}{%
@@ -14232,6 +14358,80 @@
     \field{year}{2008}
   \endentry
 
+  \entry{North1961}{book}{}
+    \name{author}{1}{}{%
+      {{hash=NDC}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Englewood Cliffs, N.J.: Prentice-Hall}%
+    }
+    \strng{namehash}{NDC1}
+    \strng{fullhash}{NDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1961}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{The Economic Growth of the United Staes 1790-1860}
+    \field{year}{1961}
+  \endentry
+
+  \entry{North1966}{book}{}
+    \name{author}{1}{}{%
+      {{hash=NDC}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Englewood Cliffs, N.J.: Prentice-Hall}%
+    }
+    \strng{namehash}{NDC1}
+    \strng{fullhash}{NDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1966}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Growth and Welfare in the American Past. A New Economic
+  History}
+    \field{year}{1966}
+  \endentry
+
+  \entry{North1968}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NDC}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NDC1}
+    \strng{fullhash}{NDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1968}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{5}
+    \field{pages}{953\bibrangedash 970}
+    \field{title}{Sources of Productivity Change in Ocean Shipping, 1600-1850}
+    \field{volume}{76}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1968}
+  \endentry
+
   \entry{North1990}{book}{}
     \name{author}{1}{}{%
       {{hash=NDC}{%
@@ -14261,6 +14461,62 @@
     \field{title}{Institutions, Institutional Change and Economic Performance
   (zitiert aus deutscher Ausgabe)}
     \field{year}{1990}
+  \endentry
+
+  \entry{North1991}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NDC}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NDC1}
+    \strng{fullhash}{NDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{1}
+    \field{pages}{97–112}
+    \field{title}{Institutions}
+    \field{volume}{5}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{1991}
+  \endentry
+
+  \entry{North1994b}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=NDC}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NPB}{%
+         family={Nobel-Prize-Biographical},
+         familyi={N\bibinithyphendelim P\bibinithyphendelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NDC1}
+    \strng{fullhash}{NDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Douglass C. North - Biographical}
+    \verb{url}
+    \verb https://www.nobelprize.org/prizes/economic-sciences/1993/north/biogra
+    \verb phical/
+    \endverb
+    \field{year}{1993}
   \endentry
 
   \entry{OBrien2000}{article}{}
@@ -14594,6 +14850,36 @@
     \field{volume}{55}
     \field{journaltitle}{American Political Science Review}
     \field{year}{1961}
+  \endentry
+
+  \entry{North1973}{book}{}
+    \name{author}{2}{}{%
+      {{hash=PTR}{%
+         family={P.},
+         familyi={P\bibinitperiod},
+         given={Thomas\bibnamedelima Robert},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=NDC}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge: Cambridge University Press}%
+    }
+    \strng{namehash}{PTRNDC1}
+    \strng{fullhash}{PTRNDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Institutional Change and American Economic Growth}
+    \field{year}{1973}
   \endentry
 
   \entry{Pareto1896}{book}{}
@@ -17444,12 +17730,12 @@
     \strng{fullhash}{SA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{198}
+    \field{labelyear}{1981}
     \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{title}{The Economic Theory of Social Institutions}
-    \field{year}{198}
+    \field{year}{1981}
   \endentry
 
   \entry{Schultz1961}{article}{}
