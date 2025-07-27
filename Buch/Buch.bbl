@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -1545,6 +1545,32 @@
     \field{volume}{22}
     \field{journaltitle}{Econometrica}
     \field{year}{1954}
+  \endentry
+
+  \entry{Arthur1989}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AWB}{%
+         family={Arthur},
+         familyi={A\bibinitperiod},
+         given={W.\bibnamedelima Brian},
+         giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AWB1}
+    \strng{fullhash}{AWB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{394}
+    \field{pages}{116\bibrangedash 131}
+    \field{title}{Competing Technologies, Increasing Returns, and Lock-In by
+  Historical Events}
+    \field{volume}{99}
+    \field{journaltitle}{The Economic Journal}
+    \field{year}{1989}
   \endentry
 
   \entry{Aspromourgos1986}{article}{}
@@ -3093,38 +3119,6 @@
     \field{year}{1996}
   \endentry
 
-  \entry{BohmBawerk1888}{book}{}
-    \name{author}{1}{}{%
-      {{hash=BBE}{%
-         family={Böhm-Bawerk},
-         familyi={B\bibinithyphendelim B\bibinitperiod},
-         given={Eugen},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=dWUBIV}{%
-         prefix={der},
-         prefixi={d\bibinitperiod},
-         family={Wagner'schen Universitäts-Buchhandlung},
-         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
-  B\bibinitperiod},
-         given={Innsbruck:\bibnamedelima Verlag},
-         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BBE1}
-    \strng{fullhash}{BBE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1889}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
-    \field{year}{1889}
-  \endentry
-
   \entry{Bils1987}{article}{}
     \name{author}{1}{}{%
       {{hash=BM}{%
@@ -4030,6 +4024,38 @@
     \field{sortinithash}{B}
     \field{title}{Notenbank für Deutschland}
     \field{year}{2016}
+  \endentry
+
+  \entry{BohmBawerk1888}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BBE}{%
+         family={Böhm-Bawerk},
+         familyi={B\bibinithyphendelim B\bibinitperiod},
+         given={Eugen},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dWUBIV}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Wagner'schen Universitäts-Buchhandlung},
+         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
+  B\bibinitperiod},
+         given={Innsbruck:\bibnamedelima Verlag},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBE1}
+    \strng{fullhash}{BBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1889}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
+    \field{year}{1889}
   \endentry
 
   \entry{Caldwell2001}{article}{}
@@ -5452,6 +5478,31 @@
     \field{year}{1979}
   \endentry
 
+  \entry{David1985}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DPA}{%
+         family={David},
+         familyi={D\bibinitperiod},
+         given={Paul\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DPA1}
+    \strng{fullhash}{DPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{2}
+    \field{pages}{332\bibrangedash 337}
+    \field{title}{Clio and the Economics of QWERTY}
+    \field{volume}{75}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1985}
+  \endentry
+
   \entry{North1971}{book}{}
     \name{author}{2}{}{%
       {{hash=DLE}{%
@@ -5823,8 +5874,8 @@
          giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
     }
-    \strng{namehash}{DPA1}
-    \strng{fullhash}{DPA1}
+    \strng{namehash}{DPA2}
+    \strng{fullhash}{DPA2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1982}
@@ -9081,6 +9132,30 @@
     \field{volume}{71}
     \field{journaltitle}{American political science review}
     \field{year}{1977}
+  \endentry
+
+  \entry{Hibbs2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HDA}{%
+         family={Hibbs},
+         familyi={H\bibinitperiod},
+         given={Douglas\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HDA1}
+    \strng{fullhash}{HDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{257\bibrangedash 278}
+    \field{title}{The Politicization of Growth Theory}
+    \field{volume}{54}
+    \field{journaltitle}{Kyklos}
+    \field{year}{2001}
   \endentry
 
   \entry{Hicks1934}{article}{}
@@ -14570,6 +14645,35 @@
     \field{year}{1993}
   \endentry
 
+  \entry{North2005}{book}{}
+    \name{author}{1}{}{%
+      {{hash=NDC}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PPU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Princeton\bibnamedelima University},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NDC1}
+    \strng{fullhash}{NDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Understanding the Process of Economic Change}
+    \field{year}{2005}
+  \endentry
+
   \entry{North1989}{article}{}
     \name{author}{2}{}{%
       {{hash=NDC}{%
@@ -19310,6 +19414,31 @@
     \field{sortinithash}{T}
     \field{title}{Der isolierte Staat [...]}
     \field{year}{1826}
+  \endentry
+
+  \entry{Tiebout1956}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TCM}{%
+         family={Tiebout},
+         familyi={T\bibinitperiod},
+         given={Charles\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TCM1}
+    \strng{fullhash}{TCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1956}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{5}
+    \field{pages}{416\bibrangedash 424}
+    \field{title}{A Pure Theory of Local Expenditures}
+    \field{volume}{64}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1956}
   \endentry
 
   \entry{Tirole1999}{article}{}
