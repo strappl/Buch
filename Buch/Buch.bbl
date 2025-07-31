@@ -17,6 +17,257 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{Acemoglu2003}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AD}{%
+         family={Acemoglu},
+         familyi={A\bibinitperiod},
+         given={Daron},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AD1}
+    \strng{fullhash}{AD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4}
+    \field{pages}{620\bibrangedash 652}
+    \field{title}{Why Not a Political Coase Theorem? Social Conflict,
+  Commitment, and Politics}
+    \field{volume}{31}
+    \field{journaltitle}{Journal of Comparative Economics}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Acemoglu2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=AD}{%
+         family={Acemoglu},
+         familyi={A\bibinitperiod},
+         given={Daron},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=LP}{%
+         family={Lecture},
+         familyi={L\bibinitperiod},
+         given={Prize},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AD1}
+    \strng{fullhash}{AD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Institutions, Technology and Prosperity}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Acemoglu2001}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AD}{%
+         family={Acemoglu},
+         familyi={A\bibinitperiod},
+         given={Daron},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=JS}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RJA}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={James\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADJSRJA1}
+    \strng{fullhash}{ADJSRJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{5}
+    \field{pages}{1369\bibrangedash 1401}
+    \field{title}{The Colonial Origins of Comparative Development: An Empirical
+  Investigation}
+    \field{volume}{91}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Acemoglu2000a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AD}{%
+         family={Acemoglu},
+         familyi={A\bibinitperiod},
+         given={Daron},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RJA}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={James\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADRJA1}
+    \strng{fullhash}{ADRJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4-6}
+    \field{pages}{683\bibrangedash 693}
+    \field{title}{Democratization or Repression?}
+    \field{volume}{44}
+    \field{journaltitle}{European Economic Review}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Acemoglu2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AD}{%
+         family={Acemoglu},
+         familyi={A\bibinitperiod},
+         given={Daron},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RJA}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={James\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADRJA1}
+    \strng{fullhash}{ADRJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{126–130}
+    \field{title}{Political Losers as a Barrier to Economic Development}
+    \field{volume}{90}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Acemoglu2006a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AD}{%
+         family={Acemoglu},
+         familyi={A\bibinitperiod},
+         given={Daron},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RJA}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={James\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADRJA1}
+    \strng{fullhash}{ADRJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{1}
+    \field{pages}{115\bibrangedash 131}
+    \field{title}{Economic Backwardness in Political Perspective}
+    \field{volume}{100}
+    \field{journaltitle}{American Political Science Review}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Acemoglu2006}{book}{}
+    \name{author}{2}{}{%
+      {{hash=AD}{%
+         family={Acemoglu},
+         familyi={A\bibinitperiod},
+         given={Daron},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RJA}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={James\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{ADRJA1}
+    \strng{fullhash}{ADRJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Economic Origins of Dictatorship and Democracy}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Acemoglu2008}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AD}{%
+         family={Acemoglu},
+         familyi={A\bibinitperiod},
+         given={Daron},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RJA}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={James\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADRJA1}
+    \strng{fullhash}{ADRJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{1}
+    \field{pages}{267\bibrangedash 293}
+    \field{title}{Persistence of Power, Elites, and Institutions}
+    \field{volume}{98}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2008}
+  \endentry
+
   \entry{Acemoglu2012}{book}{}
     \name{author}{2}{}{%
       {{hash=AD}{%
@@ -1822,8 +2073,8 @@
     \list{publisher}{1}{%
       {Basic Books}%
     }
-    \strng{namehash}{AD1}
-    \strng{fullhash}{AD1}
+    \strng{namehash}{AD2}
+    \strng{fullhash}{AD2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1984}
@@ -3667,6 +3918,37 @@
     \field{volume}{2}
     \field{journaltitle}{Journal of Public Economics}
     \field{year}{1973}
+  \endentry
+
+  \entry{Bloom1998}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BDE}{%
+         family={Bloom},
+         familyi={B\bibinitperiod},
+         given={David\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SJD}{%
+         family={Sachs},
+         familyi={S\bibinitperiod},
+         given={Jeffrey\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BDESJD1}
+    \strng{fullhash}{BDESJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{207\bibrangedash 295}
+    \field{title}{Geography, Demography, and Economic Growth in Africa}
+    \field{volume}{1998}
+    \field{journaltitle}{Brookings Papers on Economic Activity}
+    \field{year}{1998}
   \endentry
 
   \entry{Boianovsky2018}{article}{}
@@ -6469,6 +6751,55 @@
     \field{volume}{16}
     \field{journaltitle}{Journal of Economic Perspectives}
     \field{year}{2002}
+  \endentry
+
+  \entry{Ellickson1991}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ERC}{%
+         family={Ellickson},
+         familyi={E\bibinitperiod},
+         given={Robert\bibnamedelima C.},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge: Harvard University Press}%
+    }
+    \strng{namehash}{ERC1}
+    \strng{fullhash}{ERC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{Order Without Law: How Neighbors Settle Disputes}
+    \field{year}{1991}
+  \endentry
+
+  \entry{Ellickson1994}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ERC}{%
+         family={Ellickson},
+         familyi={E\bibinitperiod},
+         given={Robert\bibnamedelima C.},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ERC1}
+    \strng{fullhash}{ERC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{1}
+    \field{pages}{97\bibrangedash 100}
+    \field{title}{The Aim of Order Without Law}
+    \field{volume}{150}
+    \field{journaltitle}{Journal of Institutional and Theoretical Economics}
+    \field{year}{1994}
   \endentry
 
   \entry{Epstein1999}{article}{}
@@ -12786,6 +13117,37 @@
     \field{year}{1973}
   \endentry
 
+  \entry{Milanovic2019}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MB}{%
+         family={Milanovic},
+         familyi={M\bibinitperiod},
+         given={Branko},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=CMHUP}{%
+         family={Cambridge},
+         familyi={C\bibinitperiod},
+         given={MA: Harvard University\bibnamedelima Press},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  U\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MB2}
+    \strng{fullhash}{MB2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Capitalism, Alone: The Future of the System That Rules the
+  World}
+    \field{year}{2019}
+  \endentry
+
   \entry{Milesi2002}{article}{}
     \name{author}{3}{}{%
       {{hash=MFGM}{%
@@ -16075,6 +16437,30 @@
     \field{year}{1944}
   \endentry
 
+  \entry{Posner1983}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PRA}{%
+         family={Posner},
+         familyi={P\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard University Press}%
+    }
+    \strng{namehash}{PRA1}
+    \strng{fullhash}{PRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{The Economics of Justice}
+    \field{year}{1983}
+  \endentry
+
   \entry{Pratt1964}{article}{}
     \name{author}{1}{}{%
       {{hash=PJW}{%
@@ -16191,6 +16577,37 @@
     \field{volume}{38}
     \field{journaltitle}{The Economic Journal}
     \field{year}{1928}
+  \endentry
+
+  \entry{Rappaport2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RJ}{%
+         family={Rappaport},
+         familyi={R\bibinitperiod},
+         given={Jordan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SJD}{%
+         family={Sachs},
+         familyi={S\bibinitperiod},
+         given={Jeffrey\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJSJD1}
+    \strng{fullhash}{RJSJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{1}
+    \field{pages}{5\bibrangedash 46}
+    \field{title}{The United States as a Coastal Nation}
+    \field{volume}{8}
+    \field{journaltitle}{Journal of Economic growth}
+    \field{year}{2003}
   \endentry
 
   \entry{Rawls1971}{book}{}
@@ -17348,6 +17765,32 @@
     \field{volume}{96}
     \field{journaltitle}{American Economic Review}
     \field{year}{2006}
+  \endentry
+
+  \entry{Sachs2012}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJD}{%
+         family={Sachs},
+         familyi={S\bibinitperiod},
+         given={Jeffrey\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJD1}
+    \strng{fullhash}{SJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{5}
+    \field{pages}{142\bibrangedash 150}
+    \field{title}{Government, Geography, and Growth: The True Drivers of
+  Economic Development}
+    \field{volume}{91}
+    \field{journaltitle}{Foreign Affairs}
+    \field{year}{2012}
   \endentry
 
   \entry{Samuelson1939}{article}{}
@@ -18825,11 +19268,11 @@
 
   \entry{Soto2000}{book}{}
     \name{author}{1}{}{%
-      {{hash=dSPH}{%
+      {{hash=dSH}{%
          prefix={de},
          prefixi={d\bibinitperiod},
-         family={Soto\bibnamedelima Polar},
-         familyi={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+         family={Soto},
+         familyi={S\bibinitperiod},
          given={Hernando},
          giveni={H\bibinitperiod},
       }}%
@@ -18850,8 +19293,8 @@
   P\bibinitperiod},
       }}%
     }
-    \strng{namehash}{SPHd1}
-    \strng{fullhash}{SPHd1}
+    \strng{namehash}{SHd1}
+    \strng{fullhash}{SHd1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2000}
@@ -19109,6 +19552,66 @@
     \field{volume}{146}
     \field{journaltitle}{De economist}
     \field{year}{1998}
+  \endentry
+
+  \entry{Stone1996}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=SA}{%
+         family={Stone},
+         familyi={S\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Levy},
+         familyi={L\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Ricardo},
+         familyi={R\bibinitperiod},
+         given={Paredes},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=ALJ}{%
+         family={Alston},
+         familyi={A\bibinitperiod},
+         given={Lee\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=TE}{%
+         family={Thrainn},
+         familyi={T\bibinitperiod},
+         given={Eggertsson},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=NDC}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{SALBRP1}
+    \strng{fullhash}{SALBRP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Empirical Studies in Institutional Change}
+    \field{pages}{95\bibrangedash 108}
+    \field{title}{Public Institutions and Private Transactions: A Comparative
+  analysis of the Legal and regulatory Environment for Business Transactions in
+  Brasil and Chile}
+    \field{year}{1996}
   \endentry
 
   \entry{Streissler1990}{incollection}{}
