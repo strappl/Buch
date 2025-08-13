@@ -9407,6 +9407,37 @@
     \field{year}{2000}
   \endentry
 
+  \entry{Heinsohn2002}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HG}{%
+         family={Heinsohn},
+         familyi={H\bibinitperiod},
+         given={Gunnar},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Steiger},
+         familyi={S\bibinitperiod},
+         given={Otto},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Marburg: Metropolis-Verlag}%
+    }
+    \strng{namehash}{HGSO1}
+    \strng{fullhash}{HGSO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Eigentumstheorie des Wirtschaftens versus Wirtschaftstheorie
+  ohne Eigentum}
+    \field{year}{2002}
+  \endentry
+
   \entry{Herzberg1966}{book}{}
     \name{author}{1}{}{%
       {{hash=HF}{%
@@ -16437,6 +16468,31 @@
     \field{year}{1944}
   \endentry
 
+  \entry{Posner1980}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PRA}{%
+         family={Posner},
+         familyi={P\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PRA1}
+    \strng{fullhash}{PRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 53}
+    \field{title}{A Theory of Primitive Society, with Special Reference to Law}
+    \field{volume}{23}
+    \field{journaltitle}{The Journal of Law and Economics}
+    \field{year}{1980}
+  \endentry
+
   \entry{Posner1983}{book}{}
     \name{author}{1}{}{%
       {{hash=PRA}{%
@@ -16459,6 +16515,32 @@
     \field{sortinithash}{P}
     \field{title}{The Economics of Justice}
     \field{year}{1983}
+  \endentry
+
+  \entry{Posner1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PRA}{%
+         family={Posner},
+         familyi={P\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PRA1}
+    \strng{fullhash}{PRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{6}
+    \field{pages}{7\bibrangedash 19}
+    \field{title}{The Effects of Deregulation on Competition: The Experience of
+  the United States}
+    \field{volume}{23}
+    \field{journaltitle}{Fordham International Law Journal}
+    \field{year}{1999}
   \endentry
 
   \entry{Pratt1964}{article}{}
@@ -18308,6 +18390,37 @@
     \field{year}{1904 (1919)}
   \endentry
 
+  \entry{Schneider2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SF}{%
+         family={Schneider},
+         familyi={S\bibinitperiod},
+         given={Friedrich},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=EDH}{%
+         family={Enste},
+         familyi={E\bibinitperiod},
+         given={Dominik\bibnamedelima H.},
+         giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SFEDH1}
+    \strng{fullhash}{SFEDH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{1}
+    \field{pages}{77\bibrangedash 114}
+    \field{title}{Shadow Economies: Size, Causes, and Consequences}
+    \field{volume}{38}
+    \field{journaltitle}{Journal of Economic Literature}
+    \field{year}{2000}
+  \endentry
+
   \entry{Scholes1997}{misc}{}
     \name{author}{1}{}{%
       {{hash=SMS}{%
@@ -18947,6 +19060,32 @@
     \field{title}{Please bring me the New York Times: On the European Roots of
   Richard Abel Musgrave}
     \field{journaltitle}{CESifo Working Paper No. 2050}
+  \endentry
+
+  \entry{Sinn1997}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SHW}{%
+         family={Sinn},
+         familyi={S\bibinitperiod},
+         given={Hans-Werner},
+         giveni={H\bibinithyphendelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SHW1}
+    \strng{fullhash}{SHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{247\bibrangedash 274}
+    \field{title}{The Selection Principle and Market Failure in Systems
+  Competition}
+    \field{volume}{66}
+    \field{journaltitle}{Journal of Public Economics}
+    \field{year}{1997}
   \endentry
 
   \entry{Skousen2005}{book}{}
