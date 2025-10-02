@@ -19174,6 +19174,32 @@
     \field{year}{2007}
   \endentry
 
+  \entry{Smith1776}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Adam},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {W. Strahan}%
+      {T. Cadell, London}%
+    }
+    \strng{namehash}{SA4}
+    \strng{fullhash}{SA4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1776}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{An Inquiry into the Nature and Causes of the Wealth of
+  Nations}
+    \field{year}{1776}
+  \endentry
+
   \entry{Price1973}{article}{}
     \name{author}{2}{}{%
       {{hash=SJM}{%
@@ -19890,6 +19916,41 @@
     \field{volume}{32}
     \field{journaltitle}{Economic Record}
     \field{year}{1956}
+  \endentry
+
+  \entry{Tanzi2000}{book}{}
+    \name{author}{2}{}{%
+      {{hash=TV}{%
+         family={Tanzi},
+         familyi={T\bibinitperiod},
+         given={Vito},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Ludger},
+         familyi={L\bibinitperiod},
+         given={Schuknecht},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PCU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Cambridge\bibnamedelima University},
+         giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TVLS1}
+    \strng{fullhash}{TVLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Public Spending in the 20th Century}
+    \field{year}{2000}
   \endentry
 
   \entry{Taylor1979}{article}{}
