@@ -63,14 +63,14 @@ Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Kapitel_5_1a.aux
 Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Kapitel_5_1b.aux
-Reallocating 'name_of_file' (item size: 1) to 23 items.
-A level-1 auxiliary file: Kapitel_Neoliberal.aux
-Reallocating 'name_of_file' (item size: 1) to 16 items.
-A level-1 auxiliary file: Kapitel_5_3.aux
 Reallocating 'cite_info' (item size: 4) to 1500 items.
 Reallocating 'cite_list' (item size: 4) to 1500 items.
 Reallocating 'entry_exists' (item size: 1) to 1500 items.
 Reallocating 'type_list' (item size: 4) to 1500 items.
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Kapitel_Neoliberal.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Kapitel_5_3.aux
 Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: Kapitel_4_6.aux
 Reallocating 'name_of_file' (item size: 1) to 12 items.
@@ -102,60 +102,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 110420 items.
+Reallocating 'field_info' (item size: 4) to 112940 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
-Repeated entry---line 3993 of file Literatur.bib
- : @misc{Posner1999
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4043 of file Literatur.bib
- : @article{Tiebout1956
- :                     ,
-I'm skipping whatever remains of this entry
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 753 entries,
+You've used 771 entries,
             6399 wiz_defined-function locations,
-            5248 strings with 98809 characters,
-and the built_in function-call counts, 5337920 in all, are:
-= -- 402249
-> -- 108609
-< -- 22462
-+ -- 145612
-- -- 56033
-* -- 393735
-:= -- 569165
+            5331 strings with 100576 characters,
+and the built_in function-call counts, 5453758 in all, are:
+= -- 410957
+> -- 110308
+< -- 22884
++ -- 148074
+- -- 56606
+* -- 402755
+:= -- 581179
 add.period$ -- 0
-call.type$ -- 753
-change.case$ -- 752
+call.type$ -- 771
+change.case$ -- 770
 chr.to.int$ -- 1899
-cite$ -- 1504
-duplicate$ -- 500509
-empty$ -- 496489
-format.name$ -- 43525
-if$ -- 1092759
+cite$ -- 1540
+duplicate$ -- 511692
+empty$ -- 507688
+format.name$ -- 44571
+if$ -- 1117033
 int.to.chr$ -- 0
-int.to.str$ -- 2446
+int.to.str$ -- 2503
 missing$ -- 0
-newline$ -- 21504
-num.names$ -- 37134
-pop$ -- 260732
+newline$ -- 22003
+num.names$ -- 37932
+pop$ -- 266903
 preamble$ -- 1
-purify$ -- 14266
+purify$ -- 14517
 quote$ -- 0
-skip$ -- 152776
+skip$ -- 156046
 stack$ -- 0
-substring$ -- 774615
-swap$ -- 113330
-text.length$ -- 18973
-text.prefix$ -- 753
+substring$ -- 791301
+swap$ -- 115912
+text.length$ -- 19404
+text.prefix$ -- 771
 top$ -- 1
-type$ -- 25590
+type$ -- 26202
 warning$ -- 0
-while$ -- 58992
+while$ -- 60302
 width$ -- 0
-write$ -- 20752
-(There were 2 error messages)
+write$ -- 21233
