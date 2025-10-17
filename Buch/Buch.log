@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.10) (format=lualatex 2025.8.8)  13 OCT 2025 13:20
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.10) (format=lualatex 2025.8.8)  17 OCT 2025 11:11
  restricted system commands enabled.
 **Buch.tex
 (./Buch.tex
@@ -1624,29 +1624,29 @@ Kapitel 19.
 
 
 
-] [394]) [395]
+]) [394]
 \openout2 = Kapitel_5_1a.aux
- (./Kapitel_5_1a.tex [396
-
-
-
-
-
-]
+ (./Kapitel_5_1a.tex
 Kapitel 20.
-[397]) [398]
+[395
+
+
+
+
+
+]) [396]
 \openout2 = Kapitel_5_1b.aux
  (./Kapitel_5_1b.tex
 Kapitel 21.
-[399
+[397
 
 
 
 
 
-] [400] [401] [402] [403] [404]) [405]
+] [398] [399] [400] [401] [402]) [403]
 \openout2 = Kapitel_Neoliberal.aux
- (./Kapitel_Neoliberal.tex [406
+ (./Kapitel_Neoliberal.tex [404
 
 
 
@@ -1654,10 +1654,10 @@ Kapitel 21.
 
 ]
 Kapitel 22.
-[407] [408] [409] [410] [411] [412] [413]) [414] [415]
+[405] [406] [407] [408] [409] [410] [411]) [412] [413]
 \openout2 = Kapitel_5_3.aux
  (./Kapitel_5_3.tex
-[416
+[414
 
 
 
@@ -1665,9 +1665,9 @@ Kapitel 22.
 
 ]
 Kapitel 23.
-[417] [418]) [419]
+[415] [416]) [417]
 \openout2 = Kapitel_4_6.aux
- (./Kapitel_4_6.tex [420
+ (./Kapitel_4_6.tex [418
 
 
 
@@ -1675,27 +1675,27 @@ Kapitel 23.
 
 ]
 Kapitel 24.
-) [421]
+) [419]
 \openout2 = Teil_VI.aux
- (./Teil_VI.tex [422
+ (./Teil_VI.tex [420
 
 
 
 
 
-] [423] [424])
+] [421] [422])
 \openout2 = Kapitel_4_5.aux
  (./Kapitel_4_5.tex
 Kapitel 25.
-[425
+[423
 
 
 
 
 
-] [426]) [427]
+] [424]) [425]
 \openout2 = Kapitel_6_2.aux
- (./Kapitel_6_2.tex [428
+ (./Kapitel_6_2.tex [426
 
 
 
@@ -1703,9 +1703,9 @@ Kapitel 25.
 
 ]
 Kapitel 26.
-) [429]
+) [427]
 \openout2 = Kapitel_6_3.aux
- (./Kapitel_6_3.tex [430
+ (./Kapitel_6_3.tex [428
 
 
 
@@ -1713,9 +1713,9 @@ Kapitel 26.
 
 ]
 Kapitel 27.
-) [431]
+) [429]
 \openout2 = Kapitel_6_4.aux
- (./Kapitel_6_4.tex [432
+ (./Kapitel_6_4.tex [430
 
 
 
@@ -1723,9 +1723,9 @@ Kapitel 27.
 
 ]
 Kapitel 28.
-) [433]
+) [431]
 \openout2 = Kapitel_6_6.aux
- (./Kapitel_6_6.tex [434
+ (./Kapitel_6_6.tex [432
 
 
 
@@ -1733,9 +1733,9 @@ Kapitel 28.
 
 ]
 Kapitel 29.
-) [435]
+) [433]
 \openout2 = Kapitel_6_7.aux
- (./Kapitel_6_7.tex [436
+ (./Kapitel_6_7.tex [434
 
 
 
@@ -1743,72 +1743,72 @@ Kapitel 29.
 
 ]
 Kapitel 30.
-) [437] [438
+) [435] [436
 
 
 
 
-] [439] [440]
+] [437] [438]
 Overfull \hbox (3.11214pt too wide) in paragraph at lines 116--116
 [][][]\TU/lmr/m/n/10 (1997). »  Fis-cal Ad-jus-t-ments in OECD Count-ries: Com-
 po-si-ti-on and Macroe-
  []
 
-[441] [442] [443] [444] [445] [446] [447]
+[439] [440] [441] [442] [443] [444] [445]
 Overfull \hbox (9.88933pt too wide) in paragraph at lines 116--116
 [][][]\TU/lmr/m/n/10 (1991a). \TU/lmr/m/it/10 Ro-nald H. Coa-se - Bio-gra-phi-ca
 l\TU/lmr/m/n/10 . Hrsg. von Nobel-Prize-Biographical.
  []
 
-[448] [449] [450] [451] [452] [453] [454]
+[446] [447] [448] [449] [450] [451] [452]
 Overfull \hbox (3.29774pt too wide) in paragraph at lines 116--116
 [][][]\TU/lmr/m/n/10 (1949). \TU/lmr/m/it/10 Mo-ne-ta-ry Theo-ry and Fis-cal Po-
 li-cy\TU/lmr/m/n/10 . Hrsg. von Cam-bridge: McGraw-
  []
 
-[455] [456]
+[453] [454]
 Overfull \hbox (10.70996pt too wide) in paragraph at lines 116--116
 [][]\TU/lmr/m/n/10 Hug-gett, Mark (1993). »  The Risk-Free Ra-te in Heterogeneo
 us-Agent Incomplete-
  []
 
-[457] [458]
+[455] [456]
 Overfull \hbox (16.43993pt too wide) in paragraph at lines 116--116
 [][]\TU/lmr/m/n/10 Kirz-ner, Is-ra-el (1967). »  Di-ver-gent Ap-proa-ches in Li
 -ber-ta-ri-an Eco-no-mic Thougth«.
  []
 
-[459] [460]
+[457] [458]
 Overfull \hbox (9.75pt too wide) in paragraph at lines 116--116
 \TU/lmtt/m/n/10 20211102093357 / http % 3A % 2F % 2Fwww . ggdc . net % 2Fmaddiso
 n % 2Foriindex .
  []
 
-[461] [462] [463] [464]
+[459] [460] [461] [462]
 Overfull \hbox (23.03pt too wide) in paragraph at lines 116--116
 \TU/lmtt/m/n/10 nobelprize . org / prizes / economic - sciences / 2009 / popular
  - information/$\TU/lmr/m/n/10 . 
  []
 
-[465]
+[463]
 Overfull \hbox (12.43933pt too wide) in paragraph at lines 116--116
 [][][]\TU/lmr/m/n/10 (1993). \TU/lmr/m/it/10 Dou-glass C. North - Bio-gra-phi-ca
 l\TU/lmr/m/n/10 . Hrsg. von Nobel-Prize-Biographical.
  []
 
-[466] [467] [468]
+[464] [465] [466]
 Overfull \hbox (6.37993pt too wide) in paragraph at lines 116--116
 [][]\TU/lmr/m/n/10 Re-be-lo, Ser-gio (Ju-ni 1991). »  Long-Run Po-li-cy Ana-ly-
 sis and Long-Run Growth«.
  []
 
-[469]
+[467]
 Overfull \hbox (2.03pt too wide) in paragraph at lines 116--116
 \TU/lmtt/m/n/10 https : / / www . aeaweb . org / articles ? id = 10 . 1257 / 002
 205105775362014$\TU/lmr/m/n/10 . 
  []
 
-[470] [471] [472] [473] [474]
+[468] [469] [470] [471] [472]
 Overfull \hbox (9.29935pt too wide) in paragraph at lines 116--116
 [][][]\TU/lmr/m/n/10 (1987b). \TU/lmr/m/it/10 Ro-bert M. So-low - Bio-gra-phi-ca
 l\TU/lmr/m/n/10 . Hrsg. von Nobel-Prize-Biographical.
@@ -1819,20 +1819,20 @@ Overfull \hbox (4.63542pt too wide) in paragraph at lines 116--116
 [][][]\TU/lmr/m/n/10 (2017). »  Whe-re Mo-dern Macroe-co-no-mics Went Wrong«. In: \TU/lmr/m/it/10 NBER Working
  []
 
-[475]
+[473]
 Overfull \hbox (3.01883pt too wide) in paragraph at lines 116--116
 [][][]\TU/lmr/m/n/10 (1993). »  Dis-cre-ti-on ver-sus Po-li-cy Ru-les in Prac-t
 i-ce«. In: \TU/lmr/m/it/10 Carnegie-Rochester
  []
 
-[476] [477] [478]
+[474] [475] [476]
 Overfull \hbox (21.18994pt too wide) in paragraph at lines 116--116
 [][]\TU/lmr/m/n/10 Wi-scher-mann, Cle-mens (1993). »  Der Pro-per-ty–Rights
 –An-satz und die ”neue”Wirt-
  []
 
 No file Buch.ind.
-[479] (./Buch.aux (./dedic.aux) (./pref.aux) (./Teil_I.aux) (./Kapitel_1_1.aux) (./Kapitel_1_2.aux) (./Kapitel_1_3.aux) (./Teil_II.aux) (./Kapitel_2_1.aux)
+[477] (./Buch.aux (./dedic.aux) (./pref.aux) (./Teil_I.aux) (./Kapitel_1_1.aux) (./Kapitel_1_2.aux) (./Kapitel_1_3.aux) (./Teil_II.aux) (./Kapitel_2_1.aux)
 (./Kapitel_2_2.aux) (./Kapitel_2_3.aux) (./Teil_III.aux) (./Kapitel_3_1.aux)
 (./Kapitel_3_2.aux) (./Kapitel_2_4.aux) (./Kapitel_3_4.aux) (./Kapitel_3_6.aux) (./Kapitel_3_7.aux) (./Teil_IV.aux) (./Kapitel_3_5.aux) (./Kapitel_4_1a.aux)
 (./Kapitel_4_1.aux) (./Kapitel_4_4.aux) (./Teil_IV_A.aux) (./Kapitel_5_2b.aux)
@@ -1847,11 +1847,11 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  33490 strings out of 477352
- 305258,2373549 words of node,token memory allocated
+ 305248,2373549 words of node,token memory allocated
  2293 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 138 glue, 3 kern, 1 glyph, 287 attribute, 63 glue_s
 pec, 145 attribute_list, 2 write nodes
-   avail lists: 1:2,2:3887,3:2389,4:227,5:1433,6:993,7:24395,8:110,9:553,10:28,1
+   avail lists: 1:4,2:3883,3:2398,4:228,5:1433,6:992,7:24395,8:110,9:565,10:28,1
 1:2714,12:3
  52884 multiletter control sequences out of 65536+600000
  47 fonts using 3818847 bytes
@@ -1877,9 +1877,9 @@ mr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Pro
 gram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (493 pages, 1922191 bytes).
+Output written on Buch.pdf (491 pages, 1917777 bytes).
 
-PDF statistics: 1668 PDF objects out of 1728 (max. 8388607)
+PDF statistics: 1662 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
