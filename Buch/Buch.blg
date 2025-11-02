@@ -106,47 +106,52 @@ Reallocating 'field_info' (item size: 4) to 112940 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
-Biblatex version: 3.18
+Repeated entry---line 8079 of file Literatur.bib
+ : @article{Rebelo1991
+ :                    ,
+I'm skipping whatever remains of this entry
+Biblatex version: 3.16
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 You've used 771 entries,
-            6399 wiz_defined-function locations,
-            5331 strings with 100576 characters,
-and the built_in function-call counts, 5453758 in all, are:
-= -- 410957
-> -- 110308
-< -- 22884
-+ -- 148074
+            6393 wiz_defined-function locations,
+            5329 strings with 100558 characters,
+and the built_in function-call counts, 4476714 in all, are:
+= -- 296916
+> -- 110274
+< -- 22850
++ -- 108615
 - -- 56606
-* -- 402755
-:= -- 581179
+* -- 333195
+:= -- 447529
 add.period$ -- 0
 call.type$ -- 771
 change.case$ -- 770
 chr.to.int$ -- 1899
 cite$ -- 1540
-duplicate$ -- 511692
-empty$ -- 507688
+duplicate$ -- 422883
+empty$ -- 433136
 format.name$ -- 44571
-if$ -- 1117033
+if$ -- 928338
 int.to.chr$ -- 0
-int.to.str$ -- 2503
+int.to.str$ -- 2502
 missing$ -- 0
-newline$ -- 22003
-num.names$ -- 37932
-pop$ -- 266903
+newline$ -- 22002
+num.names$ -- 37898
+pop$ -- 261977
 preamble$ -- 1
-purify$ -- 14517
+purify$ -- 14483
 quote$ -- 0
-skip$ -- 156046
+skip$ -- 155910
 stack$ -- 0
-substring$ -- 791301
-swap$ -- 115912
+substring$ -- 538120
+swap$ -- 115872
 text.length$ -- 19404
 text.prefix$ -- 771
 top$ -- 1
 type$ -- 26202
 warning$ -- 0
-while$ -- 60302
+while$ -- 50446
 width$ -- 0
-write$ -- 21233
+write$ -- 21232
+(There was 1 error message)
