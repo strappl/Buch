@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -330,6 +330,36 @@
     \field{volume}{60}
     \field{journaltitle}{Econometrica}
     \field{year}{1992}
+  \endentry
+
+  \entry{Aghion1997}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AP}{%
+         family={Aghion},
+         familyi={A\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Bolton},
+         familyi={B\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{APBP1}
+    \strng{fullhash}{APBP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{pages}{151\bibrangedash 162}
+    \field{title}{A Trickle Down Theory of Growth and Development}
+    \field{volume}{64}
+    \field{journaltitle}{Review of Economic Studies}
+    \field{year}{1997}
   \endentry
 
   \entry{Aghion1999}{article}{}
@@ -2382,6 +2412,37 @@
     \field{year}{1988}
   \endentry
 
+  \entry{Banerjee1991}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BAV}{%
+         family={Banerjee},
+         familyi={B\bibinitperiod},
+         given={Abhijit\bibnamedelima V.},
+         giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=NAF}{%
+         family={Newman},
+         familyi={N\bibinitperiod},
+         given={Andrew\bibnamedelima F.},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BAVNAF1}
+    \strng{fullhash}{BAVNAF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{211\bibrangedash 235}
+    \field{title}{Risk-Bearing and the Theory of Income Distribution}
+    \field{volume}{58}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1991}
+  \endentry
+
   \entry{Barbash1989}{article}{}
     \name{author}{1}{}{%
       {{hash=BJ}{%
@@ -3369,38 +3430,6 @@
     \field{year}{1996}
   \endentry
 
-  \entry{BohmBawerk1888}{book}{}
-    \name{author}{1}{}{%
-      {{hash=BBE}{%
-         family={Böhm-Bawerk},
-         familyi={B\bibinithyphendelim B\bibinitperiod},
-         given={Eugen},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=dWUBIV}{%
-         prefix={der},
-         prefixi={d\bibinitperiod},
-         family={Wagner'schen Universitäts-Buchhandlung},
-         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
-  B\bibinitperiod},
-         given={Innsbruck:\bibnamedelima Verlag},
-         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BBE1}
-    \strng{fullhash}{BBE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{1889}
-    \field{labeldatesource}{}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
-    \field{year}{1889}
-  \endentry
-
   \entry{Bils1987}{article}{}
     \name{author}{1}{}{%
       {{hash=BM}{%
@@ -3624,6 +3653,70 @@
     \field{title}{Real Wage Rigidities and the New Keynesian Model}
     \field{journaltitle}{NBER Working Paper Series}
     \field{year}{2005}
+  \endentry
+
+  \entry{Blanchard2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BOJ}{%
+         family={Blanchard},
+         familyi={B\bibinitperiod},
+         given={Olivier\bibnamedelima J.},
+         giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Leigh},
+         familyi={L\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BOJLD1}
+    \strng{fullhash}{BOJLD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{3}
+    \field{pages}{117–\bibrangedash 120}
+    \field{title}{Growth Forecast Errors and Fiscal Multipliers}
+    \field{volume}{103}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Blanchard2014}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BOJ}{%
+         family={Blanchard},
+         familyi={B\bibinitperiod},
+         given={Olivier\bibnamedelima J.},
+         giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Leigh},
+         familyi={L\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BOJLD1}
+    \strng{fullhash}{BOJLD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{179\bibrangedash 212}
+    \field{title}{Learning about Fiscal Multipliers from Growth Forecast
+  Errors}
+    \field{volume}{62}
+    \field{journaltitle}{IMF Economic Review}
+    \field{year}{2014}
   \endentry
 
   \entry{Blanchard1986}{article}{}
@@ -4337,6 +4430,38 @@
     \field{sortinithash}{B}
     \field{title}{Notenbank für Deutschland}
     \field{year}{2016}
+  \endentry
+
+  \entry{BohmBawerk1888}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BBE}{%
+         family={Böhm-Bawerk},
+         familyi={B\bibinithyphendelim B\bibinitperiod},
+         given={Eugen},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dWUBIV}{%
+         prefix={der},
+         prefixi={d\bibinitperiod},
+         family={Wagner'schen Universitäts-Buchhandlung},
+         familyi={W\bibinitperiod\bibinitdelim U\bibinithyphendelim
+  B\bibinitperiod},
+         given={Innsbruck:\bibnamedelima Verlag},
+         giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBE1}
+    \strng{fullhash}{BBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1889}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Kapital und Kapitalzins II - Positive Theorie des Kapitales}
+    \field{year}{1889}
   \endentry
 
   \entry{Caldwell2001}{article}{}
@@ -15868,6 +15993,81 @@
     \field{year}{1976}
   \endentry
 
+  \entry{Perotti1992}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Perotti},
+         familyi={P\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PR1}
+    \strng{fullhash}{PR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{pages}{1\bibrangedash 49}
+    \field{title}{Fiscal Policy, Income Distribution, and Growth}
+    \field{volume}{636}
+    \field{journaltitle}{Department of Economics Discussion Papers}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Perotti1993}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Perotti},
+         familyi={P\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PR1}
+    \strng{fullhash}{PR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{4}
+    \field{pages}{755\bibrangedash 776}
+    \field{title}{Political Equilibrium, Income Distribution, and Growth}
+    \field{volume}{60}
+    \field{journaltitle}{The Review of Economic Studies}
+    \field{year}{1993}
+  \endentry
+
+  \entry{Perotti1996a}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Perotti},
+         familyi={P\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PR1}
+    \strng{fullhash}{PR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{2}
+    \field{pages}{149\bibrangedash 187}
+    \field{title}{Growth, Income Distribution, and Democracy: What the Data
+  Say}
+    \field{volume}{1}
+    \field{journaltitle}{Journal of Economic Growth}
+    \field{year}{1996}
+  \endentry
+
   \entry{Perotti1995}{article}{}
     \name{author}{2}{}{%
       {{hash=PR}{%
@@ -16040,6 +16240,37 @@
     \field{volume}{104}
     \field{journaltitle}{The Quarterly Journal of Economics}
     \field{year}{1989}
+  \endentry
+
+  \entry{Persson1994}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PT}{%
+         family={Persson},
+         familyi={P\bibinitperiod},
+         given={Torsten},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Tabellini},
+         familyi={T\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PTTG1}
+    \strng{fullhash}{PTTG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{3}
+    \field{pages}{600\bibrangedash 621}
+    \field{title}{Is Inequality Harmful for Growth}
+    \field{volume}{84}
+    \field{journaltitle}{American Economic Review}
+    \field{year}{1994}
   \endentry
 
   \entry{Persson1999}{article}{}
