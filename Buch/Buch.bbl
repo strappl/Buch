@@ -7053,6 +7053,56 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Eyraud}{article}{}
+    \name{author}{5}{}{%
+      {{hash=EL}{%
+         family={Eyraud},
+         familyi={E\bibinitperiod},
+         given={Luc},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=DX}{%
+         family={Debrun},
+         familyi={D\bibinitperiod},
+         given={Xavier},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hodge},
+         familyi={H\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={Lledo},
+         familyi={L\bibinitperiod},
+         given={Victor},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Pattillo},
+         familyi={P\bibinitperiod},
+         given={Catherine},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EL+1}
+    \strng{fullhash}{ELDXHALVPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{4}
+    \field{pages}{1\bibrangedash 39}
+    \field{title}{Second-Generation Fiscal Rules: Balancing Simplicity,
+  Flexibility, and Enforceability}
+    \field{volume}{18}
+    \field{journaltitle}{International Monetary Fund Staff Discussion Notes}
+    \field{year}{2018}
+  \endentry
+
   \entry{Fama1970}{article}{}
     \name{author}{1}{}{%
       {{hash=FEF}{%
@@ -12371,6 +12421,53 @@
     \field{year}{1841}
   \endentry
 
+  \entry{Lledo2017}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LV}{%
+         family={Lledó},
+         familyi={L\bibinitperiod},
+         given={Victor},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=YS}{%
+         family={Yoon},
+         familyi={Y\bibinitperiod},
+         given={Sungwook},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=FX}{%
+         family={Fang},
+         familyi={F\bibinitperiod},
+         given={Xiangming},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mbaye},
+         familyi={M\bibinitperiod},
+         given={Samba},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KY}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Young},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LV+1}
+    \strng{fullhash}{LVYSFXMSKY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{pages}{1\bibrangedash 82}
+    \field{title}{Fiscal Rules at a Glance}
+    \field{journaltitle}{International Monetary Fund, March 2017}
+    \field{year}{2017}
+  \endentry
+
   \entry{Plosser1983}{article}{}
     \name{author}{2}{}{%
       {{hash=LJB}{%
@@ -17275,6 +17372,41 @@
     \field{journaltitle}{Journal of Political Economy}
     \field{month}{06}
     \field{year}{1991}
+  \endentry
+
+  \entry{Reinhart2011}{book}{}
+    \name{author}{2}{}{%
+      {{hash=RCM}{%
+         family={Reinhart},
+         familyi={R\bibinitperiod},
+         given={Carmen\bibnamedelima M},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RKS}{%
+         family={Rogoff},
+         familyi={R\bibinitperiod},
+         given={Kenneth\bibnamedelima S.},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=PPU}{%
+         family={Press},
+         familyi={P\bibinitperiod},
+         given={Princeton\bibnamedelima University},
+         giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RCMRKS1}
+    \strng{fullhash}{RCMRKS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{This Time is Different - Eight Centuries of Financial Folly}
+    \field{year}{2011}
   \endentry
 
   \entry{Richter1996}{article}{}

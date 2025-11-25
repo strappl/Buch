@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.10) (format=lualatex 2025.8.8)  14 NOV 2025 16:26
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.10) (format=lualatex 2025.8.8)  25 NOV 2025 17:03
  restricted system commands enabled.
 **Buch.tex
 (./Buch.tex
@@ -1611,15 +1611,15 @@ Overfull \hbox (51.96855pt too wide) has occurred while \output is active
 
 [367] [368] [369] [370] [371] [372] [373] [374] [375] [376] [377] [378]
 [379] [380] [381] [382] [383] [384] [385] [386] [387] [388] [389] [390]
-[391] [392]) [393]
+[391] [392]) [393] [394]
 \openout2 = Teil_V.aux
- (./Teil_V.tex [394
+ (./Teil_V.tex [395
 
 
 
 
 
-] [395] [396])
+] [396])
 \openout2 = Kapitel_5_1.aux
  (./Kapitel_5_1.tex
 Kapitel 19.
@@ -1795,13 +1795,13 @@ Overfull \hbox (9.75pt too wide) in paragraph at lines 115--115
 n % 2Foriindex .
  []
 
-[463] [464] [465] [466]
+[463] [464] [465] [466] [467]
 Overfull \hbox (23.03pt too wide) in paragraph at lines 115--115
 \TU/lmtt/m/n/10 nobelprize . org / prizes / economic - sciences / 2009 / popular
  - information/$\TU/lmr/m/n/10 . 
  []
 
-[467]
+
 Overfull \hbox (12.43933pt too wide) in paragraph at lines 115--115
 [][][]\TU/lmr/m/n/10 (1993). \TU/lmr/m/it/10 Dou-glass C. North - Bio-gra-phi-ca
 l\TU/lmr/m/n/10 . Hrsg. von Nobel-Prize-Biographical.
@@ -1830,13 +1830,13 @@ Overfull \hbox (4.63542pt too wide) in paragraph at lines 115--115
 [][][]\TU/lmr/m/n/10 (2017). »  Whe-re Mo-dern Macroe-co-no-mics Went Wrong«. In: \TU/lmr/m/it/10 NBER Working
  []
 
-
+[478]
 Overfull \hbox (3.01883pt too wide) in paragraph at lines 115--115
 [][][]\TU/lmr/m/n/10 (1993). »  Dis-cre-ti-on ver-sus Po-li-cy Ru-les in Prac-t
 i-ce«. In: \TU/lmr/m/it/10 Carnegie-Rochester
  []
 
-[478] [479] [480]
+[479] [480]
 Overfull \hbox (21.18994pt too wide) in paragraph at lines 115--115
 [][]\TU/lmr/m/n/10 Wi-scher-mann, Cle-mens (1993). »  Der Pro-per-ty–Rights
 –An-satz und die ”neue”Wirt-
@@ -1858,16 +1858,16 @@ Package logreq Info: Writing requests to 'Buch.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33561 strings out of 477352
+ 33586 strings out of 477352
  305248,2373549 words of node,token memory allocated
  2319 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 140 glue, 3 kern, 1 glyph, 291 attribute, 63 glue_s
 pec, 147 attribute_list, 2 write nodes
-   avail lists: 1:4,2:3916,3:2425,4:228,5:1435,6:1006,7:24424,8:110,9:565,10:28,
+   avail lists: 1:4,2:3937,3:2434,4:228,5:1435,6:1010,7:24433,8:110,9:565,10:28,
 11:2714,12:3
- 52955 multiletter control sequences out of 65536+600000
+ 52980 multiletter control sequences out of 65536+600000
  47 fonts using 3818847 bytes
- 84i,14n,77p,10526b,4801s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,14n,77p,10526b,4819s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <//?/c:/program files/miktex/fonts/opentype/public/lm/lmmono10-regular.otf><//?/
 c:/program files/miktex/fonts/opentype/public/lm/lmroman10-bolditalic.otf><//?/c
 :/program files/miktex/fonts/opentype/public/lm/lmroman9-italic.otf><//?/c:/prog
@@ -1889,7 +1889,7 @@ mr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Pro
 gram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Buch.pdf (496 pages, 1932066 bytes).
+Output written on Buch.pdf (496 pages, 1937723 bytes).
 
 PDF statistics: 1677 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)

@@ -142,7 +142,7 @@
 \contentsline {part}{Teil\ VII\hspace {\betweenumberspace }Was bringt die Zukunft?}{425}{}%
 \contentsline {chapter}{\numberline {25}Sisyphus-Ökonomie}{427}{}%
 \contentsline {section}{\numberline {25.1}Die Great Recession}{428}{}%
-\contentsline {section}{\numberline {25.2}Nach der Great Recession: Die Grenzen der Geldpolitik und Austerität}{428}{}%
+\contentsline {section}{\numberline {25.2}Nach der Great Recession: Die Grenzen der Geldpolitik und Austerität}{429}{}%
 \contentsline {section}{\numberline {25.3}Covid19-Krise: Die Wiederauferstehung der Fiskalpolitik?}{429}{}%
 \contentsline {chapter}{\numberline {26}Was lernte der Mainstream aus den Krisen}{431}{}%
 \contentsline {section}{\numberline {26.1}Rajan}{431}{}%

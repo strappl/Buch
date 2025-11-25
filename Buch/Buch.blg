@@ -102,51 +102,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 114060 items.
+Reallocating 'field_info' (item size: 4) to 114480 items.
 Database file #1: Buch-blx.bib
 Database file #2: Literatur.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 779 entries,
+You've used 782 entries,
             6399 wiz_defined-function locations,
-            5371 strings with 101438 characters,
-and the built_in function-call counts, 5503581 in all, are:
-= -- 414567
-> -- 111142
-< -- 23077
-+ -- 149271
-- -- 56905
-* -- 406550
-:= -- 586397
+            5385 strings with 101965 characters,
+and the built_in function-call counts, 5537395 in all, are:
+= -- 417539
+> -- 111473
+< -- 23149
++ -- 150365
+- -- 57037
+* -- 409071
+:= -- 590621
 add.period$ -- 0
-call.type$ -- 779
-change.case$ -- 778
+call.type$ -- 782
+change.case$ -- 781
 chr.to.int$ -- 1900
-cite$ -- 1556
-duplicate$ -- 516882
-empty$ -- 512351
-format.name$ -- 45075
-if$ -- 1127391
+cite$ -- 1562
+duplicate$ -- 520488
+empty$ -- 515196
+format.name$ -- 45332
+if$ -- 1133972
 int.to.chr$ -- 0
-int.to.str$ -- 2526
+int.to.str$ -- 2533
 missing$ -- 0
-newline$ -- 22231
-num.names$ -- 38284
-pop$ -- 269658
+newline$ -- 22362
+num.names$ -- 38409
+pop$ -- 270873
 preamble$ -- 1
-purify$ -- 14636
+purify$ -- 14693
 quote$ -- 0
-skip$ -- 157548
+skip$ -- 158086
 stack$ -- 0
-substring$ -- 797747
-swap$ -- 117098
-text.length$ -- 19601
-text.prefix$ -- 779
+substring$ -- 803474
+swap$ -- 117629
+text.length$ -- 19683
+text.prefix$ -- 782
 top$ -- 1
-type$ -- 26474
+type$ -- 26576
 warning$ -- 0
-while$ -- 60923
+while$ -- 61444
 width$ -- 0
-write$ -- 21453
+write$ -- 21581
